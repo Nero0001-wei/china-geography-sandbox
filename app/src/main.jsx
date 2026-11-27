@@ -9,6 +9,8 @@ import { landmarkStop } from './journey-planning.js'
 import { loadMapData } from './terrain-data.js'
 import './styles.css'
 
+const mapReviewId = import.meta.env.MODE === 'pages' ? import.meta.env.VITE_MAP_REVIEW_ID?.trim() : ''
+
 function DataDialog({ dialog, terrain }) {
   const source = terrain?.metadata.source
   return (
@@ -46,7 +48,7 @@ function DataDialog({ dialog, terrain }) {
         </div>
         <div>
           <dt>用途</dt>
-          <dd>本地地形原型。沙盘按 25 倍显示地形起伏，海拔读数保留米值。公开展示所需的边界校核和审图待完成。</dd>
+          <dd>沙盘按 25 倍显示地形起伏，海拔读数保留米值。{mapReviewId ? `审图号 ${mapReviewId}` : '本地地形原型，公开展示所需的边界校核和审图待完成。'}</dd>
         </div>
       </dl>
     </dialog>
@@ -165,6 +167,7 @@ function App() {
             landmarkDetails={landmarkDetails} onDismissLandmark={() => setLandmarkDetails(null)} onSearchPick={locateSearchResult}
             onPlanLandmark={!journey.previewOnly && landmarkDetails && landmarkStop(landmarkDetails.landmark, journey.draft.mode) ? chooseLandmark : null}
             route={journey.route} routeOptions={journey.result.routes} comparison={journey.result.comparison}
+            mapReviewId={mapReviewId}
             previewFlights={previewFlights}
             optionNumber={journey.result.routes.length > 1 ? journey.result.index + 1 : 0} onLandmark={showLandmark}
             queryMessage={journey.result.status === 'loading' ? (journey.draft.mode === 'transit' ? '正在查询公共交通线路…' : '正在查询驾车线路…') : journey.result.message}

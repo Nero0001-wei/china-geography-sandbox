@@ -344,6 +344,7 @@ a { color: var(--accent); }
 .map-position button, .dialog-heading button { border: 0; background: none; color: var(--muted); display: grid; place-items: center; padding: 5px; }
 .map-position button:hover, .dialog-heading button:hover { color: var(--ink); }
 .map-instructions { gap: 12px; white-space: nowrap; }
+.map-review-id { color: var(--ink); white-space: nowrap; }
 .desktop-instructions svg:nth-of-type(2) { margin-left: 5px; }
 .touch-instructions { display: none; }
 .exaggeration { padding-left: 12px; border-left: 1px solid var(--line); }
@@ -545,6 +546,8 @@ a { color: var(--accent); }
   .landmark-detail-photo img { height: 120px; }
   .map-legend { width: 183px; }
   .map-footer { font-size: 10px; }
+  .map-footer.has-map-review { flex-wrap: wrap; row-gap: 3px; }
+  .map-review-id { flex-basis: 100%; }
   .map-position, .map-instructions { gap: 5px; }
   .desktop-instructions, .touch-instructions { display: none; }
   .map-footer .exaggeration b { font-size: 10px; }

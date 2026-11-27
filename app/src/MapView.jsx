@@ -134,7 +134,7 @@ function LayersMenu({ layers, onLayers }) {
   )
 }
 
-export function MapView({ data, layers, onLayers, command, onCommand, route, routeOptions, previewFlights, comparison, optionNumber, queryMessage, onLandmark, destinationLandmarkId, landmarkDetails, onDismissLandmark, onPlanLandmark, onSearchPick, sampleLongitude, selection, onSelect, error }) {
+export function MapView({ data, layers, onLayers, command, onCommand, route, routeOptions, previewFlights, comparison, optionNumber, queryMessage, onLandmark, destinationLandmarkId, landmarkDetails, onDismissLandmark, onPlanLandmark, onSearchPick, sampleLongitude, selection, onSelect, error, mapReviewId }) {
   const viewport = useRef(null)
   const mapLabelGroup = useRef(null)
   const roadLabelGroup = useRef(null)
@@ -333,7 +333,7 @@ export function MapView({ data, layers, onLayers, command, onCommand, route, rou
         </div>
         {roadMode && <RoadCredits {...roadStatus} rail={hasRailCredit} />}
       </div>
-      <footer className="map-footer">
+      <footer className={'map-footer' + (mapReviewId ? ' has-map-review' : '')}>
         <div aria-live="polite" className="map-position">
           <Crosshair size={14} aria-hidden="true" />
           <span>{coordinateText}</span>
@@ -350,6 +350,7 @@ export function MapView({ data, layers, onLayers, command, onCommand, route, rou
           <span className="touch-instructions">单指旋转 · 双指缩放和平移</span>
           <span className="exaggeration">垂直夸张 <b>{VERTICAL_EXAGGERATION}×</b></span>
         </div>
+        {mapReviewId && <span className="map-review-id">审图号 {mapReviewId}</span>}
       </footer>
     </section>
   )

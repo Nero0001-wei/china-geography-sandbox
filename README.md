@@ -25,7 +25,7 @@ npm run preview
 
 在 `app/` 运行 `npm run build -- --mode pages`，生成适合 GitHub Pages 仓库子路径的 `dist/`。可用 `npm run preview -- --mode pages` 在本地查看。此构建包含三维沙盘、地图搜索、景点和南京至黄山的内置线路。高德实时算路、地点联想与定位地址查询由本地服务提供，静态构建无需读取高德 Key。
 
-`app/.env.local` 由 Git 忽略。公开部署完整沙盘前，请核对当前版本的底图公开使用授权和审图材料。[行政边界与附图](data/行政边界与附图.md)
+`app/.env.local` 由 Git 忽略。公开部署完整沙盘前，请核对当前版本的底图公开使用授权和审图材料。构建时通过 `VITE_MAP_REVIEW_ID` 传入本版本获批的审图号，网页会将它显示在地图下方。[行政边界与附图](data/行政边界与附图.md)
 
 ## 南京至黄山驾车路线
 
