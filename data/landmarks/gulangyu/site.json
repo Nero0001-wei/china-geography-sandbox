@@ -1,0 +1,23 @@
+{
+  "id": "gulangyu",
+  "name": "鼓浪屿",
+  "province": "福建省",
+  "city": "厦门市",
+  "anchor": [
+    118.0632088,
+    24.4501387
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/164652578",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 45,
+  "groundSpanMeters": 54,
+  "description": "红穹顶下的浅色柱廊与红砖体量突出八卦楼的近代建筑轮廓。",
+  "visualSource": "https://www.fj.gov.cn/xwdt/mszx/202608/t20260806_7196669.htm",
+  "reference": "https://www.fj.gov.cn/xwdt/mszx/202608/t20260806_7196669.htm",
+  "period": "取1907年起建的八卦楼，采用白柱廊、浅红墙、八角红色穹顶。",
+  "subject": "八卦楼",
+  "frontNote": "按八卦楼坐西南朝东北布置。",
+  "type": "town-garden",
+  "tier": "national"
+}

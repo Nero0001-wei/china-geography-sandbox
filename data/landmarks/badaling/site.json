@@ -1,0 +1,21 @@
+{
+  "id": "badaling",
+  "name": "八达岭长城",
+  "province": "北京市",
+  "city": "北京市",
+  "anchor": [
+    116.0117463,
+    40.3564787
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/1250479562",
+  "anchorCrs": "WGS84",
+  "frontBearing": 159,
+  "groundSpanMeters": 145,
+  "description": "北四楼建筑中心；沿山脊起伏的雉堞与敌楼。",
+  "driveQuery": "八达岭长城岔道停车场",
+  "transitQuery": "八达岭长城站",
+  "siteNotes": "明代八达岭长城现存北段；取北四楼及其相邻一段城墙，东北上行坡用微缩起伏概括。",
+  "reference": "https://www.visitbeijing.com.cn/article/47QqxoCnUj8",
+  "type": "heritage",
+  "tier": "national"
+}

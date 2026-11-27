@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "up": "+Y",
+  "forward": "+Z",
+  "groundY": 0,
+  "models": [
+    {
+      "id": "plane",
+      "name": "民航客机",
+      "file": "/models/vehicles/plane.glb",
+      "version": 1,
+      "triangles": 3724,
+      "bytes": 116796,
+      "materials": 8,
+      "embeddedImages": 0,
+      "bounds": {
+        "min": [
+          -5.26,
+          0,
+          -5.625
+        ],
+        "max": [
+          5.26,
+          3.041,
+          5.625
+        ]
+      },
+      "dimensions": [
+        10.52,
+        3.041,
+        11.25
+      ],
+      "source": "data/vehicles/plane/source.blend",
+      "references": "data/vehicles/references/air.png",
+      "sha256": "4baa28997db4ed7c2e85a0b662a0b8fec0523b119cbb87d9de1c609122ed0067"
+    },
+    {
+      "id": "car",
+      "name": "自驾汽车",
+      "file": "/models/vehicles/car.glb",
+      "version": 1,
+      "triangles": 3010,
+      "bytes": 160564,
+      "materials": 10,
+      "embeddedImages": 1,
+      "bounds": {
+        "min": [
+          -1.0825,
+          0,
+          -2.23851
+        ],
+        "max": [
+          1.0825,
+          1.468,
+          2.23851
+        ]
+      },
+      "dimensions": [
+        2.165,
+        1.468,
+        4.47702
+      ],
+      "source": "data/vehicles/car/source.blend",
+      "references": "data/vehicles/references/core.png",
+      "sha256": "96a63d969ac440ee4685f1b72385b30092aff7e15428eb5bf40f853e880a7ab2"
+    },
+    {
+      "id": "train",
+      "name": "普速列车",
+      "file": "/models/vehicles/train.glb",
+      "version": 1,
+      "triangles": 7880,
+      "bytes": 354496,
+      "materials": 9,
+      "embeddedImages": 0,
+      "bounds": {
+        "min": [
+          -0.984,
+          0,
+          -6.125
+        ],
+        "max": [
+          0.984,
+          3.20598,
+          6.125
+        ]
+      },
+      "dimensions": [
+        1.968,
+        3.20598,
+        12.25
+      ],
+      "source": "data/vehicles/train/source.blend",
+      "references": "data/vehicles/references/core.png",
+      "sha256": "070389917fd5387b7524f72a1c5f8e552bf05accf7e17976eeec4b14958a74c3"
+    },
+    {
+      "id": "high-speed-rail",
+      "name": "高铁",
+      "file": "/models/vehicles/high-speed-rail.glb",
+      "version": 1,
+      "triangles": 5560,
+      "bytes": 239264,
+      "materials": 8,
+      "embeddedImages": 0,
+      "bounds": {
+        "min": [
+          -1.0505,
+          0,
+          -5.3575
+        ],
+        "max": [
+          1.0505,
+          3.20598,
+          5.3575
+        ]
+      },
+      "dimensions": [
+        2.101,
+        3.20598,
+        10.715
+      ],
+      "source": "data/vehicles/high-speed-rail/source.blend",
+      "references": "data/vehicles/references/core.png",
+      "sha256": "aaca457f43f262bb6b210a7ef29a1ff1391df230d6ed54c5247a074189542e3a"
+    },
+    {
+      "id": "intercity-rail",
+      "name": "城际列车",
+      "file": "/models/vehicles/intercity-rail.glb",
+      "version": 1,
+      "triangles": 6100,
+      "bytes": 362584,
+      "materials": 8,
+      "embeddedImages": 1,
+      "bounds": {
+        "min": [
+          -1.0455,
+          0,
+          -5.0025
+        ],
+        "max": [
+          1.0455,
+          3.29598,
+          5.0025
+        ]
+      },
+      "dimensions": [
+        2.091,
+        3.29598,
+        10.005
+      ],
+      "source": "data/vehicles/intercity-rail/source.blend",
+      "references": "data/vehicles/references/regional.png",
+      "sha256": "8dc7da06082959f708c27290980f4b9af53fa3748a4f2a15dcec1a1e69843839"
+    },
+    {
+      "id": "coach",
+      "name": "长途大巴",
+      "file": "/models/vehicles/coach.glb",
+      "version": 1,
+      "triangles": 4604,
+      "bytes": 257236,
+      "materials": 11,
+      "embeddedImages": 1,
+      "bounds": {
+        "min": [
+          -1.28,
+          0,
+          -4.19176
+        ],
+        "max": [
+          1.28,
+          3.18,
+          4.19176
+        ]
+      },
+      "dimensions": [
+        2.56,
+        3.18,
+        8.38352
+      ],
+      "source": "data/vehicles/coach/source.blend",
+      "references": "data/vehicles/references/regional.png",
+      "sha256": "b767e20b5044300460379b62deea46974d1bfca64972c6959ea9c0b6f8dade37"
+    },
+    {
+      "id": "ferry",
+      "name": "城际客轮",
+      "file": "/models/vehicles/ferry.glb",
+      "version": 1,
+      "triangles": 3776,
+      "bytes": 153440,
+      "materials": 8,
+      "embeddedImages": 0,
+      "bounds": {
+        "min": [
+          -1.299,
+          0,
+          -4.565
+        ],
+        "max": [
+          1.299,
+          3.5345,
+          4.565
+        ]
+      },
+      "dimensions": [
+        2.598,
+        3.5345,
+        9.13
+      ],
+      "source": "data/vehicles/ferry/source.blend",
+      "references": "data/vehicles/references/regional.png",
+      "sha256": "ddf5da6c4a8532087f8e961b78c18b3e9a15e955bd2c9398eba502fedc05c0a1"
+    }
+  ]
+}

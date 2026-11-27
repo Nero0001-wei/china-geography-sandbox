@@ -1,0 +1,28 @@
+{
+  "id": "xiangshawan",
+  "name": "响沙湾",
+  "file": "xiangshawan.glb",
+  "version": "national-v1",
+  "source": "https://www.xiangsw.com/xsw/about/about-2.html",
+  "sourceCopy": "data/landmarks/xiangshawan/source.blend",
+  "sourceSha256": "cb35632a0de839f7334a4dfe99e1ea776bb0d08110c2d6e82bc7473df385757c",
+  "triangles": 7468,
+  "bytes": 733368,
+  "sha256": "5ef02b6d32803506148a0157e23e80744c565ff3e29c32bd767a5a4d882af3ff",
+  "materials": 7,
+  "embeddedImages": 1,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      2.5614049434661865,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 7468
+}

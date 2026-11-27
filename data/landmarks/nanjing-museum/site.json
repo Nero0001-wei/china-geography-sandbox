@@ -1,0 +1,19 @@
+{
+  "id": "nanjing-museum",
+  "name": "南京博物院",
+  "province": "江苏省",
+  "city": "南京市",
+  "anchor": [
+    118.820262,
+    32.0438146
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/1517447675",
+  "anchorCrs": "WGS84",
+  "frontBearing": 185,
+  "groundSpanMeters": 112,
+  "description": "历史馆的仿辽屋面很宽，金色琉璃瓦下排列朱柱，门前有宽阶和石台基。",
+  "type": "museum",
+  "tier": "regional",
+  "visualSource": "https://www.njmuseum.org.cn/",
+  "siteNotes": "取 OpenStreetMap 标绘的历史馆建筑轮廓中心。取中山东路院区历史馆现状。保留梁思成等参与设计的仿辽轮廓，正面朝向中山东路。"
+}

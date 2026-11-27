@@ -1,0 +1,23 @@
+{
+  "id": "birds-nest",
+  "name": "鸟巢",
+  "province": "北京市",
+  "city": "北京市",
+  "anchor": [
+    116.3902864,
+    39.9914031
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/152301551",
+  "anchorCrs": "WGS84",
+  "frontBearing": 178.5,
+  "groundSpanMeters": 333,
+  "description": "北京国家体育场的银灰钢桁架围绕椭圆形看台交织，屋面中央敞开，可以看到红色看台和场地。",
+  "type": "urban",
+  "tier": "national",
+  "visualSource": "https://www.n-s.cn/visitindex.html",
+  "siteNotes": "锚点取 OpenStreetMap 所标建筑轮廓的顶点平均位置。取奥林匹克公园内的国家体育场现状。保持南北向长轴，从南侧广场看，椭圆屋口与外圈钢构均保留真实几何间隙。",
+  "aliases": [
+    "国家体育场",
+    "北京国家体育场"
+  ]
+}

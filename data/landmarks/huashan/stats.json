@@ -1,0 +1,28 @@
+{
+  "id": "huashan",
+  "name": "华山·西峰",
+  "file": "huashan.glb",
+  "version": "national-v1",
+  "source": "https://weinan.qinfeng.gov.cn/info/1095/36343.htm",
+  "sourceCopy": "data/landmarks/huashan/source.blend",
+  "sourceSha256": "636c3d18332806e380826048980b65e38c779f21f3b6b89ec099a09d7f9d7ff4",
+  "triangles": 6018,
+  "bytes": 747208,
+  "sha256": "58f0ee7c4fe2d4cc02f46e22384111d921b00a364ad6adb91f29dbb55ba75aa7",
+  "materials": 15,
+  "embeddedImages": 8,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      3.4040470123291016,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 6018
+}

@@ -1,0 +1,23 @@
+{
+  "id": "shenyang-palace",
+  "name": "沈阳故宫",
+  "province": "辽宁省",
+  "city": "沈阳市",
+  "anchor": [
+    123.4508268,
+    41.7966845
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/89603643",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 181,
+  "groundSpanMeters": 72,
+  "description": "黄瓦绿剪边的八角殿立在白色台基上，殿前有金龙盘柱。",
+  "visualSource": "https://whc.unesco.org/en/list/439/",
+  "reference": "https://whc.unesco.org/en/list/439/",
+  "period": "取清初大政殿及殿外两翼旗亭。",
+  "subject": "大政殿与十王亭一段",
+  "frontNote": "从大政殿南侧广场看大殿，十王亭分列两翼。",
+  "type": "heritage",
+  "tier": "regional"
+}

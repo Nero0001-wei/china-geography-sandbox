@@ -1,0 +1,28 @@
+{
+  "id": "a-ma",
+  "name": "妈阁庙",
+  "file": "a-ma.glb",
+  "version": "national-v1",
+  "source": "https://www.wh.gov.mo/cn/site/detail/1",
+  "sourceCopy": "data/landmarks/a-ma/source.blend",
+  "sourceSha256": "fc2570d93ed205dd0aa49a1c75e71e4f01de8b10811ca5778a51f3a87a860e8e",
+  "triangles": 3864,
+  "bytes": 620812,
+  "sha256": "987fb185d74a5d0c016b2f9c967881b8d7f7c6d4c9ca34eee62030c05f34ad55",
+  "materials": 13,
+  "embeddedImages": 13,
+  "bounds": {
+    "min": [
+      -5.050000190734863,
+      0,
+      -4.090000152587891
+    ],
+    "max": [
+      5.050000190734863,
+      4.281960964202881,
+      4.010000228881836
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 3864
+}

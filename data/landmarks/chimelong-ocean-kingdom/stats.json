@@ -1,0 +1,28 @@
+{
+  "id": "chimelong-ocean-kingdom",
+  "name": "珠海长隆海洋王国",
+  "file": "chimelong-ocean-kingdom.glb",
+  "version": "national-v1",
+  "source": "https://www.chimelong.com/zh/oceankingdom/exhibition/2324.html",
+  "sourceCopy": "data/landmarks/chimelong-ocean-kingdom/source.blend",
+  "sourceSha256": "f8b4b1196e2549a42c5bdb46b7efcddf5f29a71cfe8d84ef821601e2da8da4b5",
+  "triangles": 7690,
+  "bytes": 823760,
+  "sha256": "b75edb133318fd63f87afed48dc5b66db05b3adda7ff2fa316e5f34c8a4756c1",
+  "materials": 21,
+  "embeddedImages": 3,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      3.3424932956695557,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 10726
+}

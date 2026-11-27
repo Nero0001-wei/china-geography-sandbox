@@ -1,0 +1,23 @@
+{
+  "id": "hubei-museum",
+  "name": "湖北省博物馆",
+  "province": "湖北省",
+  "city": "武汉市",
+  "anchor": [
+    114.3603963,
+    30.5629964
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/953408416",
+  "anchorCrs": "WGS84",
+  "frontBearing": 152,
+  "groundSpanMeters": 160,
+  "description": "在东湖边的南馆，浅色外挑馆体像一口巨鼎。玻璃中庭之后是北馆深色的层叠楚式屋檐。",
+  "type": "museum",
+  "tier": "national",
+  "visualSource": "https://wlt.hubei.gov.cn/bmdt/xydt/202111/t20211112_3859467.shtml",
+  "siteNotes": "锚点取 OpenStreetMap 所标建筑轮廓的顶点平均位置。锚点对应 2021 年开放的文展大楼南主馆。由南侧入口广场向馆区取景，保留浅色倾斜外墙、玻璃凹口和后方北馆的主要屋檐。",
+  "aliases": [
+    "湖北省博物馆南馆",
+    "湖博"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "china-science-museum",
+  "name": "中国科学技术馆",
+  "file": "china-science-museum.glb",
+  "version": "national-v1",
+  "source": "https://www.cstm.org.cn/gy/bggk/index.html",
+  "sourceCopy": "data/landmarks/china-science-museum/source.blend",
+  "sourceSha256": "93170983225c3168bad27844aa8e759f9397ac0a5723762de273f69b417b906d",
+  "triangles": 3854,
+  "bytes": 357096,
+  "sha256": "f1d378f962243f57a1ef72d6b890f5a662305ffb59d1925a77dbf19a178497d8",
+  "materials": 17,
+  "embeddedImages": 12,
+  "sourceTriangles": 3854,
+  "bounds": {
+    "min": [
+      -5.449999809265137,
+      0,
+      -4.650000095367432
+    ],
+    "max": [
+      5.449999809265137,
+      4.03000020980835,
+      4.650000095367432
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

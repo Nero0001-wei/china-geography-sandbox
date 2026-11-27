@@ -1,0 +1,28 @@
+{
+  "id": "crescent-lake",
+  "name": "鸣沙山月牙泉",
+  "file": "crescent-lake.glb",
+  "version": "national-v1",
+  "source": "https://www.forestry.gov.cn/c/www/lcdt/516966.jhtml",
+  "sourceCopy": "data/landmarks/crescent-lake/source.blend",
+  "sourceSha256": "2ac01ceb958d476792b6a6f926ce96f1754a770d9bc05ddfa68518aea0f86764",
+  "triangles": 7180,
+  "bytes": 765092,
+  "sha256": "9aee756d9195ed8a4c8514de972ae1c313d984563b4d56bf8f162e575b51d276",
+  "materials": 15,
+  "embeddedImages": 5,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      1.8815330266952515,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 7180
+}

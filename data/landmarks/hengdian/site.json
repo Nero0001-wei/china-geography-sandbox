@@ -1,0 +1,21 @@
+{
+  "id": "hengdian",
+  "name": "横店影视城·秦王宫",
+  "province": "浙江省",
+  "city": "金华市",
+  "anchor": [
+    120.30887168,
+    29.13897336
+  ],
+  "anchorSource": "https://ditu.amap.com/place/B0FFF05DMT",
+  "anchorCrs": "WGS84",
+  "frontBearing": 150,
+  "groundSpanMeters": 145,
+  "description": "四海归一殿的大殿、深灰瓦面、高台与阶梯。",
+  "driveQuery": "横店影视城秦王宫停车场",
+  "transitQuery": "横店秦王宫公交站",
+  "siteNotes": "1997 年为影视拍摄兴建的秦王宫景区，取四海归一殿。高德「秦王宫-四海归一殿」主体 GCJ-02 120.313282,29.136251 迭代反算；公开 OSM 主殿轮廓 686076606 与该点相邻。 按 OSM 的宫殿和两侧配殿轮廓，主轴、入口朝东南约 150°。",
+  "reference": "https://www.hengdianworld.com/Tourist/15/",
+  "type": "theme-park",
+  "tier": "regional"
+}

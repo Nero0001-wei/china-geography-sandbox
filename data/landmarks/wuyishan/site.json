@@ -1,0 +1,22 @@
+{
+  "id": "wuyishan",
+  "name": "武夷山·九曲溪",
+  "province": "福建省",
+  "city": "南平市",
+  "type": "nature",
+  "tier": "regional",
+  "anchor": [
+    117.9514525,
+    27.6438844
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/2659004065",
+  "anchorFeature": "玉女峰",
+  "anchorMethod": "OpenStreetMap “玉女峰”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 133,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 320,
+  "description": "取九曲溪畔的玉女峰，保留丰厚的红砂岩体、林顶和近水竹筏。",
+  "visualSource": "https://wysgjgy.fujian.gov.cn/yxgy/gyjg/201710/t20171025_5511573.htm",
+  "period": "现状景观局部的微缩示意"
+}

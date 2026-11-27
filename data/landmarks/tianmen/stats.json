@@ -1,0 +1,28 @@
+{
+  "id": "tianmen",
+  "name": "张家界天门山",
+  "version": "national-v1",
+  "file": "tianmen.glb",
+  "source": "https://www.cn-zhangjiajie.cn/action/model/name/jingqu/itemid/12.html",
+  "sourceCopy": "data/landmarks/tianmen/source.blend",
+  "sourceTriangles": 17904,
+  "sourceSha256": "778d2d1730e77d8b62ba8c1ee1cae30bd16affb5ef7da3d55fbfa3102c7d0db6",
+  "triangles": 7528,
+  "bytes": 765572,
+  "sha256": "efa08a54f8e4298c3ba1e6d996722dd2b36b19a03b1a911e928091ebadf24e0d",
+  "materials": 7,
+  "embeddedImages": 7,
+  "bounds": {
+    "min": [
+      -3.674380302429199,
+      -0.00012170230911578983,
+      -1.3087915182113647
+    ],
+    "max": [
+      3.773623466491699,
+      4.813465595245361,
+      3.2868685722351074
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+}

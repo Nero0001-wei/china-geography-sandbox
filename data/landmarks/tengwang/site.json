@@ -1,0 +1,23 @@
+{
+  "id": "tengwang",
+  "name": "滕王阁",
+  "province": "江西省",
+  "city": "南昌市",
+  "anchor": [
+    115.872898,
+    28.676714
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/2227410623",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 90,
+  "groundSpanMeters": 90,
+  "description": "朱栏绿瓦的主阁从花岗石高台抬升，两翼廊亭贴着台面舒展。",
+  "visualSource": "https://dhq.nc.gov.cn/dhqrmzf/dhfctpk/202010/5de41659934e42f6842c956dfabdbb0c.shtml",
+  "reference": "https://dhq.nc.gov.cn/dhqrmzf/dhfctpk/202010/5de41659934e42f6842c956dfabdbb0c.shtml",
+  "period": "取1989年落成的仿宋式主阁，东面是广场轴线，西面邻赣江。",
+  "subject": "滕王阁主阁及抱厦",
+  "frontNote": "以广场东侧主台阶为正面，模型底座边缘的水面用作赣江方位提示。",
+  "type": "heritage",
+  "tier": "regional"
+}

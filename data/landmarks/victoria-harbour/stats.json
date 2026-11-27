@@ -1,0 +1,28 @@
+{
+  "id": "victoria-harbour",
+  "name": "维多利亚港·尖沙咀海滨",
+  "file": "victoria-harbour.glb",
+  "version": "national-v1",
+  "source": "https://www.discoverhongkong.com/tc/attractions/top-things-to-see-and-do-around-tsim-sha-tsui-promenade.html",
+  "sourceCopy": "data/landmarks/victoria-harbour/source.blend",
+  "sourceSha256": "5ea6e2c7d16957db3f6ffbfc73329247d85823a51f0b2bb6900532d85eb5b249",
+  "triangles": 1546,
+  "bytes": 173516,
+  "sha256": "7dae7065fa3b299a3f4d8893864451624a0962d14ba6e7b07b5bed047eea947a",
+  "materials": 14,
+  "embeddedImages": 10,
+  "sourceTriangles": 1546,
+  "bounds": {
+    "min": [
+      -5.349999904632568,
+      0,
+      -3.9000000953674316
+    ],
+    "max": [
+      5.349999904632568,
+      4.570000171661377,
+      3.9000000953674316
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

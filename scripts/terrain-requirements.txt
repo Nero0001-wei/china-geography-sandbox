@@ -1,0 +1,6 @@
+numpy>=2
+Pillow>=11
+pyshp>=3
+rasterio>=1.4
+scipy>=1.14
+shapely>=2

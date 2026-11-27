@@ -1,0 +1,28 @@
+{
+  "id": "yellow-crane",
+  "name": "黄鹤楼",
+  "version": "national-v1",
+  "file": "yellow-crane.glb",
+  "source": "https://english.wuhan.gov.cn/travel/tourist4attractions4an4incomplete4list/202110/t20211026_1819226.shtml",
+  "sourceCopy": "data/landmarks/yellow-crane/source.blend",
+  "sourceTriangles": 5462,
+  "sourceSha256": "ed0fa815b69d625a0fae617b75223f7ae0a2eb58625d880ee7cf704f07625495",
+  "triangles": 5462,
+  "bytes": 382404,
+  "sha256": "52d3f64b46143ab35410678b08d631e8dec7ed82ebe8a391f1aa3b0b08d1c2cd",
+  "materials": 8,
+  "embeddedImages": 8,
+  "bounds": {
+    "min": [
+      -2.430000066757202,
+      0,
+      -2.119999885559082
+    ],
+    "max": [
+      2.430000066757202,
+      5.590000152587891,
+      2.7850000858306885
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+}

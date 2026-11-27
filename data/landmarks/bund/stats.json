@@ -1,0 +1,28 @@
+{
+  "id": "bund",
+  "name": "上海外滩",
+  "file": "bund.glb",
+  "version": "national-v1",
+  "source": "https://whlyj.sh.gov.cn/zxta/20230721/42925f1923764d98bfa7198785e56512.html",
+  "sourceCopy": "data/landmarks/bund/source.blend",
+  "sourceTriangles": 3560,
+  "sourceSha256": "cdc12687cbe8f1577c2bd781c7c543ec48613cd87e0f5135d3a98a2893b2346a",
+  "triangles": 3560,
+  "bytes": 310860,
+  "sha256": "2c28093204f5b1f07f5fb33d92d7d52c45686960836b506107505a977f7d28f1",
+  "materials": 9,
+  "embeddedImages": 6,
+  "bounds": {
+    "min": [
+      -9.5,
+      0,
+      -3.2249999046325684
+    ],
+    "max": [
+      7.199999809265137,
+      11.039999961853027,
+      4.170000076293945
+    ]
+  },
+  "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+}

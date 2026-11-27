@@ -1,0 +1,28 @@
+{
+  "id": "taishan",
+  "name": "泰山南天门",
+  "file": "taishan.glb",
+  "version": "national-v1",
+  "source": "https://tsgw.taian.gov.cn/art/2026/3/23/art_363608_10320983.html",
+  "sourceCopy": "data/landmarks/taishan/source.blend",
+  "sourceTriangles": 7678,
+  "sourceSha256": "fe37c058760d5998f089c17e9ade7fbea16e05b0d800bab43d0b18270cc6d0c0",
+  "triangles": 7678,
+  "bytes": 633436,
+  "sha256": "dc5690d41ca4e849e3dbe499c6cf70766ee886043225c51b07be178d238271c3",
+  "materials": 12,
+  "embeddedImages": 8,
+  "bounds": {
+    "min": [
+      -6.251349449157715,
+      0,
+      -7.599999904632568
+    ],
+    "max": [
+      6.176503658294678,
+      8.780000686645508,
+      7.632500171661377
+    ]
+  },
+  "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+}

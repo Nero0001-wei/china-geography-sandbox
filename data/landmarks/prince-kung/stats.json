@@ -1,0 +1,28 @@
+{
+  "id": "prince-kung",
+  "name": "恭王府博物馆",
+  "file": "prince-kung.glb",
+  "version": "national-v1",
+  "source": "https://www.pgm.org.cn/pgm/wfjd/201402/4bd8662d01834dc4888ffd229d2e0dff.shtml",
+  "sourceCopy": "data/landmarks/prince-kung/source.blend",
+  "sourceSha256": "9752b924a2ccf9be829b08453dc64e681bfa2765c7b2a5d3ff3300b0584bdf4d",
+  "triangles": 6212,
+  "bytes": 816824,
+  "sha256": "a88cb92e52965112e9147c501d3e5c9785501ee0b42ee01f53459f8021fe4cd9",
+  "materials": 15,
+  "embeddedImages": 15,
+  "bounds": {
+    "min": [
+      -6.275000095367432,
+      0,
+      -5.150000095367432
+    ],
+    "max": [
+      6.275000095367432,
+      3.4670000076293945,
+      5.150000095367432
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 6212
+}

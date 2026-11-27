@@ -1,0 +1,19 @@
+{
+  "id": "chimelong-safari",
+  "name": "广州长隆野生动物世界",
+  "province": "广东省",
+  "city": "广州市",
+  "anchor": [
+    113.3155501,
+    23.0015574
+  ],
+  "anchorSource": "https://ditu.amap.com/place/B0FFHYNZMU",
+  "anchorCrs": "WGS84",
+  "frontBearing": 173,
+  "groundSpanMeters": 112,
+  "description": "入口的雨林风格门楼和长颈鹿活动场组成微缩场景，反映园内可见的观赏体验。",
+  "type": "theme-park",
+  "tier": "national",
+  "visualSource": "https://www.chimelong.com/gz/safaripark/exhibition/",
+  "siteNotes": "主体附近的高德 POI（GCJ-02 113.320946, 22.998894）通过项目迭代转换为 WGS84。模型以南入口定位，旁置园中代表性的长颈鹿展区意象，动物展区距离与方位作缩尺重组。"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hongyadong",
+  "name": "重庆洪崖洞",
+  "version": "national-v1",
+  "file": "hongyadong.glb",
+  "source": "https://whlyw.cq.gov.cn/zjwl/yzq/jqjd_1/202203/t20220304_10463056.html",
+  "sourceCopy": "data/landmarks/hongyadong/source.blend",
+  "sourceTriangles": 10372,
+  "sourceSha256": "f0423842ba6f0e6132339cf89dbf08d9dba4eb4df6e1945a11b1c7f93e55bc8a",
+  "triangles": 7530,
+  "bytes": 618472,
+  "sha256": "cb8962c96c254ed8a03129e69863c5c2856e49358615e5cc0a170b59d393d4f3",
+  "materials": 8,
+  "embeddedImages": 8,
+  "bounds": {
+    "min": [
+      -3.299999952316284,
+      0,
+      -1.2166084051132202
+    ],
+    "max": [
+      3.299999952316284,
+      4.070340633392334,
+      1.781999945640564
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+}

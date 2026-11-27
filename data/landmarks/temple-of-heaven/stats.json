@@ -1,0 +1,28 @@
+{
+  "id": "temple-of-heaven",
+  "name": "天坛",
+  "file": "temple-of-heaven.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/881/",
+  "sourceCopy": "data/landmarks/temple-of-heaven/source.blend",
+  "sourceSha256": "851682772b88025534c99952aabe1b2ddd69e4c07742f59faf9ae2ba38655858",
+  "triangles": 7448,
+  "bytes": 893032,
+  "sha256": "6524ea9fee036433894939ced73bde39ad46fe23f8647825b06f839c806fb9d6",
+  "materials": 10,
+  "embeddedImages": 10,
+  "bounds": {
+    "min": [
+      -4.581850051879883,
+      0,
+      -4.581850051879883
+    ],
+    "max": [
+      4.581850051879883,
+      6.525243282318115,
+      4.730000019073486
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 11252
+}

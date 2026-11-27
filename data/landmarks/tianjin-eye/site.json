@@ -1,0 +1,19 @@
+{
+  "id": "tianjin-eye",
+  "name": "天津之眼",
+  "province": "天津市",
+  "city": "天津市",
+  "anchor": [
+    117.1803056,
+    39.1533889
+  ],
+  "anchorSource": "https://www.wikidata.org/wiki/Q750548",
+  "anchorCrs": "WGS84",
+  "frontBearing": 149,
+  "groundSpanMeters": 165,
+  "description": "白色巨轮跨在海河永乐桥上，能从轮圈外辨认一圈悬挂式轿厢。",
+  "type": "urban",
+  "tier": "regional",
+  "visualSource": "https://www.tj.gov.cn/sq/yztj/jgtp/202005/t20200520_2468039.html",
+  "siteNotes": "采用 Wikidata 的摩天轮主体坐标，永乐桥中段。按现状白色轮圈、三角支架和桥上轮体建模，轿厢做隔位简化。正面取海河下游方向。"
+}

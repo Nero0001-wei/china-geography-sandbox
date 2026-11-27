@@ -1,0 +1,22 @@
+{
+  "id": "fanjingshan",
+  "name": "梵净山·红云金顶",
+  "province": "贵州省",
+  "city": "铜仁市",
+  "type": "nature",
+  "tier": "regional",
+  "anchor": [
+    108.6917029,
+    27.9099965
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/7491142475",
+  "anchorFeature": "红云金顶",
+  "anchorMethod": "OpenStreetMap “红云金顶”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 195,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 210,
+  "description": "红云金顶的陡岩被深缝分开，桥连接两侧山顶殿宇。",
+  "visualSource": "https://www.tongren.gov.cn/2025/0709/336936.shtml",
+  "period": "现状景观局部的微缩示意"
+}

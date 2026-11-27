@@ -1,0 +1,28 @@
+{
+  "id": "wutai",
+  "name": "五台山",
+  "file": "wutai.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/1279/",
+  "sourceCopy": "data/landmarks/wutai/source.blend",
+  "sourceSha256": "303f88366c75cc52e15081d41865a25c802667056658f254c27dfc3197c66dab",
+  "triangles": 5688,
+  "bytes": 703756,
+  "sha256": "340a3c057e06e174df2d358284c3d39ebc4e40497562a7af09914946dfa1d886",
+  "materials": 12,
+  "embeddedImages": 12,
+  "bounds": {
+    "min": [
+      -4.550000190734863,
+      0,
+      -3.75
+    ],
+    "max": [
+      4.550000190734863,
+      5.400000095367432,
+      3.75
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 5688
+}

@@ -1,0 +1,19 @@
+{
+  "id": "oriental-pearl",
+  "name": "东方明珠",
+  "province": "上海市",
+  "city": "上海市",
+  "anchor": [
+    121.4947167,
+    31.2416694
+  ],
+  "anchorSource": "https://www.wikidata.org/wiki/Q223207",
+  "anchorCrs": "WGS84",
+  "frontBearing": 240,
+  "groundSpanMeters": 128,
+  "description": "浦东陆家嘴的东方明珠以三组斜撑托起红紫色球体，塔顶伸出细长天线。",
+  "type": "urban",
+  "tier": "national",
+  "visualSource": "https://www.otis.com/zh/cn/our-company/global-projects/project-showcase/oriental-pearl-tower",
+  "siteNotes": "以塔身的 Wikidata 坐标为锚点。取 1990 年代建成的电视塔主体。旋转对称的塔身从浦江岸一侧呈现。"
+}

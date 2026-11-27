@@ -1,0 +1,19 @@
+{
+  "id": "jingdezhen-kiln-museum",
+  "name": "景德镇御窑博物馆",
+  "province": "江西省",
+  "city": "景德镇市",
+  "anchor": [
+    117.20185,
+    29.29923
+  ],
+  "anchorSource": "https://www.openstreetmap.org/node/13711527662",
+  "anchorCrs": "WGS84",
+  "frontBearing": 181,
+  "groundSpanMeters": 118,
+  "description": "御窑博物馆的旧窑砖拱壳长短错落，在一处下沉庭院和水面外排开。",
+  "type": "museum",
+  "tier": "regional",
+  "visualSource": "https://www.archdaily.com/zh/948088/jing-de-zhen-yu-yao-bo-wu-guan-zhu-pou-jian-zhu-shi-wu-suo",
+  "siteNotes": "取御窑博物馆 OSM 节点。取朱锫建筑事务所设计的 2020 年前后落成的窑拱组团，保留可透视的砖拱洞和下沉面。"
+}

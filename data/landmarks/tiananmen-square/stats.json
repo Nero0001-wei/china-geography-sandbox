@@ -1,0 +1,28 @@
+{
+  "id": "tiananmen-square",
+  "name": "天安门广场",
+  "file": "tiananmen-square.glb",
+  "version": "national-v1",
+  "source": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202301/W020230130329977849629.pdf",
+  "sourceCopy": "data/landmarks/tiananmen-square/source.blend",
+  "sourceSha256": "f99a03de5a5c7ffc990f6794e215ef0187e91e28f6310f2e2fc1311fe0f6d034",
+  "triangles": 3580,
+  "bytes": 344492,
+  "sha256": "cbda2f1cad83dbb7a22620cf1e7c2d456a1920b012d0433394dda5787b3ff63f",
+  "materials": 18,
+  "embeddedImages": 15,
+  "sourceTriangles": 3580,
+  "bounds": {
+    "min": [
+      -5.599999904632568,
+      0,
+      -4.449999809265137
+    ],
+    "max": [
+      5.599999904632568,
+      4.391962051391602,
+      4.449999809265137
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

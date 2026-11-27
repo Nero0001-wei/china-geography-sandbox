@@ -1,0 +1,28 @@
+{
+  "id": "harbin-ice-world",
+  "name": "哈尔滨冰雪大世界",
+  "file": "harbin-ice-world.glb",
+  "version": "national-v1",
+  "source": "https://wlt.hlj.gov.cn/wlt/c114165/202512/c00_31896256.shtml",
+  "sourceCopy": "data/landmarks/harbin-ice-world/source.blend",
+  "sourceSha256": "886abca6cbec206c5df243be1a192e07863ca1d1da62d0f68f75db08cfff16de",
+  "triangles": 3988,
+  "bytes": 278088,
+  "sha256": "d2a9d2721bd9dbb25773bfd9512726dc7bfa31bd985d9875a32729ca9e1bd3f0",
+  "materials": 3,
+  "embeddedImages": 3,
+  "sourceTriangles": 3988,
+  "bounds": {
+    "min": [
+      -5.300000190734863,
+      0,
+      -4.5
+    ],
+    "max": [
+      5.300000190734863,
+      6.380000114440918,
+      4.5
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

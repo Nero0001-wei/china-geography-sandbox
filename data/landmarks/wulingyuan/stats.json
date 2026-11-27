@@ -1,0 +1,28 @@
+{
+  "id": "wulingyuan",
+  "name": "武陵源·张家界国家森林公园",
+  "file": "wulingyuan.glb",
+  "version": "national-v1",
+  "source": "https://whhlyt.hunan.gov.cn/whhlyt/zxta/202511/t20251113_33847812.html",
+  "sourceCopy": "data/landmarks/wulingyuan/source.blend",
+  "sourceSha256": "7521951aca5e88e1ab3409be8f495184d95ddce4bbd31a4117aa8fdc784c51fe",
+  "triangles": 7526,
+  "bytes": 817340,
+  "sha256": "fe1064acc8e8a08d9b92573e47824b25e7982b9a4324ef6a04f7c0e30caf4eed",
+  "materials": 11,
+  "embeddedImages": 5,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      3.3834071159362793,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 7526
+}

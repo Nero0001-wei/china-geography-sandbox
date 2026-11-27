@@ -1,0 +1,19 @@
+{
+  "id": "harbin-ice-world",
+  "name": "哈尔滨冰雪大世界",
+  "province": "黑龙江省",
+  "city": "哈尔滨市",
+  "anchor": [
+    126.5563761,
+    45.7779489
+  ],
+  "anchorSource": "https://www.wikidata.org/wiki/Q10895490",
+  "anchorCrs": "WGS84",
+  "frontBearing": 167,
+  "groundSpanMeters": 240,
+  "description": "冰雪大世界的冬季冰塔用冰块逐层搭起，中央的尖塔周围排列多座低塔。",
+  "type": "theme-park",
+  "tier": "national",
+  "visualSource": "https://wlt.hlj.gov.cn/wlt/c114165/202512/c00_31896256.shtml",
+  "siteNotes": "园区代表点。冰雕每季更新，具体主塔随届次变化。以 2025–2026 冬季第二十七届冰雪大世界的塔群为参照，概括冰晶材料和主从天际线。"
+}

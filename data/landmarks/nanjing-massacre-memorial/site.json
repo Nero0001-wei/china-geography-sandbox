@@ -1,0 +1,23 @@
+{
+  "id": "nanjing-massacre-memorial",
+  "name": "侵华日军南京大屠杀遇难同胞纪念馆",
+  "province": "江苏省",
+  "city": "南京市",
+  "anchor": [
+    118.739741,
+    32.0374513
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/992979424",
+  "anchorCrs": "WGS84",
+  "frontBearing": 174,
+  "groundSpanMeters": 125,
+  "description": "江东门馆区临水西门大街，灰色题名墙、石阶和低矮陈列厅围合出安静的悼念空间。",
+  "type": "museum",
+  "tier": "national",
+  "visualSource": "https://www.19371213.com.cn/information/news/201807/t20180712_2232683.html",
+  "siteNotes": "锚点取 OpenStreetMap 所标建筑轮廓的顶点平均位置。取江东门馆区入口的悼念广场与相邻史料陈列厅，保留灰石墙、馆名、台阶和窄绿篱。入口向南朝水西门大街。",
+  "aliases": [
+    "南京大屠杀遇难同胞纪念馆",
+    "江东门纪念馆"
+  ]
+}

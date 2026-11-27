@@ -1,0 +1,28 @@
+{
+  "id": "stone-forest",
+  "name": "昆明石林·阿诗玛",
+  "file": "stone-forest.glb",
+  "version": "national-v1",
+  "source": "https://zhuanti.mct.gov.cn/xcszbwg2022/yunnan/detail/1993.html",
+  "sourceCopy": "data/landmarks/stone-forest/source.blend",
+  "sourceSha256": "38c90b8ae1e9937457dcbb4dda31d32bc6acfe1b42a59d0779f8a133e8b32399",
+  "triangles": 6144,
+  "bytes": 778324,
+  "sha256": "893c443d9f97ec9144135c2229ee2d754e552f2e48752f6c295a504878601c11",
+  "materials": 15,
+  "embeddedImages": 7,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      3.597079038619995,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 6144
+}

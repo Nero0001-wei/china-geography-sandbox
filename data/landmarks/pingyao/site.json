@@ -1,0 +1,23 @@
+{
+  "id": "pingyao",
+  "name": "平遥古城",
+  "province": "山西省",
+  "city": "晋中市",
+  "anchor": [
+    112.1789711,
+    37.2037874
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/1420388662",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 180,
+  "groundSpanMeters": 54,
+  "description": "市楼的黄色重檐骑跨石板大街，券洞两侧排开灰瓦商铺。",
+  "visualSource": "https://whc.unesco.org/en/list/812/",
+  "reference": "https://whc.unesco.org/en/list/812/",
+  "period": "取清代重修后现存的南大街市楼。",
+  "subject": "平遥市楼与南大街",
+  "frontNote": "从南大街南侧沿街北望。",
+  "type": "town-garden",
+  "tier": "national"
+}

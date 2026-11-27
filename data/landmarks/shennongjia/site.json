@@ -1,0 +1,22 @@
+{
+  "id": "shennongjia",
+  "name": "神农架·神农顶",
+  "province": "湖北省",
+  "city": "神农架林区",
+  "type": "nature",
+  "tier": "regional",
+  "anchor": [
+    110.3072111,
+    31.4399826
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/5333328928",
+  "anchorFeature": "神农顶主峰",
+  "anchorMethod": "OpenStreetMap “神农顶主峰”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 168,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 470,
+  "description": "最高处的石碑、起伏山脊和分布在草甸下缘的针叶林。",
+  "visualSource": "https://www.fohb.gov.cn/info/2022-08/20220810160800_196.html",
+  "period": "现状景观局部的微缩示意"
+}

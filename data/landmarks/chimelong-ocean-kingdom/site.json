@@ -1,0 +1,22 @@
+{
+  "id": "chimelong-ocean-kingdom",
+  "name": "珠海长隆海洋王国",
+  "province": "广东省",
+  "city": "珠海市",
+  "type": "theme-park",
+  "tier": "national",
+  "anchor": [
+    113.5277113,
+    22.0995395
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/320028482",
+  "anchorFeature": "横琴长隆海洋王国鲸鲨馆",
+  "anchorMethod": "取 OpenStreetMap 鲸鲨馆建筑轮廓的代表点，落在海洋王国园内。",
+  "frontBearing": 118,
+  "frontNote": "正面朝园内临湖入口广场一侧。",
+  "groundSpanMeters": 145,
+  "description": "横琴海洋王国鲸鲨馆的青蓝色波浪立面和昂首盘绕的斑点鲸鲨雕塑。",
+  "visualSource": "https://www.chimelong.com/zh/oceankingdom/exhibition/2324.html",
+  "period": "参考运营方当前展馆介绍中的外观"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "kanas",
+  "name": "喀纳斯·月亮湾",
+  "province": "新疆维吾尔自治区",
+  "city": "阿勒泰地区",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    87.0471844,
+    48.6345452
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/5813997974",
+  "anchorFeature": "月亮湾东岸游览点",
+  "anchorMethod": "OpenStreetMap “月亮湾东岸游览点”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 80,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 520,
+  "description": "从湾边的陆侧看蓝绿河水在针叶林山坡之间弯成月牙。",
+  "visualSource": "https://zrzyt.xinjiang.gov.cn/xjgtzy/kpjd/202010/22b9bef9e4fc47638e7eac92c2936e47.shtml",
+  "period": "现状景观局部的微缩示意"
+}

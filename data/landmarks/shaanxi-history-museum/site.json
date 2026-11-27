@@ -1,0 +1,24 @@
+{
+  "id": "shaanxi-history-museum",
+  "name": "陕西历史博物馆本馆",
+  "province": "陕西省",
+  "city": "西安市",
+  "anchor": [
+    108.95052928,
+    34.22568146
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/1419576718",
+  "anchorMethod": "取小寨馆区中央序厅的 OpenStreetMap 建筑轮廓中心。",
+  "frontBearing": 180,
+  "groundSpanMeters": 195,
+  "type": "museum",
+  "subject": "小寨本馆中轴殿堂",
+  "visualSource": "https://www.sxhm.com/history.html?_isa=1",
+  "referencePhoto": "https://commons.wikimedia.org/wiki/File:%E9%99%95%E5%8E%86%E5%8D%9A%E5%86%85%E9%83%A803.jpg",
+  "description": "小寨本馆以唐风中轴殿堂、四隅崇楼和两侧廊屋围合，保留灰黑瓦面与浅色石柱。",
+  "period": "按1991年开放的陕西历史博物馆小寨本馆布局。",
+  "frontNote": "自小寨东路南侧馆区入口朝内看中央序厅。",
+  "anchorCrs": "WGS84",
+  "tier": "national",
+  "reference": "https://www.sxhm.com/history.html?_isa=1"
+}

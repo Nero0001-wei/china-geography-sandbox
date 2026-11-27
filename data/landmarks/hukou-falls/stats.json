@@ -1,0 +1,28 @@
+{
+  "id": "hukou-falls",
+  "name": "黄河壶口瀑布",
+  "file": "hukou-falls.glb",
+  "version": "national-v1",
+  "source": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/sx/202208/t20220809_935221.html",
+  "sourceCopy": "data/landmarks/hukou-falls/source.blend",
+  "sourceSha256": "349ecf2950c66b2ee5c4a42fd86134b028705c89a6d38ef18cf2a235be194a27",
+  "triangles": 7690,
+  "bytes": 752844,
+  "sha256": "be1dddde6817c72fd8db8e6d35180023d19851acdc2297b62db57f84ebc6a981",
+  "materials": 13,
+  "embeddedImages": 0,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      1.7459720373153687,
+      2.159903049468994
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 10582
+}

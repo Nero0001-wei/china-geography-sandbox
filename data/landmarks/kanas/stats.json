@@ -1,0 +1,28 @@
+{
+  "id": "kanas",
+  "name": "喀纳斯·月亮湾",
+  "file": "kanas.glb",
+  "version": "national-v1",
+  "source": "https://zrzyt.xinjiang.gov.cn/xjgtzy/kpjd/202010/22b9bef9e4fc47638e7eac92c2936e47.shtml",
+  "sourceCopy": "data/landmarks/kanas/source.blend",
+  "sourceSha256": "3d246c42a87443081afe9b3148ede534a61cc18f00599e52b646225b2272ca3d",
+  "triangles": 7238,
+  "bytes": 660876,
+  "sha256": "99c285e732e6d4af4d66ec1dbe263b9d2717050e5d8da6773616daa31cb584d5",
+  "materials": 12,
+  "embeddedImages": 3,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      2.322948932647705,
+      2.144598960876465
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 7238
+}

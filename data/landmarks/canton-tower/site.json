@@ -1,0 +1,29 @@
+{
+  "id": "canton-tower",
+  "name": "广州塔",
+  "province": "广东省",
+  "city": "广州市",
+  "anchor": [
+    113.3191463,
+    23.1090126
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/584204634",
+  "frontBearing": 0,
+  "groundSpanMeters": 80,
+  "description": "网格斜柱在塔腰收紧，顶部观景层与桅杆向上伸出。",
+  "driveQuery": "广州塔地下停车场",
+  "transitQuery": "广州塔地铁站",
+  "anchorCrs": "WGS84",
+  "reference": "https://www.haizhu.gov.cn/hzdt/ztlm/tzhz/rjhj/lyjd/csmp/content/mpost_9190964.html",
+  "versionNotes": "取2010年启用的现状主塔与桅杆；选择北侧珠江观看方向。",
+  "osmFeature": "广州塔",
+  "amapPoi": "B00140WBI1",
+  "gcj02Feature": [
+    113.324521,
+    23.106428
+  ],
+  "crossCheck": "https://ditu.amap.com/place/B00140WBI1",
+  "crossCheckMeters": 4.7,
+  "type": "urban",
+  "tier": "national"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "gulangyu",
+  "name": "鼓浪屿",
+  "file": "gulangyu.glb",
+  "version": "national-v1",
+  "source": "https://www.fj.gov.cn/xwdt/mszx/202608/t20260806_7196669.htm",
+  "sourceCopy": "data/landmarks/gulangyu/source.blend",
+  "sourceSha256": "510ee05fec611b99d3565f07b2dc97cd8846d609d141df740def48ea6157245a",
+  "triangles": 3636,
+  "bytes": 497400,
+  "sha256": "57aeca694fd056f737a9ad417427708ecc675f32c6db09e4bc7aace1208714a1",
+  "materials": 10,
+  "embeddedImages": 10,
+  "bounds": {
+    "min": [
+      -5.400000095367432,
+      0,
+      -4.099999904632568
+    ],
+    "max": [
+      5.400000095367432,
+      6.929999828338623,
+      4.099999904632568
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 3636
+}

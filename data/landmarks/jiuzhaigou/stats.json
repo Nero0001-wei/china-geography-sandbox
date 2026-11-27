@@ -1,0 +1,28 @@
+{
+  "id": "jiuzhaigou",
+  "name": "九寨沟",
+  "version": "national-v1",
+  "file": "jiuzhaigou.glb",
+  "source": "https://www.jiuzhai.com/about/scenic-spot/eature-spot/6117-2017-11-28-02",
+  "sourceCopy": "data/landmarks/jiuzhaigou/source.blend",
+  "sourceTriangles": 9904,
+  "sourceSha256": "fffdc04784e2f6d5b32fd40ef73d2a9cfaac053a513835167feb9264134430b2",
+  "triangles": 7530,
+  "bytes": 670924,
+  "sha256": "83c109e7675487d3586f4eb6b9410f883cc93d6197ef51fdf2d701b7c7f85918",
+  "materials": 9,
+  "embeddedImages": 9,
+  "bounds": {
+    "min": [
+      -3.950350046157837,
+      -0.0007542734383605421,
+      -1.8706505298614502
+    ],
+    "max": [
+      4.02299165725708,
+      2.597609281539917,
+      2.131718635559082
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+}

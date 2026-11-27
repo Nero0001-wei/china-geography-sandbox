@@ -1,0 +1,28 @@
+{
+  "id": "orange-isle",
+  "name": "长沙橘子洲",
+  "file": "orange-isle.glb",
+  "version": "national-v1",
+  "source": "https://www.hunan.gov.cn/hnszf/jxxx/hslv/c101474/202108/t20210827_20403826.html",
+  "sourceCopy": "data/landmarks/orange-isle/source.blend",
+  "sourceSha256": "2aab45e4c7743aa1d80772fd85c7041febd9280ac993a347a5f45e3ac801185f",
+  "triangles": 3446,
+  "bytes": 325492,
+  "sha256": "95fb17712c16d2379797fc06993a721fb17815a5d154c1221ed68ca0a1348443",
+  "materials": 13,
+  "embeddedImages": 12,
+  "sourceTriangles": 3446,
+  "bounds": {
+    "min": [
+      -4.099999904632568,
+      0,
+      -4.449999809265137
+    ],
+    "max": [
+      4.099999904632568,
+      3.859999895095825,
+      4.449999809265137
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

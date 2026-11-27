@@ -1,0 +1,28 @@
+{
+  "id": "qutang-kuimen",
+  "name": "长江三峡·瞿塘峡夔门",
+  "file": "qutang-kuimen.glb",
+  "version": "national-v1",
+  "source": "https://www.cq.gov.cn/zjcq/cycq/zmjd/zqaaaaajjq/202606/t20260604_15729050.html",
+  "sourceCopy": "data/landmarks/qutang-kuimen/source.blend",
+  "sourceSha256": "9f5fbd41a54d439a65749f1b4562404e37ebb24367fd834b00177b78ff4d55db",
+  "triangles": 7690,
+  "bytes": 752528,
+  "sha256": "464bab36f62f860a54627e7a331d3d36837246e9728fae80a1687a831326e288",
+  "materials": 17,
+  "embeddedImages": 3,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      4.414467811584473,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 8406
+}

@@ -1,0 +1,23 @@
+{
+  "id": "potala",
+  "name": "布达拉宫",
+  "province": "西藏自治区",
+  "city": "拉萨市",
+  "anchorSource": "https://www.openstreetmap.org/way/31475419",
+  "frontBearing": 180,
+  "groundSpanMeters": 360,
+  "description": "红山上红宫居中，白宫沿坡展开，金顶、窗带与折返台阶保留在全国版剪影中。",
+  "driveQuery": "布达拉宫西门停车场",
+  "transitQuery": "布达拉宫广场公交站",
+  "visualSource": "https://whc.unesco.org/en/list/707/",
+  "anchorMethod": "OpenStreetMap 布达拉宫主体建筑外沿封闭多边形的面积质心。",
+  "frontNote": "取面向布达拉宫广场的南立面。",
+  "period": "以17世纪扩建后保留至今的红白宫群为参考",
+  "anchor": [
+    91.1173514,
+    29.6579495
+  ],
+  "anchorCrs": "WGS84",
+  "type": "heritage",
+  "tier": "national"
+}

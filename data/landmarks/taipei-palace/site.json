@@ -1,0 +1,19 @@
+{
+  "id": "taipei-palace",
+  "name": "台北故宫博物院",
+  "province": "台湾",
+  "city": "台北市",
+  "anchor": [
+    121.5486111,
+    25.1022222
+  ],
+  "anchorSource": "https://www.wikidata.org/wiki/Q540668",
+  "anchorCrs": "WGS84",
+  "frontBearing": 188,
+  "groundSpanMeters": 150,
+  "description": "北部院区正馆立在白色平台上，中央重檐铺绿色琉璃瓦，两翼向侧面展开。",
+  "type": "museum",
+  "tier": "national",
+  "visualSource": "https://south.npm.gov.tw/Uploads/files/%E6%95%85%E5%AE%AE%E5%A5%BD%E5%AE%A2%20%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8A0113.pdf",
+  "siteNotes": "取北部院区主建筑坐标。取 1965 年开馆的北部院区正馆现状，保留中轴阶梯和绿色重檐。"
+}

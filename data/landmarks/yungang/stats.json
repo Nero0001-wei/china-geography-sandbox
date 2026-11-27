@@ -1,0 +1,28 @@
+{
+  "id": "yungang",
+  "name": "云冈石窟",
+  "file": "yungang.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/1039/",
+  "sourceCopy": "data/landmarks/yungang/source.blend",
+  "sourceSha256": "6d908c70d02ab1ac45038a7c05b6701e34302eded1a453518158ed231fa6f02e",
+  "triangles": 5162,
+  "bytes": 535132,
+  "sha256": "b8495e242094327fcc07f666b31c6745b20d39481c836d134055b3c23f19f899",
+  "materials": 5,
+  "embeddedImages": 5,
+  "bounds": {
+    "min": [
+      -5.300000190734863,
+      0,
+      -2.2249999046325684
+    ],
+    "max": [
+      5.300000190734863,
+      5.640328884124756,
+      2.2249999046325684
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 5162
+}

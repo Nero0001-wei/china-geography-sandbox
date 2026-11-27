@@ -1,0 +1,28 @@
+{
+  "id": "west-lake",
+  "name": "杭州西湖·三潭印月",
+  "file": "west-lake.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/1334/",
+  "sourceCopy": "data/landmarks/west-lake/source.blend",
+  "sourceTriangles": 6296,
+  "sourceSha256": "c37cd43a66252516c0529d6795215bbd020e09bc6781dfd846b85472469c43be",
+  "triangles": 6296,
+  "bytes": 457468,
+  "sha256": "7870d4a935562b257255abbe8608b366c039305c9e873b9a00a27fbd176c6bee",
+  "materials": 4,
+  "embeddedImages": 3,
+  "bounds": {
+    "min": [
+      -8,
+      0,
+      -6
+    ],
+    "max": [
+      8,
+      3.190000057220459,
+      6
+    ]
+  },
+  "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+}

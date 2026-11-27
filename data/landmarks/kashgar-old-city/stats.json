@@ -1,0 +1,28 @@
+{
+  "id": "kashgar-old-city",
+  "name": "喀什古城",
+  "file": "kashgar-old-city.glb",
+  "version": "national-v1",
+  "source": "https://www.neac.gov.cn/seac/xwzx/202607/1192630.shtml",
+  "sourceCopy": "data/landmarks/kashgar-old-city/source.blend",
+  "sourceSha256": "beb0eb8958c04536d28dc9c594ae8a940fd6ab7127e3b000e123d2145f58c398",
+  "triangles": 1382,
+  "bytes": 127420,
+  "sha256": "4673344363a219ba2f6dc5c7b0df526ae779d976ca5a99cb5caf7dda36b42c8f",
+  "materials": 6,
+  "embeddedImages": 6,
+  "sourceTriangles": 1382,
+  "bounds": {
+    "min": [
+      -5.199999809265137,
+      0,
+      -3.799999952316284
+    ],
+    "max": [
+      5.199999809265137,
+      4.369999885559082,
+      3.799999952316284
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "fenghuang",
+  "name": "凤凰古城",
+  "province": "湖南省",
+  "city": "湘西土家族苗族自治州",
+  "anchor": [
+    109.6018403,
+    27.9518049
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/286788519",
+  "anchorCrs": "WGS84",
+  "frontBearing": 281.4,
+  "groundSpanMeters": 98,
+  "description": "沱江虹桥的石拱托起双层廊楼，与外侧沿江吊脚楼遥相呼应。",
+  "type": "town-garden",
+  "tier": "regional",
+  "visualSource": "https://www.hnrd.gov.cn/content/2006/07/22/7267206.html",
+  "siteNotes": "取 OpenStreetMap 虹桥线两端的中点。模型表现现状双层风雨楼和两岸吊脚楼。正面从沱江上游沿河观看。"
+}

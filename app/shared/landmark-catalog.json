@@ -1,0 +1,3548 @@
+[
+  {
+    "id": "badaling",
+    "name": "八达岭长城",
+    "city": "北京市",
+    "province": "北京市",
+    "description": "北四楼建筑中心；沿山脊起伏的雉堞与敌楼。",
+    "anchor": [
+      116.0117463,
+      40.3564787
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1250479562",
+    "frontBearing": 159,
+    "groundSpanMeters": 145,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B000A8VOLK",
+      "name": "八达岭长城岔西停车场",
+      "location": [
+        115.990987,
+        40.363534
+      ],
+      "address": "G6京藏高速58号出口八达岭长城",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110119",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B000A8VOLK"
+    },
+    "transitDestination": {
+      "id": "B0FFKR0YGX",
+      "name": "八达岭长城站",
+      "location": [
+        115.985612,
+        40.3618
+      ],
+      "address": "北京市 北京市 延庆区",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110119",
+      "typecode": "150200",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFKR0YGX"
+    }
+  },
+  {
+    "id": "beijing-universal",
+    "name": "北京环球度假区",
+    "city": "北京市",
+    "province": "北京市",
+    "description": "城市大道的地球雕塑和环形喷泉。",
+    "anchor": [
+      116.6709294,
+      39.8511332
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/8568400246",
+    "frontBearing": 165,
+    "groundSpanMeters": 35,
+    "type": "theme-park",
+    "tier": "national",
+    "destination": {
+      "id": "B0HAVUA027",
+      "name": "北京环球度假区停车楼(入口)",
+      "location": [
+        116.679096,
+        39.845244
+      ],
+      "address": "北京环球度假区",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110112",
+      "typecode": "150907",
+      "sourceUrl": "https://ditu.amap.com/place/B0HAVUA027"
+    },
+    "transitDestination": {
+      "id": "BV10850689",
+      "name": "环球度假区(地铁站)",
+      "location": [
+        116.679099,
+        39.849152
+      ],
+      "address": "1号线/八通线;7号线",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110112",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10850689"
+    }
+  },
+  {
+    "id": "saint-sophia",
+    "name": "圣索菲亚教堂",
+    "city": "哈尔滨市",
+    "province": "黑龙江省",
+    "description": "希腊十字形红砖教堂、铜绿洋葱穹顶和前部钟楼。",
+    "anchor": [
+      126.62128754,
+      45.7681908
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/338425563",
+    "frontBearing": 253,
+    "groundSpanMeters": 54,
+    "type": "heritage",
+    "tier": "regional",
+    "destination": {
+      "id": "B0GK1SWCB1",
+      "name": "新一百地面停车场",
+      "location": [
+        126.623668,
+        45.770508
+      ],
+      "address": "石头道街118号哈尔滨新一百(西北角)",
+      "city": "哈尔滨市",
+      "cityCode": "0451",
+      "adcode": "230102",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0GK1SWCB1"
+    },
+    "transitDestination": {
+      "id": "BV09006019",
+      "name": "建筑艺术广场站(公交站)",
+      "location": [
+        126.628236,
+        45.770785
+      ],
+      "address": "哈尔滨市建筑艺术广场站",
+      "city": "哈尔滨市",
+      "cityCode": "0451",
+      "adcode": "230102",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09006019"
+    }
+  },
+  {
+    "id": "qinhuai",
+    "name": "夫子庙秦淮风光带",
+    "city": "南京市",
+    "province": "江苏省",
+    "description": "泮池岸边的大照壁、双龙浮雕与秦淮画舫。",
+    "anchor": [
+      118.78477532,
+      32.02144539
+    ],
+    "anchorSource": "https://ditu.amap.com/place/B00190BSEQ",
+    "frontBearing": 326,
+    "groundSpanMeters": 109,
+    "type": "town-garden",
+    "tier": "regional",
+    "destination": {
+      "id": "B0FFGH3S4X",
+      "name": "夫子庙商贸城地下停车场",
+      "location": [
+        118.786659,
+        32.018477
+      ],
+      "address": "奥特莱斯商场瞻园店南门旁",
+      "city": "南京市",
+      "cityCode": "025",
+      "adcode": "320104",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFGH3S4X"
+    },
+    "transitDestination": {
+      "id": "BV10055550",
+      "name": "夫子庙(地铁站)",
+      "location": [
+        118.791072,
+        32.023567
+      ],
+      "address": "3号线;5号线",
+      "city": "南京市",
+      "cityCode": "025",
+      "adcode": "320104",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10055550"
+    }
+  },
+  {
+    "id": "bund",
+    "name": "上海外滩",
+    "city": "上海市",
+    "province": "上海市",
+    "description": "面向黄浦江的江海关钟楼与相邻原汇丰银行圆顶。",
+    "anchor": [
+      121.48543543,
+      31.23861504
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/178407318",
+    "frontBearing": 105,
+    "groundSpanMeters": 150,
+    "type": "urban",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFGN6MHN",
+      "name": "外滩停车库(入口)",
+      "location": [
+        121.492222,
+        31.23298
+      ],
+      "address": "中山东一路49号外滩停车库",
+      "city": "上海市",
+      "cityCode": "021",
+      "adcode": "310101",
+      "typecode": "150907",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFGN6MHN"
+    },
+    "transitDestination": {
+      "id": "BV10025233",
+      "name": "中山东一路南京东路(公交站)",
+      "location": [
+        121.490309,
+        31.241412
+      ],
+      "address": "上海市中山东一路南京东路",
+      "city": "上海市",
+      "cityCode": "021",
+      "adcode": "310101",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10025233"
+    }
+  },
+  {
+    "id": "shanghai-disney",
+    "name": "上海迪士尼度假区",
+    "city": "上海市",
+    "province": "上海市",
+    "description": "奇幻童话城堡的层叠粉色塔身、蓝色塔帽与金色尖顶。",
+    "anchor": [
+      121.65532471,
+      31.14574596
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/494348161",
+    "frontBearing": 171,
+    "groundSpanMeters": 98,
+    "type": "theme-park",
+    "tier": "national",
+    "destination": {
+      "id": "B0IG7ZO6R8",
+      "name": "上海迪士尼度假区P4地面停车场",
+      "location": [
+        121.67847952,
+        31.14434944
+      ],
+      "address": "上海迪士尼度假区",
+      "city": "上海市",
+      "cityCode": "021",
+      "adcode": "310115",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0IG7ZO6R8"
+    },
+    "transitDestination": {
+      "id": "BV10681608",
+      "name": "迪士尼(地铁站)",
+      "location": [
+        121.667959,
+        31.141263
+      ],
+      "address": "(在建)21号线;11号线",
+      "city": "上海市",
+      "cityCode": "021",
+      "adcode": "310115",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10681608"
+    }
+  },
+  {
+    "id": "west-lake",
+    "name": "杭州西湖·三潭印月",
+    "city": "杭州市",
+    "province": "浙江省",
+    "description": "小瀛洲南侧水中的三座石塔，保留葫芦顶、球腹和圆洞。",
+    "anchor": [
+      120.139741,
+      30.2394106
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/9025997767",
+    "frontBearing": 180,
+    "groundSpanMeters": 65,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFHL3WTC",
+      "name": "杭州西湖风景名胜区花港观鱼停车场",
+      "location": [
+        120.137534,
+        30.230177
+      ],
+      "address": "杭州西湖风景名胜区内",
+      "city": "杭州市",
+      "cityCode": "0571",
+      "adcode": "330106",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFHL3WTC"
+    },
+    "transitDestination": {
+      "id": "BV09106495",
+      "name": "苏堤南口(公交站)",
+      "location": [
+        120.145809,
+        30.228789
+      ],
+      "address": "杭州市苏堤南口",
+      "city": "杭州市",
+      "cityCode": "0571",
+      "adcode": "330106",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09106495"
+    }
+  },
+  {
+    "id": "hengdian",
+    "name": "横店影视城·秦王宫",
+    "city": "金华市",
+    "province": "浙江省",
+    "description": "四海归一殿的大殿、深灰瓦面、高台与阶梯。",
+    "anchor": [
+      120.30887168,
+      29.13897336
+    ],
+    "anchorSource": "https://ditu.amap.com/place/B0FFF05DMT",
+    "frontBearing": 150,
+    "groundSpanMeters": 145,
+    "type": "theme-park",
+    "tier": "regional",
+    "destination": {
+      "id": "B02430HU3B",
+      "name": "横店影视城秦王宫园区1号停车场",
+      "location": [
+        120.315066,
+        29.131443
+      ],
+      "address": "秦清路秦王宫",
+      "city": "金华市",
+      "cityCode": "0579",
+      "adcode": "330783",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B02430HU3B"
+    },
+    "transitDestination": {
+      "id": "BV10734433",
+      "name": "秦王宫(公交站)",
+      "location": [
+        120.315024,
+        29.131336
+      ],
+      "address": "金华市秦王宫",
+      "city": "金华市",
+      "cityCode": "0579",
+      "adcode": "330783",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10734433"
+    }
+  },
+  {
+    "id": "taishan",
+    "name": "泰山南天门",
+    "city": "泰安市",
+    "province": "山东省",
+    "description": "十八盘最后一段石阶、朱红拱门和门上黄瓦楼阁。",
+    "anchor": [
+      117.09833928,
+      36.25547791
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/169049697",
+    "frontBearing": 180,
+    "groundSpanMeters": 65,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B021A01I1G",
+      "name": "天外村地下停车场",
+      "location": [
+        117.107657,
+        36.205468
+      ],
+      "address": "环山路与龙潭路交界处路西南",
+      "city": "泰安市",
+      "cityCode": "0538",
+      "adcode": "370902",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B021A01I1G"
+    },
+    "transitDestination": {
+      "id": "BV10166827",
+      "name": "天外村(公交站)",
+      "location": [
+        117.104287,
+        36.207112
+      ],
+      "address": "泰安市天外村",
+      "city": "泰安市",
+      "cityCode": "0538",
+      "adcode": "370902",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10166827"
+    }
+  },
+  {
+    "id": "longmen",
+    "name": "龙门石窟",
+    "city": "洛阳市",
+    "province": "河南省",
+    "description": "奉先寺大像龛的卢舍那坐佛和侍立造像。",
+    "anchor": [
+      112.469977,
+      34.5526931
+    ],
+    "anchorSource": "https://ditu.amap.com/place/B0FFI960ON",
+    "frontBearing": 90,
+    "groundSpanMeters": 38,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B0KD9UUXWI",
+      "name": "龙门石窟2号停车场(西北服务区)",
+      "location": [
+        112.473637,
+        34.568605
+      ],
+      "address": "238省道龙门石窟",
+      "city": "洛阳市",
+      "cityCode": "0379",
+      "adcode": "410311",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0KD9UUXWI"
+    },
+    "transitDestination": {
+      "id": "BV10098569",
+      "name": "龙门石窟(公交站)",
+      "location": [
+        112.483905,
+        34.56432
+      ],
+      "address": "洛阳市龙门石窟",
+      "city": "洛阳市",
+      "cityCode": "0379",
+      "adcode": "410311",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10098569"
+    }
+  },
+  {
+    "id": "yellow-crane",
+    "name": "黄鹤楼",
+    "city": "武汉市",
+    "province": "湖北省",
+    "description": "蛇山上的五层黄鹤楼，金色飞檐逐层收分，朱柱和回廊环绕塔身。",
+    "anchor": [
+      114.297047,
+      30.547078
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/81641900",
+    "frontBearing": 260,
+    "groundSpanMeters": 32,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B001B15XOG",
+      "name": "黄鹤楼公园地下停车场",
+      "location": [
+        114.307299,
+        30.541891
+      ],
+      "address": "首义路街街道武昌路黄鹤楼公园内(南侧)",
+      "city": "武汉市",
+      "cityCode": "027",
+      "adcode": "420106",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B001B15XOG"
+    },
+    "transitDestination": {
+      "id": "BV10804921",
+      "name": "司门口黄鹤楼(地铁站)",
+      "location": [
+        114.302183,
+        30.546899
+      ],
+      "address": "5号线",
+      "city": "武汉市",
+      "cityCode": "027",
+      "adcode": "420106",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10804921"
+    }
+  },
+  {
+    "id": "tianmen",
+    "name": "张家界天门山",
+    "city": "张家界市",
+    "province": "湖南省",
+    "description": "天门洞贯穿绝壁，洞前陡阶向山下的天门洞广场延伸。",
+    "anchor": [
+      110.4826611,
+      29.051197
+    ],
+    "anchorSource": "https://ditu.amap.com/place/B0FFF3CRLZ",
+    "frontBearing": 332,
+    "groundSpanMeters": 135,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0L13R6WX7",
+      "name": "天门山索道西南侧停车场",
+      "location": [
+        110.4817939507825,
+        29.11156078750417
+      ],
+      "address": "大庸路80号天门山索道内(西侧)",
+      "city": "张家界市",
+      "cityCode": "0744",
+      "adcode": "430802",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0L13R6WX7"
+    },
+    "transitDestination": {
+      "id": "BV10235523",
+      "name": "天门山索道站(公交站)",
+      "location": [
+        110.483246,
+        29.111294
+      ],
+      "address": "张家界市天门山索道站",
+      "city": "张家界市",
+      "cityCode": "0744",
+      "adcode": "430802",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10235523"
+    }
+  },
+  {
+    "id": "canton-tower",
+    "name": "广州塔",
+    "city": "广州市",
+    "province": "广东省",
+    "description": "网格斜柱在塔腰收紧，顶部观景层与桅杆向上伸出。",
+    "anchor": [
+      113.3191463,
+      23.1090126
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/584204634",
+    "frontBearing": 0,
+    "groundSpanMeters": 80,
+    "type": "urban",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFGZW7VB",
+      "name": "广州塔地下停车场(入口)",
+      "location": [
+        113.323744,
+        23.105518
+      ],
+      "address": "广州塔地下停车场(广州塔地铁站出入口步行110米)",
+      "city": "广州市",
+      "cityCode": "020",
+      "adcode": "440105",
+      "typecode": "150907",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFGZW7VB"
+    },
+    "transitDestination": {
+      "id": "BV10015731",
+      "name": "广州塔(地铁站)",
+      "location": [
+        113.323464,
+        23.106483
+      ],
+      "address": "3号线;APM线",
+      "city": "广州市",
+      "cityCode": "020",
+      "adcode": "440105",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10015731"
+    }
+  },
+  {
+    "id": "elephant-hill",
+    "name": "桂林象鼻山",
+    "city": "桂林市",
+    "province": "广西壮族自治区",
+    "description": "象鼻与山体围合出透空的水月洞，山顶有小砖塔。",
+    "anchor": [
+      110.292042,
+      25.2703267
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/9482724876",
+    "frontBearing": 20,
+    "groundSpanMeters": 70,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B03050V0WG",
+      "name": "象鼻山景区停车场",
+      "location": [
+        110.29313,
+        25.266729
+      ],
+      "address": "南环路22号象鼻山景区内(西侧)",
+      "city": "桂林市",
+      "cityCode": "0773",
+      "adcode": "450304",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B03050V0WG"
+    },
+    "transitDestination": {
+      "id": "BV10270030",
+      "name": "象山公园(公交站)",
+      "location": [
+        110.29303,
+        25.267469
+      ],
+      "address": "桂林市象山公园",
+      "city": "桂林市",
+      "cityCode": "0773",
+      "adcode": "450304",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10270030"
+    }
+  },
+  {
+    "id": "hongyadong",
+    "name": "重庆洪崖洞",
+    "city": "重庆市",
+    "province": "重庆市",
+    "description": "吊脚楼沿嘉陵江岸层叠展开，木色廊柱和青瓦屋檐依崖抬升。",
+    "anchor": [
+      106.5753389,
+      29.5650514
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/939578294",
+    "frontBearing": 20,
+    "groundSpanMeters": 180,
+    "type": "urban",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFIDIILX",
+      "name": "洪崖洞民俗风貌区地下停车场",
+      "location": [
+        106.57767746,
+        29.56209586
+      ],
+      "address": "嘉陵江滨江路88号洪崖洞民俗风貌区内(西侧)",
+      "city": "重庆市",
+      "cityCode": "023",
+      "adcode": "500103",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFIDIILX"
+    },
+    "transitDestination": {
+      "id": "BV10045951",
+      "name": "小什字(地铁站)",
+      "location": [
+        106.583593,
+        29.560028
+      ],
+      "address": "(在建)18号线渝中延伸段;1号线;6号线",
+      "city": "重庆市",
+      "cityCode": "023",
+      "adcode": "500103",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10045951"
+    }
+  },
+  {
+    "id": "panda-base",
+    "name": "成都大熊猫繁育研究基地",
+    "city": "成都市",
+    "province": "四川省",
+    "description": "以月亮产房区域代表性户外栖息场为取景，一只黑白大熊猫在木架和竹丛旁活动。",
+    "anchor": [
+      104.1369981,
+      30.7418672
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/11994568342",
+    "frontBearing": 180,
+    "groundSpanMeters": 20,
+    "type": "theme-park",
+    "tier": "national",
+    "destination": {
+      "id": "B0MBPN0LT6",
+      "name": "成都大熊猫繁育研究基地南侧地上停车场",
+      "location": [
+        104.14099,
+        30.727165
+      ],
+      "address": "楠竹巷与熊猫大道辅路交叉口东南100米",
+      "city": "成都市",
+      "cityCode": "028",
+      "adcode": "510108",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0MBPN0LT6"
+    },
+    "transitDestination": {
+      "id": "BV11433023",
+      "name": "熊猫基地(熊猫大道)(公交站)",
+      "location": [
+        104.14372,
+        30.73197
+      ],
+      "address": "成都市熊猫基地",
+      "city": "成都市",
+      "cityCode": "028",
+      "adcode": "510108",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV11433023"
+    }
+  },
+  {
+    "id": "jiuzhaigou",
+    "name": "九寨沟",
+    "city": "阿坝藏族羌族自治州",
+    "province": "四川省",
+    "description": "诺日朗瀑布的钙华台地上林带密布，多股水帘从弧形台缘流下。",
+    "anchor": [
+      103.9049161,
+      33.1649162
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1330416162",
+    "frontBearing": 35,
+    "groundSpanMeters": 270,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFGDXCP9",
+      "name": "九寨沟管理局-沟口地面停车场",
+      "location": [
+        103.915454,
+        33.266751
+      ],
+      "address": "漳扎镇",
+      "city": "阿坝藏族羌族自治州",
+      "cityCode": "0837",
+      "adcode": "513225",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFGDXCP9"
+    },
+    "transitDestination": {
+      "id": "B0FFG6S17F",
+      "name": "九寨沟旅游客运中心",
+      "location": [
+        103.925398,
+        33.274537
+      ],
+      "address": "九寨沟景区",
+      "city": "阿坝藏族羌族自治州",
+      "cityCode": "0837",
+      "adcode": "513225",
+      "typecode": "150400",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFG6S17F"
+    }
+  },
+  {
+    "id": "dali",
+    "name": "大理古城",
+    "city": "大理白族自治州",
+    "province": "云南省",
+    "description": "南城门的石砌拱道穿过城台，上部城楼有朱柱与层叠的灰瓦屋面。",
+    "anchor": [
+      100.1626768,
+      25.6907878
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/308500442",
+    "frontBearing": 165,
+    "groundSpanMeters": 47,
+    "type": "town-garden",
+    "tier": "regional",
+    "destination": {
+      "id": "B0HDV5YJUL",
+      "name": "大理古城南门地面停车场",
+      "location": [
+        100.166326,
+        25.6873
+      ],
+      "address": "大理古城南门城隍庙对面",
+      "city": "大理白族自治州",
+      "cityCode": "0872",
+      "adcode": "532901",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0HDV5YJUL"
+    },
+    "transitDestination": {
+      "id": "BV09214664",
+      "name": "大理古城南门(公交站)",
+      "location": [
+        100.159741,
+        25.685401
+      ],
+      "address": "大理白族自治州大理古城南门",
+      "city": "大理白族自治州",
+      "cityCode": "0872",
+      "adcode": "532901",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09214664"
+    }
+  },
+  {
+    "id": "lijiang",
+    "name": "丽江古城",
+    "city": "丽江市",
+    "province": "云南省",
+    "description": "以北门玉河畔的两架木水车为主体，后方取一段灰瓦纳西民居。",
+    "anchor": [
+      100.2321835,
+      26.8794749
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/9188820891",
+    "frontBearing": 84,
+    "groundSpanMeters": 25,
+    "type": "town-garden",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFKWV7BY",
+      "name": "玉缘路停车场",
+      "location": [
+        100.235543,
+        26.876888
+      ],
+      "address": "玉缘路与金虹路交叉口西北80米",
+      "city": "丽江市",
+      "cityCode": "0888",
+      "adcode": "530702",
+      "typecode": "150906",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFKWV7BY"
+    },
+    "transitDestination": {
+      "id": "BV09166214",
+      "name": "丽江古城口(公交站)",
+      "location": [
+        100.231007,
+        26.875109
+      ],
+      "address": "丽江市丽江古城口",
+      "city": "丽江市",
+      "cityCode": "0888",
+      "adcode": "530702",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09166214"
+    }
+  },
+  {
+    "id": "potala",
+    "name": "布达拉宫",
+    "city": "拉萨市",
+    "province": "西藏自治区",
+    "description": "红山上红宫居中，白宫沿坡展开，金顶、窗带与折返台阶保留在全国版剪影中。",
+    "anchor": [
+      91.1173514,
+      29.6579495
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/31475419",
+    "frontBearing": 180,
+    "groundSpanMeters": 360,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFFY4GXQ",
+      "name": "白塔地面停车场",
+      "location": [
+        91.114714,
+        29.652664
+      ],
+      "address": "布达拉宫西门(宫前巷35号)",
+      "city": "拉萨市",
+      "cityCode": "0891",
+      "adcode": "540102",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFFY4GXQ"
+    },
+    "transitDestination": {
+      "id": "BV10290588",
+      "name": "拉百站(公交站)",
+      "location": [
+        91.12146,
+        29.649384
+      ],
+      "address": "拉萨市拉百站",
+      "city": "拉萨市",
+      "cityCode": "0891",
+      "adcode": "540102",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10290588"
+    }
+  },
+  {
+    "id": "terracotta",
+    "name": "秦始皇兵马俑",
+    "city": "西安市",
+    "province": "陕西省",
+    "description": "以一号坑的坑内剖视展示步兵俑的平行军阵与夯土隔墙。",
+    "anchor": [
+      109.2731572,
+      34.384966
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/60126645",
+    "frontBearing": 92,
+    "groundSpanMeters": 230,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B001D0095C",
+      "name": "秦始皇兵马俑博物馆第1停车场",
+      "location": [
+        109.284977,
+        34.390095
+      ],
+      "address": "临蓝路秦始皇兵马俑博物馆",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610115",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B001D0095C"
+    },
+    "transitDestination": {
+      "id": "BV09438150",
+      "name": "秦始皇兵马俑博物馆(公交站)",
+      "location": [
+        109.285308,
+        34.388565
+      ],
+      "address": "西安市秦始皇兵马俑博物馆",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610115",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09438150"
+    }
+  },
+  {
+    "id": "tang-paradise",
+    "name": "大唐芙蓉园",
+    "city": "西安市",
+    "province": "陕西省",
+    "description": "紫云楼立在朱褐色高台上，灰瓦重檐与朱柱构成临湖楼阁的剪影。",
+    "anchor": [
+      108.9691462,
+      34.2143631
+    ],
+    "anchorSource": "https://www.amap.com/place/B001D0Z5D3",
+    "frontBearing": 0,
+    "groundSpanMeters": 92,
+    "type": "theme-park",
+    "tier": "regional",
+    "destination": {
+      "id": "B0FFG8V2AV",
+      "name": "大唐芙蓉园西门停车场(出入口)",
+      "location": [
+        108.969673,
+        34.212803
+      ],
+      "address": "芙蓉西路99号(大唐芙蓉园地铁站D东北口步行330米)",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610113",
+      "typecode": "150909",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFG8V2AV"
+    },
+    "transitDestination": {
+      "id": "BV10527902",
+      "name": "大唐芙蓉园(地铁站)",
+      "location": [
+        108.971227,
+        34.209813
+      ],
+      "address": "4号线",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610113",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10527902"
+    }
+  },
+  {
+    "id": "mogao",
+    "name": "敦煌莫高窟",
+    "city": "酒泉市",
+    "province": "甘肃省",
+    "description": "九层楼贴在砾岩崖壁上，层层挑檐与两侧较小洞窟表现崖面尺度。",
+    "anchor": [
+      94.8037828,
+      40.0372951
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1308425685",
+    "frontBearing": 86,
+    "groundSpanMeters": 38,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B0JR7SGLGY",
+      "name": "敦煌莫高窟数字展示中心南停车场",
+      "location": [
+        94.76766593,
+        40.15840748
+      ],
+      "address": "敦煌莫高窟数字展示中心内(南侧)",
+      "city": "酒泉市",
+      "cityCode": "0937",
+      "adcode": "620982",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0JR7SGLGY"
+    },
+    "transitDestination": {
+      "id": "BV09247216",
+      "name": "莫高窟数字中心站(公交站)",
+      "location": [
+        94.767201,
+        40.16295
+      ],
+      "address": "酒泉市莫高窟数字中心站",
+      "city": "酒泉市",
+      "cityCode": "0937",
+      "adcode": "620982",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09247216"
+    }
+  },
+  {
+    "id": "sayram",
+    "name": "赛里木湖",
+    "city": "博尔塔拉蒙古自治州",
+    "province": "新疆维吾尔自治区",
+    "description": "选择湖西南岸克勒涌珠，从岸石、草坡、蓝色湖面和远山截取一段典型岸线。",
+    "anchor": [
+      81.0191847,
+      44.5603504
+    ],
+    "anchorSource": "https://www.amap.com/place/B0FFG6HMNB",
+    "frontBearing": 70,
+    "groundSpanMeters": 350,
+    "type": "nature",
+    "tier": "regional",
+    "destination": {
+      "id": "B0LGACMSB5",
+      "name": "赛里木湖国家级风景名胜区东门新游客中心停车场",
+      "location": [
+        81.387786,
+        44.617207
+      ],
+      "address": "30国道旁赛里木湖国家级风景名胜区",
+      "city": "博尔塔拉蒙古自治州",
+      "cityCode": "0909",
+      "adcode": "652701",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0LGACMSB5"
+    },
+    "transitDestination": {
+      "id": "B0LDK683WW",
+      "name": "赛里木湖国家级风景名胜区新游客中心",
+      "location": [
+        81.38656,
+        44.616804
+      ],
+      "address": "新疆维吾尔自治区 博尔塔拉蒙古自治州 博乐市",
+      "city": "博尔塔拉蒙古自治州",
+      "cityCode": "0909",
+      "adcode": "652701",
+      "typecode": "070201",
+      "sourceUrl": "https://ditu.amap.com/place/B0LDK683WW"
+    }
+  },
+  {
+    "id": "hk-disney",
+    "name": "香港迪士尼乐园",
+    "city": "香港",
+    "province": "香港特别行政区",
+    "description": "以奇妙梦想城堡的正门、中央高塔和多色细尖塔群为代表。",
+    "anchor": [
+      114.0410847,
+      22.3126249
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/802061958",
+    "frontBearing": 71,
+    "groundSpanMeters": 51,
+    "type": "theme-park",
+    "tier": "national",
+    "destination": {
+      "id": "B073C039N1",
+      "name": "香港迪士尼乐园停车场",
+      "location": [
+        114.054488,
+        22.314347
+      ],
+      "address": "新界香港迪士尼乐园度假区",
+      "city": "香港特别行政区",
+      "cityCode": "1852",
+      "adcode": "810010",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B073C039N1"
+    },
+    "transitDestination": {
+      "id": "BV10321748",
+      "name": "迪士尼(地铁站)",
+      "location": [
+        114.050251,
+        22.312738
+      ],
+      "address": "迪士尼线",
+      "city": "香港特别行政区",
+      "cityCode": "1852",
+      "adcode": "810018",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10321748"
+    }
+  },
+  {
+    "id": "st-pauls",
+    "name": "澳门大三巴牌坊",
+    "city": "澳门",
+    "province": "澳门特别行政区",
+    "description": "保留石质立面的五层山花、贯通门洞、窗洞与面向前地的石阶。",
+    "anchor": [
+      113.5408602,
+      22.1974569
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/192183185",
+    "frontBearing": 179.1,
+    "groundSpanMeters": 23,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B073D00G6W",
+      "name": "柏港停车场",
+      "location": [
+        113.541546,
+        22.194734
+      ],
+      "address": "巴素打尔古街",
+      "city": "澳门特别行政区",
+      "cityCode": "1853",
+      "adcode": "820002",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B073D00G6W"
+    },
+    "transitDestination": {
+      "id": "BV10455873",
+      "name": "白鸽巢前地(公交站)",
+      "location": [
+        113.544573,
+        22.196185
+      ],
+      "address": "澳门特别行政区白鸽巢前地",
+      "city": "澳门特别行政区",
+      "cityCode": "1853",
+      "adcode": "820002",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10455873"
+    }
+  },
+  {
+    "id": "taipei-101",
+    "name": "台北101",
+    "city": "台北市",
+    "province": "台湾",
+    "description": "采用青绿色玻璃叠竹节的八组塔身、收窄基座，以及顶部细长的塔冠和天线。",
+    "anchor": [
+      121.5644968,
+      25.0339726
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1159328965",
+    "frontBearing": 181.2,
+    "groundSpanMeters": 55,
+    "type": "urban",
+    "tier": "national",
+    "destination": {
+      "id": "B0L0FR77CE",
+      "name": "台北101停车场入口(市府路)",
+      "location": [
+        121.56730201754236,
+        25.03043065442503
+      ],
+      "address": "110台湾台北市信义区西村里市府路45号",
+      "city": "台北市",
+      "cityCode": "2958",
+      "adcode": "710111",
+      "typecode": "150900",
+      "sourceUrl": "https://ditu.amap.com/place/B0L0FR77CE"
+    },
+    "transitDestination": {
+      "id": "BV09105803",
+      "name": "台北101/世贸(地铁站)",
+      "location": [
+        121.566504,
+        25.030036
+      ],
+      "address": "淡水信义线",
+      "city": "台北市",
+      "cityCode": "2958",
+      "adcode": "710111",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV09105803"
+    }
+  },
+  {
+    "id": "temple-of-heaven",
+    "name": "天坛",
+    "city": "北京市",
+    "province": "北京市",
+    "description": "三层宝蓝圆檐、金宝顶和三层汉白玉圆台依次收分。",
+    "anchor": [
+      116.4066228,
+      39.8822465
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/43921139",
+    "frontBearing": 180,
+    "groundSpanMeters": 89,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B000A8XDM4",
+      "name": "天坛公园南门东侧停车场",
+      "location": [
+        116.413362,
+        39.873235
+      ],
+      "address": "天坛东里甲1号天坛公园",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110101",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B000A8XDM4"
+    }
+  },
+  {
+    "id": "yungang",
+    "name": "云冈石窟",
+    "city": "大同市",
+    "province": "山西省",
+    "description": "浅褐色坐佛和两侧小龛嵌在武州山风化岩壁上。",
+    "anchor": [
+      113.1227613,
+      40.1102231
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/5740709321",
+    "frontBearing": 165,
+    "groundSpanMeters": 27,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFFOH7KO",
+      "name": "云冈石窟A区停车场",
+      "location": [
+        113.145653,
+        40.110358
+      ],
+      "address": "云冈镇云冈石窟内(东侧)",
+      "city": "大同市",
+      "cityCode": "0352",
+      "adcode": "140214",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFFOH7KO"
+    },
+    "transitDestination": {
+      "id": "BV09190471",
+      "name": "云冈石窟(公交站)",
+      "location": [
+        113.146883,
+        40.108345
+      ],
+      "address": "(停运)大同南站-云冈石窟旅游专线",
+      "city": "大同市",
+      "cityCode": "0352",
+      "adcode": "140214",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09190471"
+    }
+  },
+  {
+    "id": "wutai",
+    "name": "五台山",
+    "city": "忻州市",
+    "province": "山西省",
+    "description": "塔院寺白塔的圆鼓塔身托起金色宝顶，院中点缀灰瓦红墙。",
+    "anchor": [
+      113.5896332,
+      39.0076904
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/544501464",
+    "frontBearing": 176,
+    "groundSpanMeters": 90,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B0MAP7X4QF",
+      "name": "五台山风景名胜区-游客中心-北侧地上停车场",
+      "location": [
+        113.649175,
+        38.904475
+      ],
+      "address": "台怀镇杨柏峪村五台山风景名胜区(东南角)",
+      "city": "忻州市",
+      "cityCode": "0350",
+      "adcode": "140922",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0MAP7X4QF"
+    },
+    "transitDestination": {
+      "id": "BV09356282",
+      "name": "游客中心(公交站)",
+      "location": [
+        113.648586,
+        38.903352
+      ],
+      "address": "8路内环;五台山景区1路",
+      "city": "忻州市",
+      "cityCode": "0350",
+      "adcode": "140922",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09356282"
+    }
+  },
+  {
+    "id": "shaolin",
+    "name": "少林寺",
+    "city": "郑州市",
+    "province": "河南省",
+    "description": "嵩山少林寺山门有三开间、灰瓦大屋顶与贯通的中央券门。",
+    "anchor": [
+      112.935691,
+      34.507104
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/181147414",
+    "frontBearing": 155,
+    "groundSpanMeters": 40,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B0M1T9LZU0",
+      "name": "嵩山少林景区-北侧地上停车场",
+      "location": [
+        112.950375,
+        34.510875
+      ],
+      "address": "207国道旁少林景区内(北侧)",
+      "city": "郑州市",
+      "cityCode": "0371",
+      "adcode": "410185",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0M1T9LZU0"
+    }
+  },
+  {
+    "id": "shenyang-palace",
+    "name": "沈阳故宫",
+    "city": "沈阳市",
+    "province": "辽宁省",
+    "description": "黄瓦绿剪边的八角殿立在白色台基上，殿前有金龙盘柱。",
+    "anchor": [
+      123.4508268,
+      41.7966845
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/89603643",
+    "frontBearing": 181,
+    "groundSpanMeters": 72,
+    "type": "heritage",
+    "tier": "regional",
+    "destination": {
+      "id": "B0MD59YJLX",
+      "name": "沈阳故宫博物院地上停车场",
+      "location": [
+        123.453225,
+        41.803975
+      ],
+      "address": "正阳街与顺垣巷交叉口西南80米",
+      "city": "沈阳市",
+      "cityCode": "024",
+      "adcode": "210103",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0MD59YJLX"
+    }
+  },
+  {
+    "id": "putuo",
+    "name": "普陀山·普济禅寺",
+    "city": "舟山市",
+    "province": "浙江省",
+    "description": "普济寺的红柱黄瓦殿宇临海印池，池上有可透水的石拱桥。",
+    "anchor": [
+      122.3824314,
+      29.9877688
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/4519392716",
+    "frontBearing": 176,
+    "groundSpanMeters": 96,
+    "type": "heritage",
+    "tier": "regional",
+    "destination": {
+      "id": "B0FFG88MWV",
+      "name": "P1-慈航广场停车场",
+      "location": [
+        122.36994394,
+        29.94781865
+      ],
+      "address": "朱家尖镇蜈蚣峙慈航广场55号(近蜈蚣峙客运中心码头)慈航大酒店",
+      "city": "舟山市",
+      "cityCode": "0580",
+      "adcode": "330903",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFG88MWV"
+    }
+  },
+  {
+    "id": "tengwang",
+    "name": "滕王阁",
+    "city": "南昌市",
+    "province": "江西省",
+    "description": "朱栏绿瓦的主阁从花岗石高台抬升，两翼廊亭贴着台面舒展。",
+    "anchor": [
+      115.872898,
+      28.676714
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/2227410623",
+    "frontBearing": 90,
+    "groundSpanMeters": 90,
+    "type": "heritage",
+    "tier": "regional",
+    "destination": {
+      "id": "B0K3KRMKKW",
+      "name": "滕王阁P1停车场",
+      "location": [
+        115.882972,
+        28.67933
+      ],
+      "address": "榕门路229号",
+      "city": "南昌市",
+      "cityCode": "0791",
+      "adcode": "360102",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0K3KRMKKW"
+    }
+  },
+  {
+    "id": "dazu",
+    "name": "大足石刻",
+    "city": "重庆市",
+    "province": "重庆市",
+    "description": "横卧佛像及其上方胁侍留在宝顶山浅色石崖上。",
+    "anchor": [
+      105.79406611,
+      29.75437
+    ],
+    "anchorSource": "https://zh.wikipedia.org/wiki/%E5%AE%9D%E9%A1%B6%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F",
+    "frontBearing": 266,
+    "groundSpanMeters": 46,
+    "type": "heritage",
+    "tier": "regional",
+    "destination": {
+      "id": "B0I23SYTAY",
+      "name": "大足石刻宝顶山景区游客中心南停车场",
+      "location": [
+        105.766732,
+        29.746231
+      ],
+      "address": "大足石刻宝顶山景区内(西侧)",
+      "city": "重庆市",
+      "cityCode": "023",
+      "adcode": "500111",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0I23SYTAY"
+    }
+  },
+  {
+    "id": "western-xia",
+    "name": "西夏陵",
+    "city": "银川市",
+    "province": "宁夏回族自治区",
+    "description": "贺兰山东麓的多层夯土陵塔与低矮陵园残墙由沙土色层次勾勒。",
+    "anchor": [
+      105.986625,
+      38.43523
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/316192094",
+    "frontBearing": 183,
+    "groundSpanMeters": 152,
+    "type": "heritage",
+    "tier": "regional",
+    "destination": {
+      "id": "B0FFKYFXKY",
+      "name": "西夏陵国家考古遗址公园游客中心停车场",
+      "location": [
+        106.019657,
+        38.443774
+      ],
+      "address": "西夏陵国家考古遗址公园内(东侧)",
+      "city": "银川市",
+      "cityCode": "0951",
+      "adcode": "640105",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFKYFXKY"
+    }
+  },
+  {
+    "id": "jiayuguan",
+    "name": "嘉峪关关城",
+    "city": "嘉峪关市",
+    "province": "甘肃省",
+    "description": "两道夯土墙上的光化楼、柔远楼分别守住贯通的城门和马道。",
+    "anchor": [
+      98.2178152,
+      39.8021741
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/98947100",
+    "frontBearing": 92,
+    "groundSpanMeters": 170,
+    "type": "heritage",
+    "tier": "regional",
+    "destination": {
+      "id": "B0MRM1VWJ3",
+      "name": "嘉峪关文物景区-北门地上停车场",
+      "location": [
+        98.223969,
+        39.807192
+      ],
+      "address": "双拥路与关城北路交叉口西140米",
+      "city": "嘉峪关市",
+      "cityCode": "1937",
+      "adcode": "620200",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0MRM1VWJ3"
+    }
+  },
+  {
+    "id": "pingyao",
+    "name": "平遥古城",
+    "city": "晋中市",
+    "province": "山西省",
+    "description": "市楼的黄色重檐骑跨石板大街，券洞两侧排开灰瓦商铺。",
+    "anchor": [
+      112.1789711,
+      37.2037874
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1420388662",
+    "frontBearing": 180,
+    "groundSpanMeters": 54,
+    "type": "town-garden",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFIDO7BC",
+      "name": "平遥古城小南门停车场",
+      "location": [
+        112.181583,
+        37.195369
+      ],
+      "address": "康宁路与柳根中路的交叉口北30米",
+      "city": "晋中市",
+      "cityCode": "0354",
+      "adcode": "140728",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFIDO7BC"
+    }
+  },
+  {
+    "id": "wuzhen",
+    "name": "乌镇",
+    "city": "嘉兴市",
+    "province": "浙江省",
+    "description": "临水灰瓦木屋之间，两座相接的石拱桥跨过西市河与支汊。",
+    "anchor": [
+      120.4742979,
+      30.7534921
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/227804556",
+    "frontBearing": 180,
+    "groundSpanMeters": 80,
+    "type": "town-garden",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFG7HRPC",
+      "name": "乌镇西栅景区1号停车场",
+      "location": [
+        120.492231,
+        30.747956
+      ],
+      "address": "石佛南路18号乌镇西栅景区内(东侧)",
+      "city": "嘉兴市",
+      "cityCode": "0573",
+      "adcode": "330483",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFG7HRPC"
+    }
+  },
+  {
+    "id": "suzhou-garden",
+    "name": "苏州拙政园",
+    "city": "苏州市",
+    "province": "江苏省",
+    "description": "素壁灰瓦的远香堂与游廊临荷池，曲桥和太湖石沿水岸分布。",
+    "anchor": [
+      120.6245434,
+      31.3262713
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/485084803",
+    "frontBearing": 4,
+    "groundSpanMeters": 71,
+    "type": "town-garden",
+    "tier": "national",
+    "destination": {
+      "id": "B0H2T5NCH9",
+      "name": "拙政园东出口停车场",
+      "location": [
+        120.631803,
+        31.32514
+      ],
+      "address": "平江街道东北街178号",
+      "city": "苏州市",
+      "cityCode": "0512",
+      "adcode": "320508",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0H2T5NCH9"
+    }
+  },
+  {
+    "id": "slender-west-lake",
+    "name": "扬州瘦西湖",
+    "city": "扬州市",
+    "province": "江苏省",
+    "description": "瘦西湖莲花埂上的五亭桥，五座黄琉璃瓦亭分列桥身，桥券跨水相连。",
+    "anchor": [
+      119.4161478,
+      32.4097487
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1058957656",
+    "frontBearing": 258.5,
+    "groundSpanMeters": 70,
+    "type": "town-garden",
+    "tier": "regional",
+    "transitDestination": {
+      "id": "BV09564634",
+      "name": "瘦西湖南门(大虹桥西)(公交站)",
+      "location": [
+        119.426393,
+        32.401205
+      ],
+      "address": "扬州大运河文化旅游度假区环线2号线",
+      "city": "扬州市",
+      "cityCode": "0514",
+      "adcode": "321003",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09564634"
+    }
+  },
+  {
+    "id": "fenghuang",
+    "name": "凤凰古城",
+    "city": "湘西土家族苗族自治州",
+    "province": "湖南省",
+    "description": "沱江虹桥的石拱托起双层廊楼，与外侧沿江吊脚楼遥相呼应。",
+    "anchor": [
+      109.6018403,
+      27.9518049
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/286788519",
+    "frontBearing": 281.4,
+    "groundSpanMeters": 98,
+    "type": "town-garden",
+    "tier": "regional",
+    "destination": {
+      "id": "B0JAJHW8SA",
+      "name": "凤凰古城5-1城东游客服务中心停车场",
+      "location": [
+        109.620243,
+        27.942508
+      ],
+      "address": "杜田路与209国道交叉口西60米",
+      "city": "湘西土家族苗族自治州",
+      "cityCode": "0743",
+      "adcode": "433123",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0JAJHW8SA"
+    }
+  },
+  {
+    "id": "hongcun",
+    "name": "宏村",
+    "city": "黄山市",
+    "province": "安徽省",
+    "description": "宏村中心的月沼弯如新月，驳岸外列着灰瓦、白墙和阶梯状马头墙。",
+    "anchor": [
+      117.9843952,
+      30.0054027
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1356852361",
+    "frontBearing": 179,
+    "groundSpanMeters": 85,
+    "type": "town-garden",
+    "tier": "regional",
+    "destination": {
+      "id": "B022F00E03",
+      "name": "宏村南门停车场",
+      "location": [
+        117.992433,
+        30.000296
+      ],
+      "address": "宏村景区南门",
+      "city": "黄山市",
+      "cityCode": "0559",
+      "adcode": "341023",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B022F00E03"
+    }
+  },
+  {
+    "id": "haikou-arcades",
+    "name": "海口骑楼老街",
+    "city": "海口市",
+    "province": "海南省",
+    "description": "中山路一段南洋骑楼，底层是相通的遮阴拱廊，上层各有彩色窗套与山花。",
+    "anchor": [
+      110.3392296,
+      20.0455762
+    ],
+    "anchorSource": "https://ditu.amap.com/place/B0FFFPCNQB",
+    "frontBearing": 172,
+    "groundSpanMeters": 90,
+    "type": "town-garden",
+    "tier": "regional",
+    "destination": {
+      "id": "B0FFL2VJJZ",
+      "name": "海口骑楼老街历史文化街区第1停车场",
+      "location": [
+        110.34629,
+        20.044904
+      ],
+      "address": "水巷口路34号海口骑楼老街内",
+      "city": "海口市",
+      "cityCode": "0898",
+      "adcode": "460108",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFL2VJJZ"
+    }
+  },
+  {
+    "id": "kashgar-old-city",
+    "name": "喀什古城",
+    "city": "喀什地区",
+    "province": "新疆维吾尔自治区",
+    "description": "喀什古城东口的黄褐砖墙与高拱城门，是游客观看开城仪式的一处入口。",
+    "anchor": [
+      75.9961868,
+      39.4712543
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/5832030085",
+    "frontBearing": 88,
+    "groundSpanMeters": 74,
+    "type": "town-garden",
+    "tier": "regional",
+    "destination": {
+      "id": "B0HUU5SIUS",
+      "name": "城投-古城东门停车场",
+      "location": [
+        75.999336,
+        39.472486
+      ],
+      "address": "亚瓦格路10号喀什古城景区内(东侧)",
+      "city": "喀什地区",
+      "cityCode": "0998",
+      "adcode": "653101",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0HUU5SIUS"
+    }
+  },
+  {
+    "id": "tiananmen-square",
+    "name": "天安门广场",
+    "city": "北京市",
+    "province": "北京市",
+    "description": "广场北端的天安门城楼有红墙、五道券门和黄瓦重檐，正对南北中轴。",
+    "anchor": [
+      116.391083,
+      39.907333
+    ],
+    "anchorSource": "https://commons.wikimedia.org/wiki/Tiananmen",
+    "frontBearing": 178.5,
+    "groundSpanMeters": 155,
+    "type": "urban",
+    "tier": "national",
+    "destination": {
+      "id": "B0GKA94RVE",
+      "name": "北京坊地下停车场(入口)",
+      "location": [
+        116.396579,
+        39.898259
+      ],
+      "address": "前门西河沿街(前门地铁站I西南口步行190米)",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110102",
+      "typecode": "150907",
+      "sourceUrl": "https://ditu.amap.com/place/B0GKA94RVE"
+    }
+  },
+  {
+    "id": "victoria-harbour",
+    "name": "维多利亚港·尖沙咀海滨",
+    "city": "香港",
+    "province": "香港特别行政区",
+    "description": "尖沙咀旧火车站钟楼的红砖塔身与天星码头并立，渡轮从近岸擦过。",
+    "anchor": [
+      114.16954,
+      22.29359
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/37664321",
+    "frontBearing": 185,
+    "groundSpanMeters": 190,
+    "type": "urban",
+    "tier": "national",
+    "transitDestination": {
+      "id": "BV10645816",
+      "name": "尖沙咀(天星码头)(公交站)",
+      "location": [
+        114.173849,
+        22.29107
+      ],
+      "address": "城巴20R路;城巴973路;城巴973路(经西九文化区);城巴973路(经西九文化区及海洋公园);城巴H1路;城巴H1路(不经遮打道);城巴H2K路循环线;城巴N21A路;城巴N21路",
+      "city": "香港特别行政区",
+      "cityCode": "1852",
+      "adcode": "810005",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10645816"
+    }
+  },
+  {
+    "id": "sanxingdui",
+    "name": "三星堆博物馆",
+    "city": "德阳市",
+    "province": "四川省",
+    "description": "三星堆博物馆新馆由几座倾斜堆体组成，覆土坡面与带铜色的折线立面相接。",
+    "anchor": [
+      104.2162196,
+      31.0038145
+    ],
+    "anchorSource": "https://ditu.amap.com/place/B034600ZUS",
+    "frontBearing": 215,
+    "groundSpanMeters": 280,
+    "type": "museum",
+    "tier": "national",
+    "transitDestination": {
+      "id": "BV10283949",
+      "name": "三星堆博物馆(公交站)",
+      "location": [
+        104.225123,
+        30.997739
+      ],
+      "address": "(停运)三星堆旅游专线;(停运)三星堆旅游公交3号线;C3路;三星堆博物馆至德阳文庙旅游公交专线;三星堆旅游直通车1号线;三星堆旅游直通车3号线;广汉11路;广汉13路;广汉16路;广汉6路;新都旅游专线XL01路;高铁接驳专线(18:00前)",
+      "city": "德阳市",
+      "cityCode": "0838",
+      "adcode": "510681",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10283949"
+    }
+  },
+  {
+    "id": "taipei-palace",
+    "name": "台北故宫博物院",
+    "city": "台北市",
+    "province": "台湾",
+    "description": "北部院区正馆立在白色平台上，中央重檐铺绿色琉璃瓦，两翼向侧面展开。",
+    "anchor": [
+      121.5486111,
+      25.1022222
+    ],
+    "anchorSource": "https://www.wikidata.org/wiki/Q540668",
+    "frontBearing": 188,
+    "groundSpanMeters": 150,
+    "type": "museum",
+    "tier": "national",
+    "transitDestination": {
+      "id": "BV09494148",
+      "name": "故宫博物院(公交站)",
+      "location": [
+        121.553238,
+        25.097059
+      ],
+      "address": "255;255区;255区间车;300;304承德;304承德线;304重庆;815;台北市观光巴士蓝线;小18;小19;小19绕驶合诚宫;市民小巴1;棕13;棕13不经外双溪(至善);棕20;棕20绕驶美堤码头预约公车;红30;蓝7;蓝7副;蓝7副线",
+      "city": "台北市",
+      "cityCode": "2958",
+      "adcode": "710103",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09494148"
+    }
+  },
+  {
+    "id": "yalu-broken-bridge",
+    "name": "鸭绿江断桥",
+    "city": "丹东市",
+    "province": "辽宁省",
+    "description": "鸭绿江断桥的钢桁架自丹东岸伸入江中，尽头可见断面和裸露的石桥墩。",
+    "anchor": [
+      124.3882524,
+      40.1171997
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1119773891",
+    "frontBearing": 223,
+    "groundSpanMeters": 255,
+    "type": "museum",
+    "tier": "regional",
+    "destination": {
+      "id": "B0FFF5W0TS",
+      "name": "鸭绿江公园停车场",
+      "location": [
+        124.396933,
+        40.122775
+      ],
+      "address": "滨江中路与十纬路交汇处(鸭绿江公园)",
+      "city": "丹东市",
+      "cityCode": "0415",
+      "adcode": "210603",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFF5W0TS"
+    }
+  },
+  {
+    "id": "harbin-ice-world",
+    "name": "哈尔滨冰雪大世界",
+    "city": "哈尔滨市",
+    "province": "黑龙江省",
+    "description": "冰雪大世界的冬季冰塔用冰块逐层搭起，中央的尖塔周围排列多座低塔。",
+    "anchor": [
+      126.5563761,
+      45.7779489
+    ],
+    "anchorSource": "https://www.wikidata.org/wiki/Q10895490",
+    "frontBearing": 167,
+    "groundSpanMeters": 240,
+    "type": "theme-park",
+    "tier": "national",
+    "transitDestination": {
+      "id": "BV10784626",
+      "name": "冰雪大世界(地铁站)",
+      "location": [
+        126.567694,
+        45.778569
+      ],
+      "address": "2号线",
+      "city": "哈尔滨市",
+      "cityCode": "0451",
+      "adcode": "230109",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10784626"
+    }
+  },
+  {
+    "id": "qingming-park",
+    "name": "开封清明上河园",
+    "city": "开封市",
+    "province": "河南省",
+    "description": "清明上河园的汴河上横跨一座大跨度木虹桥，两岸布置宋式街屋和小船。",
+    "anchor": [
+      114.3342,
+      34.8098611
+    ],
+    "anchorSource": "https://www.wikidata.org/wiki/Q15909131",
+    "frontBearing": 180,
+    "groundSpanMeters": 118,
+    "type": "theme-park",
+    "tier": "regional",
+    "destination": {
+      "id": "B0G07S3HBU",
+      "name": "清明上河园1号地下停车场",
+      "location": [
+        114.34133,
+        34.81238
+      ],
+      "address": "龙亭西路5号清明上河园(东北角)",
+      "city": "开封市",
+      "cityCode": "0378",
+      "adcode": "410202",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0G07S3HBU"
+    }
+  },
+  {
+    "id": "chimelong-safari",
+    "name": "广州长隆野生动物世界",
+    "city": "广州市",
+    "province": "广东省",
+    "description": "入口的雨林风格门楼和长颈鹿活动场组成微缩场景，反映园内可见的观赏体验。",
+    "anchor": [
+      113.3155501,
+      23.0015574
+    ],
+    "anchorSource": "https://ditu.amap.com/place/B0FFHYNZMU",
+    "frontBearing": 173,
+    "groundSpanMeters": 112,
+    "type": "theme-park",
+    "tier": "national",
+    "destination": {
+      "id": "B00140UE15",
+      "name": "长隆野生动物世界P5停车场",
+      "location": [
+        113.324212,
+        22.998158
+      ],
+      "address": "汉溪大道东299号广州长隆旅游度假区P5号停车场",
+      "city": "广州市",
+      "cityCode": "020",
+      "adcode": "440113",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B00140UE15"
+    }
+  },
+  {
+    "id": "wulingyuan",
+    "name": "武陵源·张家界国家森林公园",
+    "city": "张家界市",
+    "province": "湖南省",
+    "description": "以袁家界乾坤柱（南天一柱）为中心，保留狭长直立的石英砂岩峰柱和绿顶。",
+    "anchor": [
+      110.4372172,
+      29.3451921
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/4331753591",
+    "frontBearing": 146,
+    "groundSpanMeters": 460,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFMDNEIU",
+      "name": "武陵源风景名胜区标志门大型停车场",
+      "location": [
+        110.537484,
+        29.350828
+      ],
+      "address": "军邸路九院十街",
+      "city": "张家界市",
+      "cityCode": "0744",
+      "adcode": "430811",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFMDNEIU"
+    }
+  },
+  {
+    "id": "yangshuo",
+    "name": "阳朔漓江·黄布倒影",
+    "city": "桂林市",
+    "province": "广西壮族自治区",
+    "description": "取兴坪黄布倒影一段开阔静水面和连续的两岸锥状峰丛。",
+    "anchor": [
+      110.5166399,
+      24.9251035
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/4376696293",
+    "frontBearing": 140,
+    "groundSpanMeters": 600,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0HDZC2DMW",
+      "name": "兴坪古镇码头停车场",
+      "location": [
+        110.532106,
+        24.917383
+      ],
+      "address": "兴坪镇新街146号兴坪古镇(东北角)",
+      "city": "桂林市",
+      "cityCode": "0773",
+      "adcode": "450321",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0HDZC2DMW"
+    }
+  },
+  {
+    "id": "tianyahaijiao",
+    "name": "天涯海角",
+    "city": "三亚市",
+    "province": "海南省",
+    "description": "南海岸线上的花岗岩题刻石组和浅色沙滩。",
+    "anchor": [
+      109.3450447,
+      18.2926242
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/2272220538",
+    "frontBearing": 161,
+    "groundSpanMeters": 130,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFG9V7XO",
+      "name": "天涯海角游览区2号停车场",
+      "location": [
+        109.3529,
+        18.294326
+      ],
+      "address": "天涯海角游览区正对面自驾停车场",
+      "city": "三亚市",
+      "cityCode": "0899",
+      "adcode": "460204",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFG9V7XO"
+    }
+  },
+  {
+    "id": "huangguoshu",
+    "name": "黄果树瀑布",
+    "city": "安顺市",
+    "province": "贵州省",
+    "description": "截取弧面的宽主瀑、崖下犀牛潭与台地上的林缘。",
+    "anchor": [
+      105.6661996,
+      25.9924212
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/2932278086",
+    "frontBearing": 133,
+    "groundSpanMeters": 240,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0M24UH9FL",
+      "name": "黄果树风景名胜区-正门游客中心地上停车场",
+      "location": [
+        105.686325,
+        26.001925
+      ],
+      "address": "迎宾大道与格凸河路交叉口西北120米",
+      "city": "安顺市",
+      "cityCode": "0853",
+      "adcode": "520423",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0M24UH9FL"
+    },
+    "transitDestination": {
+      "id": "B0MU31Q7OZ",
+      "name": "黄果树景区第1游客中心",
+      "location": [
+        105.68215727588091,
+        26.01434216689839
+      ],
+      "address": "迎宾大道与贵黄公路交叉口东160米",
+      "city": "安顺市",
+      "cityCode": "0853",
+      "adcode": "520423",
+      "typecode": "070201",
+      "sourceUrl": "https://ditu.amap.com/place/B0MU31Q7OZ"
+    }
+  },
+  {
+    "id": "huashan",
+    "name": "华山·西峰",
+    "city": "渭南市",
+    "province": "陕西省",
+    "description": "西峰的陡直花岗岩岩壁、相连的窄脊和脊顶石道。",
+    "anchor": [
+      110.0767764,
+      34.4816348
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/2260053392",
+    "frontBearing": 194,
+    "groundSpanMeters": 340,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFFHVS66",
+      "name": "华山风景名胜区游客中心停车场",
+      "location": [
+        110.09623,
+        34.540755
+      ],
+      "address": "310国道南100米",
+      "city": "渭南市",
+      "cityCode": "0913",
+      "adcode": "610582",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFFHVS66"
+    }
+  },
+  {
+    "id": "qinghai-lake",
+    "name": "青海湖·二郎剑",
+    "city": "海南藏族自治州",
+    "province": "青海省",
+    "description": "二郎剑一段狭长沙嘴伸入青海湖开阔水面。",
+    "anchor": [
+      100.4949253,
+      36.5799889
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/7867081285",
+    "frontBearing": 130,
+    "groundSpanMeters": 650,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0GR191S9N",
+      "name": "青海湖二郎剑景区停车场",
+      "location": [
+        100.495084,
+        36.577804
+      ],
+      "address": "109国道151号青海湖二郎剑景区内(西侧)",
+      "city": "海南藏族自治州",
+      "cityCode": "0974",
+      "adcode": "632521",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0GR191S9N"
+    }
+  },
+  {
+    "id": "kanas",
+    "name": "喀纳斯·月亮湾",
+    "city": "阿勒泰地区",
+    "province": "新疆维吾尔自治区",
+    "description": "从湾边的陆侧看蓝绿河水在针叶林山坡之间弯成月牙。",
+    "anchor": [
+      87.0471844,
+      48.6345452
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/5813997974",
+    "frontBearing": 80,
+    "groundSpanMeters": 520,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B038A0058H",
+      "name": "喀纳斯景区贾登峪门票站北停车场",
+      "location": [
+        87.135532,
+        48.506277
+      ],
+      "address": "环城南西路3号232省道新疆·喀纳斯国家地质公园",
+      "city": "阿勒泰地区",
+      "cityCode": "0906",
+      "adcode": "654321",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B038A0058H"
+    }
+  },
+  {
+    "id": "sun-moon-lake",
+    "name": "日月潭",
+    "city": "南投县",
+    "province": "台湾",
+    "description": "从向山一带看环绕拉鲁岛的湖湾、林岸和近岸码头。",
+    "anchor": [
+      120.9021197,
+      23.8520452
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/2341498877",
+    "frontBearing": 238,
+    "groundSpanMeters": 600,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0L021R18S",
+      "name": "向山游客中心",
+      "location": [
+        120.905875,
+        23.849253
+      ],
+      "address": "555台湾南投县鱼池乡水社村中山路599号",
+      "city": "南投县",
+      "cityCode": "2942",
+      "adcode": "710902",
+      "typecode": "070201",
+      "sourceUrl": "https://ditu.amap.com/place/B0L021R18S"
+    },
+    "transitDestination": {
+      "id": "BV09489911",
+      "name": "向山行政中心(公交站)",
+      "location": [
+        120.904903,
+        23.849794
+      ],
+      "address": "6289;6289A;6668;6668B经暨大附中;6670F台湾好行延驶向山行政中心;6671台湾好行车埕线;6739台湾好行日月潭阿里山线;6801台湾好行日月潭溪头线",
+      "city": "南投县",
+      "cityCode": "2942",
+      "adcode": "710902",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09489911"
+    }
+  },
+  {
+    "id": "wulong",
+    "name": "武隆天生三桥",
+    "city": "重庆市",
+    "province": "重庆市",
+    "description": "天龙桥的天然穿洞可透出峡谷，桥下保留天福官驿的一段院落。",
+    "anchor": [
+      107.7913965,
+      29.4380716
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/13276103456",
+    "frontBearing": 209,
+    "groundSpanMeters": 255,
+    "type": "nature",
+    "tier": "regional",
+    "destination": {
+      "id": "B0K2BU9L6P",
+      "name": "武隆喀斯特旅游区游客中心地面停车场(入口)",
+      "location": [
+        107.76678384,
+        29.41744663
+      ],
+      "address": "武隆喀斯特旅游区游客中心停车场",
+      "city": "重庆市",
+      "cityCode": "023",
+      "adcode": "500156",
+      "typecode": "150907",
+      "sourceUrl": "https://ditu.amap.com/place/B0K2BU9L6P"
+    }
+  },
+  {
+    "id": "detian",
+    "name": "德天跨国瀑布",
+    "city": "崇左市",
+    "province": "广西壮族自治区",
+    "description": "归春河中国一侧密林台地上错落的三级瀑布和碧水。",
+    "anchor": [
+      106.7231618,
+      22.8558796
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/7712684163",
+    "frontBearing": 142,
+    "groundSpanMeters": 270,
+    "type": "nature",
+    "tier": "regional",
+    "destination": {
+      "id": "B0HGBHPEQI",
+      "name": "德天跨国瀑布景区游客中心停车场(入口)",
+      "location": [
+        106.79636514,
+        22.82016368
+      ],
+      "address": "德天跨国瀑布景区游客中心停车场",
+      "city": "崇左市",
+      "cityCode": "1771",
+      "adcode": "451424",
+      "typecode": "150907",
+      "sourceUrl": "https://ditu.amap.com/place/B0HGBHPEQI"
+    },
+    "transitDestination": {
+      "id": "BV09470313",
+      "name": "大新德天游客中心(公交站)",
+      "location": [
+        106.797022,
+        22.820044
+      ],
+      "address": "崇左高铁站至德天瀑布;德天瀑布至崇左高铁站",
+      "city": "崇左市",
+      "cityCode": "1771",
+      "adcode": "451424",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09470313"
+    }
+  },
+  {
+    "id": "alishan",
+    "name": "阿里山·沼平车站",
+    "city": "嘉义县",
+    "province": "台湾",
+    "description": "沼平车站旁的弯曲窄轨、红色列车和高山杉林。",
+    "anchor": [
+      120.8138181,
+      23.5145072
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/548338239",
+    "frontBearing": 161,
+    "groundSpanMeters": 165,
+    "type": "nature",
+    "tier": "regional",
+    "transitDestination": {
+      "id": "BV09488390",
+      "name": "阿里山转运站(公交站)",
+      "location": [
+        120.805184,
+        23.50568
+      ],
+      "address": "6739台湾好行日月潭阿里山线;7322;7322A绕驶奋起湖;7322C台湾好行阿里山B线;7322D台湾好行阿里山B线经奋起湖;7329A台湾好行阿里山A线经奋起湖;7329台湾好行阿里山A线",
+      "city": "嘉义县",
+      "cityCode": "2960",
+      "adcode": "711905",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09488390"
+    }
+  },
+  {
+    "id": "national-museum-china",
+    "name": "中国国家博物馆",
+    "city": "北京市",
+    "province": "北京市",
+    "description": "天安门广场东侧的国博馆舍由对称石质两翼、开敞的西入口方柱廊和东侧新馆构成。",
+    "anchor": [
+      116.3953896,
+      39.9037459
+    ],
+    "anchorSource": "https://www.openstreetmap.org/relation/8607825",
+    "frontBearing": 270,
+    "groundSpanMeters": 305,
+    "type": "museum",
+    "tier": "national",
+    "transitDestination": {
+      "id": "BV10006499",
+      "name": "天安门东(地铁站)",
+      "location": [
+        116.401216,
+        39.90778
+      ],
+      "address": "1号线/八通线",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110101",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10006499"
+    }
+  },
+  {
+    "id": "prince-kung",
+    "name": "恭王府博物馆",
+    "city": "北京市",
+    "province": "北京市",
+    "description": "恭王府正殿绿琉璃瓦下开五间，院落两侧分布灰瓦配殿，殿前月台两端是对称石阶。",
+    "anchor": [
+      116.3800886,
+      39.9353469
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/561187414",
+    "frontBearing": 180,
+    "groundSpanMeters": 67,
+    "type": "museum",
+    "tier": "national",
+    "transitDestination": {
+      "id": "BV10013508",
+      "name": "北海北(地铁站)",
+      "location": [
+        116.386829,
+        39.933247
+      ],
+      "address": "6号线",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110102",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10013508"
+    }
+  },
+  {
+    "id": "shaanxi-history-museum",
+    "name": "陕西历史博物馆本馆",
+    "city": "西安市",
+    "province": "陕西省",
+    "description": "小寨本馆以唐风中轴殿堂、四隅崇楼和两侧廊屋围合，保留灰黑瓦面与浅色石柱。",
+    "anchor": [
+      108.95052928,
+      34.22568146
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1419576718",
+    "frontBearing": 180,
+    "groundSpanMeters": 195,
+    "type": "museum",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFHSIN65",
+      "name": "陕西历史博物馆停车场",
+      "location": [
+        108.953711,
+        34.223389
+      ],
+      "address": "小寨东路91号陕西历史博物馆内",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610113",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFHSIN65"
+    },
+    "transitDestination": {
+      "id": "BV11045319",
+      "name": "陕西历史博物馆(公交站)",
+      "location": [
+        108.957496,
+        34.222886
+      ],
+      "address": "19路;24路;26路;271路;27路;30路/K30路;34路;400路;401路;521路;527路;527路(7点-9点半);5路;华旅观光巴士兵马俑线-南稍门陕历博线;华旅观光巴士兵马俑线-小寨大雁塔线;西安观光巴士-市中心至大唐不夜城观光环线",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610113",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV11045319"
+    }
+  },
+  {
+    "id": "xian-city-wall",
+    "name": "西安城墙·永宁门",
+    "city": "西安市",
+    "province": "陕西省",
+    "description": "城墙南门有城楼、箭楼、闸楼三道城门，模型保留灰砖垛口、可透视券洞、瓮城和跨护城河吊桥。",
+    "anchor": [
+      108.9423179,
+      34.2531039
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/6817037487",
+    "frontBearing": 180,
+    "groundSpanMeters": 200,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFKIRCKI",
+      "name": "西安城墙永宁门地下停车场",
+      "location": [
+        108.946065,
+        34.248374
+      ],
+      "address": "永宁门地铁站A2西北口步行170米",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610103",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFKIRCKI"
+    },
+    "transitDestination": {
+      "id": "BV10073376",
+      "name": "永宁门(地铁站)",
+      "location": [
+        108.946952,
+        34.248186
+      ],
+      "address": "2号线",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610103",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10073376"
+    }
+  },
+  {
+    "id": "yinxu",
+    "name": "安阳殷墟",
+    "city": "安阳市",
+    "province": "河南省",
+    "description": "殷墟宫殿宗庙区的现代仿殷大殿采用宽低双层茅屋顶，旁设夯土基址与妇好墓享堂示意。",
+    "anchor": [
+      114.31898528,
+      36.12173037
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/810623293",
+    "frontBearing": 182,
+    "groundSpanMeters": 65,
+    "type": "heritage",
+    "tier": "national",
+    "destination": {
+      "id": "B0HR4AYD4U",
+      "name": "殷墟宫殿宗庙遗址南停车场",
+      "location": [
+        114.326657,
+        36.115035
+      ],
+      "address": "纱厂路南玉兰园",
+      "city": "安阳市",
+      "cityCode": "0372",
+      "adcode": "410505",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0HR4AYD4U"
+    },
+    "transitDestination": {
+      "id": "BV09565199",
+      "name": "殷墟宫殿宗庙遗址(公交站)",
+      "location": [
+        114.324982,
+        36.119568
+      ],
+      "address": "殷墟直通车",
+      "city": "安阳市",
+      "cityCode": "0372",
+      "adcode": "410505",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09565199"
+    }
+  },
+  {
+    "id": "huangling",
+    "name": "婺源篁岭",
+    "city": "上饶市",
+    "province": "江西省",
+    "description": "篁岭的徽派民居沿坡层叠，灰瓦马头墙前的木架托着晾晒辣椒、玉米的竹匾。",
+    "anchor": [
+      118.1132609,
+      29.3235898
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/4818081345",
+    "frontBearing": 5,
+    "groundSpanMeters": 105,
+    "type": "town-garden",
+    "tier": "national",
+    "destination": {
+      "id": "B0H657NQEF",
+      "name": "婺源篁岭景区出入口地面停车场",
+      "location": [
+        118.121775,
+        29.33335
+      ],
+      "address": "婺源篁岭景区内A索道停车场",
+      "city": "上饶市",
+      "cityCode": "0793",
+      "adcode": "361130",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0H657NQEF"
+    },
+    "transitDestination": {
+      "id": "B0FFFOOI0N",
+      "name": "婺源篁岭景区古村索道游客中心",
+      "location": [
+        118.121521,
+        29.333136
+      ],
+      "address": "婺源篁岭景区内(北侧)",
+      "city": "上饶市",
+      "cityCode": "0793",
+      "adcode": "361130",
+      "typecode": "070201",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFFOOI0N"
+    }
+  },
+  {
+    "id": "china-science-museum",
+    "name": "中国科学技术馆",
+    "city": "北京市",
+    "province": "北京市",
+    "description": "奥林匹克公园旁的现馆有相互咬合的浅色方盒体块和深色玻璃窗，造型取意于鲁班锁。",
+    "anchor": [
+      116.3917166,
+      40.0042839
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/161298694",
+    "frontBearing": 268.5,
+    "groundSpanMeters": 205,
+    "type": "museum",
+    "tier": "national",
+    "transitDestination": {
+      "id": "BV10001021",
+      "name": "洼里南口(公交站)",
+      "location": [
+        116.394957,
+        40.002426
+      ],
+      "address": "311路;319路;379路;450路;466路;484路;695路",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110105",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10001021"
+    }
+  },
+  {
+    "id": "hubei-museum",
+    "name": "湖北省博物馆",
+    "city": "武汉市",
+    "province": "湖北省",
+    "description": "在东湖边的南馆，浅色外挑馆体像一口巨鼎。玻璃中庭之后是北馆深色的层叠楚式屋檐。",
+    "anchor": [
+      114.3603963,
+      30.5629964
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/953408416",
+    "frontBearing": 152,
+    "groundSpanMeters": 160,
+    "type": "museum",
+    "tier": "national",
+    "destination": {
+      "id": "B0IGSZ3SDI",
+      "name": "湖北省博物馆停车场",
+      "location": [
+        114.365369,
+        30.559677
+      ],
+      "address": "东湖路160号湖北省博物馆",
+      "city": "武汉市",
+      "cityCode": "027",
+      "adcode": "420106",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0IGSZ3SDI"
+    },
+    "transitDestination": {
+      "id": "BV11475178",
+      "name": "省博湖北日报(地铁站)",
+      "location": [
+        114.365349,
+        30.564854
+      ],
+      "address": "8号线",
+      "city": "武汉市",
+      "cityCode": "027",
+      "adcode": "420106",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV11475178"
+    }
+  },
+  {
+    "id": "hunan-museum",
+    "name": "湖南省博物馆",
+    "city": "长沙市",
+    "province": "湖南省",
+    "description": "长沙主馆以宽阔悬挑为中央门厅遮覆，两翼石墙夹着玻璃立面，前方木栈接到浅水池。",
+    "anchor": [
+      112.9884413,
+      28.2153419
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/269856520",
+    "frontBearing": 266,
+    "groundSpanMeters": 180,
+    "type": "museum",
+    "tier": "national",
+    "transitDestination": {
+      "id": "BV10854316",
+      "name": "湘雅医院(地铁站)",
+      "location": [
+        112.987988,
+        28.21348
+      ],
+      "address": "6号线",
+      "city": "长沙市",
+      "cityCode": "0731",
+      "adcode": "430105",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10854316"
+    }
+  },
+  {
+    "id": "shanghai-museum-east",
+    "name": "上海博物馆东馆",
+    "city": "上海市",
+    "province": "上海市",
+    "description": "浦东东馆的白色大理石幕墙在方形馆体上卷起，中部通透玻璃分出上下体量。",
+    "anchor": [
+      121.534641,
+      31.22198
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1034667864",
+    "frontBearing": 34,
+    "groundSpanMeters": 198,
+    "type": "museum",
+    "tier": "national",
+    "transitDestination": {
+      "id": "BV10031164",
+      "name": "上海科技馆(地铁站)",
+      "location": [
+        121.544439,
+        31.21882
+      ],
+      "address": "2号线",
+      "city": "上海市",
+      "cityCode": "021",
+      "adcode": "310115",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10031164"
+    }
+  },
+  {
+    "id": "nanjing-massacre-memorial",
+    "name": "侵华日军南京大屠杀遇难同胞纪念馆",
+    "city": "南京市",
+    "province": "江苏省",
+    "description": "江东门馆区临水西门大街，灰色题名墙、石阶和低矮陈列厅围合出安静的悼念空间。",
+    "anchor": [
+      118.739741,
+      32.0374513
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/992979424",
+    "frontBearing": 174,
+    "groundSpanMeters": 125,
+    "type": "museum",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFH68Z68",
+      "name": "侵华日军南京大屠杀遇难同胞纪念馆地下停车场",
+      "location": [
+        118.73995689,
+        32.03674801
+      ],
+      "address": "水西门大街418号侵华日军南京大屠杀遇难同胞纪念馆(西北角)",
+      "city": "南京市",
+      "cityCode": "025",
+      "adcode": "320105",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFH68Z68"
+    },
+    "transitDestination": {
+      "id": "BV10056536",
+      "name": "云锦路(地铁站)",
+      "location": [
+        118.747323,
+        32.034912
+      ],
+      "address": "2号线",
+      "city": "南京市",
+      "cityCode": "025",
+      "adcode": "320105",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10056536"
+    }
+  },
+  {
+    "id": "birds-nest",
+    "name": "鸟巢",
+    "city": "北京市",
+    "province": "北京市",
+    "description": "北京国家体育场的银灰钢桁架围绕椭圆形看台交织，屋面中央敞开，可以看到红色看台和场地。",
+    "anchor": [
+      116.3902864,
+      39.9914031
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/152301551",
+    "frontBearing": 178.5,
+    "groundSpanMeters": 333,
+    "type": "urban",
+    "tier": "national",
+    "destination": {
+      "id": "B0JA2ZAZ33",
+      "name": "国家体育场地下停车场",
+      "location": [
+        116.394467,
+        39.995055
+      ],
+      "address": "国家体育场",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110105",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0JA2ZAZ33"
+    },
+    "transitDestination": {
+      "id": "BV10013375",
+      "name": "奥林匹克公园(地铁站)",
+      "location": [
+        116.391758,
+        40.002207
+      ],
+      "address": "15号线;8号线",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110105",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10013375"
+    }
+  },
+  {
+    "id": "hukou-falls",
+    "name": "黄河壶口瀑布",
+    "city": "延安市",
+    "province": "陕西省",
+    "description": "横跨陕西宜川与山西吉县的黄河壶口，宽阔黄褐急流在砂岩台地前收进狭长石槽。",
+    "anchor": [
+      110.4437736,
+      36.1486169
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/13136496680",
+    "frontBearing": 194,
+    "groundSpanMeters": 340,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFL433FM",
+      "name": "陕西黄河壶口瀑布旅游区游客中心停车场",
+      "location": [
+        110.46701,
+        36.072067
+      ],
+      "address": "壶口镇延壶路(309国道)陕西黄河壶口瀑布旅游区内(西侧)",
+      "city": "延安市",
+      "cityCode": "0911",
+      "adcode": "610630",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFL433FM"
+    },
+    "transitDestination": {
+      "id": "B0FFL3U29P",
+      "name": "陕西黄河壶口瀑布旅游区游客中心",
+      "location": [
+        110.467071,
+        36.070945
+      ],
+      "address": "壶口地质博物馆(309国道西)",
+      "city": "延安市",
+      "cityCode": "0911",
+      "adcode": "610630",
+      "typecode": "070201",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFL3U29P"
+    }
+  },
+  {
+    "id": "qutang-kuimen",
+    "name": "长江三峡·瞿塘峡夔门",
+    "city": "重庆市",
+    "province": "重庆市",
+    "description": "奉节瞿塘峡西口的赤甲山和白盐山夹峙江面，取白帝城一侧望入夔门的视角。",
+    "anchor": [
+      109.5768917,
+      31.0414631
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/9531506505",
+    "frontBearing": 302,
+    "groundSpanMeters": 1400,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0H64ZGWA6",
+      "name": "白帝城·瞿塘峡景区正门停车场",
+      "location": [
+        109.572283,
+        31.046934
+      ],
+      "address": "白帝城·瞿塘峡景区",
+      "city": "重庆市",
+      "cityCode": "023",
+      "adcode": "500236",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0H64ZGWA6"
+    }
+  },
+  {
+    "id": "erhai",
+    "name": "大理洱海·小普陀",
+    "city": "大理白族自治州",
+    "province": "云南省",
+    "description": "取洱海东侧海印村一带，湖水环绕小普陀岩屿，白墙灰瓦观音阁与远处苍山轮廓相对。",
+    "anchor": [
+      100.2225336,
+      25.8096357
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/6935389272",
+    "frontBearing": 160,
+    "groundSpanMeters": 380,
+    "type": "nature",
+    "tier": "national",
+    "destination": {
+      "id": "B0HRD7XQQP",
+      "name": "小普陀停车点",
+      "location": [
+        100.223555,
+        25.806237
+      ],
+      "address": "海印村156号小普陀",
+      "city": "大理白族自治州",
+      "cityCode": "0872",
+      "adcode": "532901",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0HRD7XQQP"
+    }
+  },
+  {
+    "id": "fast-observatory",
+    "name": "中国天眼",
+    "city": "黔南布依族苗族自治州",
+    "province": "贵州省",
+    "description": "贵州平塘大窝凼公开科普景观，山地洼处嵌着球面反射盘，周边塔架托起中央馈源舱。",
+    "anchor": [
+      106.856567,
+      25.6528526
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/384699313",
+    "frontBearing": 309,
+    "groundSpanMeters": 680,
+    "type": "urban",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFHQKDZ9",
+      "name": "中国天眼景区游客中心西停车场",
+      "location": [
+        106.890486,
+        25.698695
+      ],
+      "address": "神州路500米口径球面射电望远镜(FAST)",
+      "city": "黔南布依族苗族自治州",
+      "cityCode": "0854",
+      "adcode": "522727",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFHQKDZ9"
+    },
+    "transitDestination": {
+      "id": "B0H2NCFMQW",
+      "name": "中国天眼景区游客中心",
+      "location": [
+        106.897643,
+        25.695376
+      ],
+      "address": "克度镇航龙村312中国天眼景区",
+      "city": "黔南布依族苗族自治州",
+      "cityCode": "0854",
+      "adcode": "522727",
+      "typecode": "070201",
+      "sourceUrl": "https://ditu.amap.com/place/B0H2NCFMQW"
+    }
+  },
+  {
+    "id": "chimelong-ocean-kingdom",
+    "name": "珠海长隆海洋王国",
+    "city": "珠海市",
+    "province": "广东省",
+    "description": "横琴海洋王国鲸鲨馆的青蓝色波浪立面和昂首盘绕的斑点鲸鲨雕塑。",
+    "anchor": [
+      113.5277113,
+      22.0995395
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/320028482",
+    "frontBearing": 118,
+    "groundSpanMeters": 145,
+    "type": "theme-park",
+    "tier": "national",
+    "destination": {
+      "id": "B0FFJAMZV6",
+      "name": "珠海长隆度假区1号停车场",
+      "location": [
+        113.540704,
+        22.101331
+      ],
+      "address": "横琴新区企鹅酒店旁",
+      "city": "珠海市",
+      "cityCode": "0756",
+      "adcode": "440402",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFJAMZV6"
+    },
+    "transitDestination": {
+      "id": "BV11432258",
+      "name": "长隆海洋王国(公交站)",
+      "location": [
+        113.536054,
+        22.101428
+      ],
+      "address": "(停运)好玩横琴公交旅游巴士",
+      "city": "珠海市",
+      "cityCode": "0756",
+      "adcode": "440402",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV11432258"
+    }
+  },
+  {
+    "id": "a-ma",
+    "name": "妈阁庙",
+    "city": "澳门",
+    "province": "澳门特别行政区",
+    "description": "花岗石牌坊面向内港，寺庙绿瓦顺着妈阁山石阶抬升。",
+    "anchor": [
+      113.5312671,
+      22.1861086
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/192187333",
+    "frontBearing": 265,
+    "groundSpanMeters": 54,
+    "type": "heritage",
+    "tier": "regional"
+  },
+  {
+    "id": "changbai",
+    "name": "长白山天池",
+    "city": "延边朝鲜族自治州",
+    "province": "吉林省",
+    "description": "从长白山北坡一侧看深蓝色火山口湖、雪线和环形陡壁。",
+    "anchor": [
+      128.0663091,
+      42.0257994
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/5258261080",
+    "frontBearing": 5,
+    "groundSpanMeters": 1000,
+    "type": "nature",
+    "tier": "national"
+  },
+  {
+    "id": "chengde-resort",
+    "name": "承德避暑山庄",
+    "city": "承德市",
+    "province": "河北省",
+    "description": "灰瓦红柱的三亭和水下桥墩连成一道榭桥，水面伸向两岸。",
+    "anchor": [
+      117.93868,
+      40.98347
+    ],
+    "anchorSource": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/18/98300/216952",
+    "frontBearing": 302,
+    "groundSpanMeters": 96,
+    "type": "town-garden",
+    "tier": "national"
+  },
+  {
+    "id": "crescent-lake",
+    "name": "鸣沙山月牙泉",
+    "city": "酒泉市",
+    "province": "甘肃省",
+    "description": "低伏的新月形泉水夹在弧形沙脊与楼阁之间。",
+    "anchor": [
+      94.6693085,
+      40.0873683
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1308452182",
+    "frontBearing": 174,
+    "groundSpanMeters": 340,
+    "type": "nature",
+    "tier": "national"
+  },
+  {
+    "id": "dujiangyan",
+    "name": "都江堰",
+    "city": "成都市",
+    "province": "四川省",
+    "description": "鱼嘴分水堤像一段尖楔，伸入岷江并把河水分为内江和外江。",
+    "anchor": [
+      103.604285,
+      31.0092227
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/5845822640",
+    "frontBearing": 320,
+    "groundSpanMeters": 220,
+    "type": "urban",
+    "tier": "national"
+  },
+  {
+    "id": "emei",
+    "name": "峨眉山·金顶",
+    "city": "乐山市",
+    "province": "四川省",
+    "description": "金顶的白石台基、金色殿宇和临崖向下的山体。",
+    "anchor": [
+      103.3371337,
+      29.5227629
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/2902204708",
+    "frontBearing": 132,
+    "groundSpanMeters": 215,
+    "type": "nature",
+    "tier": "national"
+  },
+  {
+    "id": "everest",
+    "name": "珠峰景区",
+    "city": "日喀则市",
+    "province": "西藏自治区",
+    "description": "取中国侧绒布寺一带所见的珠峰北壁和金字塔状雪峰轮廓。",
+    "anchor": [
+      86.8281779,
+      28.1951821
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/13840969183",
+    "frontBearing": 351,
+    "groundSpanMeters": 1400,
+    "type": "nature",
+    "tier": "national"
+  },
+  {
+    "id": "fanjingshan",
+    "name": "梵净山·红云金顶",
+    "city": "铜仁市",
+    "province": "贵州省",
+    "description": "红云金顶的陡岩被深缝分开，桥连接两侧山顶殿宇。",
+    "anchor": [
+      108.6917029,
+      27.9099965
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/7491142475",
+    "frontBearing": 195,
+    "groundSpanMeters": 210,
+    "type": "nature",
+    "tier": "regional"
+  },
+  {
+    "id": "fujian-tulou",
+    "name": "福建土楼·田螺坑",
+    "city": "漳州市",
+    "province": "福建省",
+    "description": "方楼居中，三圆楼与一座椭圆楼依坡围合，灰瓦下保留各院天井。",
+    "anchor": [
+      117.0558286,
+      24.586866
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/491630282",
+    "frontBearing": 263,
+    "groundSpanMeters": 133,
+    "type": "town-garden",
+    "tier": "national"
+  },
+  {
+    "id": "gulangyu",
+    "name": "鼓浪屿",
+    "city": "厦门市",
+    "province": "福建省",
+    "description": "红穹顶下的浅色柱廊与红砖体量突出八卦楼的近代建筑轮廓。",
+    "anchor": [
+      118.0632088,
+      24.4501387
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/164652578",
+    "frontBearing": 45,
+    "groundSpanMeters": 54,
+    "type": "town-garden",
+    "tier": "national"
+  },
+  {
+    "id": "hulunbuir",
+    "name": "呼伦贝尔草原·莫尔格勒河",
+    "city": "呼伦贝尔市",
+    "province": "内蒙古自治区",
+    "description": "从阿吉奈观景台截取草甸中的连续河曲，明绿缓坡衬出蓝色回弯。",
+    "anchor": [
+      119.9343498,
+      49.5788264
+    ],
+    "anchorSource": "https://www.amap.com/place/B0JUFUGA3E",
+    "frontBearing": 128,
+    "groundSpanMeters": 1100,
+    "type": "nature",
+    "tier": "national"
+  },
+  {
+    "id": "jingdezhen-kiln-museum",
+    "name": "景德镇御窑博物馆",
+    "city": "景德镇市",
+    "province": "江西省",
+    "description": "御窑博物馆的旧窑砖拱壳长短错落，在一处下沉庭院和水面外排开。",
+    "anchor": [
+      117.20185,
+      29.29923
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/13711527662",
+    "frontBearing": 181,
+    "groundSpanMeters": 118,
+    "type": "museum",
+    "tier": "regional"
+  },
+  {
+    "id": "kaiping-diaolou",
+    "name": "开平碉楼",
+    "city": "江门市",
+    "province": "广东省",
+    "description": "自力村的铭石楼立在稻田间，楼身窄高，顶层设拱廊和角塔。",
+    "anchor": [
+      112.574378,
+      22.377375
+    ],
+    "anchorSource": "https://zh.wikipedia.org/wiki/%E5%BC%80%E5%B9%B3%E7%A2%89%E6%A5%BC",
+    "frontBearing": 188,
+    "groundSpanMeters": 34,
+    "type": "town-garden",
+    "tier": "regional"
+  },
+  {
+    "id": "leshan-buddha",
+    "name": "乐山大佛",
+    "city": "乐山市",
+    "province": "四川省",
+    "description": "扶膝坐佛从红砂岩崖壁雕出，崖侧沿九曲栈道下抵水边。",
+    "anchor": [
+      103.7693136,
+      29.5469169
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/620388965",
+    "frontBearing": 275,
+    "groundSpanMeters": 117,
+    "type": "heritage",
+    "tier": "national"
+  },
+  {
+    "id": "lushan",
+    "name": "庐山·三叠泉",
+    "city": "九江市",
+    "province": "江西省",
+    "description": "三道细长水帘沿五老峰下的岩坎和窄谷层层跌落。",
+    "anchor": [
+      116.0275172,
+      29.5660257
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/2766430360",
+    "frontBearing": 111,
+    "groundSpanMeters": 245,
+    "type": "nature",
+    "tier": "national"
+  },
+  {
+    "id": "nanjing-museum",
+    "name": "南京博物院",
+    "city": "南京市",
+    "province": "江苏省",
+    "description": "历史馆的仿辽屋面很宽，金色琉璃瓦下排列朱柱，门前有宽阶和石台基。",
+    "anchor": [
+      118.820262,
+      32.0438146
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1517447675",
+    "frontBearing": 185,
+    "groundSpanMeters": 112,
+    "type": "museum",
+    "tier": "regional"
+  },
+  {
+    "id": "orange-isle",
+    "name": "长沙橘子洲",
+    "city": "长沙市",
+    "province": "湖南省",
+    "description": "橘子洲南端的青年毛泽东艺术雕塑由花岗岩砌筑，长发轮廓远看仍可辨识。",
+    "anchor": [
+      112.9548386,
+      28.1710769
+    ],
+    "anchorSource": "https://ditu.amap.com/place/B02DB0W8QW",
+    "frontBearing": 140,
+    "groundSpanMeters": 130,
+    "type": "urban",
+    "tier": "regional"
+  },
+  {
+    "id": "oriental-pearl",
+    "name": "东方明珠",
+    "city": "上海市",
+    "province": "上海市",
+    "description": "浦东陆家嘴的东方明珠以三组斜撑托起红紫色球体，塔顶伸出细长天线。",
+    "anchor": [
+      121.4947167,
+      31.2416694
+    ],
+    "anchorSource": "https://www.wikidata.org/wiki/Q223207",
+    "frontBearing": 240,
+    "groundSpanMeters": 128,
+    "type": "urban",
+    "tier": "national"
+  },
+  {
+    "id": "qingdao-zhanqiao",
+    "name": "青岛栈桥",
+    "city": "青岛市",
+    "province": "山东省",
+    "description": "栈桥从青岛湾的岸边笔直延向海中，桥端是八角重檐回澜阁。",
+    "anchor": [
+      120.314269,
+      36.061665
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/1474305748",
+    "frontBearing": 165,
+    "groundSpanMeters": 440,
+    "type": "urban",
+    "tier": "regional"
+  },
+  {
+    "id": "qufu",
+    "name": "曲阜孔庙",
+    "city": "济宁市",
+    "province": "山东省",
+    "description": "黄色重檐大殿立在白色石阶上，正面十根浅灰色蟠龙檐柱托住屋檐。",
+    "anchor": [
+      116.9844849,
+      35.5968982
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/343721328",
+    "frontBearing": 180,
+    "groundSpanMeters": 54,
+    "type": "heritage",
+    "tier": "regional"
+  },
+  {
+    "id": "shanhaiguan",
+    "name": "山海关",
+    "city": "秦皇岛市",
+    "province": "河北省",
+    "description": "天下第一关门楼和灰砖城台连成一体，中央券口通向城内。",
+    "anchor": [
+      119.753707,
+      40.009374
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/414001373",
+    "frontBearing": 90,
+    "groundSpanMeters": 68,
+    "type": "heritage",
+    "tier": "regional"
+  },
+  {
+    "id": "shapotou",
+    "name": "沙坡头",
+    "city": "中卫市",
+    "province": "宁夏回族自治区",
+    "description": "腾格里沙坡在黄河弯道前陡然收住，水面保留羊皮筏。",
+    "anchor": [
+      104.9954087,
+      37.4659276
+    ],
+    "anchorSource": "https://www.openstreetmap.org/relation/9075585",
+    "frontBearing": 180,
+    "groundSpanMeters": 480,
+    "type": "nature",
+    "tier": "regional"
+  },
+  {
+    "id": "shennongjia",
+    "name": "神农架·神农顶",
+    "city": "神农架林区",
+    "province": "湖北省",
+    "description": "最高处的石碑、起伏山脊和分布在草甸下缘的针叶林。",
+    "anchor": [
+      110.3072111,
+      31.4399826
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/5333328928",
+    "frontBearing": 168,
+    "groundSpanMeters": 470,
+    "type": "nature",
+    "tier": "regional"
+  },
+  {
+    "id": "stone-forest",
+    "name": "昆明石林·阿诗玛",
+    "city": "昆明市",
+    "province": "云南省",
+    "description": "在小石林的灰色剑峰中突出阿诗玛石峰略向前倾的轮廓。",
+    "anchor": [
+      103.3274966,
+      24.8201062
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/12241708494",
+    "frontBearing": 182,
+    "groundSpanMeters": 110,
+    "type": "nature",
+    "tier": "regional"
+  },
+  {
+    "id": "summer-palace",
+    "name": "颐和园",
+    "city": "北京市",
+    "province": "北京市",
+    "description": "八角佛香阁的金瓦重檐立于万寿山石台上，下方有排云殿翼廊。",
+    "anchor": [
+      116.267982,
+      39.9978268
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/43977851",
+    "frontBearing": 180,
+    "groundSpanMeters": 135,
+    "type": "town-garden",
+    "tier": "national"
+  },
+  {
+    "id": "three-gorges-dam",
+    "name": "三峡大坝",
+    "city": "宜昌市",
+    "province": "湖北省",
+    "description": "长江三峡主坝中段以连续闸墩和泄洪孔组织坝面，两侧接出混凝土坝体。",
+    "anchor": [
+      111.0036111,
+      30.8238889
+    ],
+    "anchorSource": "https://www.wikidata.org/wiki/Q12514",
+    "frontBearing": 124,
+    "groundSpanMeters": 2309,
+    "type": "urban",
+    "tier": "national"
+  },
+  {
+    "id": "tianjin-eye",
+    "name": "天津之眼",
+    "city": "天津市",
+    "province": "天津市",
+    "description": "白色巨轮跨在海河永乐桥上，能从轮圈外辨认一圈悬挂式轿厢。",
+    "anchor": [
+      117.1803056,
+      39.1533889
+    ],
+    "anchorSource": "https://www.wikidata.org/wiki/Q750548",
+    "frontBearing": 149,
+    "groundSpanMeters": 165,
+    "type": "urban",
+    "tier": "regional"
+  },
+  {
+    "id": "wudang",
+    "name": "武当山",
+    "city": "十堰市",
+    "province": "湖北省",
+    "description": "鎏金铜殿位于陡峭岩峰之顶，下方是一圈石城和攀登石阶。",
+    "anchor": [
+      111.0043393,
+      32.4007757
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/635842275",
+    "frontBearing": 160,
+    "groundSpanMeters": 60,
+    "type": "heritage",
+    "tier": "regional"
+  },
+  {
+    "id": "wuyishan",
+    "name": "武夷山·九曲溪",
+    "city": "南平市",
+    "province": "福建省",
+    "description": "取九曲溪畔的玉女峰，保留丰厚的红砂岩体、林顶和近水竹筏。",
+    "anchor": [
+      117.9514525,
+      27.6438844
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/2659004065",
+    "frontBearing": 133,
+    "groundSpanMeters": 320,
+    "type": "nature",
+    "tier": "regional"
+  },
+  {
+    "id": "xiangshawan",
+    "name": "响沙湾",
+    "city": "鄂尔多斯市",
+    "province": "内蒙古自治区",
+    "description": "库布齐沙漠边连续弯曲的陡沙脊，近处以小驼队表现坡度。",
+    "anchor": [
+      109.9309886,
+      40.2539701
+    ],
+    "anchorSource": "https://www.amap.com/place/B01DD008IM",
+    "frontBearing": 42,
+    "groundSpanMeters": 540,
+    "type": "nature",
+    "tier": "regional"
+  },
+  {
+    "id": "yueyang-tower",
+    "name": "岳阳楼",
+    "city": "岳阳市",
+    "province": "湖南省",
+    "description": "洞庭湖畔城台上的三层木楼以金瓦盔顶、如意斗拱与朱色回廊为特征。",
+    "anchor": [
+      113.0883327,
+      29.3846862
+    ],
+    "anchorSource": "https://www.openstreetmap.org/way/230337579",
+    "frontBearing": 90,
+    "groundSpanMeters": 36,
+    "type": "heritage",
+    "tier": "regional"
+  },
+  {
+    "id": "yulong",
+    "name": "玉龙雪山",
+    "city": "丽江市",
+    "province": "云南省",
+    "description": "保留扇子陡黑灰峭壁、浅蓝冰川和成带的白雪。",
+    "anchor": [
+      100.1767026,
+      27.0984141
+    ],
+    "anchorSource": "https://www.openstreetmap.org/node/298460509",
+    "frontBearing": 132,
+    "groundSpanMeters": 850,
+    "type": "nature",
+    "tier": "national"
+  },
+  {
+    "id": "zhangye-danxia",
+    "name": "张掖七彩丹霞",
+    "city": "张掖市",
+    "province": "甘肃省",
+    "description": "从七彩虹霞台一带截取起伏山岭和横切坡面的斜向彩色沉积岩带。",
+    "anchor": [
+      100.0597949,
+      38.9596594
+    ],
+    "anchorSource": "https://www.amap.com/place/B0FFL1PFKE",
+    "frontBearing": 207,
+    "groundSpanMeters": 400,
+    "type": "nature",
+    "tier": "regional"
+  }
+]

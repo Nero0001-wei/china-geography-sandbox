@@ -1,0 +1,28 @@
+{
+  "id": "alishan",
+  "name": "阿里山·沼平车站",
+  "file": "alishan.glb",
+  "version": "national-v1",
+  "source": "https://www.ali-nsa.net/zh-tw/attractions/detail/176",
+  "sourceCopy": "data/landmarks/alishan/source.blend",
+  "sourceSha256": "3acc2c8a7a5a7e3a5f40f46d1f3f5aa2a6b1c75048019d52a9964aeedb37a492",
+  "triangles": 7688,
+  "bytes": 806020,
+  "sha256": "862120313c4cf9c638f82942a9005de50a2920528300c466b988b04924731d6c",
+  "materials": 16,
+  "embeddedImages": 6,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      2.5942530632019043,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 8292
+}

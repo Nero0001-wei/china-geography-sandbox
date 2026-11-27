@@ -1,0 +1,28 @@
+{
+  "id": "hengdian",
+  "name": "横店影视城·秦王宫",
+  "file": "hengdian.glb",
+  "version": "national-v1",
+  "source": "https://www.hengdianworld.com/Tourist/15/",
+  "sourceCopy": "data/landmarks/hengdian/source.blend",
+  "sourceTriangles": 4618,
+  "sourceSha256": "af81e70ef3e0c9e00c1b73f1be59bfc83fde565e05fd9fc3f5c0367c76a88a66",
+  "triangles": 4618,
+  "bytes": 375292,
+  "sha256": "cc796f18ab92d24ee9027a5c680b6a28f01d5b82012c7285208490e865b6a0aa",
+  "materials": 10,
+  "embeddedImages": 6,
+  "bounds": {
+    "min": [
+      -8.600000381469727,
+      0,
+      -5.300000190734863
+    ],
+    "max": [
+      8.600000381469727,
+      8.260000228881836,
+      7.800000190734863
+    ]
+  },
+  "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+}

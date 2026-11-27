@@ -1,0 +1,28 @@
+{
+  "id": "shanhaiguan",
+  "name": "山海关",
+  "file": "shanhaiguan.glb",
+  "version": "national-v1",
+  "source": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=34799",
+  "sourceCopy": "data/landmarks/shanhaiguan/source.blend",
+  "sourceSha256": "fddb175923fa1cbd0e3ee5073a4fd62630f8f3ad7f4e16fa3fdbed7aed3fa565",
+  "triangles": 2152,
+  "bytes": 379992,
+  "sha256": "631184128c8cd190bac86cd567cb79dbe48cb6329a2bc85a31817b4a44fecdd7",
+  "materials": 9,
+  "embeddedImages": 9,
+  "bounds": {
+    "min": [
+      -5.900000095367432,
+      0,
+      -3.450000047683716
+    ],
+    "max": [
+      5.900000095367432,
+      5.046761989593506,
+      3.450000047683716
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 2152
+}

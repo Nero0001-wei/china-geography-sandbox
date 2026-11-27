@@ -1,0 +1,28 @@
+{
+  "id": "suzhou-garden",
+  "name": "苏州拙政园",
+  "file": "suzhou-garden.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/813/",
+  "sourceCopy": "data/landmarks/suzhou-garden/source.blend",
+  "sourceSha256": "c119a70ee5459d3307584a3461b903aa9d2307ee7a2601ff9598caa532e9d1d9",
+  "triangles": 5422,
+  "bytes": 735872,
+  "sha256": "bc47bff3e6ac9a6aaeedd308f294c89d3c61fe3eb8dd001b828abf5605bdb637",
+  "materials": 13,
+  "embeddedImages": 13,
+  "bounds": {
+    "min": [
+      -6.224999904632568,
+      0,
+      -4.420000076293945
+    ],
+    "max": [
+      6.224999904632568,
+      2.8719611167907715,
+      4.420000076293945
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 5422
+}

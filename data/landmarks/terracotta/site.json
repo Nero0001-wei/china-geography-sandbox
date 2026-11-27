@@ -1,0 +1,23 @@
+{
+  "id": "terracotta",
+  "name": "秦始皇兵马俑",
+  "province": "陕西省",
+  "city": "西安市",
+  "anchorSource": "https://www.openstreetmap.org/way/60126645",
+  "frontBearing": 92,
+  "groundSpanMeters": 230,
+  "description": "以一号坑的坑内剖视展示步兵俑的平行军阵与夯土隔墙。",
+  "driveQuery": "秦始皇兵马俑博物馆停车场",
+  "transitQuery": "兵马俑公交站",
+  "visualSource": "https://www.bmy.com.cn/pitone.html",
+  "anchorMethod": "OpenStreetMap「秦兵马俑一号坑」建筑轮廓的面积质心。",
+  "frontNote": "取一号坑军阵向东的正面，沿遗址长轴近似定位。",
+  "period": "秦代遗址；采用现状展示坑剖视表达",
+  "anchor": [
+    109.2731572,
+    34.384966
+  ],
+  "anchorCrs": "WGS84",
+  "type": "heritage",
+  "tier": "national"
+}

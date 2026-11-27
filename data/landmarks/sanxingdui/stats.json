@@ -1,0 +1,28 @@
+{
+  "id": "sanxingdui",
+  "name": "三星堆博物馆",
+  "file": "sanxingdui.glb",
+  "version": "national-v1",
+  "source": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/sc/202308/t20230801_946332.html",
+  "sourceCopy": "data/landmarks/sanxingdui/source.blend",
+  "sourceSha256": "f7d0727f75d2a45f7076701b44865d02e2b321a6b6ffcf36456318dccc87447e",
+  "triangles": 1892,
+  "bytes": 198340,
+  "sha256": "7472bed6c238a5e5b6f3b7f248037078f70bc135b1942f6998305fc027fa6c44",
+  "materials": 10,
+  "embeddedImages": 9,
+  "sourceTriangles": 1892,
+  "bounds": {
+    "min": [
+      -5.449999809265137,
+      0,
+      -4.199999809265137
+    ],
+    "max": [
+      5.449999809265137,
+      2.940000057220459,
+      4.199999809265137
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

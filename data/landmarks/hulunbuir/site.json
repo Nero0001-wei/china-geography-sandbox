@@ -1,0 +1,22 @@
+{
+  "id": "hulunbuir",
+  "name": "呼伦贝尔草原·莫尔格勒河",
+  "province": "内蒙古自治区",
+  "city": "呼伦贝尔市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    119.9343498,
+    49.5788264
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.amap.com/place/B0JUFUGA3E",
+  "anchorFeature": "阿吉奈观景台",
+  "anchorMethod": "高德“阿吉奈观景台”POI，GCJ-02（119.941342，49.580548）按项目函数反算 WGS84，作为展示锚点。",
+  "frontBearing": 128,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 1100,
+  "description": "从阿吉奈观景台截取草甸中的连续河曲，明绿缓坡衬出蓝色回弯。",
+  "visualSource": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=34822",
+  "period": "现状景观局部的微缩示意"
+}

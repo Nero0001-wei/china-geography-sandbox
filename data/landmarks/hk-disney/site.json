@@ -1,0 +1,23 @@
+{
+  "id": "hk-disney",
+  "name": "香港迪士尼乐园",
+  "province": "香港特别行政区",
+  "city": "香港",
+  "anchorSource": "https://www.openstreetmap.org/way/802061958",
+  "frontBearing": 71,
+  "groundSpanMeters": 51,
+  "description": "以奇妙梦想城堡的正门、中央高塔和多色细尖塔群为代表。",
+  "driveQuery": "香港迪士尼乐园私家车停车场",
+  "transitQuery": "迪士尼站",
+  "visualSource": "https://www.hongkongdisneyland.com/zh-hk/attractions/castle-magical-dreams/",
+  "anchorMethod": "OpenStreetMap 奇妙梦想城堡主楼轮廓的面积质心，非乐园大门。",
+  "frontNote": "城堡正门朝向中央圆形广场 The Hub，按主楼至广场算得约71°。",
+  "period": "2020年揭幕的奇妙梦想城堡",
+  "anchor": [
+    114.0410847,
+    22.3126249
+  ],
+  "anchorCrs": "WGS84",
+  "type": "theme-park",
+  "tier": "national"
+}

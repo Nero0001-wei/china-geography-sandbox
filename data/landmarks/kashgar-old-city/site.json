@@ -1,0 +1,19 @@
+{
+  "id": "kashgar-old-city",
+  "name": "喀什古城",
+  "province": "新疆维吾尔自治区",
+  "city": "喀什地区",
+  "anchor": [
+    75.9961868,
+    39.4712543
+  ],
+  "anchorSource": "https://www.openstreetmap.org/node/5832030085",
+  "anchorCrs": "WGS84",
+  "frontBearing": 88,
+  "groundSpanMeters": 74,
+  "description": "喀什古城东口的黄褐砖墙与高拱城门，是游客观看开城仪式的一处入口。",
+  "type": "town-garden",
+  "tier": "regional",
+  "visualSource": "https://www.neac.gov.cn/seac/xwzx/202607/1192630.shtml",
+  "siteNotes": "取 OpenStreetMap 喀什古城东门实体节点，正面朝东。砂黄色砖墙和拱道按保护性改造后的外观制作。"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "jiuzhaigou",
+  "name": "九寨沟",
+  "province": "四川省",
+  "city": "阿坝藏族羌族自治州",
+  "anchor": [
+    103.9049161,
+    33.1649162
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/1330416162",
+  "frontBearing": 35,
+  "groundSpanMeters": 270,
+  "description": "诺日朗瀑布的钙华台地上林带密布，多股水帘从弧形台缘流下。",
+  "driveQuery": "九寨沟景区沟口停车场",
+  "transitQuery": "九寨沟景区游客中心",
+  "anchorCrs": "WGS84",
+  "reference": "https://www.jiuzhai.com/about/scenic-spot/eature-spot/6117-2017-11-28-02",
+  "versionNotes": "取现状诺日朗瀑布主体，主水帘面向下游观景区域。",
+  "osmFeature": "诺日朗瀑布",
+  "amapPoi": "B03450MOZE",
+  "gcj02Feature": [
+    103.907291,
+    33.163212
+  ],
+  "crossCheck": "https://ditu.amap.com/place/B03450MOZE",
+  "crossCheckMeters": 49.9,
+  "type": "nature",
+  "tier": "national"
+}

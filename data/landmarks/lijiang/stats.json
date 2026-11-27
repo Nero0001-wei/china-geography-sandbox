@@ -1,0 +1,28 @@
+{
+  "id": "lijiang",
+  "name": "丽江古城",
+  "file": "lijiang.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/811/",
+  "sourceCopy": "data/landmarks/lijiang/source.blend",
+  "sourceSha256": "f4d7c1053eae2f39db0c19b172af3be44055e07107d73c17cba3b4f2e44ed439",
+  "triangles": 5692,
+  "bytes": 601680,
+  "sha256": "39d28b98265a4a6a035334829fda3cb32e90db8ffffa18c06289966487f72148",
+  "materials": 8,
+  "embeddedImages": 8,
+  "bounds": {
+    "min": [
+      -5.216728210449219,
+      0,
+      -3.4000000953674316
+    ],
+    "max": [
+      5.300000190734863,
+      4.493000030517578,
+      3.0999999046325684
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 5692
+}

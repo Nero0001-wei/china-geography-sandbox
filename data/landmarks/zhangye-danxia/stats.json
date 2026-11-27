@@ -1,0 +1,28 @@
+{
+  "id": "zhangye-danxia",
+  "name": "张掖七彩丹霞",
+  "file": "zhangye-danxia.glb",
+  "version": "national-v1",
+  "source": "https://www.zhangye.gov.cn/chzy/zyly/ajjq/202303/t20230318_1007476_ghb.html",
+  "sourceCopy": "data/landmarks/zhangye-danxia/source.blend",
+  "sourceSha256": "822a128e33d95117c27e8fa39eadcb65fa7ba6a161cf5855cc718635b1b4c743",
+  "triangles": 7090,
+  "bytes": 756472,
+  "sha256": "af7384affaf86aee6ed4d6fc3f6a0767b3148c53c0d672fc3e44bd37d9db121b",
+  "materials": 10,
+  "embeddedImages": 2,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      2.597933053970337,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 7090
+}

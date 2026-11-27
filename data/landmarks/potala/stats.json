@@ -1,0 +1,28 @@
+{
+  "id": "potala",
+  "name": "布达拉宫",
+  "file": "potala.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/707/",
+  "sourceCopy": "data/landmarks/potala/source.blend",
+  "sourceSha256": "730fe1a354d900a83b35713ef50a93d0a5cc0aab0b188de9e47cae02879a46ef",
+  "triangles": 7520,
+  "bytes": 711876,
+  "sha256": "b176dfe7fe5051d3134e259c806e2b967c00e4286e3408e5a08516d8fda09a72",
+  "materials": 7,
+  "embeddedImages": 7,
+  "bounds": {
+    "min": [
+      -6.2399139404296875,
+      0,
+      -2.5784099102020264
+    ],
+    "max": [
+      6.537255764007568,
+      6.110000133514404,
+      2.7400929927825928
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 7520
+}

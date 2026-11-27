@@ -1,0 +1,21 @@
+{
+  "id": "west-lake",
+  "name": "杭州西湖·三潭印月",
+  "province": "浙江省",
+  "city": "杭州市",
+  "anchor": [
+    120.139741,
+    30.2394106
+  ],
+  "anchorSource": "https://www.openstreetmap.org/node/9025997767",
+  "anchorCrs": "WGS84",
+  "frontBearing": 180,
+  "groundSpanMeters": 65,
+  "description": "小瀛洲南侧水中的三座石塔，保留葫芦顶、球腹和圆洞。",
+  "driveQuery": "杭州湖滨公园停车场",
+  "transitQuery": "一公园公交站",
+  "siteNotes": "三潭石塔群位于小瀛洲以南，用三座石塔群的 OSM 点作为模型原点。三足排列可用 OSM 地物 975360500、975360501、975360502 复核。正面取向按三塔在湖面上的相对位置。",
+  "reference": "https://whc.unesco.org/en/list/1334/",
+  "type": "nature",
+  "tier": "national"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "wudang",
+  "name": "武当山",
+  "province": "湖北省",
+  "city": "十堰市",
+  "anchor": [
+    111.0043393,
+    32.4007757
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/635842275",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 160,
+  "groundSpanMeters": 60,
+  "description": "鎏金铜殿位于陡峭岩峰之顶，下方是一圈石城和攀登石阶。",
+  "visualSource": "https://whc.unesco.org/en/list/705/",
+  "reference": "https://whc.unesco.org/en/list/705/",
+  "period": "取明永乐十四年铸造的天柱峰金殿及山顶石墙。",
+  "subject": "天柱峰·金殿及紫金城",
+  "frontNote": "以临太和宫登顶路径一侧为展示面，朝向为图上近似。",
+  "type": "heritage",
+  "tier": "regional"
+}

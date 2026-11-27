@@ -1,0 +1,28 @@
+{
+  "id": "tianjin-eye",
+  "name": "天津之眼",
+  "file": "tianjin-eye.glb",
+  "version": "national-v1",
+  "source": "https://www.tj.gov.cn/sq/yztj/jgtp/202005/t20200520_2468039.html",
+  "sourceCopy": "data/landmarks/tianjin-eye/source.blend",
+  "sourceSha256": "6ff7294c226f68caa8d3a17a68918b23404c58c303d1016a06a1b6d0a0ca16d6",
+  "triangles": 4094,
+  "bytes": 318464,
+  "sha256": "ca2b75743738be35d1b97ff19bf945946ba33e7719e1d96e6545873f58cba727",
+  "materials": 9,
+  "embeddedImages": 5,
+  "sourceTriangles": 4094,
+  "bounds": {
+    "min": [
+      -5.400000095367432,
+      0,
+      -3.625
+    ],
+    "max": [
+      5.400000095367432,
+      6.929999828338623,
+      3.625
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

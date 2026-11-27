@@ -1,0 +1,23 @@
+{
+  "id": "summer-palace",
+  "name": "颐和园",
+  "province": "北京市",
+  "city": "北京市",
+  "anchor": [
+    116.267982,
+    39.9978268
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/43977851",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 180,
+  "groundSpanMeters": 135,
+  "description": "八角佛香阁的金瓦重檐立于万寿山石台上，下方有排云殿翼廊。",
+  "visualSource": "https://whc.unesco.org/en/list/880/",
+  "reference": "https://whc.unesco.org/en/list/880/",
+  "period": "取今存佛香阁、万寿山前山高台和临昆明湖的轴线。",
+  "subject": "万寿山佛香阁",
+  "frontNote": "从昆明湖的南面中轴正视佛香阁。",
+  "type": "town-garden",
+  "tier": "national"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "wulong",
+  "name": "武隆天生三桥",
+  "file": "wulong.glb",
+  "version": "national-v1",
+  "source": "https://cqwl.gov.cn/bmjz_sites/bm/wlw/zwxx_98939/jqjd/jdjd_1/202007/t20200702_7634529.html",
+  "sourceCopy": "data/landmarks/wulong/source.blend",
+  "sourceSha256": "af6241462d8871f3f6e332c0ac7101144a87264eacf7f044a29efb4f7002be64",
+  "triangles": 7452,
+  "bytes": 723572,
+  "sha256": "b14dfbfa93dbd68a910e3368425207aa002279b80318d17a1a1134a42fff6e17",
+  "materials": 13,
+  "embeddedImages": 5,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      3.4131669998168945,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 7452
+}

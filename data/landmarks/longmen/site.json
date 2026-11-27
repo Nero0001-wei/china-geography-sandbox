@@ -1,0 +1,29 @@
+{
+  "id": "longmen",
+  "name": "龙门石窟",
+  "province": "河南省",
+  "city": "洛阳市",
+  "anchor": [
+    112.469977,
+    34.5526931
+  ],
+  "anchorSource": "https://ditu.amap.com/place/B0FFI960ON",
+  "frontBearing": 90,
+  "groundSpanMeters": 38,
+  "description": "奉先寺大像龛的卢舍那坐佛和侍立造像。",
+  "driveQuery": "龙门石窟西北服务区停车场",
+  "transitQuery": "龙门石窟公交站",
+  "anchorCrs": "WGS84",
+  "reference": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/hnly/fjms/articlec716b8d99f6b4aa3ad4309161ed024db.html",
+  "versionNotes": "唐代大像龛现存状态。坐佛向伊河，侧壁保留露天石龛。",
+  "osmFeature": "奉先寺",
+  "amapPoi": "B0FFI960ON",
+  "gcj02Feature": [
+    112.476174,
+    34.551574
+  ],
+  "crossCheck": "https://www.openstreetmap.org/node/4223817597",
+  "crossCheckMeters": 19.5,
+  "type": "heritage",
+  "tier": "national"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sun-moon-lake",
+  "name": "日月潭",
+  "file": "sun-moon-lake.glb",
+  "version": "national-v1",
+  "source": "https://www.sunmoonlake.gov.tw/zh-TW/",
+  "sourceCopy": "data/landmarks/sun-moon-lake/source.blend",
+  "sourceSha256": "b6e7c3f563b737f03bb66d4851b87d985d87288c377ee9982d0bccf9e7cc4da6",
+  "triangles": 6816,
+  "bytes": 797228,
+  "sha256": "0f9a9fd449ae40ae3bd2d7211319cbf4ff280ab80aaefd1aa8180bfd679d989b",
+  "materials": 15,
+  "embeddedImages": 6,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      1.9857569932937622,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 6816
+}

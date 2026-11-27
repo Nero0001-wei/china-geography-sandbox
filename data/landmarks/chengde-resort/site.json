@@ -1,0 +1,24 @@
+{
+  "id": "chengde-resort",
+  "name": "承德避暑山庄",
+  "province": "河北省",
+  "city": "承德市",
+  "anchor": [
+    117.93868,
+    40.98347
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/18/98300/216952",
+  "anchorMethod": "用 Esri World Imagery 影像中的中榭屋顶中心，按景区官方照片的三亭排列交叉定位。",
+  "frontBearing": 302,
+  "groundSpanMeters": 96,
+  "description": "灰瓦红柱的三亭和水下桥墩连成一道榭桥，水面伸向两岸。",
+  "visualSource": "https://www.bishushanzhuang.com.cn/index.php/scenic/pic_list/id/193.html",
+  "reference": "https://www.bishushanzhuang.com.cn/index.php/scenic/pic_list/id/193.html",
+  "period": "康熙时修建的水心榭横跨下湖与银湖之间的水面。",
+  "subject": "湖区水心榭",
+  "frontNote": "按影像中三座亭榭的东北至西南连线，取面向西北侧湖面的展示方向。",
+  "type": "town-garden",
+  "tier": "national",
+  "crossCheck": "https://www.openstreetmap.org/way/1215739917"
+}

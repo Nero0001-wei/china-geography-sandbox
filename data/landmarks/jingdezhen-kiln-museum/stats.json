@@ -1,0 +1,28 @@
+{
+  "id": "jingdezhen-kiln-museum",
+  "name": "景德镇御窑博物馆",
+  "file": "jingdezhen-kiln-museum.glb",
+  "version": "national-v1",
+  "source": "https://www.archdaily.com/zh/948088/jing-de-zhen-yu-yao-bo-wu-guan-zhu-pou-jian-zhu-shi-wu-suo",
+  "sourceCopy": "data/landmarks/jingdezhen-kiln-museum/source.blend",
+  "sourceSha256": "177fe08a36dc6ef38bb1057d202c828b487e91e8241735a5f6b4e796ad469f2e",
+  "triangles": 3148,
+  "bytes": 240268,
+  "sha256": "7ee894bf50b8964d51be165efa5256345241cdd36458c6650692151e7c49c1c5",
+  "materials": 9,
+  "embeddedImages": 9,
+  "sourceTriangles": 3148,
+  "bounds": {
+    "min": [
+      -5.550000190734863,
+      0,
+      -4.199999809265137
+    ],
+    "max": [
+      5.550000190734863,
+      2.24399995803833,
+      4.199999809265137
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

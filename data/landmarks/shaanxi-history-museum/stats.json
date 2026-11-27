@@ -1,0 +1,28 @@
+{
+  "id": "shaanxi-history-museum",
+  "name": "陕西历史博物馆本馆",
+  "file": "shaanxi-history-museum.glb",
+  "version": "national-v1",
+  "source": "https://www.sxhm.com/history.html?_isa=1",
+  "sourceCopy": "data/landmarks/shaanxi-history-museum/source.blend",
+  "sourceSha256": "f5412b5d35e5e79d36f721f5a99b54cdc19d70d674bf9d917a0c6f989fa5358e",
+  "triangles": 7260,
+  "bytes": 856720,
+  "sha256": "2e780f214ee06373a0debfa74128ff8f190407d9531f36d6aa767064029d2ac8",
+  "materials": 14,
+  "embeddedImages": 14,
+  "bounds": {
+    "min": [
+      -7.489999771118164,
+      0,
+      -5.980000019073486
+    ],
+    "max": [
+      7.489999771118164,
+      4.086360931396484,
+      5.980000019073486
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 7260
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hunan-museum",
+  "name": "湖南省博物馆",
+  "province": "湖南省",
+  "city": "长沙市",
+  "anchor": [
+    112.9884413,
+    28.2153419
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/269856520",
+  "anchorCrs": "WGS84",
+  "frontBearing": 266,
+  "groundSpanMeters": 180,
+  "description": "长沙主馆以宽阔悬挑为中央门厅遮覆，两翼石墙夹着玻璃立面，前方木栈接到浅水池。",
+  "type": "museum",
+  "tier": "national",
+  "visualSource": "https://www.hunan.gov.cn/hnszf/jxxx/hslv/c101474/202108/t20210827_20401957.html",
+  "siteNotes": "锚点取 OpenStreetMap 所标建筑轮廓的顶点平均位置。取东风路主馆现状，以东风路一侧为正面。2025 年 10 月由「湖南博物院」更名为「湖南省博物馆」。",
+  "aliases": [
+    "湖南博物院",
+    "湘博"
+  ]
+}

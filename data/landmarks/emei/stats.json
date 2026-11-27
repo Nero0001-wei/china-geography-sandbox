@@ -1,0 +1,28 @@
+{
+  "id": "emei",
+  "name": "峨眉山·金顶",
+  "file": "emei.glb",
+  "version": "national-v1",
+  "source": "https://www.emeishan.gov.cn/emss/efbf/2023022214035442128800000.html",
+  "sourceCopy": "data/landmarks/emei/source.blend",
+  "sourceSha256": "31b21df5524b4bc664ea5d3b744d585336a74a4752b95ee62d41ea331a8f91d3",
+  "triangles": 6212,
+  "bytes": 767128,
+  "sha256": "484f74770dccbe2bafa79a34c62753dfd4cfb12f7233c299a1ec460c339a657a",
+  "materials": 15,
+  "embeddedImages": 8,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      3.1799609661102295,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 6212
+}

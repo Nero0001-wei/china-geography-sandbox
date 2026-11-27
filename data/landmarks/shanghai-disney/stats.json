@@ -1,0 +1,28 @@
+{
+  "id": "shanghai-disney",
+  "name": "上海迪士尼度假区",
+  "file": "shanghai-disney.glb",
+  "version": "national-v1",
+  "source": "https://www.shanghaidisneyresort.com/zh-cn/experience/attraction/enchanted-storybook-castle",
+  "sourceCopy": "data/landmarks/shanghai-disney/source.blend",
+  "sourceTriangles": 4870,
+  "sourceSha256": "3871c49c8bba9ad7b71f96d7714ebb4a0a6c23f3d70e66cd9e5d970e5d47ed41",
+  "triangles": 4870,
+  "bytes": 340700,
+  "sha256": "da1e156cf1af81b508362e76309415548336a9578854e9a59b11974ca389dcfc",
+  "materials": 6,
+  "embeddedImages": 2,
+  "bounds": {
+    "min": [
+      -5.418843746185303,
+      0,
+      -4.268321514129639
+    ],
+    "max": [
+      5.418843746185303,
+      11.34000015258789,
+      3.9683213233947754
+    ]
+  },
+  "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+}

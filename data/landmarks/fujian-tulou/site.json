@@ -1,0 +1,23 @@
+{
+  "id": "fujian-tulou",
+  "name": "福建土楼·田螺坑",
+  "province": "福建省",
+  "city": "漳州市",
+  "anchor": [
+    117.0558286,
+    24.586866
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/491630282",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 263,
+  "groundSpanMeters": 133,
+  "description": "方楼居中，三圆楼与一座椭圆楼依坡围合，灰瓦下保留各院天井。",
+  "visualSource": "https://mzt.fujian.gov.cn/gk/wpldq/202511/t20251110_7031782.htm",
+  "reference": "https://mzt.fujian.gov.cn/gk/wpldq/202511/t20251110_7031782.htm",
+  "period": "取现存步云楼、和昌楼、振昌楼、瑞云楼和文昌楼。",
+  "subject": "田螺坑五座土楼",
+  "frontNote": "取山坡观景侧的西侧方向，便于俯看楼群。",
+  "type": "town-garden",
+  "tier": "national"
+}

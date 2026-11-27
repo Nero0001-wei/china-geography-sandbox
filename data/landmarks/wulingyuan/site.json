@@ -1,0 +1,22 @@
+{
+  "id": "wulingyuan",
+  "name": "武陵源·张家界国家森林公园",
+  "province": "湖南省",
+  "city": "张家界市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    110.4372172,
+    29.3451921
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/4331753591",
+  "anchorFeature": "袁家界乾坤柱",
+  "anchorMethod": "OpenStreetMap “袁家界乾坤柱”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 146,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 460,
+  "description": "以袁家界乾坤柱（南天一柱）为中心，保留狭长直立的石英砂岩峰柱和绿顶。",
+  "visualSource": "https://whhlyt.hunan.gov.cn/whhlyt/zxta/202511/t20251113_33847812.html",
+  "period": "现状景观局部的微缩示意"
+}

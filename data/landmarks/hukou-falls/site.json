@@ -1,0 +1,27 @@
+{
+  "id": "hukou-falls",
+  "name": "黄河壶口瀑布",
+  "province": "陕西省",
+  "city": "延安市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    110.4437736,
+    36.1486169
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/13136496680",
+  "anchorFeature": "陕西宜川侧靠主瀑的基岩台沿",
+  "anchorMethod": "取 OpenStreetMap 黄河西岸崖壁线 way/461534452 上的陆岸标注点。主瀑节点位于黄河水中，模型陆侧锚与主瀑节点相距约 16 米。",
+  "featureAnchor": [
+    110.4439195,
+    36.1487029
+  ],
+  "featureSource": "https://www.openstreetmap.org/node/313159165",
+  "frontBearing": 194,
+  "frontNote": "正面朝黄河下游，表现宜川与吉县之间的同一处瀑布。",
+  "groundSpanMeters": 340,
+  "description": "横跨陕西宜川与山西吉县的黄河壶口，宽阔黄褐急流在砂岩台地前收进狭长石槽。",
+  "visualSource": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/sx/202208/t20220809_935221.html",
+  "period": "以黄河水量充足时的黄褐水色与岩壁作现状示意"
+}

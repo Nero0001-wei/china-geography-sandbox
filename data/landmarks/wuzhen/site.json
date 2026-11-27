@@ -1,0 +1,23 @@
+{
+  "id": "wuzhen",
+  "name": "乌镇",
+  "province": "浙江省",
+  "city": "嘉兴市",
+  "anchor": [
+    120.4742979,
+    30.7534921
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/227804556",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 180,
+  "groundSpanMeters": 80,
+  "description": "临水灰瓦木屋之间，两座相接的石拱桥跨过西市河与支汊。",
+  "visualSource": "https://www.cac.gov.cn/2014-11/18/c_1113942742.htm",
+  "reference": "https://www.cac.gov.cn/2014-11/18/c_1113942742.htm",
+  "period": "取西栅两桥相邻的桥里桥水巷，把通济桥作为模型锚点。",
+  "subject": "西栅·通济桥与仁济桥",
+  "frontNote": "以面向水巷的南岸为模型展示面。",
+  "type": "town-garden",
+  "tier": "national"
+}

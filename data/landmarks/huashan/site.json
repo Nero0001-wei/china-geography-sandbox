@@ -1,0 +1,22 @@
+{
+  "id": "huashan",
+  "name": "华山·西峰",
+  "province": "陕西省",
+  "city": "渭南市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    110.0767764,
+    34.4816348
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/2260053392",
+  "anchorFeature": "华山西峰",
+  "anchorMethod": "OpenStreetMap “华山西峰”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 194,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 340,
+  "description": "西峰的陡直花岗岩岩壁、相连的窄脊和脊顶石道。",
+  "visualSource": "https://weinan.qinfeng.gov.cn/info/1095/36343.htm",
+  "period": "现状景观局部的微缩示意"
+}

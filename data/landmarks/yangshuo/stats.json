@@ -1,0 +1,28 @@
+{
+  "id": "yangshuo",
+  "name": "阳朔漓江·黄布倒影",
+  "file": "yangshuo.glb",
+  "version": "national-v1",
+  "source": "https://zhuanti.mct.gov.cn/xcss2024_shjlzzxc/guangxi/detail/6871.html",
+  "sourceCopy": "data/landmarks/yangshuo/source.blend",
+  "sourceSha256": "36e15a03268a7acd671a31684404d9967c82e82cdaa189380415b6f118627e5d",
+  "triangles": 7690,
+  "bytes": 832848,
+  "sha256": "3bca54f29dd2beba34a384a6cb2ebbe9041e4aad0a0037afc1cf89cdfdb2d48a",
+  "materials": 14,
+  "embeddedImages": 5,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      2.5029780864715576,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 8282
+}

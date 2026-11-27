@@ -1,0 +1,23 @@
+{
+  "id": "yueyang-tower",
+  "name": "岳阳楼",
+  "province": "湖南省",
+  "city": "岳阳市",
+  "anchor": [
+    113.0883327,
+    29.3846862
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/230337579",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 90,
+  "groundSpanMeters": 36,
+  "description": "洞庭湖畔城台上的三层木楼以金瓦盔顶、如意斗拱与朱色回廊为特征。",
+  "visualSource": "https://www.hunan.gov.cn/hnszf/c101480/202108/t20210830_20411802.html",
+  "reference": "https://www.hunan.gov.cn/hnszf/c101480/202108/t20210830_20411802.html",
+  "period": "取1880年大修重建形制，保留三层盔顶和临湖城台。",
+  "subject": "岳阳楼主楼",
+  "frontNote": "依据湖南省政府建筑资料，取坐西朝东的主立面。",
+  "type": "heritage",
+  "tier": "regional"
+}

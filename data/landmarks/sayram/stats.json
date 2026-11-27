@@ -1,0 +1,28 @@
+{
+  "id": "sayram",
+  "name": "赛里木湖",
+  "file": "sayram.glb",
+  "version": "national-v1",
+  "source": "https://www.xjboz.gov.cn/xjboz/c126221/202202/6c11b0230bb14c3aa22e87110b9ce152.shtml",
+  "sourceCopy": "data/landmarks/sayram/source.blend",
+  "sourceSha256": "1fee4a2f3e8e9ce170bffe08dbd8b6803139c47a0fd9f0f878fb06219a748e6c",
+  "triangles": 7449,
+  "bytes": 850780,
+  "sha256": "a98454cdd86a5bc36bc27a8b83f3aa01df08336c8f1d766f2a9c113deb103fbd",
+  "materials": 9,
+  "embeddedImages": 9,
+  "bounds": {
+    "min": [
+      -5.300000190734863,
+      0,
+      -3.3528990745544434
+    ],
+    "max": [
+      5.300000190734863,
+      3.2887940406799316,
+      3.299999952316284
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 7769
+}

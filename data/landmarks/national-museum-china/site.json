@@ -1,0 +1,24 @@
+{
+  "id": "national-museum-china",
+  "name": "中国国家博物馆",
+  "province": "北京市",
+  "city": "北京市",
+  "anchor": [
+    116.3953896,
+    39.9037459
+  ],
+  "anchorSource": "https://www.openstreetmap.org/relation/8607825",
+  "anchorMethod": "取国博馆舍围合轮廓在 OpenStreetMap 的代表中心点。",
+  "frontBearing": 270,
+  "groundSpanMeters": 305,
+  "type": "museum",
+  "subject": "西平台及主馆西立面",
+  "visualSource": "https://www.gmp.de/cn/projects/471/national-museum-of-china",
+  "referencePhoto": "https://www.chnmuseum.cn/zl/zlhg/201812/t20181220_32269.shtml",
+  "description": "天安门广场东侧的国博馆舍由对称石质两翼、开敞的西入口方柱廊和东侧新馆构成。",
+  "period": "取1959年原馆西立面与2011年改扩建完成后的整体馆舍。",
+  "frontNote": "以正对天安门广场的西入口柱廊为正面。",
+  "anchorCrs": "WGS84",
+  "tier": "national",
+  "reference": "https://www.gmp.de/cn/projects/471/national-museum-of-china"
+}

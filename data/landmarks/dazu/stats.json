@@ -1,0 +1,28 @@
+{
+  "id": "dazu",
+  "name": "大足石刻",
+  "file": "dazu.glb",
+  "version": "national-v1",
+  "source": "https://ps.whrsm.cas.cn/kpjt/kpwz/201410/t20141014_572106.html",
+  "sourceCopy": "data/landmarks/dazu/source.blend",
+  "sourceSha256": "8866f43485725bb8d3fe6da2dbce75cb8e3ad4262a32f13b253f7880aaafd607",
+  "triangles": 5524,
+  "bytes": 584524,
+  "sha256": "900ae0d85dfbb05420271b5f24b6576b886c5d7586482117392e04dcd841f556",
+  "materials": 6,
+  "embeddedImages": 6,
+  "bounds": {
+    "min": [
+      -6.400000095367432,
+      0,
+      -2.7750000953674316
+    ],
+    "max": [
+      6.400000095367432,
+      5.140328884124756,
+      2.7750000953674316
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 5524
+}

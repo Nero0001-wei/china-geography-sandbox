@@ -1,0 +1,22 @@
+{
+  "id": "detian",
+  "name": "德天跨国瀑布",
+  "province": "广西壮族自治区",
+  "city": "崇左市",
+  "type": "nature",
+  "tier": "regional",
+  "anchor": [
+    106.7231618,
+    22.8558796
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/7712684163",
+  "anchorFeature": "中国侧德天瀑布",
+  "anchorMethod": "OpenStreetMap “中国侧德天瀑布”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 142,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 270,
+  "description": "归春河中国一侧密林台地上错落的三级瀑布和碧水。",
+  "visualSource": "https://eco.gov.cn/news_info/40720.html",
+  "period": "现状景观局部的微缩示意"
+}

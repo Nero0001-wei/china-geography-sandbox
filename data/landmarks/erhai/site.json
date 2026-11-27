@@ -1,0 +1,27 @@
+{
+  "id": "erhai",
+  "name": "大理洱海·小普陀",
+  "province": "云南省",
+  "city": "大理白族自治州",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    100.2225336,
+    25.8096357
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/6935389272",
+  "anchorFeature": "挖色镇海印村“遥望小普陀”陆侧观景点",
+  "anchorMethod": "取 OpenStreetMap 的水岸陆上观景点。小普陀岩屿距锚点约 128 米，岛屿独立留在模型湖面中。",
+  "featureAnchor": [
+    100.2219074,
+    25.8106403
+  ],
+  "featureSource": "https://www.openstreetmap.org/way/310515894",
+  "frontBearing": 160,
+  "frontNote": "以湖岸朝向小普陀的 340° 观景方位取反，模型正面面向海印村岸侧。",
+  "groundSpanMeters": 380,
+  "description": "取洱海东侧海印村一带，湖水环绕小普陀岩屿，白墙灰瓦观音阁与远处苍山轮廓相对。",
+  "visualSource": "https://www.yndali.gov.cn/dlsrmzf/c106753/2018963738441322496/wUplLX2u.pdf",
+  "period": "小普陀观音阁现状和洱海典型岸段的微缩示意"
+}

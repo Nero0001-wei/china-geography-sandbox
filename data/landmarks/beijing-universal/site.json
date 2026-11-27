@@ -1,0 +1,21 @@
+{
+  "id": "beijing-universal",
+  "name": "北京环球度假区",
+  "province": "北京市",
+  "city": "北京市",
+  "anchor": [
+    116.6709294,
+    39.8511332
+  ],
+  "anchorSource": "https://www.openstreetmap.org/node/8568400246",
+  "anchorCrs": "WGS84",
+  "frontBearing": 165,
+  "groundSpanMeters": 35,
+  "description": "城市大道的地球雕塑和环形喷泉。",
+  "driveQuery": "北京环球度假区停车楼",
+  "transitQuery": "环球度假区地铁站",
+  "siteNotes": "2021 年开园的北京环球度假区；选择城市大道地球雕塑，正侧取景按城市大道游人一侧，旋转地球无固定正面。",
+  "reference": "https://www.universalbeijingresort.com/zh_CN",
+  "type": "theme-park",
+  "tier": "national"
+}

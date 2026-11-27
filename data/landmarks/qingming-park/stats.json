@@ -1,0 +1,28 @@
+{
+  "id": "qingming-park",
+  "name": "开封清明上河园",
+  "file": "qingming-park.glb",
+  "version": "national-v1",
+  "source": "https://www.shunhequ.gov.cn/kfsshhzqwz/c00314/pc/content/content_1909548820819951616.html",
+  "sourceCopy": "data/landmarks/qingming-park/source.blend",
+  "sourceSha256": "4de6e4b077b254d6105ec38a49f5ad3965c5fba9d1b5746f01882cb45d7e81d3",
+  "triangles": 3690,
+  "bytes": 315140,
+  "sha256": "185a3a94b168c0a7d3a7dad40e73740d3f92d9c5e2593cffd615869b08254a79",
+  "materials": 13,
+  "embeddedImages": 11,
+  "sourceTriangles": 3690,
+  "bounds": {
+    "min": [
+      -5.5,
+      0,
+      -3.625
+    ],
+    "max": [
+      5.5,
+      2.2799999713897705,
+      3.625
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

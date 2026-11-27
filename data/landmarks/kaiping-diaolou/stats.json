@@ -1,0 +1,28 @@
+{
+  "id": "kaiping-diaolou",
+  "name": "开平碉楼",
+  "file": "kaiping-diaolou.glb",
+  "version": "national-v1",
+  "source": "https://www.jiangmen.gov.cn/bmpd/jmswhgdlytyj/zwgk/gzdt/content/post_3258271.html",
+  "sourceCopy": "data/landmarks/kaiping-diaolou/source.blend",
+  "sourceSha256": "38fb6da8b6ddb71902ac24b6fea7199f676cdc40be4f17902eadc3d95a5c2551",
+  "triangles": 2392,
+  "bytes": 234400,
+  "sha256": "466fd80885b03193f9dcf60385d37bf54c6fbf0553fd34ece7a5ab1aa5eff246",
+  "materials": 11,
+  "embeddedImages": 10,
+  "sourceTriangles": 2392,
+  "bounds": {
+    "min": [
+      -4.25,
+      0,
+      -3.5999999046325684
+    ],
+    "max": [
+      4.25,
+      4.880000114440918,
+      3.5999999046325684
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

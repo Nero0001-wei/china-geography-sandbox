@@ -1,0 +1,29 @@
+{
+  "id": "tianmen",
+  "name": "张家界天门山",
+  "province": "湖南省",
+  "city": "张家界市",
+  "anchor": [
+    110.4826611,
+    29.051197
+  ],
+  "anchorSource": "https://ditu.amap.com/place/B0FFF3CRLZ",
+  "frontBearing": 332,
+  "groundSpanMeters": 135,
+  "description": "天门洞贯穿绝壁，洞前陡阶向山下的天门洞广场延伸。",
+  "driveQuery": "天门山索道下站停车场",
+  "transitQuery": "天门山索道公交站",
+  "anchorCrs": "WGS84",
+  "reference": "https://www.cn-zhangjiajie.cn/action/model/name/jingqu/itemid/12.html",
+  "versionNotes": "取现状天然洞体及洞前天梯；面向天门洞前广场。",
+  "osmFeature": "天门洞",
+  "amapPoi": "B0FFF3CRLZ",
+  "gcj02Feature": [
+    110.487589,
+    29.04827
+  ],
+  "crossCheck": "https://www.openstreetmap.org/node/5521705221",
+  "crossCheckMeters": 19.9,
+  "type": "nature",
+  "tier": "national"
+}

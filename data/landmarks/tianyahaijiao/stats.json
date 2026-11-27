@@ -1,0 +1,28 @@
+{
+  "id": "tianyahaijiao",
+  "name": "天涯海角",
+  "file": "tianyahaijiao.glb",
+  "version": "national-v1",
+  "source": "https://ty.sanya.gov.cn/tyqsite/jrty/202509/dd81add782f34a9d90524794f94f543e.shtml",
+  "sourceCopy": "data/landmarks/tianyahaijiao/source.blend",
+  "sourceSha256": "15304ba43225fbe4b36dc2218f9ec19879f99f2f1e873b686c19342f06041a70",
+  "triangles": 6106,
+  "bytes": 744568,
+  "sha256": "03e23c969a960618a3ca64ff9f715c1750324954777bb84e531160a688bdac0a",
+  "materials": 16,
+  "embeddedImages": 7,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.2874739170074463
+    ],
+    "max": [
+      3.075000047683716,
+      2.2501909732818604,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 6106
+}

@@ -1,0 +1,28 @@
+{
+  "id": "shapotou",
+  "name": "沙坡头",
+  "file": "shapotou.glb",
+  "version": "national-v1",
+  "source": "https://www.forestry.gov.cn/c/www/hmgzdt/524437.jhtml",
+  "sourceCopy": "data/landmarks/shapotou/source.blend",
+  "sourceSha256": "a4ddbeff285ceabe188b378cb79def1e007cfc44c32d05e94eba0029c1cd80ee",
+  "triangles": 7192,
+  "bytes": 769804,
+  "sha256": "d8ae611a5f647951897db2bc0f3ad48e5b5c92fd050fdd9de2ff56b3e3a49aaf",
+  "materials": 13,
+  "embeddedImages": 3,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      2.87723708152771,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 7192
+}

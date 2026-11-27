@@ -1,0 +1,19 @@
+{
+  "id": "hongcun",
+  "name": "宏村",
+  "province": "安徽省",
+  "city": "黄山市",
+  "anchor": [
+    117.9843952,
+    30.0054027
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/1356852361",
+  "anchorCrs": "WGS84",
+  "frontBearing": 179,
+  "groundSpanMeters": 85,
+  "description": "宏村中心的月沼弯如新月，驳岸外列着灰瓦、白墙和阶梯状马头墙。",
+  "type": "town-garden",
+  "tier": "regional",
+  "visualSource": "https://whc.unesco.org/en/list/1002/",
+  "siteNotes": "取 OpenStreetMap 标绘的宏村月沼水面轮廓中心。模型取月沼和池畔徽派民居，按现状外观概括各栋楼体及马头墙。"
+}

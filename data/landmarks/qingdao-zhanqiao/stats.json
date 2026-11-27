@@ -1,0 +1,28 @@
+{
+  "id": "qingdao-zhanqiao",
+  "name": "青岛栈桥",
+  "file": "qingdao-zhanqiao.glb",
+  "version": "national-v1",
+  "source": "https://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml",
+  "sourceCopy": "data/landmarks/qingdao-zhanqiao/source.blend",
+  "sourceSha256": "51817e12ac6bfdedcde19d13568ef5bb423a044dfa1fc42b2d2d687e01e6038b",
+  "triangles": 2098,
+  "bytes": 211004,
+  "sha256": "21f0c55768481c1d37807584806a7ad17bd5065d25976c3c2b019adf01cde152",
+  "materials": 12,
+  "embeddedImages": 10,
+  "sourceTriangles": 2098,
+  "bounds": {
+    "min": [
+      -3.700000047683716,
+      0,
+      -5.5
+    ],
+    "max": [
+      3.700000047683716,
+      2.6919000148773193,
+      5.5
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

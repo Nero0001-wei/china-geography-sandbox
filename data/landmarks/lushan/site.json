@@ -1,0 +1,22 @@
+{
+  "id": "lushan",
+  "name": "庐山·三叠泉",
+  "province": "江西省",
+  "city": "九江市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    116.0275172,
+    29.5660257
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/2766430360",
+  "anchorFeature": "三叠泉主体",
+  "anchorMethod": "OpenStreetMap “三叠泉主体”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 111,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 245,
+  "description": "三道细长水帘沿五老峰下的岩坎和窄谷层层跌落。",
+  "visualSource": "https://www.lushan.gov.cn/bmxzxxgk/bumeng/whgdxwcbj/fdzdgknr_195359/lvyou/202512/t20251231_7134056.html",
+  "period": "现状景观局部的微缩示意"
+}

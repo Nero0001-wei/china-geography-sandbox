@@ -1,0 +1,28 @@
+{
+  "id": "pingyao",
+  "name": "平遥古城",
+  "file": "pingyao.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/812/",
+  "sourceCopy": "data/landmarks/pingyao/source.blend",
+  "sourceSha256": "fefee5038de3d7dcf3ede294003176ffe562a48fcaea41e411a6592c671fbfae",
+  "triangles": 6506,
+  "bytes": 720180,
+  "sha256": "ebf1a3a559b555f621207b69b5f933dd4a56bac75727148c69b05d303d8a5a65",
+  "materials": 11,
+  "embeddedImages": 11,
+  "bounds": {
+    "min": [
+      -5.474999904632568,
+      0,
+      -4.925000190734863
+    ],
+    "max": [
+      5.474999904632568,
+      7.031960964202881,
+      4.925000190734863
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 6506
+}

@@ -1,0 +1,28 @@
+{
+  "id": "birds-nest",
+  "name": "鸟巢",
+  "file": "birds-nest.glb",
+  "version": "national-v1",
+  "source": "https://www.n-s.cn/visitindex.html",
+  "sourceCopy": "data/landmarks/birds-nest/source.blend",
+  "sourceSha256": "03f79e861fabdc93389efecceb49e38d54ba225c273a649fca7e5c052b885d38",
+  "triangles": 7746,
+  "bytes": 602436,
+  "sha256": "a4dbdc776c260352861d0e0d81d05a09233d357b89d151e70086809a72101158",
+  "materials": 16,
+  "embeddedImages": 10,
+  "sourceTriangles": 7746,
+  "bounds": {
+    "min": [
+      -5.849999904632568,
+      0,
+      -6.074999809265137
+    ],
+    "max": [
+      5.849999904632568,
+      3.290731906890869,
+      6.074999809265137
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

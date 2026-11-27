@@ -1,0 +1,28 @@
+{
+  "id": "chengde-resort",
+  "name": "承德避暑山庄",
+  "file": "chengde-resort.glb",
+  "version": "national-v1",
+  "source": "https://www.bishushanzhuang.com.cn/index.php/scenic/pic_list/id/193.html",
+  "sourceCopy": "data/landmarks/chengde-resort/source.blend",
+  "sourceSha256": "240d60033cf513dc683e12c757c20d57ed300d6b15af1c65aab49c80d72e4afb",
+  "triangles": 4744,
+  "bytes": 621252,
+  "sha256": "4604cad582afc1d8d4aa59b3ef1a6bdcbfdadd0fef9314fe20279a862f017895",
+  "materials": 11,
+  "embeddedImages": 11,
+  "bounds": {
+    "min": [
+      -6.420000076293945,
+      0,
+      -3.950000047683716
+    ],
+    "max": [
+      6.340000152587891,
+      2.9419620037078857,
+      3.950000047683716
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 4744
+}

@@ -1,0 +1,26 @@
+{
+  "id": "gugong",
+  "name": "北京故宫·太和殿",
+  "file": "gugong.glb",
+  "version": "national-v1",
+  "source": "https://www.dpm.org.cn/explore/building/236465.html",
+  "sourceCopy": "data/landmarks/gugong/source.blend",
+  "triangles": 7098,
+  "bytes": 547604,
+  "sha256": "a6a7b266772492814cb156af3555660e2e9d8500d644a80e21f35421339c5c5f",
+  "materials": 14,
+  "embeddedImages": 7,
+  "bounds": {
+    "min": [
+      -43.31999969482422,
+      0,
+      -24.31999969482422
+    ],
+    "max": [
+      43.31999969482422,
+      33.97999954223633,
+      30.77396011352539
+    ]
+  },
+  "coordinateConvention": "glTF Y-up, +Z south-facing facade; origin directly below hall ridge midpoint"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "qinghai-lake",
+  "name": "青海湖·二郎剑",
+  "province": "青海省",
+  "city": "海南藏族自治州",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    100.4949253,
+    36.5799889
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/7867081285",
+  "anchorFeature": "二郎剑景区南岸陆侧",
+  "anchorMethod": "OpenStreetMap “二郎剑景区南岸陆侧”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 130,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 650,
+  "description": "二郎剑一段狭长沙嘴伸入青海湖开阔水面。",
+  "visualSource": "https://www.gonghe.gov.cn/lnb/zjgh1/stgh1__zjgh/stgh/content_1013640474",
+  "period": "现状景观局部的微缩示意"
+}

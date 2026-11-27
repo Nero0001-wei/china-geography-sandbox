@@ -1,0 +1,28 @@
+{
+  "id": "canton-tower",
+  "name": "广州塔",
+  "version": "national-v1",
+  "file": "canton-tower.glb",
+  "source": "https://www.haizhu.gov.cn/hzdt/ztlm/tzhz/rjhj/lyjd/csmp/content/mpost_9190964.html",
+  "sourceCopy": "data/landmarks/canton-tower/source.blend",
+  "sourceTriangles": 9520,
+  "sourceSha256": "45be120fcac480723a5160c24fb6b74dfeca1630f2c0aaa93d99f7b70f4a3bc0",
+  "triangles": 7530,
+  "bytes": 417972,
+  "sha256": "846b4ca1e8fa7ee9f5a2ec0c89e96de4314554bbdd1d8155358b8caa35e00b0d",
+  "materials": 4,
+  "embeddedImages": 4,
+  "bounds": {
+    "min": [
+      -0.8700000047683716,
+      0,
+      -0.7099999785423279
+    ],
+    "max": [
+      0.8700000047683716,
+      6.5401082038879395,
+      0.7099999785423279
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+}

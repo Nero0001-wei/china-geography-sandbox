@@ -1,0 +1,22 @@
+{
+  "id": "emei",
+  "name": "峨眉山·金顶",
+  "province": "四川省",
+  "city": "乐山市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    103.3371337,
+    29.5227629
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/2902204708",
+  "anchorFeature": "峨眉金顶",
+  "anchorMethod": "OpenStreetMap “峨眉金顶”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 132,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 215,
+  "description": "金顶的白石台基、金色殿宇和临崖向下的山体。",
+  "visualSource": "https://www.emeishan.gov.cn/emss/efbf/2023022214035442128800000.html",
+  "period": "现状景观局部的微缩示意"
+}

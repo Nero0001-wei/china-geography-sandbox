@@ -1,0 +1,22 @@
+{
+  "id": "crescent-lake",
+  "name": "鸣沙山月牙泉",
+  "province": "甘肃省",
+  "city": "酒泉市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    94.6693085,
+    40.0873683
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/1308452182",
+  "anchorFeature": "月牙泉泉盆",
+  "anchorMethod": "OpenStreetMap “月牙泉泉盆”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 174,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 340,
+  "description": "低伏的新月形泉水夹在弧形沙脊与楼阁之间。",
+  "visualSource": "https://www.forestry.gov.cn/c/www/lcdt/516966.jhtml",
+  "period": "现状景观局部的微缩示意"
+}

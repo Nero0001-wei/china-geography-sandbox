@@ -1,0 +1,28 @@
+{
+  "id": "qinghai-lake",
+  "name": "青海湖·二郎剑",
+  "file": "qinghai-lake.glb",
+  "version": "national-v1",
+  "source": "https://www.gonghe.gov.cn/lnb/zjgh1/stgh1__zjgh/stgh/content_1013640474",
+  "sourceCopy": "data/landmarks/qinghai-lake/source.blend",
+  "sourceSha256": "dd0630c90413280da9bcc065334f45af6ab83ddd320c1e5f6c406b15b34d8d70",
+  "triangles": 4450,
+  "bytes": 331300,
+  "sha256": "ccec1721e7ffb55379b5f61397d1a602ac1af66a2331fb2446c0cb6c0b0c9204",
+  "materials": 11,
+  "embeddedImages": 3,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      1.004876971244812,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 4450
+}

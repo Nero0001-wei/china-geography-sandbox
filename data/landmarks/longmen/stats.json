@@ -1,0 +1,28 @@
+{
+  "id": "longmen",
+  "name": "龙门石窟",
+  "version": "national-v1",
+  "file": "longmen.glb",
+  "source": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/hnly/fjms/articlec716b8d99f6b4aa3ad4309161ed024db.html",
+  "sourceCopy": "data/landmarks/longmen/source.blend",
+  "sourceTriangles": 18476,
+  "sourceSha256": "655a6e1099c13ac26dfb79f1c18b938ac2d9955f65349db04da577857612ed86",
+  "triangles": 7529,
+  "bytes": 361848,
+  "sha256": "dbc5d6694a2f06b89bee0d3b2a5144384f85580d80d9b3e0837b8cb636ed6935",
+  "materials": 4,
+  "embeddedImages": 4,
+  "bounds": {
+    "min": [
+      -3.724236249923706,
+      0,
+      -2.035433769226074
+    ],
+    "max": [
+      3.704874038696289,
+      3.7211554050445557,
+      1.6435993909835815
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+}

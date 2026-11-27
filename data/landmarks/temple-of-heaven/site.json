@@ -1,0 +1,23 @@
+{
+  "id": "temple-of-heaven",
+  "name": "天坛",
+  "province": "北京市",
+  "city": "北京市",
+  "anchor": [
+    116.4066228,
+    39.8822465
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/43921139",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 180,
+  "groundSpanMeters": 89,
+  "description": "三层宝蓝圆檐、金宝顶和三层汉白玉圆台依次收分。",
+  "visualSource": "https://whc.unesco.org/en/list/881/",
+  "reference": "https://whc.unesco.org/en/list/881/",
+  "period": "取光绪年间重建后留存的祈年殿形制。",
+  "subject": "祈年殿",
+  "frontNote": "从南侧丹陛桥看祈年殿，沿天坛中轴向南。",
+  "type": "heritage",
+  "tier": "national"
+}

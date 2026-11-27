@@ -1,0 +1,21 @@
+{
+  "id": "taishan",
+  "name": "泰山南天门",
+  "province": "山东省",
+  "city": "泰安市",
+  "anchor": [
+    117.09833928,
+    36.25547791
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/169049697",
+  "anchorCrs": "WGS84",
+  "frontBearing": 180,
+  "groundSpanMeters": 65,
+  "description": "十八盘最后一段石阶、朱红拱门和门上黄瓦楼阁。",
+  "driveQuery": "泰山天外村停车场",
+  "transitQuery": "天外村公交站",
+  "siteNotes": "泰山官方记录南天门始建于 1260 年，坐北朝南；模型取现状城门及十八盘末段，陡升的阶梯朝南。",
+  "reference": "https://tsgw.taian.gov.cn/art/2026/3/23/art_363608_10320983.html",
+  "type": "nature",
+  "tier": "national"
+}

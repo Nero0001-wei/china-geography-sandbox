@@ -1,0 +1,28 @@
+{
+  "id": "changbai",
+  "name": "长白山天池",
+  "file": "changbai.glb",
+  "version": "national-v1",
+  "source": "https://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html",
+  "sourceCopy": "data/landmarks/changbai/source.blend",
+  "sourceSha256": "f4ee476c42af89642e97f24c08443fb7851f64811fb80d4e21345e0cbef3a746",
+  "triangles": 3236,
+  "bytes": 395240,
+  "sha256": "1090b65a9ce371d01ecb7481fd5d19713718ed1972f2f5ce38dca4423cb647ab",
+  "materials": 11,
+  "embeddedImages": 6,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      2.832361936569214,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 3236
+}

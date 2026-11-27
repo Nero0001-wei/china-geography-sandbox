@@ -1,0 +1,28 @@
+{
+  "id": "putuo",
+  "name": "普陀山·普济禅寺",
+  "file": "putuo.glb",
+  "version": "national-v1",
+  "source": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2476/site/attach/0/3zyz-1-1/%E8%88%9F%E5%B1%B1%E5%B8%82%E4%BA%A4%E9%80%9A%E5%BF%97.pdf",
+  "sourceCopy": "data/landmarks/putuo/source.blend",
+  "sourceSha256": "8b52438a860c986d39ed8f83cf9dcf627e77ba5d3c2a88d141bf7771d68f71e8",
+  "triangles": 3376,
+  "bytes": 664676,
+  "sha256": "f298ab490f8f1d95abc9e758d62402b023b1c4bfead4cc122a8f70da351e6d68",
+  "materials": 16,
+  "embeddedImages": 16,
+  "bounds": {
+    "min": [
+      -5.425000190734863,
+      0,
+      -4.375
+    ],
+    "max": [
+      5.425000190734863,
+      3.1115620136260986,
+      4.375
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 3376
+}

@@ -1,0 +1,28 @@
+{
+  "id": "shenyang-palace",
+  "name": "沈阳故宫",
+  "file": "shenyang-palace.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/439/",
+  "sourceCopy": "data/landmarks/shenyang-palace/source.blend",
+  "sourceSha256": "e39ddc60925c7b25e547882b1ae669f206cf4b606164986218abd2ebbf93d9e7",
+  "triangles": 4288,
+  "bytes": 548728,
+  "sha256": "514795a0d2a6a3c7dfb2350fc887e02cff125f7092791fb981f031aee86c5982",
+  "materials": 10,
+  "embeddedImages": 10,
+  "bounds": {
+    "min": [
+      -5.449999809265137,
+      0,
+      -3.75
+    ],
+    "max": [
+      5.449999809265137,
+      4.432000160217285,
+      3.75
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 4288
+}

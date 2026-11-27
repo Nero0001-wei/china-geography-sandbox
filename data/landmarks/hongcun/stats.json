@@ -1,0 +1,28 @@
+{
+  "id": "hongcun",
+  "name": "宏村",
+  "file": "hongcun.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/1002/",
+  "sourceCopy": "data/landmarks/hongcun/source.blend",
+  "sourceSha256": "431e47f236157fc07deca3e75f16fcd3049177eb232160100ca740616f79e57f",
+  "triangles": 3278,
+  "bytes": 294880,
+  "sha256": "eba31d00a19d0fa39cfd285ac79658c25507c5fe0ee4961ae0e6ff6610c96fba",
+  "materials": 12,
+  "embeddedImages": 10,
+  "sourceTriangles": 3278,
+  "bounds": {
+    "min": [
+      -4.800000190734863,
+      0,
+      -3.8499999046325684
+    ],
+    "max": [
+      4.800000190734863,
+      2.3776309490203857,
+      3.8499999046325684
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

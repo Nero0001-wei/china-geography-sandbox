@@ -1,0 +1,9 @@
+# ImageGen 三视设计参考
+
+原始板第 5 行从左至右为正面、右侧和侧前方。实景以该景点取景资料为准。
+
+[三视图](design-triplet.jpg) · [原始板](../../supplement-references/board-03.png)
+
+## 完整提示词
+
+Use case: stylized-concept. Tall portrait design reference contact sheet for low-poly Blender miniatures, precisely 5 rows and 3 columns. Each row is a different named landmark and has its same identical geometry across all three views: on the left near-horizontal front, middle 90 degree right side, right 45 degree elevated front-right. Center isolated miniatures inside regular roomy cells with subtle warm neutral background and small discrete bases, consistent natural materials and neutral soft daylight. Prioritize the named real place's topography, structure and recognizable color. Keep true gaps wherever shown. No labels, no numbers, no people, no logos, no framing, no visible grid. Exact top to bottom order: 1. Yellow River Hukou Falls from the Yichuan bank, broad ochre muddy river contracts into narrow very deep cleft in horizontal sandstone beds, cascading golden water curtain and short restrained white foam. 2. Yangtze River Qutang Gorge Kuimen from Baidicheng, two opposing steep warm gray and pale gray mountain walls, a real open narrow gorge between them and teal Yangtze River opening broadly in the foreground. 3. Erhai Lake shore at Haiyin village by Little Putuo, turquoise lake and realistic tiny rocky islet entirely separated from shore by water, small traditional white two-level black roof pavilion on islet, low distant Cangshan ridge. 4. Public view of China's FAST radio telescope in Pingtang, giant shallow concave silver-gray circular reflector dish made of triangular panels in green karst natural bowl, thin perimeter support towers and small suspended receiver unit. 5. Chimelong Ocean Kingdom in Hengqin, existing Whale Shark Aquarium public entrance with a huge indigo-blue spotted whale shark head and arching back crowning the low aquatic-blue building and pale aqua plaza.

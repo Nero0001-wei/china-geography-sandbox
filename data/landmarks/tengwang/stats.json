@@ -1,0 +1,28 @@
+{
+  "id": "tengwang",
+  "name": "滕王阁",
+  "file": "tengwang.glb",
+  "version": "national-v1",
+  "source": "https://dhq.nc.gov.cn/dhqrmzf/dhfctpk/202010/5de41659934e42f6842c956dfabdbb0c.shtml",
+  "sourceCopy": "data/landmarks/tengwang/source.blend",
+  "sourceSha256": "ea81eafef4ab4717ab2ef0f9caf540d415206f4bf2498eb5919b2f24b2b14a3f",
+  "triangles": 6880,
+  "bytes": 775864,
+  "sha256": "1651ebda1d93fa91f81cb83b2cb96507efa31ca5b36af3c17c9977dffa6e3b1d",
+  "materials": 12,
+  "embeddedImages": 12,
+  "bounds": {
+    "min": [
+      -6.449999809265137,
+      0,
+      -4
+    ],
+    "max": [
+      6.449999809265137,
+      7.351962089538574,
+      4
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 6880
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dali",
+  "name": "大理古城",
+  "version": "national-v1",
+  "file": "dali.glb",
+  "source": "https://ynmz.yn.gov.cn/index.php/cms/dimingfengcai/10523.html",
+  "sourceCopy": "data/landmarks/dali/source.blend",
+  "sourceTriangles": 3842,
+  "sourceSha256": "25c2e6b128b1d24ad470d8f24574d6dd0fe655e76bdb280925aa4edad918cb2a",
+  "triangles": 3842,
+  "bytes": 305632,
+  "sha256": "e60cbe6b99a18cb7b3bcd12b694f49e0f7908854778d4b0fc25965368210d335",
+  "materials": 8,
+  "embeddedImages": 8,
+  "bounds": {
+    "min": [
+      -3.125,
+      0,
+      -1.028923749923706
+    ],
+    "max": [
+      3.125,
+      3.8501999378204346,
+      1.028923749923706
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+}

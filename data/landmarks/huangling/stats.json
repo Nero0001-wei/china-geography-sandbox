@@ -1,0 +1,28 @@
+{
+  "id": "huangling",
+  "name": "婺源篁岭",
+  "file": "huangling.glb",
+  "version": "national-v1",
+  "source": "https://new.wyhl.cc/site/wyhl/lyzx/rmhd/detail2024-10-28-312.html",
+  "sourceCopy": "data/landmarks/huangling/source.blend",
+  "sourceSha256": "7072bdd15521c6f12c259fe1c5bee8643ba24c3742e111fa5c20995cfc1bc466",
+  "triangles": 7450,
+  "bytes": 934684,
+  "sha256": "bba43eea7a86542f2761ee57d44758391150c8f706441e948ad4d2dc1e1f60f9",
+  "materials": 13,
+  "embeddedImages": 13,
+  "bounds": {
+    "min": [
+      -6.730000019073486,
+      0,
+      -4.900000095367432
+    ],
+    "max": [
+      6.730000019073486,
+      5.34696102142334,
+      4.900000095367432
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 9830
+}

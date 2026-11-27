@@ -1,0 +1,21 @@
+{
+  "id": "shanghai-disney",
+  "name": "上海迪士尼度假区",
+  "province": "上海市",
+  "city": "上海市",
+  "anchor": [
+    121.65532471,
+    31.14574596
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/494348161",
+  "anchorCrs": "WGS84",
+  "frontBearing": 171,
+  "groundSpanMeters": 98,
+  "description": "奇幻童话城堡的层叠粉色塔身、蓝色塔帽与金色尖顶。",
+  "driveQuery": "上海迪士尼度假区停车场",
+  "transitQuery": "迪士尼地铁站",
+  "siteNotes": "2016 年开放的奇幻童话城堡，正面取面向奇想花园入口的一侧。",
+  "reference": "https://www.shanghaidisneyresort.com/zh-cn/experience/attraction/enchanted-storybook-castle",
+  "type": "theme-park",
+  "tier": "national"
+}

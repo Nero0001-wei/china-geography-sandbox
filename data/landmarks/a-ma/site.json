@@ -1,0 +1,23 @@
+{
+  "id": "a-ma",
+  "name": "妈阁庙",
+  "province": "澳门特别行政区",
+  "city": "澳门",
+  "anchor": [
+    113.5312671,
+    22.1861086
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/192187333",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 265,
+  "groundSpanMeters": 54,
+  "description": "花岗石牌坊面向内港，寺庙绿瓦顺着妈阁山石阶抬升。",
+  "visualSource": "https://www.wh.gov.mo/cn/site/detail/1",
+  "reference": "https://www.wh.gov.mo/cn/site/detail/1",
+  "period": "自妈阁庙前地保留石门、牌坊及沿坡布置的建筑轮廓。",
+  "subject": "妈阁庙前地及坡地殿阁",
+  "frontNote": "取从内港侧前地看入庙的方向。",
+  "type": "heritage",
+  "tier": "regional"
+}

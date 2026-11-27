@@ -1,0 +1,24 @@
+{
+  "id": "xian-city-wall",
+  "name": "西安城墙·永宁门",
+  "province": "陕西省",
+  "city": "西安市",
+  "anchor": [
+    108.9423179,
+    34.2531039
+  ],
+  "anchorSource": "https://www.openstreetmap.org/node/6817037487",
+  "anchorMethod": "取 OpenStreetMap 永宁门城门地标点，邻近内城墙主城楼。",
+  "frontBearing": 180,
+  "groundSpanMeters": 200,
+  "type": "heritage",
+  "subject": "永宁门南门三重门楼",
+  "visualSource": "https://qjxq.xa.gov.cn/zjqj/gyqj/tsqj/5df21c5565cbd81235fc1efa.html",
+  "referencePhoto": "https://commons.wikimedia.org/wiki/File:Yongningmen_2016.jpg",
+  "description": "城墙南门有城楼、箭楼、闸楼三道城门，模型保留灰砖垛口、可透视券洞、瓮城和跨护城河吊桥。",
+  "period": "采用南门闸楼和2014年箭楼复建后的现状。",
+  "frontNote": "自永宁门南侧护城河外朝正北看城门建筑，模型正面朝南。",
+  "anchorCrs": "WGS84",
+  "tier": "national",
+  "reference": "https://qjxq.xa.gov.cn/zjqj/gyqj/tsqj/5df21c5565cbd81235fc1efa.html"
+}

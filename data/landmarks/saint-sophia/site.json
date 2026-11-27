@@ -1,0 +1,21 @@
+{
+  "id": "saint-sophia",
+  "name": "圣索菲亚教堂",
+  "province": "黑龙江省",
+  "city": "哈尔滨市",
+  "anchor": [
+    126.62128754,
+    45.7681908
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/338425563",
+  "anchorCrs": "WGS84",
+  "frontBearing": 253,
+  "groundSpanMeters": 54,
+  "description": "希腊十字形红砖教堂、铜绿洋葱穹顶和前部钟楼。",
+  "driveQuery": "索菲亚广场停车场",
+  "transitQuery": "兆麟街公交站",
+  "siteNotes": "1932 年落成的现存拜占庭式教堂；取教堂主体及入口钟楼。朝向为正立面在地图上的概略方位。 依据 OSM 教堂多边形，前部直线山墙与东侧半圆祭坛相对，前方约为西南偏西。",
+  "reference": "https://fao.hlj.gov.cn/fao/c111834/202206/30672974/files/206c9110bd75c8a2e771b5434ffd70e9.pdf",
+  "type": "heritage",
+  "tier": "regional"
+}

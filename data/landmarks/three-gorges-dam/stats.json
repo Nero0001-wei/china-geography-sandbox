@@ -1,0 +1,28 @@
+{
+  "id": "three-gorges-dam",
+  "name": "三峡大坝",
+  "file": "three-gorges-dam.glb",
+  "version": "national-v1",
+  "source": "https://www.cypc.com.cn/sxjt/sxgc4/gcgk7/index.html",
+  "sourceCopy": "data/landmarks/three-gorges-dam/source.blend",
+  "sourceSha256": "2da1b5c778f2363a4344bf91ad6332803f9112393f41de008ca68e6a4db623c1",
+  "triangles": 1510,
+  "bytes": 155672,
+  "sha256": "b285f63ac3b581cf6b812217a4253aa694cd65ebd42333f72a70f23fdb662455",
+  "materials": 9,
+  "embeddedImages": 7,
+  "sourceTriangles": 1510,
+  "bounds": {
+    "min": [
+      -6.25,
+      0,
+      -4.199999809265137
+    ],
+    "max": [
+      6.25,
+      1.850000023841858,
+      4.199999809265137
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

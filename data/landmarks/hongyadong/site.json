@@ -1,0 +1,29 @@
+{
+  "id": "hongyadong",
+  "name": "重庆洪崖洞",
+  "province": "重庆市",
+  "city": "重庆市",
+  "anchor": [
+    106.5753389,
+    29.5650514
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/939578294",
+  "frontBearing": 20,
+  "groundSpanMeters": 180,
+  "description": "吊脚楼沿嘉陵江岸层叠展开，木色廊柱和青瓦屋檐依崖抬升。",
+  "driveQuery": "洪崖洞民俗风貌区地下停车场",
+  "transitQuery": "小什字地铁站",
+  "anchorCrs": "WGS84",
+  "reference": "https://whlyw.cq.gov.cn/zjwl/yzq/jqjd_1/202203/t20220304_10463056.html",
+  "versionNotes": "取现行洪崖洞民俗风貌区的沿江建筑群及廊台，选择面江立面。",
+  "osmFeature": "洪崖洞",
+  "amapPoi": "B0FFG8V7SH",
+  "gcj02Feature": [
+    106.579027,
+    29.562204
+  ],
+  "crossCheck": "https://ditu.amap.com/place/B0FFG8V7SH",
+  "crossCheckMeters": 4.0,
+  "type": "urban",
+  "tier": "national"
+}

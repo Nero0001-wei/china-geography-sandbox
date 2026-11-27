@@ -1,0 +1,22 @@
+{
+  "id": "wulong",
+  "name": "武隆天生三桥",
+  "province": "重庆市",
+  "city": "重庆市",
+  "type": "nature",
+  "tier": "regional",
+  "anchor": [
+    107.7913965,
+    29.4380716
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/13276103456",
+  "anchorFeature": "天龙桥天然拱",
+  "anchorMethod": "OpenStreetMap “天龙桥天然拱”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 209,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 255,
+  "description": "天龙桥的天然穿洞可透出峡谷，桥下保留天福官驿的一段院落。",
+  "visualSource": "https://cqwl.gov.cn/bmjz_sites/bm/wlw/zwxx_98939/jqjd/jdjd_1/202007/t20200702_7634529.html",
+  "period": "现状景观局部的微缩示意"
+}

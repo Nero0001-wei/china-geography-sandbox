@@ -1,0 +1,28 @@
+{
+  "id": "fenghuang",
+  "name": "凤凰古城",
+  "file": "fenghuang.glb",
+  "version": "national-v1",
+  "source": "https://www.hnrd.gov.cn/content/2006/07/22/7267206.html",
+  "sourceCopy": "data/landmarks/fenghuang/source.blend",
+  "sourceSha256": "f6727c80e0525f0a15e7e5f60ece683a2abb9a9e4ae7d72ea1dcb717d58edd8e",
+  "triangles": 2876,
+  "bytes": 262164,
+  "sha256": "6a6eb51cb8bf55f43fe394865cf706d87af8f9f71a3cbb7c6187b5840e73c361",
+  "materials": 13,
+  "embeddedImages": 11,
+  "sourceTriangles": 2876,
+  "bounds": {
+    "min": [
+      -5.400000095367432,
+      0,
+      -3.5999999046325684
+    ],
+    "max": [
+      5.400000095367432,
+      3.271960973739624,
+      3.5999999046325684
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

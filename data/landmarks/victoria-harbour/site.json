@@ -1,0 +1,19 @@
+{
+  "id": "victoria-harbour",
+  "name": "维多利亚港·尖沙咀海滨",
+  "province": "香港特别行政区",
+  "city": "香港",
+  "anchor": [
+    114.16954,
+    22.29359
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/37664321",
+  "anchorCrs": "WGS84",
+  "frontBearing": 185,
+  "groundSpanMeters": 190,
+  "description": "尖沙咀旧火车站钟楼的红砖塔身与天星码头并立，渡轮从近岸擦过。",
+  "type": "urban",
+  "tier": "national",
+  "visualSource": "https://www.discoverhongkong.com/tc/attractions/top-things-to-see-and-do-around-tsim-sha-tsui-promenade.html",
+  "siteNotes": "用尖沙咀钟楼建筑轮廓中心为锚点。取九龙一侧的钟楼与码头，正面朝向维港。钟楼为 20 世纪初遗存，码头及渡轮以现状概括。"
+}

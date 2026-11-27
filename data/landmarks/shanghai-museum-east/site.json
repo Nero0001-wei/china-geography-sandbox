@@ -1,0 +1,23 @@
+{
+  "id": "shanghai-museum-east",
+  "name": "上海博物馆东馆",
+  "province": "上海市",
+  "city": "上海市",
+  "anchor": [
+    121.534641,
+    31.22198
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/1034667864",
+  "anchorCrs": "WGS84",
+  "frontBearing": 34,
+  "groundSpanMeters": 198,
+  "description": "浦东东馆的白色大理石幕墙在方形馆体上卷起，中部通透玻璃分出上下体量。",
+  "type": "museum",
+  "tier": "national",
+  "visualSource": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/I00004702",
+  "siteNotes": "锚点取 OpenStreetMap 所标建筑轮廓的顶点平均位置。取 2024 年全面开放的世纪大道东馆，展示朝世纪大道一侧的波浪石材与玻璃开缝。馆体与上博人民广场馆各有独立地址。",
+  "aliases": [
+    "上海博物馆（东馆）",
+    "上博东馆"
+  ]
+}

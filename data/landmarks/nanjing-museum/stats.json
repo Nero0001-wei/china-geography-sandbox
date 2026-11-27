@@ -1,0 +1,28 @@
+{
+  "id": "nanjing-museum",
+  "name": "南京博物院",
+  "file": "nanjing-museum.glb",
+  "version": "national-v1",
+  "source": "https://www.njmuseum.org.cn/",
+  "sourceCopy": "data/landmarks/nanjing-museum/source.blend",
+  "sourceSha256": "57ed628a80916a7099e76cf024fddafe44a277853e11d5090dd9d6df4c7c2799",
+  "triangles": 1486,
+  "bytes": 173844,
+  "sha256": "562ec8f8636e89023fd62a032fc9b5b91765683174bb4d67ffe3876fb5e6258c",
+  "materials": 13,
+  "embeddedImages": 12,
+  "sourceTriangles": 1486,
+  "bounds": {
+    "min": [
+      -5.050000190734863,
+      0,
+      -3.9000000953674316
+    ],
+    "max": [
+      5.050000190734863,
+      3.3619608879089355,
+      3.9000000953674316
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

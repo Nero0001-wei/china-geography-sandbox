@@ -1,0 +1,28 @@
+{
+  "id": "hulunbuir",
+  "name": "呼伦贝尔草原·莫尔格勒河",
+  "file": "hulunbuir.glb",
+  "version": "national-v1",
+  "source": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=34822",
+  "sourceCopy": "data/landmarks/hulunbuir/source.blend",
+  "sourceSha256": "5d0d7df8e3987a298f6b0dd2be6e130efa05dd2657653923bf7bc250df4291c3",
+  "triangles": 4458,
+  "bytes": 418108,
+  "sha256": "786bfcb6af367c0069d9ade833c1c9eaa8402c0ede2a94325dfe95293ff8c585",
+  "materials": 11,
+  "embeddedImages": 2,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      0.8572310209274292,
+      2.17543888092041
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 4458
+}

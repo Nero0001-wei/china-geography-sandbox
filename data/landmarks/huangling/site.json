@@ -1,0 +1,24 @@
+{
+  "id": "huangling",
+  "name": "婺源篁岭",
+  "province": "江西省",
+  "city": "上饶市",
+  "anchor": [
+    118.1132609,
+    29.3235898
+  ],
+  "anchorSource": "https://www.openstreetmap.org/node/4818081345",
+  "anchorMethod": "模型涵盖晒工坊、天街周边坡地，取 OpenStreetMap 坡地古村代表点。",
+  "frontBearing": 5,
+  "groundSpanMeters": 105,
+  "type": "town-garden",
+  "subject": "篁岭古村·天街与晒秋",
+  "visualSource": "https://new.wyhl.cc/site/wyhl/lyzx/rmhd/detail2024-10-28-312.html",
+  "referencePhoto": "https://commons.wikimedia.org/wiki/File:Autumn_sun_drying_at_Huangling.jpg",
+  "description": "篁岭的徽派民居沿坡层叠，灰瓦马头墙前的木架托着晾晒辣椒、玉米的竹匾。",
+  "period": "取修缮开放后的古村片段和秋季的晒秋陈设。",
+  "frontNote": "取面向北侧低处的坡面展示方向。",
+  "anchorCrs": "WGS84",
+  "tier": "national",
+  "reference": "https://new.wyhl.cc/site/wyhl/lyzx/rmhd/detail2024-10-28-312.html"
+}

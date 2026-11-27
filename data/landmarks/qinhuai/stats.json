@@ -1,0 +1,28 @@
+{
+  "id": "qinhuai",
+  "name": "夫子庙秦淮风光带",
+  "file": "qinhuai.glb",
+  "version": "national-v1",
+  "source": "https://www.kmbhxh.cn/txwm/zg/2017-03-06/147.html",
+  "sourceCopy": "data/landmarks/qinhuai/source.blend",
+  "sourceTriangles": 6274,
+  "sourceSha256": "f03e0e97eddf75b05cffc3899c433ecc51464ca8d188a8aa48deb795267f5fad",
+  "triangles": 6274,
+  "bytes": 481180,
+  "sha256": "ce859173fcfd4b24e1ad6e8f84e7207c3f1f77bf1cdb63637811e436d7dc11dc",
+  "materials": 11,
+  "embeddedImages": 6,
+  "bounds": {
+    "min": [
+      -8.138486862182617,
+      0,
+      -0.8500000238418579
+    ],
+    "max": [
+      8.11387825012207,
+      3.7799999713897705,
+      5.949999809265137
+    ]
+  },
+  "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+}

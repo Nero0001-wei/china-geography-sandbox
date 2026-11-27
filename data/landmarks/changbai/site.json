@@ -1,0 +1,23 @@
+{
+  "id": "changbai",
+  "name": "长白山天池",
+  "province": "吉林省",
+  "city": "延边朝鲜族自治州",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    128.0663091,
+    42.0257994
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/5258261080",
+  "anchorFeature": "北坡天文峰观景点",
+  "anchorMethod": "OpenStreetMap 北坡天文峰观景点，WGS84。与去哪儿路线对同一观景点给出的经纬度相差约 8 米。",
+  "frontBearing": 5,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 1000,
+  "description": "从长白山北坡一侧看深蓝色火山口湖、雪线和环形陡壁。",
+  "visualSource": "https://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html",
+  "period": "现状景观局部的微缩示意",
+  "crossCheck": "https://travelnews.qunar.com/qa_strategy/changbaishan-north-slope-tianchi-travel-guide"
+}

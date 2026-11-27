@@ -1,0 +1,19 @@
+{
+  "id": "qingming-park",
+  "name": "开封清明上河园",
+  "province": "河南省",
+  "city": "开封市",
+  "anchor": [
+    114.3342,
+    34.8098611
+  ],
+  "anchorSource": "https://www.wikidata.org/wiki/Q15909131",
+  "anchorCrs": "WGS84",
+  "frontBearing": 180,
+  "groundSpanMeters": 118,
+  "description": "清明上河园的汴河上横跨一座大跨度木虹桥，两岸布置宋式街屋和小船。",
+  "type": "theme-park",
+  "tier": "regional",
+  "visualSource": "https://www.shunhequ.gov.cn/kfsshhzqwz/c00314/pc/content/content_1909548820819951616.html",
+  "siteNotes": "以清明上河园 Wikidata 园区坐标为锚点。表现依《清明上河图》建造的景区现状。虹桥为真正镂空的单跨，木格与街屋按全国视角简化。"
+}

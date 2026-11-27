@@ -1,0 +1,28 @@
+{
+  "id": "saint-sophia",
+  "name": "圣索菲亚教堂",
+  "file": "saint-sophia.glb",
+  "version": "national-v1",
+  "source": "https://fao.hlj.gov.cn/fao/c111834/202206/30672974/files/206c9110bd75c8a2e771b5434ffd70e9.pdf",
+  "sourceCopy": "data/landmarks/saint-sophia/source.blend",
+  "sourceTriangles": 6144,
+  "sourceSha256": "811dc88b92f715f3133cc7162be0577f762c296bceecef3ba19157975823959c",
+  "triangles": 6144,
+  "bytes": 459240,
+  "sha256": "86a7938f3d93c006637137a1966129570c1c33dd96d79958a607f73901077f30",
+  "materials": 8,
+  "embeddedImages": 4,
+  "bounds": {
+    "min": [
+      -6.400000095367432,
+      0,
+      -7.449999809265137
+    ],
+    "max": [
+      6.400000095367432,
+      11.170000076293945,
+      7.449999809265137
+    ]
+  },
+  "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+}

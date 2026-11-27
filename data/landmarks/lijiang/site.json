@@ -1,0 +1,24 @@
+{
+  "id": "lijiang",
+  "name": "丽江古城",
+  "province": "云南省",
+  "city": "丽江市",
+  "anchorSource": "https://www.openstreetmap.org/node/9188820891",
+  "frontBearing": 84,
+  "groundSpanMeters": 25,
+  "description": "以北门玉河畔的两架木水车为主体，后方取一段灰瓦纳西民居。",
+  "driveQuery": "丽江古城北门停车场",
+  "transitQuery": "丽江古城口公交站",
+  "visualSource": "https://whc.unesco.org/en/list/811/",
+  "anchorMethod": "OpenStreetMap「古城大水车」地物节点，定位于北门水车组。",
+  "frontNote": "水车朝向东侧的玉河广场，根据水车与广场中心方位取近似值。",
+  "period": "现状游览地标",
+  "anchor": [
+    100.2321835,
+    26.8794749
+  ],
+  "anchorCrs": "WGS84",
+  "contextSource": "https://www.yncaw.gov.cn/html/2023/nxrnxs_1212/115370.html",
+  "type": "town-garden",
+  "tier": "national"
+}

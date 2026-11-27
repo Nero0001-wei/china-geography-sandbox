@@ -1,0 +1,28 @@
+{
+  "id": "everest",
+  "name": "珠峰景区",
+  "file": "everest.glb",
+  "version": "national-v1",
+  "source": "https://wlt.xizang.gov.cn/xwzx_69/jdxw/201812/t20181219_119925.html",
+  "sourceCopy": "data/landmarks/everest/source.blend",
+  "sourceSha256": "390190305751bf4c93c5015024cfef5108700327b4828d86f7b39615441a9c41",
+  "triangles": 7778,
+  "bytes": 803564,
+  "sha256": "14952aa52af0aaa982c8dba8e077b5c44076008b32e2d43680eb1503f44b6eae",
+  "materials": 9,
+  "embeddedImages": 4,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      4.40228796005249,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 7778
+}

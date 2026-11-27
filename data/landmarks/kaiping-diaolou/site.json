@@ -1,0 +1,19 @@
+{
+  "id": "kaiping-diaolou",
+  "name": "开平碉楼",
+  "province": "广东省",
+  "city": "江门市",
+  "anchor": [
+    112.574378,
+    22.377375
+  ],
+  "anchorSource": "https://zh.wikipedia.org/wiki/%E5%BC%80%E5%B9%B3%E7%A2%89%E6%A5%BC",
+  "anchorCrs": "WGS84",
+  "frontBearing": 188,
+  "groundSpanMeters": 34,
+  "description": "自力村的铭石楼立在稻田间，楼身窄高，顶层设拱廊和角塔。",
+  "type": "town-garden",
+  "tier": "regional",
+  "visualSource": "https://www.jiangmen.gov.cn/bmpd/jmswhgdlytyj/zwgk/gzdt/content/post_3258271.html",
+  "siteNotes": "自力村铭石楼坐标，参照碉楼与村落名录中的单体位置。取 1925 年落成的铭石楼与其外侧稻田，正面按带露台的主要立面。"
+}

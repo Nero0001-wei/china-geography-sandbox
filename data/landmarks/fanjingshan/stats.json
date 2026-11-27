@@ -1,0 +1,28 @@
+{
+  "id": "fanjingshan",
+  "name": "梵净山·红云金顶",
+  "file": "fanjingshan.glb",
+  "version": "national-v1",
+  "source": "https://www.tongren.gov.cn/2025/0709/336936.shtml",
+  "sourceCopy": "data/landmarks/fanjingshan/source.blend",
+  "sourceSha256": "89f5b7bc6c85bc72adc1785e3896dcd4975f55951ed84c331d26fc3418ed9083",
+  "triangles": 6681,
+  "bytes": 786336,
+  "sha256": "e75265b681514c263c3ceb1814394842b91aeceaa9c56609748ed28af4f738d4",
+  "materials": 16,
+  "embeddedImages": 8,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      3.9059619903564453,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 6681
+}

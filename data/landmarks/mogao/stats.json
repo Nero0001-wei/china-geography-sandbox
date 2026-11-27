@@ -1,0 +1,28 @@
+{
+  "id": "mogao",
+  "name": "敦煌莫高窟",
+  "file": "mogao.glb",
+  "version": "national-v1",
+  "source": "https://www.dha.ac.cn/info/1425/3648.htm",
+  "sourceCopy": "data/landmarks/mogao/source.blend",
+  "sourceSha256": "82f3ef4a92b9bfb5429897a704f00a00dbd8fdde82785d65bfa1084b0e5c10b5",
+  "triangles": 4948,
+  "bytes": 608352,
+  "sha256": "5f175bf1f959bbffcea1f322505fa5a062414a2153b4508f00b213a618f6d5f3",
+  "materials": 10,
+  "embeddedImages": 10,
+  "bounds": {
+    "min": [
+      -5.300000190734863,
+      0,
+      -1.6699999570846558
+    ],
+    "max": [
+      5.300000190734863,
+      5.911962032318115,
+      1.6399999856948853
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 4948
+}

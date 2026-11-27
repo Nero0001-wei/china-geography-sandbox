@@ -1,0 +1,28 @@
+{
+  "id": "summer-palace",
+  "name": "颐和园",
+  "file": "summer-palace.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/880/",
+  "sourceCopy": "data/landmarks/summer-palace/source.blend",
+  "sourceSha256": "3e7f87ae6a04c8669b60c4e99745f3cf2877fbbb32d33ea4e08ce1ddba5ff445",
+  "triangles": 6586,
+  "bytes": 913416,
+  "sha256": "04d2a3ec7ffa08ac277e3a455770ea80bcd7d01d0717f0131995898bcef96932",
+  "materials": 17,
+  "embeddedImages": 17,
+  "bounds": {
+    "min": [
+      -5.875,
+      0,
+      -4.599999904632568
+    ],
+    "max": [
+      5.875,
+      7.993000030517578,
+      4.599999904632568
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 6586
+}

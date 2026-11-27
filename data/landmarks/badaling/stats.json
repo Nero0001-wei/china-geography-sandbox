@@ -1,0 +1,28 @@
+{
+  "id": "badaling",
+  "name": "八达岭长城",
+  "file": "badaling.glb",
+  "version": "national-v1",
+  "source": "https://www.visitbeijing.com.cn/article/47QqxoCnUj8",
+  "sourceCopy": "data/landmarks/badaling/source.blend",
+  "sourceTriangles": 7333,
+  "sourceSha256": "44fb1f51754c0e39bfb859ab38360559bde9dbcdb00207bfb53444ccbc7964ad",
+  "triangles": 7333,
+  "bytes": 575376,
+  "sha256": "5bfc445128716f887fd4d6835d0df71d7eda69851832a5cdbae53850053c30bc",
+  "materials": 7,
+  "embeddedImages": 5,
+  "bounds": {
+    "min": [
+      -11,
+      0,
+      -3.7748444080352783
+    ],
+    "max": [
+      11,
+      5.300000190734863,
+      3.700000047683716
+    ]
+  },
+  "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jiayuguan",
+  "name": "嘉峪关关城",
+  "province": "甘肃省",
+  "city": "嘉峪关市",
+  "anchor": [
+    98.2178152,
+    39.8021741
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/98947100",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 92,
+  "groundSpanMeters": 170,
+  "description": "两道夯土墙上的光化楼、柔远楼分别守住贯通的城门和马道。",
+  "visualSource": "https://whc.unesco.org/en/list/438/",
+  "reference": "https://whc.unesco.org/en/list/438/",
+  "period": "提取现存明代关城的两座主要关楼和相连夯土墙。",
+  "subject": "关城内城·光化楼与柔远楼",
+  "frontNote": "朝东侧光化门方向。",
+  "type": "heritage",
+  "tier": "regional"
+}

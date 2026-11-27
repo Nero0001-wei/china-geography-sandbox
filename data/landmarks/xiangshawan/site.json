@@ -1,0 +1,22 @@
+{
+  "id": "xiangshawan",
+  "name": "响沙湾",
+  "province": "内蒙古自治区",
+  "city": "鄂尔多斯市",
+  "type": "nature",
+  "tier": "regional",
+  "anchor": [
+    109.9309886,
+    40.2539701
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.amap.com/place/B01DD008IM",
+  "anchorFeature": "达拉特旗响沙湾景区",
+  "anchorMethod": "高德“达拉特旗响沙湾景区”POI，GCJ-02（109.936583，40.254903）按项目函数反算 WGS84，作为展示锚点。",
+  "frontBearing": 42,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 540,
+  "description": "库布齐沙漠边连续弯曲的陡沙脊，近处以小驼队表现坡度。",
+  "visualSource": "https://www.xiangsw.com/xsw/about/about-2.html",
+  "period": "现状景观局部的微缩示意"
+}

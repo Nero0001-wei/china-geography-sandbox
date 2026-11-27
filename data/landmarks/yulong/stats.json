@@ -1,0 +1,28 @@
+{
+  "id": "yulong",
+  "name": "玉龙雪山",
+  "file": "yulong.glb",
+  "version": "national-v1",
+  "source": "https://lcj.yn.gov.cn/special/2025/0507/6576.html",
+  "sourceCopy": "data/landmarks/yulong/source.blend",
+  "sourceSha256": "eb4d956b31fc7a07fcbc497ad368f91a2bb9611d2ad97bafd35cc5cd319362cb",
+  "triangles": 7368,
+  "bytes": 861224,
+  "sha256": "94cc1917b29efa815b44a04f77535ed11482cf6ca0c3e2fbeee0d75272dc2cc7",
+  "materials": 13,
+  "embeddedImages": 6,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      3.9105279445648193,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 7368
+}

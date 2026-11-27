@@ -1,0 +1,23 @@
+{
+  "id": "shaolin",
+  "name": "少林寺",
+  "province": "河南省",
+  "city": "郑州市",
+  "anchor": [
+    112.935691,
+    34.507104
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/181147414",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 155,
+  "groundSpanMeters": 40,
+  "description": "嵩山少林寺山门有三开间、灰瓦大屋顶与贯通的中央券门。",
+  "visualSource": "https://whc.unesco.org/en/list/1305/",
+  "reference": "https://whc.unesco.org/en/list/1305/",
+  "period": "取现存清式山门，保留院外台阶和康熙题写匾额的色块。",
+  "subject": "常住院山门",
+  "frontNote": "朝向按山门朝旧寺前道路一侧取近似值。",
+  "type": "heritage",
+  "tier": "national"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tang-paradise",
+  "name": "大唐芙蓉园",
+  "file": "tang-paradise.glb",
+  "version": "national-v1",
+  "source": "https://nwin.cscec.com/xwzx/qydt/202305/3671538.html",
+  "sourceCopy": "data/landmarks/tang-paradise/source.blend",
+  "sourceSha256": "32ae7df666a2503b4f9da52a3dcfde247dc43fd359dedce622048da865320b6b",
+  "triangles": 7450,
+  "bytes": 802480,
+  "sha256": "991191987ba18e8024a1d96843eaa8cad9b12599f43788160649564ace7c816e",
+  "materials": 10,
+  "embeddedImages": 10,
+  "bounds": {
+    "min": [
+      -4.699999809265137,
+      0,
+      -2.5870769023895264
+    ],
+    "max": [
+      4.699999809265137,
+      6.931962013244629,
+      3.7300000190734863
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 8200
+}

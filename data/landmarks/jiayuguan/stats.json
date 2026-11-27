@@ -1,0 +1,28 @@
+{
+  "id": "jiayuguan",
+  "name": "嘉峪关关城",
+  "file": "jiayuguan.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/438/",
+  "sourceCopy": "data/landmarks/jiayuguan/source.blend",
+  "sourceSha256": "f58793218e073fd8f8f3500dd8704b17d3bdb937385d7e7c9d9fac65b3bd249c",
+  "triangles": 7684,
+  "bytes": 752488,
+  "sha256": "28f9ca46500451c104445f1a58d0f45e51177014e6480fddfb013c2e8847a478",
+  "materials": 9,
+  "embeddedImages": 9,
+  "bounds": {
+    "min": [
+      -6.775000095367432,
+      0,
+      -4.179999828338623
+    ],
+    "max": [
+      6.775000095367432,
+      5.351962089538574,
+      4.179999828338623
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 7684
+}

@@ -1,0 +1,28 @@
+{
+  "id": "shennongjia",
+  "name": "神农架·神农顶",
+  "file": "shennongjia.glb",
+  "version": "national-v1",
+  "source": "https://www.fohb.gov.cn/info/2022-08/20220810160800_196.html",
+  "sourceCopy": "data/landmarks/shennongjia/source.blend",
+  "sourceSha256": "48ae96801186b0554a1f40d6974d1fbaef5546ddad1c30191303cbec0e37ad51",
+  "triangles": 6518,
+  "bytes": 716964,
+  "sha256": "6976105678ab4b08797ba88833526e11956d1830977457d9f4f0a25f542f3309",
+  "materials": 14,
+  "embeddedImages": 5,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      2.9576730728149414,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 6518
+}

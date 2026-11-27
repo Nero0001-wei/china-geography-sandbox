@@ -1,0 +1,23 @@
+{
+  "id": "leshan-buddha",
+  "name": "乐山大佛",
+  "province": "四川省",
+  "city": "乐山市",
+  "anchor": [
+    103.7693136,
+    29.5469169
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/620388965",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 275,
+  "groundSpanMeters": 117,
+  "description": "扶膝坐佛从红砂岩崖壁雕出，崖侧沿九曲栈道下抵水边。",
+  "visualSource": "https://whc.unesco.org/en/list/779/",
+  "reference": "https://whc.unesco.org/en/list/779/",
+  "period": "取唐代开凿的临江坐佛与现存崖壁九曲栈道。",
+  "subject": "凌云山弥勒坐佛",
+  "frontNote": "主佛面向三江汇流，约朝西。",
+  "type": "heritage",
+  "tier": "national"
+}

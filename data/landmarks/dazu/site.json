@@ -1,0 +1,23 @@
+{
+  "id": "dazu",
+  "name": "大足石刻",
+  "province": "重庆市",
+  "city": "重庆市",
+  "anchor": [
+    105.79406611,
+    29.75437
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://zh.wikipedia.org/wiki/%E5%AE%9D%E9%A1%B6%E5%B1%B1%E6%91%A9%E5%B4%96%E9%80%A0%E5%83%8F",
+  "anchorMethod": "取宝顶山摩崖造像条目 WGS84 坐标，落在大佛湾卧佛段附近。",
+  "frontBearing": 266,
+  "groundSpanMeters": 46,
+  "description": "横卧佛像及其上方胁侍留在宝顶山浅色石崖上。",
+  "visualSource": "https://ps.whrsm.cas.cn/kpjt/kpwz/201410/t20141014_572106.html",
+  "reference": "https://ps.whrsm.cas.cn/kpjt/kpwz/201410/t20141014_572106.html",
+  "period": "取南宋在大佛湾东部开凿的卧佛段。",
+  "subject": "宝顶山大佛湾·卧佛龛",
+  "frontNote": "以东崖面朝沟内的西侧为展示面。",
+  "type": "heritage",
+  "tier": "regional"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "national-museum-china",
+  "name": "中国国家博物馆",
+  "file": "national-museum-china.glb",
+  "version": "national-v1",
+  "source": "https://www.gmp.de/cn/projects/471/national-museum-of-china",
+  "sourceCopy": "data/landmarks/national-museum-china/source.blend",
+  "sourceSha256": "1b068740b7a7ae4c2889ab2e15de00b6575eb3f1e3c3900caa18c51aef61e08c",
+  "triangles": 4484,
+  "bytes": 492068,
+  "sha256": "d364a6b5dbbb9bf997a438f9c1ff17edf59f119e7c06766237dd3a6869e90423",
+  "materials": 7,
+  "embeddedImages": 7,
+  "bounds": {
+    "min": [
+      -8.220000267028809,
+      0,
+      -5.324999809265137
+    ],
+    "max": [
+      8.220000267028809,
+      4.499000072479248,
+      5.324999809265137
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 4484
+}

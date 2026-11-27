@@ -1,0 +1,23 @@
+{
+  "id": "yungang",
+  "name": "云冈石窟",
+  "province": "山西省",
+  "city": "大同市",
+  "anchor": [
+    113.1227613,
+    40.1102231
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/5740709321",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 165,
+  "groundSpanMeters": 27,
+  "description": "浅褐色坐佛和两侧小龛嵌在武州山风化岩壁上。",
+  "visualSource": "https://whc.unesco.org/en/list/1039/",
+  "reference": "https://whc.unesco.org/en/list/1039/",
+  "period": "取北魏昙曜五窟中现存敞露的第二十窟。",
+  "subject": "第二十窟露天坐佛",
+  "frontNote": "沿窟前南侧步道，展示主佛面相和东侧龛壁。",
+  "type": "heritage",
+  "tier": "national"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "terracotta",
+  "name": "秦始皇兵马俑",
+  "file": "terracotta.glb",
+  "version": "national-v1",
+  "source": "https://www.bmy.com.cn/pitone.html",
+  "sourceCopy": "data/landmarks/terracotta/source.blend",
+  "sourceSha256": "fbf028372028d7246453928fe24babd670864c949e605d0f05b3c1e080a0bd3a",
+  "triangles": 7442,
+  "bytes": 725816,
+  "sha256": "6528792dcde6a135fcddec35f5467491066d742d6333a87d521cc4d4b26682bd",
+  "materials": 5,
+  "embeddedImages": 5,
+  "bounds": {
+    "min": [
+      -4.900000095367432,
+      0,
+      -3.950000047683716
+    ],
+    "max": [
+      4.900000095367432,
+      1.7599999904632568,
+      3.950000047683716
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 9120
+}

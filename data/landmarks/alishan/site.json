@@ -1,0 +1,22 @@
+{
+  "id": "alishan",
+  "name": "阿里山·沼平车站",
+  "province": "台湾",
+  "city": "嘉义县",
+  "type": "nature",
+  "tier": "regional",
+  "anchor": [
+    120.8138181,
+    23.5145072
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/548338239",
+  "anchorFeature": "沼平车站站房",
+  "anchorMethod": "OpenStreetMap “沼平车站站房”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 161,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 165,
+  "description": "沼平车站旁的弯曲窄轨、红色列车和高山杉林。",
+  "visualSource": "https://www.ali-nsa.net/zh-tw/attractions/detail/176",
+  "period": "现状景观局部的微缩示意"
+}

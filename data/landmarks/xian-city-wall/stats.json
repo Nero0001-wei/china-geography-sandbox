@@ -1,0 +1,28 @@
+{
+  "id": "xian-city-wall",
+  "name": "西安城墙·永宁门",
+  "file": "xian-city-wall.glb",
+  "version": "national-v1",
+  "source": "https://qjxq.xa.gov.cn/zjqj/gyqj/tsqj/5df21c5565cbd81235fc1efa.html",
+  "sourceCopy": "data/landmarks/xian-city-wall/source.blend",
+  "sourceSha256": "c9d827b256a72dc6a0349489c29dae13e46d8f8c1f63637681cbf49b763b5ffa",
+  "triangles": 5588,
+  "bytes": 705248,
+  "sha256": "8753c6051a7e510a3354ca28c89284bda806ae88187ae129898382692a288199",
+  "materials": 13,
+  "embeddedImages": 13,
+  "bounds": {
+    "min": [
+      -7.5,
+      0,
+      -6.239999771118164
+    ],
+    "max": [
+      7.5,
+      5.5335612297058105,
+      6.239999771118164
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 5588
+}

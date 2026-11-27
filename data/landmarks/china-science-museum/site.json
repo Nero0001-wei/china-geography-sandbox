@@ -1,0 +1,22 @@
+{
+  "id": "china-science-museum",
+  "name": "中国科学技术馆",
+  "province": "北京市",
+  "city": "北京市",
+  "anchor": [
+    116.3917166,
+    40.0042839
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/161298694",
+  "anchorCrs": "WGS84",
+  "frontBearing": 268.5,
+  "groundSpanMeters": 205,
+  "description": "奥林匹克公园旁的现馆有相互咬合的浅色方盒体块和深色玻璃窗，造型取意于鲁班锁。",
+  "type": "museum",
+  "tier": "national",
+  "visualSource": "https://www.cstm.org.cn/gy/bggk/index.html",
+  "siteNotes": "锚点取 OpenStreetMap 所标建筑轮廓的顶点平均位置。按 2009 年开放的北辰东路现馆取景。正面取西侧公共广场，白色围合体、层间凹槽和玻璃按现状概括。",
+  "aliases": [
+    "中国科技馆"
+  ]
+}

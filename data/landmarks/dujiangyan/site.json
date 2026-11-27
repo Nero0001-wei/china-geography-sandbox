@@ -1,0 +1,19 @@
+{
+  "id": "dujiangyan",
+  "name": "都江堰",
+  "province": "四川省",
+  "city": "成都市",
+  "anchor": [
+    103.604285,
+    31.0092227
+  ],
+  "anchorSource": "https://www.openstreetmap.org/node/5845822640",
+  "anchorCrs": "WGS84",
+  "frontBearing": 320,
+  "groundSpanMeters": 220,
+  "description": "鱼嘴分水堤像一段尖楔，伸入岷江并把河水分为内江和外江。",
+  "type": "urban",
+  "tier": "national",
+  "visualSource": "https://whc.unesco.org/en/list/1001/",
+  "siteNotes": "以 OpenStreetMap 鱼嘴节点定位分水堤尖端，并用相邻实景核对方位。表现现状鱼嘴、内外江和短段安澜索桥，分水尖端在正面。"
+}

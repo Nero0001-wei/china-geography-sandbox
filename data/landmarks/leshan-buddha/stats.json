@@ -1,0 +1,28 @@
+{
+  "id": "leshan-buddha",
+  "name": "乐山大佛",
+  "file": "leshan-buddha.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/779/",
+  "sourceCopy": "data/landmarks/leshan-buddha/source.blend",
+  "sourceSha256": "1d86394c0339a90cf17f941bf84264cdad07be0959fd8a0cca351659c173543f",
+  "triangles": 6446,
+  "bytes": 760940,
+  "sha256": "f72ea57bdba680dbb9a5bd4c1cbb5cb3a7951c2bc2feb49f4252f29da1ed77d6",
+  "materials": 10,
+  "embeddedImages": 10,
+  "bounds": {
+    "min": [
+      -5.425000190734863,
+      0,
+      -2.5
+    ],
+    "max": [
+      5.425000190734863,
+      5.988080978393555,
+      2.5
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 6446
+}

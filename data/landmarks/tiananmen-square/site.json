@@ -1,0 +1,19 @@
+{
+  "id": "tiananmen-square",
+  "name": "天安门广场",
+  "province": "北京市",
+  "city": "北京市",
+  "anchor": [
+    116.391083,
+    39.907333
+  ],
+  "anchorSource": "https://commons.wikimedia.org/wiki/Tiananmen",
+  "anchorCrs": "WGS84",
+  "frontBearing": 178.5,
+  "groundSpanMeters": 155,
+  "description": "广场北端的天安门城楼有红墙、五道券门和黄瓦重檐，正对南北中轴。",
+  "type": "urban",
+  "tier": "national",
+  "visualSource": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202301/W020230130329977849629.pdf",
+  "siteNotes": "以广场北端天安门城楼坐标为模型锚点。取广场北端视角，表现现状城台、城楼、华表和南侧铺地。"
+}

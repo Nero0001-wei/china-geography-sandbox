@@ -1,0 +1,9 @@
+# ImageGen 三视设计参考
+
+本景点取原始设计参考板的第 2 行，从左到右为正面、侧面、侧前方。
+
+[原始参考板](../../expansion-references/board-12.png) · [该行截图](design-triplet.jpg)
+
+## 完整提示词
+
+Use case: stylized-concept. Tall portrait reference contact sheet, precisely 5 rows and 3 columns. Accurate readable physical diorama miniatures for a national tabletop geography map. Every row is a different site spelled out below, showing exactly the same mini 3D structure from three orthographic views, on the left near-horizontal front, in the middle 90-degree right side, on the right 45-degree elevated front-right. Each model fully inside its regular cell, with enough margin to crop, small unobtrusive matte base, soft daylight and plain warm sand background. Keep distinctive materials and structure consistent across the 3 views. Use simple legible silhouettes and realistic colors suitable for actual low-poly Blender reconstruction. No captions, no numbers, no visible guides, no framing. Strict row order top to bottom: 1. Mount Hua West Peak: dominant tall smooth gray granite cliffs with narrow knife ridge and small red Chinese summit structure. 2. Crescent Lake and Mingsha Shan, Dunhuang: unmistakable crescent oasis pond at foot of a warm red-gold dune with little pavilion. 3. Qinghai Lake Erlangjian: slim curved sandy dip land finger stretching into wide blue highland lake, grass and distant hills. 4. Kanas Moon Bay: horseshoe river loop of teal water between humped dark conifer-covered hills and a lighter meadow. 5. Sun Moon Lake Taiwan: broad gentle blue lake ringed by green hills and the distinct low wooded Lalu Island.

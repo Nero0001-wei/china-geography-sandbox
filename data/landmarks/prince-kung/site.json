@@ -1,0 +1,24 @@
+{
+  "id": "prince-kung",
+  "name": "恭王府博物馆",
+  "province": "北京市",
+  "city": "北京市",
+  "anchor": [
+    116.3800886,
+    39.9353469
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/561187414",
+  "anchorMethod": "取银安殿建筑轮廓中心点。",
+  "frontBearing": 180,
+  "groundSpanMeters": 67,
+  "type": "museum",
+  "subject": "银安殿及东西配殿",
+  "visualSource": "https://www.pgm.org.cn/pgm/wfjd/201402/4bd8662d01834dc4888ffd229d2e0dff.shtml",
+  "referencePhoto": "https://www.pgm.org.cn/pgm/wfjd/201402/4bd8662d01834dc4888ffd229d2e0dff/images/%E9%93%B6%E5%AE%89%E6%AE%BF.jpg",
+  "description": "恭王府正殿绿琉璃瓦下开五间，院落两侧分布灰瓦配殿，殿前月台两端是对称石阶。",
+  "period": "按2008年依据恭亲王时期格局原址重建的银安殿现貌建模。",
+  "frontNote": "朝向银安殿南侧中院。",
+  "anchorCrs": "WGS84",
+  "tier": "national",
+  "reference": "https://www.pgm.org.cn/pgm/wfjd/201402/4bd8662d01834dc4888ffd229d2e0dff.shtml"
+}

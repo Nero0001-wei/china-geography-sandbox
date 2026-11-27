@@ -1,0 +1,1886 @@
+{
+  "badaling": {
+    "destination": {
+      "id": "B000A8VOLK",
+      "name": "八达岭长城岔西停车场",
+      "location": [
+        115.990987,
+        40.363534
+      ],
+      "address": "G6京藏高速58号出口八达岭长城",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110119",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B000A8VOLK"
+    },
+    "transitDestination": {
+      "id": "B0FFKR0YGX",
+      "name": "八达岭长城站",
+      "location": [
+        115.985612,
+        40.3618
+      ],
+      "address": "北京市 北京市 延庆区",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110119",
+      "typecode": "150200",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFKR0YGX"
+    }
+  },
+  "beijing-universal": {
+    "destination": {
+      "id": "B0HAVUA027",
+      "name": "北京环球度假区停车楼(入口)",
+      "location": [
+        116.679096,
+        39.845244
+      ],
+      "address": "北京环球度假区",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110112",
+      "typecode": "150907",
+      "sourceUrl": "https://ditu.amap.com/place/B0HAVUA027"
+    },
+    "transitDestination": {
+      "id": "BV10850689",
+      "name": "环球度假区(地铁站)",
+      "location": [
+        116.679099,
+        39.849152
+      ],
+      "address": "1号线/八通线;7号线",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110112",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10850689"
+    }
+  },
+  "saint-sophia": {
+    "destination": {
+      "id": "B0GK1SWCB1",
+      "name": "新一百地面停车场",
+      "location": [
+        126.623668,
+        45.770508
+      ],
+      "address": "石头道街118号哈尔滨新一百(西北角)",
+      "city": "哈尔滨市",
+      "cityCode": "0451",
+      "adcode": "230102",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0GK1SWCB1"
+    },
+    "transitDestination": {
+      "id": "BV09006019",
+      "name": "建筑艺术广场站(公交站)",
+      "location": [
+        126.628236,
+        45.770785
+      ],
+      "address": "哈尔滨市建筑艺术广场站",
+      "city": "哈尔滨市",
+      "cityCode": "0451",
+      "adcode": "230102",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09006019"
+    }
+  },
+  "qinhuai": {
+    "destination": {
+      "id": "B0FFGH3S4X",
+      "name": "夫子庙商贸城地下停车场",
+      "location": [
+        118.786659,
+        32.018477
+      ],
+      "address": "奥特莱斯商场瞻园店南门旁",
+      "city": "南京市",
+      "cityCode": "025",
+      "adcode": "320104",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFGH3S4X"
+    },
+    "transitDestination": {
+      "id": "BV10055550",
+      "name": "夫子庙(地铁站)",
+      "location": [
+        118.791072,
+        32.023567
+      ],
+      "address": "3号线;5号线",
+      "city": "南京市",
+      "cityCode": "025",
+      "adcode": "320104",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10055550"
+    }
+  },
+  "bund": {
+    "destination": {
+      "id": "B0FFGN6MHN",
+      "name": "外滩停车库(入口)",
+      "location": [
+        121.492222,
+        31.23298
+      ],
+      "address": "中山东一路49号外滩停车库",
+      "city": "上海市",
+      "cityCode": "021",
+      "adcode": "310101",
+      "typecode": "150907",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFGN6MHN"
+    },
+    "transitDestination": {
+      "id": "BV10025233",
+      "name": "中山东一路南京东路(公交站)",
+      "location": [
+        121.490309,
+        31.241412
+      ],
+      "address": "上海市中山东一路南京东路",
+      "city": "上海市",
+      "cityCode": "021",
+      "adcode": "310101",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10025233"
+    }
+  },
+  "shanghai-disney": {
+    "destination": {
+      "id": "B0IG7ZO6R8",
+      "name": "上海迪士尼度假区P4地面停车场",
+      "location": [
+        121.67847952,
+        31.14434944
+      ],
+      "address": "上海迪士尼度假区",
+      "city": "上海市",
+      "cityCode": "021",
+      "adcode": "310115",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0IG7ZO6R8"
+    },
+    "transitDestination": {
+      "id": "BV10681608",
+      "name": "迪士尼(地铁站)",
+      "location": [
+        121.667959,
+        31.141263
+      ],
+      "address": "(在建)21号线;11号线",
+      "city": "上海市",
+      "cityCode": "021",
+      "adcode": "310115",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10681608"
+    }
+  },
+  "west-lake": {
+    "destination": {
+      "id": "B0FFHL3WTC",
+      "name": "杭州西湖风景名胜区花港观鱼停车场",
+      "location": [
+        120.137534,
+        30.230177
+      ],
+      "address": "杭州西湖风景名胜区内",
+      "city": "杭州市",
+      "cityCode": "0571",
+      "adcode": "330106",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFHL3WTC"
+    },
+    "transitDestination": {
+      "id": "BV09106495",
+      "name": "苏堤南口(公交站)",
+      "location": [
+        120.145809,
+        30.228789
+      ],
+      "address": "杭州市苏堤南口",
+      "city": "杭州市",
+      "cityCode": "0571",
+      "adcode": "330106",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09106495"
+    }
+  },
+  "hengdian": {
+    "destination": {
+      "id": "B02430HU3B",
+      "name": "横店影视城秦王宫园区1号停车场",
+      "location": [
+        120.315066,
+        29.131443
+      ],
+      "address": "秦清路秦王宫",
+      "city": "金华市",
+      "cityCode": "0579",
+      "adcode": "330783",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B02430HU3B"
+    },
+    "transitDestination": {
+      "id": "BV10734433",
+      "name": "秦王宫(公交站)",
+      "location": [
+        120.315024,
+        29.131336
+      ],
+      "address": "金华市秦王宫",
+      "city": "金华市",
+      "cityCode": "0579",
+      "adcode": "330783",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10734433"
+    }
+  },
+  "taishan": {
+    "destination": {
+      "id": "B021A01I1G",
+      "name": "天外村地下停车场",
+      "location": [
+        117.107657,
+        36.205468
+      ],
+      "address": "环山路与龙潭路交界处路西南",
+      "city": "泰安市",
+      "cityCode": "0538",
+      "adcode": "370902",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B021A01I1G"
+    },
+    "transitDestination": {
+      "id": "BV10166827",
+      "name": "天外村(公交站)",
+      "location": [
+        117.104287,
+        36.207112
+      ],
+      "address": "泰安市天外村",
+      "city": "泰安市",
+      "cityCode": "0538",
+      "adcode": "370902",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10166827"
+    }
+  },
+  "longmen": {
+    "destination": {
+      "id": "B0KD9UUXWI",
+      "name": "龙门石窟2号停车场(西北服务区)",
+      "location": [
+        112.473637,
+        34.568605
+      ],
+      "address": "238省道龙门石窟",
+      "city": "洛阳市",
+      "cityCode": "0379",
+      "adcode": "410311",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0KD9UUXWI"
+    },
+    "transitDestination": {
+      "id": "BV10098569",
+      "name": "龙门石窟(公交站)",
+      "location": [
+        112.483905,
+        34.56432
+      ],
+      "address": "洛阳市龙门石窟",
+      "city": "洛阳市",
+      "cityCode": "0379",
+      "adcode": "410311",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10098569"
+    }
+  },
+  "yellow-crane": {
+    "destination": {
+      "id": "B001B15XOG",
+      "name": "黄鹤楼公园地下停车场",
+      "location": [
+        114.307299,
+        30.541891
+      ],
+      "address": "首义路街街道武昌路黄鹤楼公园内(南侧)",
+      "city": "武汉市",
+      "cityCode": "027",
+      "adcode": "420106",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B001B15XOG"
+    },
+    "transitDestination": {
+      "id": "BV10804921",
+      "name": "司门口黄鹤楼(地铁站)",
+      "location": [
+        114.302183,
+        30.546899
+      ],
+      "address": "5号线",
+      "city": "武汉市",
+      "cityCode": "027",
+      "adcode": "420106",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10804921"
+    }
+  },
+  "tianmen": {
+    "destination": {
+      "id": "B0L13R6WX7",
+      "name": "天门山索道西南侧停车场",
+      "location": [
+        110.4817939507825,
+        29.11156078750417
+      ],
+      "address": "大庸路80号天门山索道内(西侧)",
+      "city": "张家界市",
+      "cityCode": "0744",
+      "adcode": "430802",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0L13R6WX7"
+    },
+    "transitDestination": {
+      "id": "BV10235523",
+      "name": "天门山索道站(公交站)",
+      "location": [
+        110.483246,
+        29.111294
+      ],
+      "address": "张家界市天门山索道站",
+      "city": "张家界市",
+      "cityCode": "0744",
+      "adcode": "430802",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10235523"
+    }
+  },
+  "canton-tower": {
+    "destination": {
+      "id": "B0FFGZW7VB",
+      "name": "广州塔地下停车场(入口)",
+      "location": [
+        113.323744,
+        23.105518
+      ],
+      "address": "广州塔地下停车场(广州塔地铁站出入口步行110米)",
+      "city": "广州市",
+      "cityCode": "020",
+      "adcode": "440105",
+      "typecode": "150907",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFGZW7VB"
+    },
+    "transitDestination": {
+      "id": "BV10015731",
+      "name": "广州塔(地铁站)",
+      "location": [
+        113.323464,
+        23.106483
+      ],
+      "address": "3号线;APM线",
+      "city": "广州市",
+      "cityCode": "020",
+      "adcode": "440105",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10015731"
+    }
+  },
+  "elephant-hill": {
+    "destination": {
+      "id": "B03050V0WG",
+      "name": "象鼻山景区停车场",
+      "location": [
+        110.29313,
+        25.266729
+      ],
+      "address": "南环路22号象鼻山景区内(西侧)",
+      "city": "桂林市",
+      "cityCode": "0773",
+      "adcode": "450304",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B03050V0WG"
+    },
+    "transitDestination": {
+      "id": "BV10270030",
+      "name": "象山公园(公交站)",
+      "location": [
+        110.29303,
+        25.267469
+      ],
+      "address": "桂林市象山公园",
+      "city": "桂林市",
+      "cityCode": "0773",
+      "adcode": "450304",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10270030"
+    }
+  },
+  "hongyadong": {
+    "destination": {
+      "id": "B0FFIDIILX",
+      "name": "洪崖洞民俗风貌区地下停车场",
+      "location": [
+        106.57767746,
+        29.56209586
+      ],
+      "address": "嘉陵江滨江路88号洪崖洞民俗风貌区内(西侧)",
+      "city": "重庆市",
+      "cityCode": "023",
+      "adcode": "500103",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFIDIILX"
+    },
+    "transitDestination": {
+      "id": "BV10045951",
+      "name": "小什字(地铁站)",
+      "location": [
+        106.583593,
+        29.560028
+      ],
+      "address": "(在建)18号线渝中延伸段;1号线;6号线",
+      "city": "重庆市",
+      "cityCode": "023",
+      "adcode": "500103",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10045951"
+    }
+  },
+  "panda-base": {
+    "destination": {
+      "id": "B0MBPN0LT6",
+      "name": "成都大熊猫繁育研究基地南侧地上停车场",
+      "location": [
+        104.14099,
+        30.727165
+      ],
+      "address": "楠竹巷与熊猫大道辅路交叉口东南100米",
+      "city": "成都市",
+      "cityCode": "028",
+      "adcode": "510108",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0MBPN0LT6"
+    },
+    "transitDestination": {
+      "id": "BV11433023",
+      "name": "熊猫基地(熊猫大道)(公交站)",
+      "location": [
+        104.14372,
+        30.73197
+      ],
+      "address": "成都市熊猫基地",
+      "city": "成都市",
+      "cityCode": "028",
+      "adcode": "510108",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV11433023"
+    }
+  },
+  "jiuzhaigou": {
+    "destination": {
+      "id": "B0FFGDXCP9",
+      "name": "九寨沟管理局-沟口地面停车场",
+      "location": [
+        103.915454,
+        33.266751
+      ],
+      "address": "漳扎镇",
+      "city": "阿坝藏族羌族自治州",
+      "cityCode": "0837",
+      "adcode": "513225",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFGDXCP9"
+    },
+    "transitDestination": {
+      "id": "B0FFG6S17F",
+      "name": "九寨沟旅游客运中心",
+      "location": [
+        103.925398,
+        33.274537
+      ],
+      "address": "九寨沟景区",
+      "city": "阿坝藏族羌族自治州",
+      "cityCode": "0837",
+      "adcode": "513225",
+      "typecode": "150400",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFG6S17F"
+    }
+  },
+  "dali": {
+    "destination": {
+      "id": "B0HDV5YJUL",
+      "name": "大理古城南门地面停车场",
+      "location": [
+        100.166326,
+        25.6873
+      ],
+      "address": "大理古城南门城隍庙对面",
+      "city": "大理白族自治州",
+      "cityCode": "0872",
+      "adcode": "532901",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0HDV5YJUL"
+    },
+    "transitDestination": {
+      "id": "BV09214664",
+      "name": "大理古城南门(公交站)",
+      "location": [
+        100.159741,
+        25.685401
+      ],
+      "address": "大理白族自治州大理古城南门",
+      "city": "大理白族自治州",
+      "cityCode": "0872",
+      "adcode": "532901",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09214664"
+    }
+  },
+  "lijiang": {
+    "destination": {
+      "id": "B0FFKWV7BY",
+      "name": "玉缘路停车场",
+      "location": [
+        100.235543,
+        26.876888
+      ],
+      "address": "玉缘路与金虹路交叉口西北80米",
+      "city": "丽江市",
+      "cityCode": "0888",
+      "adcode": "530702",
+      "typecode": "150906",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFKWV7BY"
+    },
+    "transitDestination": {
+      "id": "BV09166214",
+      "name": "丽江古城口(公交站)",
+      "location": [
+        100.231007,
+        26.875109
+      ],
+      "address": "丽江市丽江古城口",
+      "city": "丽江市",
+      "cityCode": "0888",
+      "adcode": "530702",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09166214"
+    }
+  },
+  "potala": {
+    "destination": {
+      "id": "B0FFFY4GXQ",
+      "name": "白塔地面停车场",
+      "location": [
+        91.114714,
+        29.652664
+      ],
+      "address": "布达拉宫西门(宫前巷35号)",
+      "city": "拉萨市",
+      "cityCode": "0891",
+      "adcode": "540102",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFFY4GXQ"
+    },
+    "transitDestination": {
+      "id": "BV10290588",
+      "name": "拉百站(公交站)",
+      "location": [
+        91.12146,
+        29.649384
+      ],
+      "address": "拉萨市拉百站",
+      "city": "拉萨市",
+      "cityCode": "0891",
+      "adcode": "540102",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10290588"
+    }
+  },
+  "terracotta": {
+    "destination": {
+      "id": "B001D0095C",
+      "name": "秦始皇兵马俑博物馆第1停车场",
+      "location": [
+        109.284977,
+        34.390095
+      ],
+      "address": "临蓝路秦始皇兵马俑博物馆",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610115",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B001D0095C"
+    },
+    "transitDestination": {
+      "id": "BV09438150",
+      "name": "秦始皇兵马俑博物馆(公交站)",
+      "location": [
+        109.285308,
+        34.388565
+      ],
+      "address": "西安市秦始皇兵马俑博物馆",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610115",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09438150"
+    }
+  },
+  "tang-paradise": {
+    "destination": {
+      "id": "B0FFG8V2AV",
+      "name": "大唐芙蓉园西门停车场(出入口)",
+      "location": [
+        108.969673,
+        34.212803
+      ],
+      "address": "芙蓉西路99号(大唐芙蓉园地铁站D东北口步行330米)",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610113",
+      "typecode": "150909",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFG8V2AV"
+    },
+    "transitDestination": {
+      "id": "BV10527902",
+      "name": "大唐芙蓉园(地铁站)",
+      "location": [
+        108.971227,
+        34.209813
+      ],
+      "address": "4号线",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610113",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10527902"
+    }
+  },
+  "mogao": {
+    "destination": {
+      "id": "B0JR7SGLGY",
+      "name": "敦煌莫高窟数字展示中心南停车场",
+      "location": [
+        94.76766593,
+        40.15840748
+      ],
+      "address": "敦煌莫高窟数字展示中心内(南侧)",
+      "city": "酒泉市",
+      "cityCode": "0937",
+      "adcode": "620982",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0JR7SGLGY"
+    },
+    "transitDestination": {
+      "id": "BV09247216",
+      "name": "莫高窟数字中心站(公交站)",
+      "location": [
+        94.767201,
+        40.16295
+      ],
+      "address": "酒泉市莫高窟数字中心站",
+      "city": "酒泉市",
+      "cityCode": "0937",
+      "adcode": "620982",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09247216"
+    }
+  },
+  "sayram": {
+    "destination": {
+      "id": "B0LGACMSB5",
+      "name": "赛里木湖国家级风景名胜区东门新游客中心停车场",
+      "location": [
+        81.387786,
+        44.617207
+      ],
+      "address": "30国道旁赛里木湖国家级风景名胜区",
+      "city": "博尔塔拉蒙古自治州",
+      "cityCode": "0909",
+      "adcode": "652701",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0LGACMSB5"
+    },
+    "transitDestination": {
+      "id": "B0LDK683WW",
+      "name": "赛里木湖国家级风景名胜区新游客中心",
+      "location": [
+        81.38656,
+        44.616804
+      ],
+      "address": "新疆维吾尔自治区 博尔塔拉蒙古自治州 博乐市",
+      "city": "博尔塔拉蒙古自治州",
+      "cityCode": "0909",
+      "adcode": "652701",
+      "typecode": "070201",
+      "sourceUrl": "https://ditu.amap.com/place/B0LDK683WW"
+    }
+  },
+  "hk-disney": {
+    "destination": {
+      "id": "B073C039N1",
+      "name": "香港迪士尼乐园停车场",
+      "location": [
+        114.054488,
+        22.314347
+      ],
+      "address": "新界香港迪士尼乐园度假区",
+      "city": "香港特别行政区",
+      "cityCode": "1852",
+      "adcode": "810010",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B073C039N1"
+    },
+    "transitDestination": {
+      "id": "BV10321748",
+      "name": "迪士尼(地铁站)",
+      "location": [
+        114.050251,
+        22.312738
+      ],
+      "address": "迪士尼线",
+      "city": "香港特别行政区",
+      "cityCode": "1852",
+      "adcode": "810018",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10321748"
+    }
+  },
+  "st-pauls": {
+    "destination": {
+      "id": "B073D00G6W",
+      "name": "柏港停车场",
+      "location": [
+        113.541546,
+        22.194734
+      ],
+      "address": "巴素打尔古街",
+      "city": "澳门特别行政区",
+      "cityCode": "1853",
+      "adcode": "820002",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B073D00G6W"
+    },
+    "transitDestination": {
+      "id": "BV10455873",
+      "name": "白鸽巢前地(公交站)",
+      "location": [
+        113.544573,
+        22.196185
+      ],
+      "address": "澳门特别行政区白鸽巢前地",
+      "city": "澳门特别行政区",
+      "cityCode": "1853",
+      "adcode": "820002",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10455873"
+    }
+  },
+  "taipei-101": {
+    "destination": {
+      "id": "B0L0FR77CE",
+      "name": "台北101停车场入口(市府路)",
+      "location": [
+        121.56730201754236,
+        25.03043065442503
+      ],
+      "address": "110台湾台北市信义区西村里市府路45号",
+      "city": "台北市",
+      "cityCode": "2958",
+      "adcode": "710111",
+      "typecode": "150900",
+      "sourceUrl": "https://ditu.amap.com/place/B0L0FR77CE"
+    },
+    "transitDestination": {
+      "id": "BV09105803",
+      "name": "台北101/世贸(地铁站)",
+      "location": [
+        121.566504,
+        25.030036
+      ],
+      "address": "淡水信义线",
+      "city": "台北市",
+      "cityCode": "2958",
+      "adcode": "710111",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV09105803"
+    }
+  },
+  "temple-of-heaven": {
+    "destination": {
+      "id": "B000A8XDM4",
+      "name": "天坛公园南门东侧停车场",
+      "location": [
+        116.413362,
+        39.873235
+      ],
+      "address": "天坛东里甲1号天坛公园",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110101",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B000A8XDM4"
+    }
+  },
+  "yungang": {
+    "destination": {
+      "id": "B0FFFOH7KO",
+      "name": "云冈石窟A区停车场",
+      "location": [
+        113.145653,
+        40.110358
+      ],
+      "address": "云冈镇云冈石窟内(东侧)",
+      "city": "大同市",
+      "cityCode": "0352",
+      "adcode": "140214",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFFOH7KO"
+    },
+    "transitDestination": {
+      "id": "BV09190471",
+      "name": "云冈石窟(公交站)",
+      "location": [
+        113.146883,
+        40.108345
+      ],
+      "address": "(停运)大同南站-云冈石窟旅游专线",
+      "city": "大同市",
+      "cityCode": "0352",
+      "adcode": "140214",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09190471"
+    }
+  },
+  "wutai": {
+    "destination": {
+      "id": "B0MAP7X4QF",
+      "name": "五台山风景名胜区-游客中心-北侧地上停车场",
+      "location": [
+        113.649175,
+        38.904475
+      ],
+      "address": "台怀镇杨柏峪村五台山风景名胜区(东南角)",
+      "city": "忻州市",
+      "cityCode": "0350",
+      "adcode": "140922",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0MAP7X4QF"
+    },
+    "transitDestination": {
+      "id": "BV09356282",
+      "name": "游客中心(公交站)",
+      "location": [
+        113.648586,
+        38.903352
+      ],
+      "address": "8路内环;五台山景区1路",
+      "city": "忻州市",
+      "cityCode": "0350",
+      "adcode": "140922",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09356282"
+    }
+  },
+  "shaolin": {
+    "destination": {
+      "id": "B0M1T9LZU0",
+      "name": "嵩山少林景区-北侧地上停车场",
+      "location": [
+        112.950375,
+        34.510875
+      ],
+      "address": "207国道旁少林景区内(北侧)",
+      "city": "郑州市",
+      "cityCode": "0371",
+      "adcode": "410185",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0M1T9LZU0"
+    }
+  },
+  "shenyang-palace": {
+    "destination": {
+      "id": "B0MD59YJLX",
+      "name": "沈阳故宫博物院地上停车场",
+      "location": [
+        123.453225,
+        41.803975
+      ],
+      "address": "正阳街与顺垣巷交叉口西南80米",
+      "city": "沈阳市",
+      "cityCode": "024",
+      "adcode": "210103",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0MD59YJLX"
+    }
+  },
+  "putuo": {
+    "destination": {
+      "id": "B0FFG88MWV",
+      "name": "P1-慈航广场停车场",
+      "location": [
+        122.36994394,
+        29.94781865
+      ],
+      "address": "朱家尖镇蜈蚣峙慈航广场55号(近蜈蚣峙客运中心码头)慈航大酒店",
+      "city": "舟山市",
+      "cityCode": "0580",
+      "adcode": "330903",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFG88MWV"
+    }
+  },
+  "tengwang": {
+    "destination": {
+      "id": "B0K3KRMKKW",
+      "name": "滕王阁P1停车场",
+      "location": [
+        115.882972,
+        28.67933
+      ],
+      "address": "榕门路229号",
+      "city": "南昌市",
+      "cityCode": "0791",
+      "adcode": "360102",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0K3KRMKKW"
+    }
+  },
+  "dazu": {
+    "destination": {
+      "id": "B0I23SYTAY",
+      "name": "大足石刻宝顶山景区游客中心南停车场",
+      "location": [
+        105.766732,
+        29.746231
+      ],
+      "address": "大足石刻宝顶山景区内(西侧)",
+      "city": "重庆市",
+      "cityCode": "023",
+      "adcode": "500111",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0I23SYTAY"
+    }
+  },
+  "western-xia": {
+    "destination": {
+      "id": "B0FFKYFXKY",
+      "name": "西夏陵国家考古遗址公园游客中心停车场",
+      "location": [
+        106.019657,
+        38.443774
+      ],
+      "address": "西夏陵国家考古遗址公园内(东侧)",
+      "city": "银川市",
+      "cityCode": "0951",
+      "adcode": "640105",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFKYFXKY"
+    }
+  },
+  "jiayuguan": {
+    "destination": {
+      "id": "B0MRM1VWJ3",
+      "name": "嘉峪关文物景区-北门地上停车场",
+      "location": [
+        98.223969,
+        39.807192
+      ],
+      "address": "双拥路与关城北路交叉口西140米",
+      "city": "嘉峪关市",
+      "cityCode": "1937",
+      "adcode": "620200",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0MRM1VWJ3"
+    }
+  },
+  "pingyao": {
+    "destination": {
+      "id": "B0FFIDO7BC",
+      "name": "平遥古城小南门停车场",
+      "location": [
+        112.181583,
+        37.195369
+      ],
+      "address": "康宁路与柳根中路的交叉口北30米",
+      "city": "晋中市",
+      "cityCode": "0354",
+      "adcode": "140728",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFIDO7BC"
+    }
+  },
+  "wuzhen": {
+    "destination": {
+      "id": "B0FFG7HRPC",
+      "name": "乌镇西栅景区1号停车场",
+      "location": [
+        120.492231,
+        30.747956
+      ],
+      "address": "石佛南路18号乌镇西栅景区内(东侧)",
+      "city": "嘉兴市",
+      "cityCode": "0573",
+      "adcode": "330483",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFG7HRPC"
+    }
+  },
+  "suzhou-garden": {
+    "destination": {
+      "id": "B0H2T5NCH9",
+      "name": "拙政园东出口停车场",
+      "location": [
+        120.631803,
+        31.32514
+      ],
+      "address": "平江街道东北街178号",
+      "city": "苏州市",
+      "cityCode": "0512",
+      "adcode": "320508",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0H2T5NCH9"
+    }
+  },
+  "slender-west-lake": {
+    "transitDestination": {
+      "id": "BV09564634",
+      "name": "瘦西湖南门(大虹桥西)(公交站)",
+      "location": [
+        119.426393,
+        32.401205
+      ],
+      "address": "扬州大运河文化旅游度假区环线2号线",
+      "city": "扬州市",
+      "cityCode": "0514",
+      "adcode": "321003",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09564634"
+    }
+  },
+  "fenghuang": {
+    "destination": {
+      "id": "B0JAJHW8SA",
+      "name": "凤凰古城5-1城东游客服务中心停车场",
+      "location": [
+        109.620243,
+        27.942508
+      ],
+      "address": "杜田路与209国道交叉口西60米",
+      "city": "湘西土家族苗族自治州",
+      "cityCode": "0743",
+      "adcode": "433123",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0JAJHW8SA"
+    }
+  },
+  "hongcun": {
+    "destination": {
+      "id": "B022F00E03",
+      "name": "宏村南门停车场",
+      "location": [
+        117.992433,
+        30.000296
+      ],
+      "address": "宏村景区南门",
+      "city": "黄山市",
+      "cityCode": "0559",
+      "adcode": "341023",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B022F00E03"
+    }
+  },
+  "haikou-arcades": {
+    "destination": {
+      "id": "B0FFL2VJJZ",
+      "name": "海口骑楼老街历史文化街区第1停车场",
+      "location": [
+        110.34629,
+        20.044904
+      ],
+      "address": "水巷口路34号海口骑楼老街内",
+      "city": "海口市",
+      "cityCode": "0898",
+      "adcode": "460108",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFL2VJJZ"
+    }
+  },
+  "kashgar-old-city": {
+    "destination": {
+      "id": "B0HUU5SIUS",
+      "name": "城投-古城东门停车场",
+      "location": [
+        75.999336,
+        39.472486
+      ],
+      "address": "亚瓦格路10号喀什古城景区内(东侧)",
+      "city": "喀什地区",
+      "cityCode": "0998",
+      "adcode": "653101",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0HUU5SIUS"
+    }
+  },
+  "tiananmen-square": {
+    "destination": {
+      "id": "B0GKA94RVE",
+      "name": "北京坊地下停车场(入口)",
+      "location": [
+        116.396579,
+        39.898259
+      ],
+      "address": "前门西河沿街(前门地铁站I西南口步行190米)",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110102",
+      "typecode": "150907",
+      "sourceUrl": "https://ditu.amap.com/place/B0GKA94RVE"
+    }
+  },
+  "victoria-harbour": {
+    "transitDestination": {
+      "id": "BV10645816",
+      "name": "尖沙咀(天星码头)(公交站)",
+      "location": [
+        114.173849,
+        22.29107
+      ],
+      "address": "城巴20R路;城巴973路;城巴973路(经西九文化区);城巴973路(经西九文化区及海洋公园);城巴H1路;城巴H1路(不经遮打道);城巴H2K路循环线;城巴N21A路;城巴N21路",
+      "city": "香港特别行政区",
+      "cityCode": "1852",
+      "adcode": "810005",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10645816"
+    }
+  },
+  "sanxingdui": {
+    "transitDestination": {
+      "id": "BV10283949",
+      "name": "三星堆博物馆(公交站)",
+      "location": [
+        104.225123,
+        30.997739
+      ],
+      "address": "(停运)三星堆旅游专线;(停运)三星堆旅游公交3号线;C3路;三星堆博物馆至德阳文庙旅游公交专线;三星堆旅游直通车1号线;三星堆旅游直通车3号线;广汉11路;广汉13路;广汉16路;广汉6路;新都旅游专线XL01路;高铁接驳专线(18:00前)",
+      "city": "德阳市",
+      "cityCode": "0838",
+      "adcode": "510681",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10283949"
+    }
+  },
+  "taipei-palace": {
+    "transitDestination": {
+      "id": "BV09494148",
+      "name": "故宫博物院(公交站)",
+      "location": [
+        121.553238,
+        25.097059
+      ],
+      "address": "255;255区;255区间车;300;304承德;304承德线;304重庆;815;台北市观光巴士蓝线;小18;小19;小19绕驶合诚宫;市民小巴1;棕13;棕13不经外双溪(至善);棕20;棕20绕驶美堤码头预约公车;红30;蓝7;蓝7副;蓝7副线",
+      "city": "台北市",
+      "cityCode": "2958",
+      "adcode": "710103",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09494148"
+    }
+  },
+  "yalu-broken-bridge": {
+    "destination": {
+      "id": "B0FFF5W0TS",
+      "name": "鸭绿江公园停车场",
+      "location": [
+        124.396933,
+        40.122775
+      ],
+      "address": "滨江中路与十纬路交汇处(鸭绿江公园)",
+      "city": "丹东市",
+      "cityCode": "0415",
+      "adcode": "210603",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFF5W0TS"
+    }
+  },
+  "harbin-ice-world": {
+    "transitDestination": {
+      "id": "BV10784626",
+      "name": "冰雪大世界(地铁站)",
+      "location": [
+        126.567694,
+        45.778569
+      ],
+      "address": "2号线",
+      "city": "哈尔滨市",
+      "cityCode": "0451",
+      "adcode": "230109",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10784626"
+    }
+  },
+  "qingming-park": {
+    "destination": {
+      "id": "B0G07S3HBU",
+      "name": "清明上河园1号地下停车场",
+      "location": [
+        114.34133,
+        34.81238
+      ],
+      "address": "龙亭西路5号清明上河园(东北角)",
+      "city": "开封市",
+      "cityCode": "0378",
+      "adcode": "410202",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0G07S3HBU"
+    }
+  },
+  "chimelong-safari": {
+    "destination": {
+      "id": "B00140UE15",
+      "name": "长隆野生动物世界P5停车场",
+      "location": [
+        113.324212,
+        22.998158
+      ],
+      "address": "汉溪大道东299号广州长隆旅游度假区P5号停车场",
+      "city": "广州市",
+      "cityCode": "020",
+      "adcode": "440113",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B00140UE15"
+    }
+  },
+  "wulingyuan": {
+    "destination": {
+      "id": "B0FFMDNEIU",
+      "name": "武陵源风景名胜区标志门大型停车场",
+      "location": [
+        110.537484,
+        29.350828
+      ],
+      "address": "军邸路九院十街",
+      "city": "张家界市",
+      "cityCode": "0744",
+      "adcode": "430811",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFMDNEIU"
+    }
+  },
+  "yangshuo": {
+    "destination": {
+      "id": "B0HDZC2DMW",
+      "name": "兴坪古镇码头停车场",
+      "location": [
+        110.532106,
+        24.917383
+      ],
+      "address": "兴坪镇新街146号兴坪古镇(东北角)",
+      "city": "桂林市",
+      "cityCode": "0773",
+      "adcode": "450321",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0HDZC2DMW"
+    }
+  },
+  "tianyahaijiao": {
+    "destination": {
+      "id": "B0FFG9V7XO",
+      "name": "天涯海角游览区2号停车场",
+      "location": [
+        109.3529,
+        18.294326
+      ],
+      "address": "天涯海角游览区正对面自驾停车场",
+      "city": "三亚市",
+      "cityCode": "0899",
+      "adcode": "460204",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFG9V7XO"
+    }
+  },
+  "huangguoshu": {
+    "destination": {
+      "id": "B0M24UH9FL",
+      "name": "黄果树风景名胜区-正门游客中心地上停车场",
+      "location": [
+        105.686325,
+        26.001925
+      ],
+      "address": "迎宾大道与格凸河路交叉口西北120米",
+      "city": "安顺市",
+      "cityCode": "0853",
+      "adcode": "520423",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0M24UH9FL"
+    },
+    "transitDestination": {
+      "id": "B0MU31Q7OZ",
+      "name": "黄果树景区第1游客中心",
+      "location": [
+        105.68215727588091,
+        26.01434216689839
+      ],
+      "address": "迎宾大道与贵黄公路交叉口东160米",
+      "city": "安顺市",
+      "cityCode": "0853",
+      "adcode": "520423",
+      "typecode": "070201",
+      "sourceUrl": "https://ditu.amap.com/place/B0MU31Q7OZ"
+    }
+  },
+  "huashan": {
+    "destination": {
+      "id": "B0FFFHVS66",
+      "name": "华山风景名胜区游客中心停车场",
+      "location": [
+        110.09623,
+        34.540755
+      ],
+      "address": "310国道南100米",
+      "city": "渭南市",
+      "cityCode": "0913",
+      "adcode": "610582",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFFHVS66"
+    }
+  },
+  "qinghai-lake": {
+    "destination": {
+      "id": "B0GR191S9N",
+      "name": "青海湖二郎剑景区停车场",
+      "location": [
+        100.495084,
+        36.577804
+      ],
+      "address": "109国道151号青海湖二郎剑景区内(西侧)",
+      "city": "海南藏族自治州",
+      "cityCode": "0974",
+      "adcode": "632521",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0GR191S9N"
+    }
+  },
+  "kanas": {
+    "destination": {
+      "id": "B038A0058H",
+      "name": "喀纳斯景区贾登峪门票站北停车场",
+      "location": [
+        87.135532,
+        48.506277
+      ],
+      "address": "环城南西路3号232省道新疆·喀纳斯国家地质公园",
+      "city": "阿勒泰地区",
+      "cityCode": "0906",
+      "adcode": "654321",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B038A0058H"
+    }
+  },
+  "sun-moon-lake": {
+    "destination": {
+      "id": "B0L021R18S",
+      "name": "向山游客中心",
+      "location": [
+        120.905875,
+        23.849253
+      ],
+      "address": "555台湾南投县鱼池乡水社村中山路599号",
+      "city": "南投县",
+      "cityCode": "2942",
+      "adcode": "710902",
+      "typecode": "070201",
+      "sourceUrl": "https://ditu.amap.com/place/B0L021R18S"
+    },
+    "transitDestination": {
+      "id": "BV09489911",
+      "name": "向山行政中心(公交站)",
+      "location": [
+        120.904903,
+        23.849794
+      ],
+      "address": "6289;6289A;6668;6668B经暨大附中;6670F台湾好行延驶向山行政中心;6671台湾好行车埕线;6739台湾好行日月潭阿里山线;6801台湾好行日月潭溪头线",
+      "city": "南投县",
+      "cityCode": "2942",
+      "adcode": "710902",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09489911"
+    }
+  },
+  "wulong": {
+    "destination": {
+      "id": "B0K2BU9L6P",
+      "name": "武隆喀斯特旅游区游客中心地面停车场(入口)",
+      "location": [
+        107.76678384,
+        29.41744663
+      ],
+      "address": "武隆喀斯特旅游区游客中心停车场",
+      "city": "重庆市",
+      "cityCode": "023",
+      "adcode": "500156",
+      "typecode": "150907",
+      "sourceUrl": "https://ditu.amap.com/place/B0K2BU9L6P"
+    }
+  },
+  "detian": {
+    "destination": {
+      "id": "B0HGBHPEQI",
+      "name": "德天跨国瀑布景区游客中心停车场(入口)",
+      "location": [
+        106.79636514,
+        22.82016368
+      ],
+      "address": "德天跨国瀑布景区游客中心停车场",
+      "city": "崇左市",
+      "cityCode": "1771",
+      "adcode": "451424",
+      "typecode": "150907",
+      "sourceUrl": "https://ditu.amap.com/place/B0HGBHPEQI"
+    },
+    "transitDestination": {
+      "id": "BV09470313",
+      "name": "大新德天游客中心(公交站)",
+      "location": [
+        106.797022,
+        22.820044
+      ],
+      "address": "崇左高铁站至德天瀑布;德天瀑布至崇左高铁站",
+      "city": "崇左市",
+      "cityCode": "1771",
+      "adcode": "451424",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09470313"
+    }
+  },
+  "alishan": {
+    "transitDestination": {
+      "id": "BV09488390",
+      "name": "阿里山转运站(公交站)",
+      "location": [
+        120.805184,
+        23.50568
+      ],
+      "address": "6739台湾好行日月潭阿里山线;7322;7322A绕驶奋起湖;7322C台湾好行阿里山B线;7322D台湾好行阿里山B线经奋起湖;7329A台湾好行阿里山A线经奋起湖;7329台湾好行阿里山A线",
+      "city": "嘉义县",
+      "cityCode": "2960",
+      "adcode": "711905",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09488390"
+    }
+  },
+  "national-museum-china": {
+    "transitDestination": {
+      "id": "BV10006499",
+      "name": "天安门东(地铁站)",
+      "location": [
+        116.401216,
+        39.90778
+      ],
+      "address": "1号线/八通线",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110101",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10006499"
+    }
+  },
+  "prince-kung": {
+    "transitDestination": {
+      "id": "BV10013508",
+      "name": "北海北(地铁站)",
+      "location": [
+        116.386829,
+        39.933247
+      ],
+      "address": "6号线",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110102",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10013508"
+    }
+  },
+  "shaanxi-history-museum": {
+    "destination": {
+      "id": "B0FFHSIN65",
+      "name": "陕西历史博物馆停车场",
+      "location": [
+        108.953711,
+        34.223389
+      ],
+      "address": "小寨东路91号陕西历史博物馆内",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610113",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFHSIN65"
+    },
+    "transitDestination": {
+      "id": "BV11045319",
+      "name": "陕西历史博物馆(公交站)",
+      "location": [
+        108.957496,
+        34.222886
+      ],
+      "address": "19路;24路;26路;271路;27路;30路/K30路;34路;400路;401路;521路;527路;527路(7点-9点半);5路;华旅观光巴士兵马俑线-南稍门陕历博线;华旅观光巴士兵马俑线-小寨大雁塔线;西安观光巴士-市中心至大唐不夜城观光环线",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610113",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV11045319"
+    }
+  },
+  "xian-city-wall": {
+    "destination": {
+      "id": "B0FFKIRCKI",
+      "name": "西安城墙永宁门地下停车场",
+      "location": [
+        108.946065,
+        34.248374
+      ],
+      "address": "永宁门地铁站A2西北口步行170米",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610103",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFKIRCKI"
+    },
+    "transitDestination": {
+      "id": "BV10073376",
+      "name": "永宁门(地铁站)",
+      "location": [
+        108.946952,
+        34.248186
+      ],
+      "address": "2号线",
+      "city": "西安市",
+      "cityCode": "029",
+      "adcode": "610103",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10073376"
+    }
+  },
+  "yinxu": {
+    "destination": {
+      "id": "B0HR4AYD4U",
+      "name": "殷墟宫殿宗庙遗址南停车场",
+      "location": [
+        114.326657,
+        36.115035
+      ],
+      "address": "纱厂路南玉兰园",
+      "city": "安阳市",
+      "cityCode": "0372",
+      "adcode": "410505",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0HR4AYD4U"
+    },
+    "transitDestination": {
+      "id": "BV09565199",
+      "name": "殷墟宫殿宗庙遗址(公交站)",
+      "location": [
+        114.324982,
+        36.119568
+      ],
+      "address": "殷墟直通车",
+      "city": "安阳市",
+      "cityCode": "0372",
+      "adcode": "410505",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV09565199"
+    }
+  },
+  "huangling": {
+    "destination": {
+      "id": "B0H657NQEF",
+      "name": "婺源篁岭景区出入口地面停车场",
+      "location": [
+        118.121775,
+        29.33335
+      ],
+      "address": "婺源篁岭景区内A索道停车场",
+      "city": "上饶市",
+      "cityCode": "0793",
+      "adcode": "361130",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0H657NQEF"
+    },
+    "transitDestination": {
+      "id": "B0FFFOOI0N",
+      "name": "婺源篁岭景区古村索道游客中心",
+      "location": [
+        118.121521,
+        29.333136
+      ],
+      "address": "婺源篁岭景区内(北侧)",
+      "city": "上饶市",
+      "cityCode": "0793",
+      "adcode": "361130",
+      "typecode": "070201",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFFOOI0N"
+    }
+  },
+  "china-science-museum": {
+    "transitDestination": {
+      "id": "BV10001021",
+      "name": "洼里南口(公交站)",
+      "location": [
+        116.394957,
+        40.002426
+      ],
+      "address": "311路;319路;379路;450路;466路;484路;695路",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110105",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV10001021"
+    }
+  },
+  "hubei-museum": {
+    "destination": {
+      "id": "B0IGSZ3SDI",
+      "name": "湖北省博物馆停车场",
+      "location": [
+        114.365369,
+        30.559677
+      ],
+      "address": "东湖路160号湖北省博物馆",
+      "city": "武汉市",
+      "cityCode": "027",
+      "adcode": "420106",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0IGSZ3SDI"
+    },
+    "transitDestination": {
+      "id": "BV11475178",
+      "name": "省博湖北日报(地铁站)",
+      "location": [
+        114.365349,
+        30.564854
+      ],
+      "address": "8号线",
+      "city": "武汉市",
+      "cityCode": "027",
+      "adcode": "420106",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV11475178"
+    }
+  },
+  "hunan-museum": {
+    "transitDestination": {
+      "id": "BV10854316",
+      "name": "湘雅医院(地铁站)",
+      "location": [
+        112.987988,
+        28.21348
+      ],
+      "address": "6号线",
+      "city": "长沙市",
+      "cityCode": "0731",
+      "adcode": "430105",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10854316"
+    }
+  },
+  "shanghai-museum-east": {
+    "transitDestination": {
+      "id": "BV10031164",
+      "name": "上海科技馆(地铁站)",
+      "location": [
+        121.544439,
+        31.21882
+      ],
+      "address": "2号线",
+      "city": "上海市",
+      "cityCode": "021",
+      "adcode": "310115",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10031164"
+    }
+  },
+  "nanjing-massacre-memorial": {
+    "destination": {
+      "id": "B0FFH68Z68",
+      "name": "侵华日军南京大屠杀遇难同胞纪念馆地下停车场",
+      "location": [
+        118.73995689,
+        32.03674801
+      ],
+      "address": "水西门大街418号侵华日军南京大屠杀遇难同胞纪念馆(西北角)",
+      "city": "南京市",
+      "cityCode": "025",
+      "adcode": "320105",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFH68Z68"
+    },
+    "transitDestination": {
+      "id": "BV10056536",
+      "name": "云锦路(地铁站)",
+      "location": [
+        118.747323,
+        32.034912
+      ],
+      "address": "2号线",
+      "city": "南京市",
+      "cityCode": "025",
+      "adcode": "320105",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10056536"
+    }
+  },
+  "birds-nest": {
+    "destination": {
+      "id": "B0JA2ZAZ33",
+      "name": "国家体育场地下停车场",
+      "location": [
+        116.394467,
+        39.995055
+      ],
+      "address": "国家体育场",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110105",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0JA2ZAZ33"
+    },
+    "transitDestination": {
+      "id": "BV10013375",
+      "name": "奥林匹克公园(地铁站)",
+      "location": [
+        116.391758,
+        40.002207
+      ],
+      "address": "15号线;8号线",
+      "city": "北京市",
+      "cityCode": "010",
+      "adcode": "110105",
+      "typecode": "150500",
+      "sourceUrl": "https://ditu.amap.com/place/BV10013375"
+    }
+  },
+  "hukou-falls": {
+    "destination": {
+      "id": "B0FFL433FM",
+      "name": "陕西黄河壶口瀑布旅游区游客中心停车场",
+      "location": [
+        110.46701,
+        36.072067
+      ],
+      "address": "壶口镇延壶路(309国道)陕西黄河壶口瀑布旅游区内(西侧)",
+      "city": "延安市",
+      "cityCode": "0911",
+      "adcode": "610630",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFL433FM"
+    },
+    "transitDestination": {
+      "id": "B0FFL3U29P",
+      "name": "陕西黄河壶口瀑布旅游区游客中心",
+      "location": [
+        110.467071,
+        36.070945
+      ],
+      "address": "壶口地质博物馆(309国道西)",
+      "city": "延安市",
+      "cityCode": "0911",
+      "adcode": "610630",
+      "typecode": "070201",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFL3U29P"
+    }
+  },
+  "qutang-kuimen": {
+    "destination": {
+      "id": "B0H64ZGWA6",
+      "name": "白帝城·瞿塘峡景区正门停车场",
+      "location": [
+        109.572283,
+        31.046934
+      ],
+      "address": "白帝城·瞿塘峡景区",
+      "city": "重庆市",
+      "cityCode": "023",
+      "adcode": "500236",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0H64ZGWA6"
+    }
+  },
+  "erhai": {
+    "destination": {
+      "id": "B0HRD7XQQP",
+      "name": "小普陀停车点",
+      "location": [
+        100.223555,
+        25.806237
+      ],
+      "address": "海印村156号小普陀",
+      "city": "大理白族自治州",
+      "cityCode": "0872",
+      "adcode": "532901",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0HRD7XQQP"
+    }
+  },
+  "fast-observatory": {
+    "destination": {
+      "id": "B0FFHQKDZ9",
+      "name": "中国天眼景区游客中心西停车场",
+      "location": [
+        106.890486,
+        25.698695
+      ],
+      "address": "神州路500米口径球面射电望远镜(FAST)",
+      "city": "黔南布依族苗族自治州",
+      "cityCode": "0854",
+      "adcode": "522727",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFHQKDZ9"
+    },
+    "transitDestination": {
+      "id": "B0H2NCFMQW",
+      "name": "中国天眼景区游客中心",
+      "location": [
+        106.897643,
+        25.695376
+      ],
+      "address": "克度镇航龙村312中国天眼景区",
+      "city": "黔南布依族苗族自治州",
+      "cityCode": "0854",
+      "adcode": "522727",
+      "typecode": "070201",
+      "sourceUrl": "https://ditu.amap.com/place/B0H2NCFMQW"
+    }
+  },
+  "chimelong-ocean-kingdom": {
+    "destination": {
+      "id": "B0FFJAMZV6",
+      "name": "珠海长隆度假区1号停车场",
+      "location": [
+        113.540704,
+        22.101331
+      ],
+      "address": "横琴新区企鹅酒店旁",
+      "city": "珠海市",
+      "cityCode": "0756",
+      "adcode": "440402",
+      "typecode": "150904",
+      "sourceUrl": "https://ditu.amap.com/place/B0FFJAMZV6"
+    },
+    "transitDestination": {
+      "id": "BV11432258",
+      "name": "长隆海洋王国(公交站)",
+      "location": [
+        113.536054,
+        22.101428
+      ],
+      "address": "(停运)好玩横琴公交旅游巴士",
+      "city": "珠海市",
+      "cityCode": "0756",
+      "adcode": "440402",
+      "typecode": "150700",
+      "sourceUrl": "https://ditu.amap.com/place/BV11432258"
+    }
+  }
+}

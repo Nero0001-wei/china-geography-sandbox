@@ -1,0 +1,28 @@
+{
+  "id": "chimelong-safari",
+  "name": "广州长隆野生动物世界",
+  "file": "chimelong-safari.glb",
+  "version": "national-v1",
+  "source": "https://www.chimelong.com/gz/safaripark/exhibition/",
+  "sourceCopy": "data/landmarks/chimelong-safari/source.blend",
+  "sourceSha256": "31703b0a1670a5483554aed94f199fade2e8cffeb245ec5351122c80828e4109",
+  "triangles": 5044,
+  "bytes": 467064,
+  "sha256": "f663843de0ec15eaf04519a4213f0d7f761b6ab240b633839947463ec029c3ef",
+  "materials": 15,
+  "embeddedImages": 14,
+  "sourceTriangles": 5044,
+  "bounds": {
+    "min": [
+      -5.400000095367432,
+      0,
+      -4.050000190734863
+    ],
+    "max": [
+      5.400000095367432,
+      2.9495420455932617,
+      4.050000190734863
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

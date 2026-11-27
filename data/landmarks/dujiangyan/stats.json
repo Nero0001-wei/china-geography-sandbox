@@ -1,0 +1,28 @@
+{
+  "id": "dujiangyan",
+  "name": "都江堰",
+  "file": "dujiangyan.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/1001/",
+  "sourceCopy": "data/landmarks/dujiangyan/source.blend",
+  "sourceSha256": "15f891bdbef864f5ec311baad7b3c4413f7e67c38787cdf31496467c48efa888",
+  "triangles": 4068,
+  "bytes": 363276,
+  "sha256": "7d41647eb622231cc9a023e781bfb35c843b06e58a63792ecec682093b9cfda0",
+  "materials": 12,
+  "embeddedImages": 11,
+  "sourceTriangles": 4068,
+  "bounds": {
+    "min": [
+      -5.449999809265137,
+      0,
+      -4.099999904632568
+    ],
+    "max": [
+      5.449999809265137,
+      1.669600009918213,
+      4.099999904632568
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

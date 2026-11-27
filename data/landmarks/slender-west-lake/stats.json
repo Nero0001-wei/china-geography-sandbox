@@ -1,0 +1,28 @@
+{
+  "id": "slender-west-lake",
+  "name": "扬州瘦西湖",
+  "file": "slender-west-lake.glb",
+  "version": "national-v1",
+  "source": "https://www.jsrd.gov.cn/qwfb/d_sjfg/202512/t20251229_1191953.shtml",
+  "sourceCopy": "data/landmarks/slender-west-lake/source.blend",
+  "sourceSha256": "a27d76d256c7d021815f30cdb4508c9168c784acb14102378753caa16312c39e",
+  "triangles": 4866,
+  "bytes": 394228,
+  "sha256": "57934c8e877d7685f65e369e5615ce5a6d7af9733857c7858896af7b0e20043b",
+  "materials": 13,
+  "embeddedImages": 11,
+  "sourceTriangles": 4866,
+  "bounds": {
+    "min": [
+      -5.400000095367432,
+      0,
+      -3.4000000953674316
+    ],
+    "max": [
+      5.400000095367432,
+      3.653820037841797,
+      3.4000000953674316
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

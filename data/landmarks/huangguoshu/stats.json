@@ -1,0 +1,28 @@
+{
+  "id": "huangguoshu",
+  "name": "黄果树瀑布",
+  "file": "huangguoshu.glb",
+  "version": "national-v1",
+  "source": "https://www.eco.gov.cn/news_info/40420.html",
+  "sourceCopy": "data/landmarks/huangguoshu/source.blend",
+  "sourceSha256": "71c9d80e6b545257b06883c37bee6d99bac1e4fbce22147db7284cef29426ebe",
+  "triangles": 5834,
+  "bytes": 667372,
+  "sha256": "96af552a823e5f13bce385e8ad7274a7ca96ed2ebecf3c4105c3b09feadfba6b",
+  "materials": 15,
+  "embeddedImages": 5,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      2.48028302192688,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 5834
+}

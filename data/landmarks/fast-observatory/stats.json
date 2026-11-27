@@ -1,0 +1,28 @@
+{
+  "id": "fast-observatory",
+  "name": "中国天眼",
+  "file": "fast-observatory.glb",
+  "version": "national-v1",
+  "source": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/gz/202205/t20220509_932857.html",
+  "sourceCopy": "data/landmarks/fast-observatory/source.blend",
+  "sourceSha256": "c79bf646e9097a39862fd576a965a8f0a75a1bb201877be8e0760d1831289f68",
+  "triangles": 7690,
+  "bytes": 773492,
+  "sha256": "b6d851fe4184c114b6412e1c3e5b9d970b3ee48aa1b20174d97b317c4cc3b12e",
+  "materials": 16,
+  "embeddedImages": 3,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      3.111772298812866,
+      2.1918320655822754
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 10732
+}

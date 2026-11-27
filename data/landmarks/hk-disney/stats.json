@@ -1,0 +1,28 @@
+{
+  "id": "hk-disney",
+  "name": "香港迪士尼乐园",
+  "file": "hk-disney.glb",
+  "version": "national-v1",
+  "source": "https://www.hongkongdisneyland.com/zh-hk/attractions/castle-magical-dreams/",
+  "sourceCopy": "data/landmarks/hk-disney/source.blend",
+  "sourceSha256": "e6fd588d5998130c1176c0a8072ab826e2c3e51e212c5822726feb8da702bf84",
+  "triangles": 5158,
+  "bytes": 568768,
+  "sha256": "b6e29887fe29dcc2499b4f20b3750523f9a9d88bb96b0bc0fcc32e04f4b5ac3c",
+  "materials": 9,
+  "embeddedImages": 9,
+  "bounds": {
+    "min": [
+      -4.349999904632568,
+      0,
+      -2.559999942779541
+    ],
+    "max": [
+      4.349999904632568,
+      6.642499923706055,
+      2.559999942779541
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 5158
+}

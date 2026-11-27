@@ -1,0 +1,28 @@
+{
+  "id": "western-xia",
+  "name": "西夏陵",
+  "file": "western-xia.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/zh/list/1736",
+  "sourceCopy": "data/landmarks/western-xia/source.blend",
+  "sourceSha256": "092ff32b8fa0dc864da6bfdfd8946f552a15a18d088f94e828d3371f6b5d4ba6",
+  "triangles": 1960,
+  "bytes": 220536,
+  "sha256": "828f314df920d2258317ed61a3911b2fa6272a779fd63ed089bdabf45df6139f",
+  "materials": 3,
+  "embeddedImages": 3,
+  "bounds": {
+    "min": [
+      -5.175000190734863,
+      0,
+      -4.519999980926514
+    ],
+    "max": [
+      5.175000190734863,
+      4.549112796783447,
+      4.519999980926514
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 1960
+}

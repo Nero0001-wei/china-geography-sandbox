@@ -1,0 +1,24 @@
+{
+  "id": "st-pauls",
+  "name": "澳门大三巴牌坊",
+  "province": "澳门特别行政区",
+  "city": "澳门",
+  "anchorSource": "https://www.openstreetmap.org/way/192183185",
+  "frontBearing": 179.1,
+  "groundSpanMeters": 23,
+  "description": "保留石质立面的五层山花、贯通门洞、窗洞与面向前地的石阶。",
+  "driveQuery": "栢港停车场",
+  "transitQuery": "白鸽巢总站",
+  "visualSource": "https://www.wh.mo/gb/site/detail/18",
+  "anchorMethod": "OpenStreetMap 大三巴现存立面地物轮廓的面积质心。",
+  "frontNote": "按澳门文化局南立面实测图，以及 OSM 牌坊两条约 89.1° 的长边，取向南法线。",
+  "period": "17世纪教堂大火后留存的花岗岩立面",
+  "anchor": [
+    113.5408602,
+    22.1974569
+  ],
+  "anchorCrs": "WGS84",
+  "orientationSource": "https://www.wh.mo/upload/mhImage/arc/18/20231122/164601-1.jpg",
+  "type": "heritage",
+  "tier": "national"
+}

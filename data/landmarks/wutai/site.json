@@ -1,0 +1,23 @@
+{
+  "id": "wutai",
+  "name": "五台山",
+  "province": "山西省",
+  "city": "忻州市",
+  "anchor": [
+    113.5896332,
+    39.0076904
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/544501464",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 176,
+  "groundSpanMeters": 90,
+  "description": "塔院寺白塔的圆鼓塔身托起金色宝顶，院中点缀灰瓦红墙。",
+  "visualSource": "https://whc.unesco.org/en/list/1279/",
+  "reference": "https://whc.unesco.org/en/list/1279/",
+  "period": "取台怀镇塔院寺现状的白色覆钵塔及塔院一隅。",
+  "subject": "塔院寺与大白塔",
+  "frontNote": "取从塔院南侧殿前看塔的方向。",
+  "type": "heritage",
+  "tier": "national"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "wuzhen",
+  "name": "乌镇",
+  "file": "wuzhen.glb",
+  "version": "national-v1",
+  "source": "https://www.cac.gov.cn/2014-11/18/c_1113942742.htm",
+  "sourceCopy": "data/landmarks/wuzhen/source.blend",
+  "sourceSha256": "29ffa31bb7b41d907293f57d48743e8ca9c3c10ca64fe0569f968eb44d772243",
+  "triangles": 4956,
+  "bytes": 542116,
+  "sha256": "d31d617fdda8cec9562544f220839adf5b336708123e7263a1b58a77a1efc134",
+  "materials": 8,
+  "embeddedImages": 8,
+  "bounds": {
+    "min": [
+      -6.550000190734863,
+      0,
+      -3.825000047683716
+    ],
+    "max": [
+      6.550000190734863,
+      2.679861068725586,
+      3.825000047683716
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 4956
+}

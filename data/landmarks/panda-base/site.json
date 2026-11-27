@@ -1,0 +1,29 @@
+{
+  "id": "panda-base",
+  "name": "成都大熊猫繁育研究基地",
+  "province": "四川省",
+  "city": "成都市",
+  "anchor": [
+    104.1369981,
+    30.7418672
+  ],
+  "anchorSource": "https://www.openstreetmap.org/node/11994568342",
+  "frontBearing": 180,
+  "groundSpanMeters": 20,
+  "description": "以月亮产房区域代表性户外栖息场为取景，一只黑白大熊猫在木架和竹丛旁活动。",
+  "driveQuery": "成都大熊猫繁育研究基地南大门停车场",
+  "transitQuery": "熊猫基地南门公交站",
+  "anchorCrs": "WGS84",
+  "reference": "https://m.panda.org.cn/cn/service/sightseeingbus/",
+  "versionNotes": "取现状月亮产房区域。模型表现开放式栖息场；个体与木架位置作微缩概括，展示面朝南。",
+  "osmFeature": "大熊猫月亮产房",
+  "amapPoi": "B0FFFGYHSJ",
+  "gcj02Feature": [
+    104.139472,
+    30.739506
+  ],
+  "crossCheck": "https://ditu.amap.com/place/B0FFFGYHSJ",
+  "crossCheckMeters": 5.4,
+  "type": "theme-park",
+  "tier": "national"
+}

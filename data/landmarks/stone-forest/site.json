@@ -1,0 +1,22 @@
+{
+  "id": "stone-forest",
+  "name": "昆明石林·阿诗玛",
+  "province": "云南省",
+  "city": "昆明市",
+  "type": "nature",
+  "tier": "regional",
+  "anchor": [
+    103.3274966,
+    24.8201062
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/12241708494",
+  "anchorFeature": "小石林阿诗玛",
+  "anchorMethod": "OpenStreetMap “小石林阿诗玛”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 182,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 110,
+  "description": "在小石林的灰色剑峰中突出阿诗玛石峰略向前倾的轮廓。",
+  "visualSource": "https://zhuanti.mct.gov.cn/xcszbwg2022/yunnan/detail/1993.html",
+  "period": "现状景观局部的微缩示意"
+}

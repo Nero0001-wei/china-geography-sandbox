@@ -1,0 +1,24 @@
+{
+  "id": "tang-paradise",
+  "name": "大唐芙蓉园",
+  "province": "陕西省",
+  "city": "西安市",
+  "anchorSource": "https://www.amap.com/place/B001D0Z5D3",
+  "frontBearing": 0,
+  "groundSpanMeters": 92,
+  "description": "紫云楼立在朱褐色高台上，灰瓦重檐与朱柱构成临湖楼阁的剪影。",
+  "driveQuery": "大唐芙蓉园西门停车场",
+  "transitQuery": "大唐芙蓉园地铁站",
+  "visualSource": "https://nwin.cscec.com/xwzx/qydt/202305/3671538.html",
+  "anchorMethod": "高德「大唐芙蓉园-紫云楼」主体 POI，GCJ-02（108.973888, 34.212819）按项目迭代逆算为 WGS84；非测绘成果。",
+  "frontNote": "取北侧临芙蓉湖的展示正面。园区规划图所示主轴南北向，南侧元功门—紫云楼—北侧湖面相接。",
+  "period": "现状仿唐建筑，以2023年改扩建后公开照片为参考",
+  "anchor": [
+    108.9691462,
+    34.2143631
+  ],
+  "anchorCrs": "WGS84",
+  "orientationSource": "https://www.nith.edu.cn/__local/D/26/50/AEA45F963E93C94EFC72D145DDC_430CB94B_148A9EC.pdf",
+  "type": "theme-park",
+  "tier": "regional"
+}

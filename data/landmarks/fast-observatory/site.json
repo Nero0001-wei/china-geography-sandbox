@@ -1,0 +1,22 @@
+{
+  "id": "fast-observatory",
+  "name": "中国天眼",
+  "province": "贵州省",
+  "city": "黔南布依族苗族自治州",
+  "type": "urban",
+  "tier": "national",
+  "anchor": [
+    106.856567,
+    25.6528526
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/384699313",
+  "anchorFeature": "贵州平塘大窝凼球面天线",
+  "anchorMethod": "取 OpenStreetMap 五百米口径球面射电望远镜轮廓的代表点，用作地理展示。",
+  "frontBearing": 309,
+  "frontNote": "局部正面指向西北的公开观景方向。",
+  "groundSpanMeters": 680,
+  "description": "贵州平塘大窝凼公开科普景观，山地洼处嵌着球面反射盘，周边塔架托起中央馈源舱。",
+  "visualSource": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/gz/202205/t20220509_932857.html",
+  "period": "公开科普视角的现状外观"
+}

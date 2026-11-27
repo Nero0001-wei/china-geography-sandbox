@@ -1,0 +1,28 @@
+{
+  "id": "huangshan",
+  "name": "黄山迎客松",
+  "file": "huangshan.glb",
+  "version": "national-v1",
+  "source": "黄山市政府迎客松资料与玉屏实景，原创 Blender 程序建模",
+  "sourceCopy": "data/landmarks/huangshan/source.blend",
+  "sourceTriangles": 12612,
+  "sourceSha256": "c4de898c7a3576bb5197f19b12969d0379366e2f60e066cf0e957a5bdbd8b10c",
+  "triangles": 7675,
+  "bytes": 1137740,
+  "sha256": "5eed78c4d6467f35d92380bd67ad7294d7968f4931145d0c1aefb9c068fc0efe",
+  "materials": 5,
+  "embeddedImages": 4,
+  "bounds": {
+    "min": [
+      -2.1821205615997314,
+      0,
+      -2.036151170730591
+    ],
+    "max": [
+      4.276865482330322,
+      5.583150386810303,
+      2.0176119804382324
+    ]
+  },
+  "coordinateConvention": "glTF Y-up, +Z front, trunk-ground projection at X=Z=0, stone base Y=0, primary bough points mainly +X"
+}

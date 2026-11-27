@@ -1,0 +1,28 @@
+{
+  "id": "shaolin",
+  "name": "少林寺",
+  "file": "shaolin.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/1305/",
+  "sourceCopy": "data/landmarks/shaolin/source.blend",
+  "sourceSha256": "3ccd2644812fbb059742719671073d40c7665f4242caf54db831cdb5f2afaa89",
+  "triangles": 1790,
+  "bytes": 472112,
+  "sha256": "e3bd0efe529dc3aabbf8f2d865e9ad383fc50523b85b0014d78d305e02dc94b7",
+  "materials": 13,
+  "embeddedImages": 13,
+  "bounds": {
+    "min": [
+      -5.369999885559082,
+      0,
+      -3.2249999046325684
+    ],
+    "max": [
+      5.369999885559082,
+      4.381960868835449,
+      3.2249999046325684
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 1790
+}

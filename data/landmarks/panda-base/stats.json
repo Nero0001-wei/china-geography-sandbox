@@ -1,0 +1,28 @@
+{
+  "id": "panda-base",
+  "name": "成都大熊猫繁育研究基地",
+  "version": "national-v1",
+  "file": "panda-base.glb",
+  "source": "https://m.panda.org.cn/cn/service/sightseeingbus/",
+  "sourceCopy": "data/landmarks/panda-base/source.blend",
+  "sourceTriangles": 7710,
+  "sourceSha256": "89aaba3647ee86fbc881f326ba10716b48cff74ba5193d171c8f9a7574749f08",
+  "triangles": 7710,
+  "bytes": 367584,
+  "sha256": "fdede4acbf84727aff3f5e56157bb9cd573e71bfd09329eebb4f94282bbab005",
+  "materials": 9,
+  "embeddedImages": 9,
+  "bounds": {
+    "min": [
+      -3.112945556640625,
+      0,
+      -2.0626766681671143
+    ],
+    "max": [
+      3.1459686756134033,
+      2.4171085357666016,
+      2.032496452331543
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+}

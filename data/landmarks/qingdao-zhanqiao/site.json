@@ -1,0 +1,19 @@
+{
+  "id": "qingdao-zhanqiao",
+  "name": "青岛栈桥",
+  "province": "山东省",
+  "city": "青岛市",
+  "anchor": [
+    120.314269,
+    36.061665
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/1474305748",
+  "anchorCrs": "WGS84",
+  "frontBearing": 165,
+  "groundSpanMeters": 440,
+  "description": "栈桥从青岛湾的岸边笔直延向海中，桥端是八角重檐回澜阁。",
+  "type": "urban",
+  "tier": "regional",
+  "visualSource": "https://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml",
+  "siteNotes": "以 OpenStreetMap 栈桥轮廓北侧的桥头作为展示锚点。回澜阁位于同一路径南端（120.3153814, 36.058288）。保留入海直堤、堤侧栏杆和回澜阁黄瓦八角重檐。模型正面朝青岛湾，岸端沿局部 +Y。"
+}

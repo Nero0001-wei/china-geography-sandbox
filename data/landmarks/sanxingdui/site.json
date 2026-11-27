@@ -1,0 +1,19 @@
+{
+  "id": "sanxingdui",
+  "name": "三星堆博物馆",
+  "province": "四川省",
+  "city": "德阳市",
+  "anchor": [
+    104.2162196,
+    31.0038145
+  ],
+  "anchorSource": "https://ditu.amap.com/place/B034600ZUS",
+  "anchorCrs": "WGS84",
+  "frontBearing": 215,
+  "groundSpanMeters": 280,
+  "description": "三星堆博物馆新馆由几座倾斜堆体组成，覆土坡面与带铜色的折线立面相接。",
+  "type": "museum",
+  "tier": "national",
+  "visualSource": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/sc/202308/t20230801_946332.html",
+  "siteNotes": "主体附近的高德 POI（GCJ-02 104.218621, 31.001439）通过项目迭代转换为 WGS84。模型取 2023 年开放的新馆，保留连续堆体和青铜色细分立面。前庭纹样是缩尺识别标志。"
+}

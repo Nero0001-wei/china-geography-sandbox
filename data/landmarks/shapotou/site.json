@@ -1,0 +1,22 @@
+{
+  "id": "shapotou",
+  "name": "沙坡头",
+  "province": "宁夏回族自治区",
+  "city": "中卫市",
+  "type": "nature",
+  "tier": "regional",
+  "anchor": [
+    104.9954087,
+    37.4659276
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/relation/9075585",
+  "anchorFeature": "沙坡头黄河旅游区",
+  "anchorMethod": "OpenStreetMap “沙坡头黄河旅游区”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 180,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 480,
+  "description": "腾格里沙坡在黄河弯道前陡然收住，水面保留羊皮筏。",
+  "visualSource": "https://www.forestry.gov.cn/c/www/hmgzdt/524437.jhtml",
+  "period": "现状景观局部的微缩示意"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "putuo",
+  "name": "普陀山·普济禅寺",
+  "province": "浙江省",
+  "city": "舟山市",
+  "anchor": [
+    122.3824314,
+    29.9877688
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/4519392716",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 176,
+  "groundSpanMeters": 96,
+  "description": "普济寺的红柱黄瓦殿宇临海印池，池上有可透水的石拱桥。",
+  "visualSource": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2476/site/attach/0/3zyz-1-1/%E8%88%9F%E5%B1%B1%E5%B8%82%E4%BA%A4%E9%80%9A%E5%BF%97.pdf",
+  "reference": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2476/site/attach/0/3zyz-1-1/%E8%88%9F%E5%B1%B1%E5%B8%82%E4%BA%A4%E9%80%9A%E5%BF%97.pdf",
+  "period": "参考普济寺现存寺院布局与殿前海印池。",
+  "subject": "普济寺海印池及前殿",
+  "frontNote": "展示面从海印池南岸朝向寺前建筑。",
+  "type": "heritage",
+  "tier": "regional"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "qufu",
+  "name": "曲阜孔庙",
+  "file": "qufu.glb",
+  "version": "national-v1",
+  "source": "https://qfwhjssfq.jining.gov.cn/art/2016/4/21/art_31772_1469949.html",
+  "sourceCopy": "data/landmarks/qufu/source.blend",
+  "sourceSha256": "e2cb43013e8d6233bf0c8c8b22a361e061508730018935fa06f5957b985b6ec7",
+  "triangles": 4068,
+  "bytes": 621872,
+  "sha256": "447926038951ae44e85fbb2a4cee53432cda237e7174a3c395bec53d2b8d1eff",
+  "materials": 13,
+  "embeddedImages": 13,
+  "bounds": {
+    "min": [
+      -6.175000190734863,
+      0,
+      -4.324999809265137
+    ],
+    "max": [
+      6.175000190734863,
+      4.387960910797119,
+      4.324999809265137
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 4068
+}

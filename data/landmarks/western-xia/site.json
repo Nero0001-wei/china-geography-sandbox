@@ -1,0 +1,23 @@
+{
+  "id": "western-xia",
+  "name": "西夏陵",
+  "province": "宁夏回族自治区",
+  "city": "银川市",
+  "anchor": [
+    105.986625,
+    38.43523
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/316192094",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 183,
+  "groundSpanMeters": 152,
+  "description": "贺兰山东麓的多层夯土陵塔与低矮陵园残墙由沙土色层次勾勒。",
+  "visualSource": "https://whc.unesco.org/zh/list/1736",
+  "reference": "https://whc.unesco.org/zh/list/1736",
+  "period": "取三号陵现存夯土陵塔和陵园残墙的一段。",
+  "subject": "三号陵园",
+  "frontNote": "从陵园南侧礼仪路径顺看陵塔。",
+  "type": "heritage",
+  "tier": "regional"
+}

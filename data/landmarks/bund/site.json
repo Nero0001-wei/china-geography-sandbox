@@ -1,0 +1,21 @@
+{
+  "id": "bund",
+  "name": "上海外滩",
+  "province": "上海市",
+  "city": "上海市",
+  "anchor": [
+    121.48543543,
+    31.23861504
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/178407318",
+  "anchorCrs": "WGS84",
+  "frontBearing": 105,
+  "groundSpanMeters": 150,
+  "description": "面向黄浦江的江海关钟楼与相邻原汇丰银行圆顶。",
+  "driveQuery": "外滩金融中心停车场",
+  "transitQuery": "南京东路地铁站",
+  "siteNotes": "以上海外滩 13 号 1927 年海关大楼为主体，南侧配原汇丰银行圆顶；两楼沿黄浦江北南排列，正立面对江。",
+  "reference": "https://whlyj.sh.gov.cn/zxta/20230721/42925f1923764d98bfa7198785e56512.html",
+  "type": "urban",
+  "tier": "national"
+}

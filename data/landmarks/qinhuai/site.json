@@ -1,0 +1,21 @@
+{
+  "id": "qinhuai",
+  "name": "夫子庙秦淮风光带",
+  "province": "江苏省",
+  "city": "南京市",
+  "anchor": [
+    118.78477532,
+    32.02144539
+  ],
+  "anchorSource": "https://ditu.amap.com/place/B00190BSEQ",
+  "anchorCrs": "WGS84",
+  "frontBearing": 326,
+  "groundSpanMeters": 109,
+  "description": "泮池岸边的大照壁、双龙浮雕与秦淮画舫。",
+  "driveQuery": "南京夫子庙停车场",
+  "transitQuery": "夫子庙地铁站",
+  "siteNotes": "照壁据现状，双龙照壁面向泮池和文庙；取高德「秦淮河-大成殿照壁」本体 location（GCJ-02 118.789974,32.019395），用项目的迭代函数反算 WGS84。",
+  "reference": "https://www.kmbhxh.cn/txwm/zg/2017-03-06/147.html",
+  "type": "town-garden",
+  "tier": "regional"
+}

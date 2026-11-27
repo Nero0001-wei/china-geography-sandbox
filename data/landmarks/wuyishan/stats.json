@@ -1,0 +1,28 @@
+{
+  "id": "wuyishan",
+  "name": "武夷山·九曲溪",
+  "file": "wuyishan.glb",
+  "version": "national-v1",
+  "source": "https://wysgjgy.fujian.gov.cn/yxgy/gyjg/201710/t20171025_5511573.htm",
+  "sourceCopy": "data/landmarks/wuyishan/source.blend",
+  "sourceSha256": "a20891a3279dee2807ce005ba00ae0a9fe63aaa8e739e3fa05bfb825a8a81f03",
+  "triangles": 5432,
+  "bytes": 545520,
+  "sha256": "e9683c171f7a121527c399af4bf4dfbfb85067d1819a54b7907568973ba40f66",
+  "materials": 14,
+  "embeddedImages": 3,
+  "bounds": {
+    "min": [
+      -3.233994960784912,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      2.5761189460754395,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 5432
+}

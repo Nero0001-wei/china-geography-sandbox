@@ -1,0 +1,28 @@
+{
+  "id": "detian",
+  "name": "德天跨国瀑布",
+  "file": "detian.glb",
+  "version": "national-v1",
+  "source": "https://eco.gov.cn/news_info/40720.html",
+  "sourceCopy": "data/landmarks/detian/source.blend",
+  "sourceSha256": "4fbffd18b1df3ce2f3a7b8f2ac567fb873526212acdad6dbb42a17fd0bc894db",
+  "triangles": 6046,
+  "bytes": 668852,
+  "sha256": "24e649d3937b9704c5318f5ce1340b956ab442acadb15cf7c9e0e9d41534a620",
+  "materials": 17,
+  "embeddedImages": 6,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      2.2552390098571777,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 6046
+}

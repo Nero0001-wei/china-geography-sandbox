@@ -1,0 +1,28 @@
+{
+  "id": "yinxu",
+  "name": "安阳殷墟",
+  "file": "yinxu.glb",
+  "version": "national-v1",
+  "source": "https://cpc.people.com.cn/GB/64176/64180/2527073.html",
+  "sourceCopy": "data/landmarks/yinxu/source.blend",
+  "sourceSha256": "30b95efea86533dc373c2c8efbe03480e5556090c38c7db684f772bc200491f8",
+  "triangles": 2456,
+  "bytes": 455052,
+  "sha256": "6b111dc91f8ee963a0e972d9ffff916f75a94dcc9a68107cfdaf9c37f6e63531",
+  "materials": 11,
+  "embeddedImages": 11,
+  "bounds": {
+    "min": [
+      -6.224999904632568,
+      0,
+      -4.574999809265137
+    ],
+    "max": [
+      6.224999904632568,
+      3.50763201713562,
+      4.574999809265137
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 2456
+}

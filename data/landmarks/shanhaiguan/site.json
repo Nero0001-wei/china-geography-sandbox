@@ -1,0 +1,23 @@
+{
+  "id": "shanhaiguan",
+  "name": "山海关",
+  "province": "河北省",
+  "city": "秦皇岛市",
+  "anchor": [
+    119.753707,
+    40.009374
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/414001373",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 90,
+  "groundSpanMeters": 68,
+  "description": "天下第一关门楼和灰砖城台连成一体，中央券口通向城内。",
+  "visualSource": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=34799",
+  "reference": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=34799",
+  "period": "取明长城山海关东门关楼及相连灰砖城墙。",
+  "subject": "天下第一关·镇东楼",
+  "frontNote": "按镇东楼关东侧城外视角朝东。",
+  "type": "heritage",
+  "tier": "regional"
+}

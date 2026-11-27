@@ -1,0 +1,28 @@
+{
+  "id": "haikou-arcades",
+  "name": "海口骑楼老街",
+  "file": "haikou-arcades.glb",
+  "version": "national-v1",
+  "source": "https://ggzy.haikou.gov.cn/gonggao/89849",
+  "sourceCopy": "data/landmarks/haikou-arcades/source.blend",
+  "sourceSha256": "69586fed3aeb6c0918c6a1fe322f590a2f35c4eb01ab3f57a3c5a256f75f0a4b",
+  "triangles": 2752,
+  "bytes": 257244,
+  "sha256": "b69a2cbc3e4dd117497b5066cc43e6ce5b54783c0e7268abd85cda90b1d7c4b9",
+  "materials": 11,
+  "embeddedImages": 10,
+  "sourceTriangles": 2752,
+  "bounds": {
+    "min": [
+      -5.5,
+      0,
+      -3.3499999046325684
+    ],
+    "max": [
+      5.5,
+      3.1176199913024902,
+      3.3499999046325684
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

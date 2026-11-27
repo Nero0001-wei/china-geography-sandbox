@@ -1,0 +1,29 @@
+{
+  "id": "yellow-crane",
+  "name": "黄鹤楼",
+  "province": "湖北省",
+  "city": "武汉市",
+  "anchor": [
+    114.297047,
+    30.547078
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/81641900",
+  "frontBearing": 260,
+  "groundSpanMeters": 32,
+  "description": "蛇山上的五层黄鹤楼，金色飞檐逐层收分，朱柱和回廊环绕塔身。",
+  "driveQuery": "黄鹤楼东门停车场",
+  "transitQuery": "司门口黄鹤楼地铁站",
+  "anchorCrs": "WGS84",
+  "reference": "https://english.wuhan.gov.cn/travel/tourist4attractions4an4incomplete4list/202110/t20211026_1819226.shtml",
+  "versionNotes": "取1985年重建主楼，展示面朝公园西侧轴线。",
+  "osmFeature": "黄鹤楼",
+  "amapPoi": "B001B0I4K0",
+  "gcj02Feature": [
+    114.302467,
+    30.544649
+  ],
+  "crossCheck": "https://ditu.amap.com/place/B001B0I4K0",
+  "crossCheckMeters": 1.6,
+  "type": "heritage",
+  "tier": "national"
+}

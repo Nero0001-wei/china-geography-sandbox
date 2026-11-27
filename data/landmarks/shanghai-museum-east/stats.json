@@ -1,0 +1,28 @@
+{
+  "id": "shanghai-museum-east",
+  "name": "上海博物馆东馆",
+  "file": "shanghai-museum-east.glb",
+  "version": "national-v1",
+  "source": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/I00004702",
+  "sourceCopy": "data/landmarks/shanghai-museum-east/source.blend",
+  "sourceSha256": "ac1c330c13a95a683b46bfc4a50e49e56f71bd6b10e2829e68ff7106cf87829d",
+  "triangles": 5910,
+  "bytes": 491684,
+  "sha256": "55d375279baa50959c0f36e77a47ddfb586057b7a270be414f16951d366fb381",
+  "materials": 17,
+  "embeddedImages": 13,
+  "sourceTriangles": 5910,
+  "bounds": {
+    "min": [
+      -5.949999809265137,
+      0,
+      -4.5
+    ],
+    "max": [
+      5.949999809265137,
+      4.21999979019165,
+      4.5
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

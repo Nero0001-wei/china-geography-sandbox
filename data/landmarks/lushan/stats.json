@@ -1,0 +1,28 @@
+{
+  "id": "lushan",
+  "name": "庐山·三叠泉",
+  "file": "lushan.glb",
+  "version": "national-v1",
+  "source": "https://www.lushan.gov.cn/bmxzxxgk/bumeng/whgdxwcbj/fdzdgknr_195359/lvyou/202512/t20251231_7134056.html",
+  "sourceCopy": "data/landmarks/lushan/source.blend",
+  "sourceSha256": "64ab36d665ff62c9c052661b154bd0bfcf8dec77526d8f945124de429933949c",
+  "triangles": 6978,
+  "bytes": 805304,
+  "sha256": "3bbe72dd53538dbd602d2dfebabe6dff7318335dcf6ded5097fa314d54f0a32a",
+  "materials": 16,
+  "embeddedImages": 6,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.1807830333709717
+    ],
+    "max": [
+      3.075000047683716,
+      3.054054021835327,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 6978
+}

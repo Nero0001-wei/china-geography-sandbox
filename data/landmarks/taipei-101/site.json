@@ -1,0 +1,23 @@
+{
+  "id": "taipei-101",
+  "name": "台北101",
+  "province": "台湾",
+  "city": "台北市",
+  "anchorSource": "https://www.openstreetmap.org/way/1159328965",
+  "frontBearing": 181.2,
+  "groundSpanMeters": 55,
+  "description": "采用青绿色玻璃叠竹节的八组塔身、收窄基座，以及顶部细长的塔冠和天线。",
+  "driveQuery": "台北101购物中心停车场",
+  "transitQuery": "台北101/世贸站",
+  "visualSource": "https://www.taipei-101.com.tw/en/corporate/story/content/b5eb46ce-8f1b-4f65-a0f4-11c3a54bb1ae",
+  "anchorMethod": "OpenStreetMap 层数为101的塔楼独立轮廓的面积质心，未合并购物中心。",
+  "frontNote": "塔身四面近似对称，展示正面选择靠信义路的南面；OSM 长边的南向方位约 181.2°。",
+  "period": "2004年启用的现状办公塔楼",
+  "anchor": [
+    121.5644968,
+    25.0339726
+  ],
+  "anchorCrs": "WGS84",
+  "type": "urban",
+  "tier": "national"
+}

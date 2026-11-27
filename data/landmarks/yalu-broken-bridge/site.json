@@ -1,0 +1,19 @@
+{
+  "id": "yalu-broken-bridge",
+  "name": "鸭绿江断桥",
+  "province": "辽宁省",
+  "city": "丹东市",
+  "anchor": [
+    124.3882524,
+    40.1171997
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/1119773891",
+  "anchorCrs": "WGS84",
+  "frontBearing": 223,
+  "groundSpanMeters": 255,
+  "description": "鸭绿江断桥的钢桁架自丹东岸伸入江中，尽头可见断面和裸露的石桥墩。",
+  "type": "museum",
+  "tier": "regional",
+  "visualSource": "https://files.dandong.gov.cn/files/ueditor/DDSZF/jsp/upload/file/20230318/1679113984062057190.pdf",
+  "siteNotes": "取 OpenStreetMap 断桥在丹东岸的桥头节点，桥面局部 +X 对应东南。表现修整后可步行的中国一侧桥段。局部 −X 是丹东岸，+X 指向江中；保留断口的镂空桁架。"
+}

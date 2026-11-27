@@ -1,0 +1,28 @@
+{
+  "id": "fujian-tulou",
+  "name": "福建土楼·田螺坑",
+  "file": "fujian-tulou.glb",
+  "version": "national-v1",
+  "source": "https://mzt.fujian.gov.cn/gk/wpldq/202511/t20251110_7031782.htm",
+  "sourceCopy": "data/landmarks/fujian-tulou/source.blend",
+  "sourceSha256": "ac9a4162001e8ac3e156590d0e104cd252221dc87c096077288f74350dc06dc4",
+  "triangles": 7450,
+  "bytes": 787860,
+  "sha256": "5b197356070f0a43efb0174ca580859015e18a490cfc55f0c805763c0f049c70",
+  "materials": 7,
+  "embeddedImages": 7,
+  "bounds": {
+    "min": [
+      -6.074999809265137,
+      0,
+      -4.880000114440918
+    ],
+    "max": [
+      6.074999809265137,
+      2.7527999877929688,
+      4.880000114440918
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 9008
+}

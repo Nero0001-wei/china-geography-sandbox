@@ -1,0 +1,30 @@
+{
+  "id": "zhongshan",
+  "name": "中山陵",
+  "file": "zhongshan.glb",
+  "version": "national-v1",
+  "source": "南京城市沙盘/中山陵模型/web/中山陵_网页版.blend",
+  "sourceCopy": "data/landmarks/zhongshan/source.blend",
+  "sourceSha256": "4d0f8af10a1a5b9a07cd041cb83897f3938931373a628c407bfec48d0a6a5ba8",
+  "sourceTriangles": 36774,
+  "sourceGlbBytes": 4261256,
+  "triangles": 7220,
+  "bytes": 1138564,
+  "sha256": "8c037fbfa7efd3a83b3270de74b5d41393f1d6534586b5c4e9071fb360b99fea",
+  "materials": 10,
+  "embeddedImages": 2,
+  "vertexAO": true,
+  "bounds": {
+    "min": [
+      -10.990385055541992,
+      0,
+      -16.990385055541992
+    ],
+    "max": [
+      10.990385055541992,
+      15.259729385375977,
+      16.990385055541992
+    ]
+  },
+  "coordinateConvention": "glTF Y-up, +Z front, bottom-center origin"
+}

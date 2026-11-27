@@ -1,0 +1,19 @@
+{
+  "id": "haikou-arcades",
+  "name": "海口骑楼老街",
+  "province": "海南省",
+  "city": "海口市",
+  "anchor": [
+    110.3392296,
+    20.0455762
+  ],
+  "anchorSource": "https://ditu.amap.com/place/B0FFFPCNQB",
+  "anchorCrs": "WGS84",
+  "frontBearing": 172,
+  "groundSpanMeters": 90,
+  "description": "中山路一段南洋骑楼，底层是相通的遮阴拱廊，上层各有彩色窗套与山花。",
+  "type": "town-garden",
+  "tier": "regional",
+  "visualSource": "https://ggzy.haikou.gov.cn/gonggao/89849",
+  "siteNotes": "主体附近的高德 POI（GCJ-02 110.343619, 20.043533）通过项目迭代转换为 WGS84。取中山路 50 号附近的街段，局部排列概括保留骑楼的连续廊道。"
+}

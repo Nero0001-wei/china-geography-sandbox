@@ -1,0 +1,29 @@
+{
+  "id": "dali",
+  "name": "大理古城",
+  "province": "云南省",
+  "city": "大理白族自治州",
+  "anchor": [
+    100.1626768,
+    25.6907878
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/308500442",
+  "frontBearing": 165,
+  "groundSpanMeters": 47,
+  "description": "南城门的石砌拱道穿过城台，上部城楼有朱柱与层叠的灰瓦屋面。",
+  "driveQuery": "大理古城南门生态停车场",
+  "transitQuery": "大理古城南门公交站",
+  "anchorCrs": "WGS84",
+  "reference": "https://ynmz.yn.gov.cn/index.php/cms/dimingfengcai/10523.html",
+  "versionNotes": "取古城南门现存城台、门洞与复建楼阁；模型朝向古城外侧。",
+  "osmFeature": "古城南门",
+  "amapPoi": "B0FFIG7SRR",
+  "gcj02Feature": [
+    100.163916,
+    25.687803
+  ],
+  "crossCheck": "https://ditu.amap.com/place/B0FFIG7SRR",
+  "crossCheckMeters": 2.8,
+  "type": "town-garden",
+  "tier": "regional"
+}

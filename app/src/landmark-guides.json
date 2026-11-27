@@ -1,0 +1,2790 @@
+{
+  "zhongshan": {
+    "summary": "中山陵位于南京钟山南麓，是孙中山的陵墓。建筑师吕彦直将牌坊、陵门、碑亭、祭堂和墓室组织在一条顺山势上升的轴线上，远处可见蓝色琉璃瓦从松柏间露出。从山下向上望，石阶和平台往复出现，登到祭堂前回身，又可以顺着整条轴线俯瞰钟山南坡。",
+    "highlights": [
+      "从牌坊到祭堂沿山势升高，长阶和平台组成连续的登陵轴线",
+      "白色花岗岩、蓝色琉璃瓦和两侧松柏构成祭堂的主要色调"
+    ],
+    "sources": [
+      {
+        "label": "南京市中山陵园管理局",
+        "url": "https://zschina.nanjing.gov.cn/fjms/jqjd/zsljq/"
+      }
+    ],
+    "photo": {
+      "file": "zhongshan.webp",
+      "alt": "南京中山陵蓝色琉璃瓦祭堂",
+      "author": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Sun_Yat-sen_Mausoleum_-_54400198691.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "huangshan": {
+    "summary": "迎客松生长在安徽黄山玉屏景区，根系立在玉屏楼一带的花岗岩石隙中。它有一条横向伸出很远的长枝，从山道望去像伸手迎客，得名也与这道轮廓有关。山上的云雾常随谷风聚散，松枝、斜立的岩面和远处峰峦由近及远，形成黄山常见的三层景深。",
+    "highlights": [
+      "一条主枝从树干旁低低横伸，使迎客松的树冠明显偏向一侧",
+      "玉屏景区的花岗岩峭壁和石隙，与松树合成一幅近景"
+    ],
+    "sources": [
+      {
+        "label": "国家林草局·黄山迎客松",
+        "url": "https://www.forestry.gov.cn/c/www/dfdt/596061.jhtml"
+      },
+      {
+        "label": "黄山市人民政府",
+        "url": "https://www.huangshan.gov.cn/zwgk/public/6615714/10445226.html"
+      }
+    ],
+    "photo": {
+      "file": "huangshan.webp",
+      "alt": "从玉屏景区岩壁一侧望黄山迎客松",
+      "author": "Xiaotong Gao",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Huangshan_Mountain_-_panoramio.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "gugong": {
+    "summary": "太和殿位于北京紫禁城外朝中轴上，是明清两朝举行重要典礼的场所，今貌形成于清康熙年间的重建。殿前有开阔的广场，三层汉白玉台基将大殿托高，宽阔的门面和两重黄色琉璃瓦檐在广场尽头展开。近看还可分辨石栏、排水兽首与屋脊和檐角上的成列脊兽。",
+    "highlights": [
+      "由广场向北可连续看见三层汉白玉台基和双重黄琉璃瓦檐",
+      "太和殿面阔十一间，正脊大吻和檐角脊兽显示殿宇等级"
+    ],
+    "sources": [
+      {
+        "label": "故宫博物院·太和殿",
+        "url": "https://www.dpm.org.cn/explore/building/236465.html"
+      },
+      {
+        "label": "北京市政府·故宫介绍",
+        "url": "https://www.beijing.gov.cn/renwen/rwzyd/qgzdwwbhdw/gg/202210/t20221026_2845259.html"
+      }
+    ],
+    "photo": {
+      "file": "gugong.webp",
+      "alt": "北京故宫太和殿和三层石台基",
+      "author": "Daniel Case",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hall_of_Supreme_Harmony,_Forbidden_City,_from_southeast.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "badaling": {
+    "summary": "八达岭位于北京延庆的军都山，控制着居庸关关沟通向西北的一道山口。明代修筑的关城把南北两侧山脊上的城墙连在一起，敌楼隔着起伏的垭口相互照应。登到较高的城台往回看，墙体沿山脊折转，高低错落，比一段平直的城墙更能说明守关为何要借山势。",
+    "highlights": [
+      "南北城墙从八达岭关城分出，沿军都山两侧山脊不断爬高",
+      "北四楼附近一段可同时辨认敌楼、砖墙垛口和山口折线"
+    ],
+    "sources": [
+      {
+        "label": "北京市文物局·八达岭长城",
+        "url": "https://wwj.beijing.gov.cn/bjww/362760/362767/2021nwhhzrycr/wwbh/10998885/index.html"
+      }
+    ],
+    "photo": {
+      "file": "badaling.webp",
+      "alt": "沿山脊延伸的八达岭长城",
+      "author": "DF08 at English Wikipedia",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:GreatWall_Badaling.jpg"
+    }
+  },
+  "beijing-universal": {
+    "summary": "北京环球度假区位于北京通州，围绕电影故事和角色布置主题场景。城市大道把商业、餐饮和乐园前区串在一起，入口附近的环球地球雕塑和喷泉是进入度假区时容易认出的地标。乐园内的七个主题区包括功夫熊猫盖世之地、变形金刚基地和侏罗纪世界努布拉岛。",
+    "highlights": [
+      "城市大道前区的环球地球雕塑与环形水景构成同一组入口地标",
+      "功夫熊猫盖世之地用中式街廓和室内布景呈现电影中的和平谷"
+    ],
+    "sources": [
+      {
+        "label": "北京环球度假区官方介绍",
+        "url": "https://www.universalbeijingresort.com/zh_CN/ubr-introduction"
+      },
+      {
+        "label": "北京环球度假区·七大主题景区",
+        "url": "https://www.universalbeijingresort.com/zh_CN/news/95.html"
+      }
+    ],
+    "photo": {
+      "file": "beijing-universal.webp",
+      "alt": "北京环球度假区入口广场的地球标志",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Universal_Studios_Beijing_globe_square_(20210907121340).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "saint-sophia": {
+    "summary": "圣索菲亚教堂位于哈尔滨道里区，最初建于二十世纪初，今天的红砖建筑建成于一九三二年。建筑采用希腊十字形平面，中央的大穹顶高出四翼，从街巷转入广场时就能看见饱满的洋葱形轮廓。墙面上错落的拱窗、砖砌装饰和前部钟楼，保留了这座城市早期的建筑面貌。",
+    "highlights": [
+      "中央洋葱形穹顶以铜绿色衬出四翼与钟楼的屋顶高差",
+      "红砖清水墙面依次排列拱窗，砖拱轮廓从广场上清晰可见"
+    ],
+    "sources": [
+      {
+        "label": "黑龙江省外事办公室·古迹参访资料",
+        "url": "https://fao.hlj.gov.cn/fao/c111834/202206/30672918/files/025996ad567e84465b235ce0cca63ab5.pdf"
+      }
+    ],
+    "photo": {
+      "file": "saint-sophia.webp",
+      "alt": "哈尔滨圣索菲亚教堂与广场",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:West_facade_of_St._Sophia_Cathedral,_Harbin_(20230721150450).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "qinhuai": {
+    "summary": "南京夫子庙临内秦淮河，北宋先建学宫，随后增建祭孔的庙宇，南宋又设贡院，教学、祭祀和科举考场就这样在一片街区里并列。庙前直接借秦淮河作泮池，隔水能望到南岸的大照壁。河上的画舫与岸边铺面沿河排开，让人看出这片街区的走向为何跟着水路转折。",
+    "highlights": [
+      "内秦淮河在夫子庙前兼作泮池，对岸的大照壁装饰双龙纹样",
+      "由学宫、孔庙和江南贡院组成的街区保留科举与祭祀的空间关系"
+    ],
+    "sources": [
+      {
+        "label": "南京市地方志工作办公室·夫子庙沿革",
+        "url": "https://dfz.nanjing.gov.cn/gzdt/202511/t20251105_5683339.html"
+      },
+      {
+        "label": "南京市地方志工作办公室·秦淮河街巷",
+        "url": "https://dfz.nanjing.gov.cn/gzdt/202604/t20260416_5824879.html"
+      }
+    ],
+    "photo": {
+      "file": "qinhuai.webp",
+      "alt": "夫子庙附近的秦淮河沿岸",
+      "author": "Kinden Kuo",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Riverside_near_Fuzi_Miao.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "bund": {
+    "summary": "上海外滩是一段顺黄浦江西岸延伸的历史滨水街区，近代贸易、金融和海关机构曾集中在这里。海关大楼在一九二七年建成，钟楼立在旧汇丰银行的圆顶旁，走到江堤上便能比较两座建筑的轮廓。向东越过江面，浦东的高层塔楼与西岸顺江排开的石质立面构成两种天际线。",
+    "highlights": [
+      "海关大楼以方形钟楼垂直收束，与相邻老汇丰银行的圆顶并立",
+      "沿黄浦江西岸步行，一侧是近代建筑，另一侧可望浦东天际线"
+    ],
+    "sources": [
+      {
+        "label": "上海市文化和旅游局·外滩海关大楼",
+        "url": "https://whlyj.sh.gov.cn/zxta/20230721/42925f1923764d98bfa7198785e56512.html"
+      },
+      {
+        "label": "上海市文化和旅游局·外滩历史建筑",
+        "url": "https://whlyj.sh.gov.cn/cmsres/c3/c39ee6ed8b18445da2d1c14034276cb0/4edcffd367b0ef90e8f101d961bbc220.pdf"
+      }
+    ],
+    "photo": {
+      "file": "bund.webp",
+      "alt": "上海外滩沿江路与历史建筑群",
+      "author": "Carsten Ullrich from Shanghai, China",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:A_picture_from_China_every_day_101.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "shanghai-disney": {
+    "summary": "上海迪士尼度假区坐落于浦东，乐园于二〇一六年开园，城堡、花园和环绕它们展开的不同主题区构成园区格局。奇幻童话城堡位于园区中心，设计把多个迪士尼公主的故事集合在一座城堡里。粉色墙塔由宽阔的下层向上收拢，蓝色塔帽和金色细尖顶伸到庭园上方，远隔几个园区也容易认出。",
+    "highlights": [
+      "奇幻童话城堡位于上海迪士尼乐园中心，主塔从多层粉色塔身上升起",
+      "城堡把多位公主的故事融入装饰与室内空间，可由主塔旁的纹样辨认"
+    ],
+    "sources": [
+      {
+        "label": "上海迪士尼度假区·奇幻童话城堡",
+        "url": "https://www.shanghaidisneyresort.com/zh-cn/experience/attraction/enchanted-storybook-castle"
+      },
+      {
+        "label": "上海迪士尼度假区·开园资料",
+        "url": "https://shcorporate.shanghaidisneyresort.com/wp-content/uploads/2018/08/Shanghai-Disney-Resort-Fact-Sheet_CHN_2018_Q3.pdf"
+      }
+    ],
+    "photo": {
+      "file": "shanghai-disney.webp",
+      "alt": "上海迪士尼乐园奇幻童话城堡",
+      "author": "MasaneMiyaPA",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E4%B9%90%E5%9B%AD%E5%A5%87%E5%B9%BB%E7%AB%A5%E8%AF%9D%E5%9F%8E%E5%A0%A1%E6%AD%A3%E9%9D%A2.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "west-lake": {
+    "summary": "三潭印月在杭州西湖小瀛洲南侧，三座石塔从湖面露出，呈三角形分布。现存塔形有葫芦状塔顶和微鼓的塔腹，塔腹上开有圆孔。旧时在孔内衬纸点灯，水上便多出一轮轮光影，与天上月色相映。乘船从湖面接近时，可以看到石塔、岛边树丛和远处山影分在不同层次。",
+    "highlights": [
+      "三座鼓腹石塔列成三角形，塔顶收为葫芦状，腹部留有圆孔",
+      "中秋月色和塔内灯光投在湖上，形成三潭印月名称中的水上意象"
+    ],
+    "sources": [
+      {
+        "label": "杭州市文化广电旅游局·西湖景观资料",
+        "url": "https://wgly.hangzhou.gov.cn/attach/538/2307051510367229.pdf"
+      },
+      {
+        "label": "联合国教科文组织·杭州西湖",
+        "url": "https://whc.unesco.org/en/list/1334/"
+      }
+    ],
+    "photo": {
+      "file": "west-lake.webp",
+      "alt": "杭州西湖小瀛洲附近的三潭石塔",
+      "author": "Siyuwj",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E6%9D%AD%E5%B7%9E%E8%A5%BF%E6%B9%96%E5%B0%8F%E7%80%9B%E6%B4%B2,_2021-01-17_08.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "hengdian": {
+    "summary": "秦王宫位于浙江东阳横店，是按秦代宫城意象搭建的影视外景地。中轴上的城门、广场和宫殿把距离拉开，台阶升高后才看见作为主殿的四海归一殿。深灰屋面、厚重宫墙和大面积空场既便于拍摄队伍与仪仗，也构成不少古装影视作品里让人熟悉的宫廷场景。",
+    "highlights": [
+      "四海归一殿位于秦王宫中轴高处，殿前台阶连着尺度宽阔的广场",
+      "宫门、墙垣和黑灰瓦檐组成影视外景的仿秦建筑轮廓"
+    ],
+    "sources": [
+      {
+        "label": "横店影视城·秦王宫",
+        "url": "https://www.hengdianworld.com/Tourist/15/"
+      }
+    ],
+    "photo": {
+      "file": "hengdian.webp",
+      "alt": "横店秦王宫四海归一殿外观",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Unification_Hall,_Palace_of_Emperor_Qin,_Hengdian_World_Studios_(20250131161245).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "taishan": {
+    "summary": "南天门立在山东泰山传统登山中路的尽头，始建于元代。十八盘的石阶顺着山间狭窄的陡坡爬升，最后对准两侧山崖间的门洞。从石阶仰看，朱红立面和黄瓦门楼正卡在山口，走过门洞后地势才趋于舒缓，天街和岱顶一带的道观、石刻陆续出现。",
+    "highlights": [
+      "十八盘末段把密集石阶收进山谷，红色南天门立在古盘道顶端",
+      "南天门是一座两层楼式山门，穿门可由登山中路转入天街"
+    ],
+    "sources": [
+      {
+        "label": "泰山风景名胜区·南天门",
+        "url": "https://tsgw.taian.gov.cn/art/2026/3/23/art_363608_10320983.html"
+      },
+      {
+        "label": "泰山风景名胜区·红门游览线",
+        "url": "https://tsgw.taian.gov.cn/art/2021/5/26/art_363479_10320188.html"
+      }
+    ],
+    "photo": {
+      "file": "taishan.webp",
+      "alt": "泰山十八盘石阶与南天门",
+      "author": "Charlie fong",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:%E6%B3%B0%E5%B1%B1_%E5%8D%97%E5%A4%A9%E9%97%A8.jpg"
+    }
+  },
+  "longmen": {
+    "summary": "龙门石窟位于洛阳城南，伊河从两山之间通过，造像便沿河岸的石灰岩崖壁展开。从北魏到唐代，不同年代的凿窟把小龛、列像和大型露天造像群叠在一段河谷内。西山奉先寺的卢舍那坐佛居中，高约十七米，两侧从弟子、菩萨排到天王和力士，站在龛前可一眼看见整组布局。",
+    "highlights": [
+      "奉先寺露天造像以卢舍那坐佛为中心，两侧大型立像对称展开",
+      "顺伊河到西山岩壁附近，可见不同尺度的洞窟密集排列"
+    ],
+    "sources": [
+      {
+        "label": "河南省文史资料·龙门石窟",
+        "url": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/hnly/zywh/article2e3e536f173e4a58ae57dc484166cd7c.html"
+      },
+      {
+        "label": "联合国教科文组织·龙门石窟",
+        "url": "https://whc.unesco.org/en/list/1003/"
+      }
+    ],
+    "photo": {
+      "file": "longmen.webp",
+      "alt": "洛阳龙门石窟奉先寺一带的崖壁",
+      "author": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:27427-Luoyang_(49067744628).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "yellow-crane": {
+    "summary": "黄鹤楼坐落在武汉武昌蛇山，隔江望向汉阳龟山，长江大桥就在两山之间跨过江面。历代楼阁几经兴废，今天的主楼在一九八五年重建开放。五层飞檐随楼身抬高而逐级收分，登楼后可顺着长江眺望，大桥、船只和沿江街区共同组成诗文中屡次出现的江城远景。",
+    "highlights": [
+      "五层楼檐由宽渐窄，金色瓦面和朱柱回廊从蛇山坡顶升起",
+      "龟山、蛇山和武汉长江大桥之间的空间关系可以从楼上辨认"
+    ],
+    "sources": [
+      {
+        "label": "武汉市园林和林业局·黄鹤楼公园",
+        "url": "https://ylj.wuhan.gov.cn/zwgk/zwxxgkzl_12298/jggk_12304/xsdwszjzz_12308/202001/t20200110_726398.shtml"
+      },
+      {
+        "label": "武汉市人民政府·黄鹤楼",
+        "url": "https://english.wuhan.gov.cn/travel/tourist4attractions4an4incomplete4list/202110/t20211026_1819226.shtml"
+      }
+    ],
+    "photo": {
+      "file": "yellow-crane.webp",
+      "alt": "武汉黄鹤楼外观",
+      "author": "MonsieurRoi",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:CN_-_Hubei_-_Wuhan_-_Kranichpagode.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "tianmen": {
+    "summary": "天门山在湖南张家界城区南侧，山顶平台由高陡的崖壁托起。天门洞贯穿其中一面绝壁，从洞前可以透过石孔看见另一侧天空。通往洞口的长阶由山腰广场直上，在洞下抬头时，阶梯、洞缘和上方崖顶依次升高，山崖上的竖向轮廓因此十分鲜明。",
+    "highlights": [
+      "天门洞近于巨型石拱，两面透通，洞内可以看见洞外天光",
+      "洞前长阶从山腰广场爬升，和崖壁上的洞口形成一条竖向动线"
+    ],
+    "sources": [
+      {
+        "label": "湖南省文化和旅游厅·天门山",
+        "url": "https://whhlyt.hunan.gov.cn/whhlyt/wldhjqjd/202208/t20220816_27583771.html"
+      }
+    ],
+    "photo": {
+      "file": "tianmen.webp",
+      "alt": "沿台阶仰望张家界天门洞",
+      "author": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tianmen_38330-Zhangjiajie_(49047525877).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "canton-tower": {
+    "summary": "广州塔位于海珠区珠江南岸，与北岸的珠江新城隔水相望。塔身的钢立柱和斜撑绕着核心结构交织，从底部向中段收紧，再向上展开，因此有了“小蛮腰”的称呼。塔身上部设有观景空间，细长桅杆继续向上延伸，低处的江岸和两侧高楼可以用来比照整座塔的高度。",
+    "highlights": [
+      "斜向钢网从宽底部收束成细腰，上部再次展开并接塔顶桅杆",
+      "塔在珠江南岸，沿江看它与北岸珠江新城的高楼隔水对望"
+    ],
+    "sources": [
+      {
+        "label": "广州市海珠区人民政府·广州塔",
+        "url": "https://www.haizhu.gov.cn/hzdt/ztlm/tzhz/rjhj/lyjd/csmp/content/mpost_9190964.html"
+      }
+    ],
+    "photo": {
+      "file": "canton-tower.webp",
+      "alt": "夜间亮灯的广州塔",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Canton_Tower_2013.11.15_18-12-45.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "elephant-hill": {
+    "summary": "象鼻山位于桂林城区漓江和桃花江汇流处，临江一块岩体向下弯曲，像伸进水里的象鼻。山体与象鼻围出水月洞，江水从洞下穿过，拱洞和倒影在水面平静时容易连成完整轮廓。沿岸换一个角度，还能看到山顶的普贤塔和洞旁题刻，和远处的喀斯特峰林连成一景。",
+    "highlights": [
+      "水月洞夹在象鼻与主体山岩之间，是能透过江水和天光的岩拱",
+      "山顶小型普贤塔与临江洞壁上的题刻，是山体之外的两处细节"
+    ],
+    "sources": [
+      {
+        "label": "文化和旅游部·象山景区",
+        "url": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=35020"
+      }
+    ],
+    "photo": {
+      "file": "elephant-hill.webp",
+      "alt": "桂林象鼻山江岸与水月洞",
+      "author": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Xiangshan_Scenic_Area_89468-Guilin_(31130832628).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "hongyadong": {
+    "summary": "洪崖洞在重庆渝中半岛北岸，嘉陵江边的道路和山上街道之间落差很大，建筑便顺着崖面层层抬升。临水外立面用木色柱廊、深檐和挑出的楼层表现巴渝吊脚楼的构法。沿嘉陵江边仰看可以数出叠起的层台，登到高处走到另一端，又能直接接入山城上层的街道。",
+    "highlights": [
+      "沿嘉陵江的立面由多层吊脚楼和外挑木色廊柱叠成",
+      "建筑上下端分别接近滨江路与上方街面，可观察山城道路高差"
+    ],
+    "sources": [
+      {
+        "label": "重庆市文化和旅游发展委员会·洪崖洞",
+        "url": "https://whlyw.cq.gov.cn/zjwl/yzq/jqjd_1/202203/t20220304_10463056.html"
+      }
+    ],
+    "photo": {
+      "file": "hongyadong.webp",
+      "alt": "重庆洪崖洞吊脚楼夜景",
+      "author": "Jonashtand",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:202308_Hongya_Cave_at_night_from_Qiansimen_Bridge.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "panda-base": {
+    "summary": "成都大熊猫繁育研究基地始建于一九八七年，从救护和繁育工作起步，结合科研、饲养、科普与保护教育。园区用竹林、草坡、水池和搭架布置栖息场，把熊猫平日吃竹、爬架或休息的环境呈现出来。月亮产房所在的一带还能帮助理解人工繁育为何需要按不同年龄安排照护空间。",
+    "highlights": [
+      "竹林、草地和高低木架让大熊猫有攀爬、取食与休息的空间",
+      "月亮产房一带的设施围绕新生幼仔与母兽的饲养、观察和照护布置"
+    ],
+    "sources": [
+      {
+        "label": "剑阁县政府·四川大熊猫保护历程",
+        "url": "https://www.scjg.gov.cn/news/2946.html"
+      },
+      {
+        "label": "成都大熊猫繁育研究基地·园区分区",
+        "url": "https://m.panda.org.cn/cn/service/sightseeingbus/"
+      }
+    ],
+    "photo": {
+      "file": "panda-base.webp",
+      "alt": "成都大熊猫繁育研究基地入口",
+      "author": "Kreisverkehrsampel",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Chengdu_Research_Base_Eingang.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "jiuzhaigou": {
+    "summary": "九寨沟在四川阿坝州北部，森林夹着沟谷，水在钙华堆积形成的浅滩、湖池和瀑布之间逐级流动。诺日朗瀑布位于几条主要游览沟谷相接的一带，宽阔的台缘分出多条水帘。水流在台地上分开，越过高低不齐的边缘时化作白色水帘，远处则是遮掩沟谷的连续林带。",
+    "highlights": [
+      "诺日朗瀑布沿宽展的钙华台地外缘跌落，多条水帘并行",
+      "顺沟谷一带可由浅滩过渡到林边湖泊，蓝绿水色随水深变化"
+    ],
+    "sources": [
+      {
+        "label": "九寨沟景区·诺日朗瀑布",
+        "url": "https://www.jiuzhai.com/about/scenic-spot/eature-spot/6117-2017-11-28-02"
+      },
+      {
+        "label": "联合国教科文组织·九寨沟",
+        "url": "https://whc.unesco.org/en/list/637/"
+      }
+    ],
+    "photo": {
+      "file": "jiuzhaigou.webp",
+      "alt": "九寨沟秋季的彩林与湖水",
+      "author": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "dali": {
+    "summary": "大理古城西倚苍山、东面洱海，现有街城格局可追溯到明代。南城门的石券通道从城台下穿入，进入后是由南向北展开的街道，沿路可见灰瓦民居、白墙和彩绘门楼。大理地区更早还有南诏和大理国的都城遗迹，其中一些遗址坐落在今天古城以外的苍洱地区。",
+    "highlights": [
+      "南城门由石砌城台、拱形门洞和灰瓦城楼组成，接入古城大街",
+      "白族院落的白墙、灰瓦和门楼彩绘，与苍山洱海共同构成街城风貌"
+    ],
+    "sources": [
+      {
+        "label": "文化和旅游部·大理古城",
+        "url": "https://zhuanti.mct.gov.cn/xcszbwg2022/yunnan/detail/1996.html"
+      },
+      {
+        "label": "大理市人民政府·苍洱古迹",
+        "url": "https://www.yndali.gov.cn/dlsrmzf/c106679/pc/content/1983711388713979904/content_1983711388713979904.html"
+      }
+    ],
+    "photo": {
+      "file": "dali.webp",
+      "alt": "大理古城南城门",
+      "author": "https://pixabay.com/users/4537668-4537668/",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E7%90%86%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A8-2064560.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  "lijiang": {
+    "summary": "丽江古城在云南丽江坝子，街巷顺地势和水路舒展，玉河的水分入多条窄渠，流经桥头与民居门前。北门附近的大水车是玉河岸边最容易辨认的地标，沿水向下则会经过石桥、灰瓦宅院与四方街。街道大小随水流转折，古城里的许多空间要走到近处才看得清。",
+    "highlights": [
+      "玉河边一大一小两架木水车以辐条和叶板形成紧邻的轮廓",
+      "石桥、窄渠和纳西民居沿水排布，顺着水流可进入街巷内部"
+    ],
+    "sources": [
+      {
+        "label": "文化和旅游部·丽江古城",
+        "url": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=35076"
+      },
+      {
+        "label": "联合国教科文组织·丽江古城",
+        "url": "https://whc.unesco.org/en/list/811/"
+      }
+    ],
+    "photo": {
+      "file": "lijiang.webp",
+      "alt": "丽江古城水渠与沿岸街巷",
+      "author": "chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:1_lijiang_old_town_2012a.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "potala": {
+    "summary": "布达拉宫坐落在拉萨红山上，现存主体建筑自十七世纪起逐渐形成。白宫沿山势向两翼展开，居中上抬的一组红色建筑是红宫，集中了宗教殿堂和灵塔。沿山坡往上看，墙体逐级收分，台阶在坡脚折返，红白块面、细长窗列和屋顶的金色轮廓一直延伸到山顶。",
+    "highlights": [
+      "白宫沿红山两侧展开，位置更高的红宫从白色墙体之间抬升",
+      "依山而上的台阶多次折返，将山脚广场与高处殿堂相连"
+    ],
+    "sources": [
+      {
+        "label": "西藏自治区文旅厅·布达拉宫",
+        "url": "https://wlt.xizang.gov.cn/xwzx_69/jdxw/201903/t20190326_120013.html"
+      },
+      {
+        "label": "联合国教科文组织·拉萨布达拉宫历史建筑群",
+        "url": "https://whc.unesco.org/en/list/707/"
+      }
+    ],
+    "photo": {
+      "file": "potala.webp",
+      "alt": "拉萨布达拉宫的红宫和白宫",
+      "author": "Antoine Taveneaux",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Potala_palace23.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "terracotta": {
+    "summary": "秦始皇兵马俑位于西安临潼，是秦始皇陵园东侧的地下陪葬坑群。最早发现的一号坑以大规模步兵为主体，陶俑沿夯土隔墙分列在数条长通道里，部分队列还有战车配置。从坑边俯视，可以先看到一列列军阵，再从近处比较俑像的发式、服装与甲片，理解秦军阵列的组织方式。",
+    "highlights": [
+      "一号坑以连续平行的夯土隔墙分出行列，步兵俑沿通道成阵",
+      "俑像的发髻、衣甲和站姿各有差别，也可用于识别兵种与位置"
+    ],
+    "sources": [
+      {
+        "label": "秦始皇帝陵博物院·一号坑",
+        "url": "https://www.bmy.com.cn/pitone.html"
+      },
+      {
+        "label": "联合国教科文组织·秦始皇陵",
+        "url": "https://whc.unesco.org/en/list/441/"
+      }
+    ],
+    "photo": {
+      "file": "terracotta.webp",
+      "alt": "秦始皇帝陵兵马俑一号坑",
+      "author": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:51714-Terracota-Army.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "tang-paradise": {
+    "summary": "大唐芙蓉园位于西安曲江新区，是在唐代芙蓉园遗址以北兴建的仿唐文化景区。二〇〇五年开园的园区围绕芙蓉池展开，不同岸段布置楼阁、庭院和水上长廊。紫云楼从湖岸厚实的高台上升起，朱柱与多层瓦檐反映在水中，在湖对岸也容易辨认。",
+    "highlights": [
+      "紫云楼的朱柱、层檐和高台集中在芙蓉池的一侧，沿水可见倒影",
+      "园中楼阁与长廊绕池布置，借仿唐建筑展示曲江的皇家园林意象"
+    ],
+    "sources": [
+      {
+        "label": "文化和旅游部·大唐芙蓉园景区",
+        "url": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=35092"
+      },
+      {
+        "label": "西安市地方志办公室·大唐芙蓉园",
+        "url": "https://xadfz.xa.gov.cn/xadq/dqtk/63846582f8fd1c4c212cdab1.html"
+      }
+    ],
+    "photo": {
+      "file": "tang-paradise.webp",
+      "alt": "隔湖远眺西安大唐芙蓉园内的楼阁",
+      "author": "Virgil Guo",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tang_Paradise_2.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "mogao": {
+    "summary": "莫高窟在敦煌城东南的鸣沙山东麓，洞窟沿一段砾岩崖面开凿，壁画和彩塑记录了多个时代的佛教艺术。第九十六窟因供奉高大的唐代泥塑弥勒像，外侧发展出贴着岩壁的九层楼。沿崖脚走到这里，层层红檐远比周围的洞口醒目，也能据此分辨洞窟群在崖面上的位置。",
+    "highlights": [
+      "第九十六窟外九层楼贴砾岩崖壁升起，各层挑檐沿立面收分",
+      "窟内唐代大型弥勒塑像显示窟室尺度，邻近窟室仍留有壁画和彩塑"
+    ],
+    "sources": [
+      {
+        "label": "敦煌研究院·第九十六窟",
+        "url": "https://www.dha.ac.cn/info/1425/3648.htm"
+      },
+      {
+        "label": "联合国教科文组织·莫高窟",
+        "url": "https://whc.unesco.org/en/list/440/"
+      }
+    ],
+    "photo": {
+      "file": "mogao.webp",
+      "alt": "敦煌莫高窟九层楼正面",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Dunhuang_Mogao_Ku_2013.12.31_12-30-18.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "sayram": {
+    "summary": "赛里木湖位于新疆博尔塔拉州，西天山的山岭把湖盆围合起来，形成高海拔的地堑湖。沿岸视野较开阔，湖水、草坡和远处山脊在晴天可以同时看见。湖西南一带的克勒涌珠是观察岸线的一个位置，浅滩颜色较淡，向湖心渐深，正好显出岸石、草甸和水面的不同质感。",
+    "highlights": [
+      "封闭的高山盆地将赛里木湖围在西天山山脊之间",
+      "克勒涌珠附近可以顺着草坡和岸石看见湖面由浅至深的色带"
+    ],
+    "sources": [
+      {
+        "label": "新疆自然资源厅·赛里木湖地质遗迹",
+        "url": "https://zrzyt.xinjiang.gov.cn/xjgtzy/zydzyj/202512/de061bfb812144e995a84d0138d588cf.shtml"
+      },
+      {
+        "label": "博尔塔拉蒙古自治州人民政府·赛里木湖",
+        "url": "https://www.xjboz.gov.cn/xjboz/c126221/202202/6c11b0230bb14c3aa22e87110b9ce152.shtml"
+      }
+    ],
+    "photo": {
+      "file": "sayram.webp",
+      "alt": "从湖畔山丘远望赛里木湖",
+      "author": "BitsRot",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E8%BF%9C%E6%99%AF%EF%BC%8C%E6%91%84%E4%BA%8E%E6%B9%96%E7%95%94%E5%B1%B1%E4%B8%98.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    }
+  },
+  "hk-disney": {
+    "summary": "香港迪士尼乐园建在大屿山东北的竹篙湾一带，奇妙梦想城堡位于园中。城堡在二〇二〇年完成改造，以十三个关于迪士尼公主和女王的故事为设计线索，把不同颜色的塔帽、徽记和纹样集中到城堡立面。由主街向前看，左右高度不一的细尖塔围着中央高塔展开，便于沿中轴认出入口。",
+    "highlights": [
+      "奇妙梦想城堡由中央高塔与高矮不同的多色细尖塔组成",
+      "不同故事体现在各座塔楼的色彩、徽记与檐部装饰上"
+    ],
+    "sources": [
+      {
+        "label": "香港迪士尼乐园·奇妙梦想城堡",
+        "url": "https://www.hongkongdisneyland.com/zh-cn/attractions/castle-magical-dreams/"
+      },
+      {
+        "label": "香港迪士尼乐园·城堡设计",
+        "url": "https://news.hongkongdisneyland.com/zh-hk/press/20201120/"
+      }
+    ],
+    "photo": {
+      "file": "hk-disney.webp",
+      "alt": "香港迪士尼乐园奇妙梦想城堡",
+      "author": "Ashwin Kumar",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Disneyland_Castle.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "st-pauls": {
+    "summary": "大三巴牌坊位于澳门半岛老城，原是圣保禄学院天主之母教堂的正面。一八三五年的火灾后，石质立面和前方台阶成为最醒目的遗存。沿阶梯往上看，立面的柱式、门窗和圣像分层布置，局部雕刻还能看到汉字与东亚装饰元素，反映了这座教堂建造时的文化交流。",
+    "highlights": [
+      "石质教堂立面沿宽阔石阶立起，门洞和高处窗洞可透见背面天空",
+      "五层立面上兼见圣像、汉字和多种雕刻纹样，可由下向上逐层辨认"
+    ],
+    "sources": [
+      {
+        "label": "澳门世界遗产·大三巴牌坊",
+        "url": "https://www.wh.mo/gb/site/detail/18"
+      }
+    ],
+    "photo": {
+      "file": "st-pauls.webp",
+      "alt": "澳门大三巴牌坊及其前方石阶",
+      "author": "LN9267",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Ru%C3%ADnas_de_S%C3%A3o_Paulo_28-09-2023.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "taipei-101": {
+    "summary": "台北101位于台北市信义区，由建筑师李祖原设计。高楼的塔身由八组逐段叠起的单元构成，每组外轮廓从下到上略微展开，让整座楼像一节节向上生长的竹子。玻璃幕墙以下是较厚重的基座，顶部收小并接细长的尖塔，从远处山坡望向信义区也容易认出。",
+    "highlights": [
+      "八组叠接外墙像竹节，青绿色玻璃与塔尖构成可辨认的轮廓",
+      "高楼内部设有大型调谐质量阻尼器，用于减小大风造成的摆动"
+    ],
+    "sources": [
+      {
+        "label": "台北一〇一·建筑设计",
+        "url": "https://www.taipei-101.com.tw/en/corporate/story/content/b5eb46ce-8f1b-4f65-a0f4-11c3a54bb1ae"
+      },
+      {
+        "label": "台北101·风阻尼球",
+        "url": "https://www.taipei-101.com.tw/en/observatory/feature/damper"
+      }
+    ],
+    "photo": {
+      "file": "taipei-101.webp",
+      "alt": "台北101大楼及周边街区",
+      "author": "User:Sinsyuan",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Taipei_101_from_Xiangshan_20250731.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "temple-of-heaven": {
+    "summary": "天坛位于北京东城南部，是明清用于祭天、祈谷的礼制建筑群。北部的祈年殿建在三层圆形石台上，三重深蓝色圆檐向上收成金色宝顶，从丹陛桥方向接近时能完整看见这道轮廓。南部另有圆形石坛和回音壁一带，和祈年殿经南北轴线相连，分别承担不同的仪式。",
+    "highlights": [
+      "祈年殿的宝蓝圆檐与白色三层石台都为圆形，轮廓逐层收分",
+      "丹陛桥串联北端的祈年殿和南面的圆丘坛等祭祀建筑"
+    ],
+    "sources": [
+      {
+        "label": "北京市公园管理中心·祈年殿",
+        "url": "https://gygl.beijing.gov.cn/whgy/whgy_wsgc/201912/t20191206_885633.html"
+      },
+      {
+        "label": "联合国教科文组织·北京天坛",
+        "url": "https://whc.unesco.org/en/list/881/"
+      }
+    ],
+    "photo": {
+      "file": "temple-of-heaven.webp",
+      "alt": "北京天坛祈年殿及三层台基",
+      "author": "Shujianyang",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven_20160323_01.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "yungang": {
+    "summary": "云冈石窟位于山西大同西郊，北魏在武州山南面的砂岩崖壁上开凿了一系列佛龛。早期的昙曜五窟尺度很大，第二十窟前部岩壁崩落后，主尊坐佛便露在室外。正面看得见浅色砂岩中凿出的宽肩和衣褶，两侧还保留深浅不同的小龛，可比较露天大像和整段崖面的比例。",
+    "highlights": [
+      "第二十窟的露天坐佛仍和北侧砂岩崖面相连，正面完整可见",
+      "昙曜五窟位于北魏造像较早的一段，可与后期开凿的小龛并看"
+    ],
+    "sources": [
+      {
+        "label": "联合国教科文组织·云冈石窟",
+        "url": "https://whc.unesco.org/en/list/1039/"
+      },
+      {
+        "label": "联合国教科文组织·云冈申遗说明",
+        "url": "https://whc.unesco.org/uploads/nominations/1039.pdf"
+      }
+    ],
+    "photo": {
+      "file": "yungang.webp",
+      "alt": "大同云冈石窟第20窟露天大佛",
+      "author": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:61292-Yungang-Grottoes_(28498548881).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wutai": {
+    "summary": "五台山位于山西忻州，五座顶面开阔的山峰围出台怀镇一带的山间盆地。历代寺院分布在谷地和山坡，既有木构殿宇，也有藏传佛教风格的塔。塔院寺的大白塔经基座、覆钵形塔身和细长塔刹逐层升高，白色塔身从镇中灰瓦红墙之间明显露出。",
+    "highlights": [
+      "塔院寺大白塔由白色覆钵塔身和细长塔刹组成，从台怀镇可辨认",
+      "五座台顶围合出寺院集中的山间谷地，寺塔沿山坡和低处街巷分布"
+    ],
+    "sources": [
+      {
+        "label": "联合国教科文组织·五台山",
+        "url": "https://whc.unesco.org/en/list/1279/"
+      },
+      {
+        "label": "北京市文物局·白塔建筑资料",
+        "url": "https://wwj.beijing.gov.cn/bjww/wwjzzcslm/1737418/1738090/ksls/509143/index.html"
+      }
+    ],
+    "photo": {
+      "file": "wutai.webp",
+      "alt": "山谷中的五台山寺院聚落",
+      "author": "Zcm11",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Mount_Wutai.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "shaolin": {
+    "summary": "少林寺在河南登封少室山北麓，北魏时期建寺，后来成为佛教禅宗和少林武术传播的重要地方。常住院坐落在少溪北岸，自山门向内依山势排开数进院落。门上康熙题写的匾额与灰瓦红墙构成入口特征，寺西不同年代的砖石塔组成了少林寺塔林。",
+    "highlights": [
+      "常住院山门有三开间和中央门洞，上悬清康熙题写的寺名匾额",
+      "寺西的塔林里，历代僧塔以不同层数和枋檐形式并列分布"
+    ],
+    "sources": [
+      {
+        "label": "河南政协文史资料·登封少林寺",
+        "url": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/hnly/zywh/articlec31a075ac00d4b6a9c2fc9dbb4395e4d.html"
+      },
+      {
+        "label": "联合国教科文组织·登封历史建筑群",
+        "url": "https://whc.unesco.org/en/list/1305/"
+      }
+    ],
+    "photo": {
+      "file": "shaolin.webp",
+      "alt": "登封少林寺殿宇外观",
+      "author": "Gary Todd from Xinzheng, China",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shaolin_Temple_(10199450903).jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  "shenyang-palace": {
+    "summary": "沈阳故宫位于沈河区老城，保留了清政权迁都北京以前兴建的宫廷建筑。东路的大政殿呈八角形，分列两边的十王亭向南展开，各亭曾供八旗与亲王办公使用。较低的亭屋围着正中大殿排开，黄瓦绿剪边、白石台基和殿前盘龙柱，清楚标出院落的中心。",
+    "highlights": [
+      "东路八角大政殿居中，十王亭在南侧分作两列，院落由窄变宽",
+      "大政殿屋面带绿剪边，门前两根盘龙柱可从白石台基下辨认"
+    ],
+    "sources": [
+      {
+        "label": "辽宁省文化和旅游厅·沈阳故宫",
+        "url": "https://whly.ln.gov.cn/whly/wlzt/lnww/sjwhycd/BF3E60DFFEB54EEA9B2EAA13B7AB2A6E/"
+      },
+      {
+        "label": "联合国教科文组织·明清故宫",
+        "url": "https://whc.unesco.org/en/list/439/"
+      }
+    ],
+    "photo": {
+      "file": "shenyang-palace.webp",
+      "alt": "沈阳故宫东路八角攒尖顶的大政殿",
+      "author": "KangTyngrwey",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E6%B2%88%E9%98%B3%E6%95%85%E5%AE%AB%E5%A4%A7%E6%94%BF%E6%AE%BF.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "putuo": {
+    "summary": "普济禅寺坐落在浙江舟山普陀山岛，是岛上历史悠久的观音道场之一。殿宇南侧的海印池也称莲池，塘面开阔，把来访者的视线从石桥引向山门、围墙和殿顶。临水走时，红柱和黄瓦透过古树出现，从池边能看清寺院主体如何顺着山脚台地展开。",
+    "highlights": [
+      "普济寺前海印池与石桥、莲叶相接，开阔水面衬出对岸殿宇",
+      "海印池里的八角水亭、石栏与寺院的黄瓦屋顶在水面相映"
+    ],
+    "sources": [
+      {
+        "label": "《普陀山志》·普济禅寺",
+        "url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2476/site/attach/0/3zyz-1-1/%E6%99%AE%E9%99%80%E5%B1%B1%E5%BF%97.pdf"
+      }
+    ],
+    "photo": {
+      "file": "putuo.webp",
+      "alt": "浙江舟山普陀山普济寺的前殿",
+      "author": "Sixian Yu",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Front_of_Puji_Temple,_Putuoshan,_China.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "tengwang": {
+    "summary": "滕王阁坐落在江西南昌赣江东岸，最早由唐代滕王李元婴创建，王勃写的《滕王阁序》让这里广为人知。历代楼阁多次重建，今天所见的主阁于一九八九年落成。中央高阁从花岗岩台基上抬起，朱柱和绿瓦朝两翼展开，从临江一侧远望，可以同时看到层檐和西边的江面。",
+    "highlights": [
+      "中央高阁立在石质高台上，朱栏绿瓦的两翼廊亭横向舒展",
+      "阁在赣江东岸，登阁向江面望去可体会诗序中写到的临江格局"
+    ],
+    "sources": [
+      {
+        "label": "南昌市人民政府·滕王阁",
+        "url": "https://www.nc.gov.cn/ncszf/rwfg/202505/caef4edf190a44099b002d0891a3d0f8.shtml"
+      },
+      {
+        "label": "南昌市东湖区政府·主阁形制",
+        "url": "https://dhq.nc.gov.cn/dhqrmzf/dhfctpk/202010/5de41659934e42f6842c956dfabdbb0c.shtml"
+      }
+    ],
+    "photo": {
+      "file": "tengwang.webp",
+      "alt": "南昌赣江东岸的滕王阁",
+      "author": "xiquinhosilva",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E6%BB%95%E7%8E%8B%E9%98%81_2024-08-05_04.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    }
+  },
+  "dazu": {
+    "summary": "大足石刻分布在重庆大足的多座山上，宝顶山大佛湾的造像集中在一道弯曲沟谷里。南宋僧人赵智凤主持营造的石刻沿两侧崖面铺展，其中释迦涅槃像横卧在崖边，只刻出上半身即借岩壁延续整尊佛像的体量。沿崖前走，还可见相邻浮雕中不同姿态的人物与佛教故事。",
+    "highlights": [
+      "宝顶山大佛湾卧佛长约三十一米，以右胁侧卧的上半身表现涅槃",
+      "崖面相连的龛位还包括牧牛图、千手观音等题材，随山谷展开"
+    ],
+    "sources": [
+      {
+        "label": "重庆市大足区人民政府·石刻文化",
+        "url": "https://www.dazu.gov.cn/rsdz/dzwh/dzsk/202202/t20220225_10434462.html"
+      },
+      {
+        "label": "联合国教科文组织·大足石刻",
+        "url": "https://whc.unesco.org/en/list/912/"
+      }
+    ],
+    "photo": {
+      "file": "dazu.webp",
+      "alt": "重庆大足石刻的崖壁造像",
+      "author": "Gisling",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E8%B6%B3%E7%9F%B3%E5%88%BB.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "western-xia": {
+    "summary": "西夏陵位于宁夏银川西郊，皇家陵园分布在贺兰山东麓开阔的山前洪积地上。遗址包括多座帝陵和大量陪葬墓，夯土陵墙、阙台与高大的陵塔保留了原有空间格局。三号陵保存的陵塔可见逐级上收的轮廓，隔着遗址的低矮残垣，还能看出从外部礼仪通道到中心陵塔的方向。",
+    "highlights": [
+      "三号陵的夯土塔身仍可辨认向上收分的层级与风化土面",
+      "陵区从贺兰山东麓向开阔坡地分布，残墙围出各座独立陵园"
+    ],
+    "sources": [
+      {
+        "label": "联合国教科文组织·西夏陵",
+        "url": "https://whc.unesco.org/zh/list/1736"
+      },
+      {
+        "label": "宁夏回族自治区文化和旅游厅·西夏陵保护规划",
+        "url": "https://whhlyt.nx.gov.cn/zwgk/fdzdgknr/tzgg/202405/P020260506339711949674.pdf"
+      }
+    ],
+    "photo": {
+      "file": "western-xia.webp",
+      "alt": "宁夏银川西夏陵三号陵陵塔",
+      "author": "BabelStone",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:XiXia_Tomb_3_F.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "jiayuguan": {
+    "summary": "嘉峪关关城位于甘肃嘉峪关市西南，扼守河西走廊西段，是明长城西端的重要关隘。关城始建于明代，后来经多次扩建和修缮，内外城墙、瓮城和城楼组成多重防御。沿马道上城，可以看清光化楼、柔远楼和两道城门如何相互配合。",
+    "highlights": [
+      "东侧光化楼与西侧柔远楼分据内城两端",
+      "夯土城墙、瓮城与马道共同构成防御空间"
+    ],
+    "sources": [
+      {
+        "label": "甘肃省档案馆",
+        "url": "https://www.cngsda.net/gsjy/31525.jhtml"
+      },
+      {
+        "label": "甘肃省文旅局专题",
+        "url": "https://www.gswbj.gov.cn/a/2024/02/01/19649.html"
+      }
+    ],
+    "photo": {
+      "file": "jiayuguan.webp",
+      "alt": "甘肃嘉峪关城门与城楼",
+      "author": "慕尼黑啤酒",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Jiayuguan_20151012.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "pingyao": {
+    "summary": "平遥古城在山西晋中平遥县，城墙围合着明清时期的街巷、店铺和成片院落。这里曾是清代重要的金融中心，票号把商人的汇兑业务从县城连接到各地。南大街上的市楼高过周围灰瓦民居，从它脚下经过，仍能辨认商街的尺度和格局。",
+    "highlights": [
+      "石板南大街与市楼保留了老商街的空间格局",
+      "票号旧址的院落可见清代跨地汇兑的历史"
+    ],
+    "sources": [
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/812/"
+      }
+    ],
+    "photo": {
+      "file": "pingyao.webp",
+      "alt": "山西平遥古城内的传统建筑",
+      "author": "Nicor",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Pingyao_40.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "wuzhen": {
+    "summary": "乌镇位于浙江嘉兴桐乡，河道穿过镇区，临水木屋、石桥和沿河巷道连成江南水乡的街市。西栅的通济桥与仁济桥在水道交会处近乎直角相接，顺河望去，一个桥洞里还能框住另一个桥洞，因此人们把这处景观叫作「桥里桥」。",
+    "highlights": [
+      "西栅通济桥与仁济桥在水道交会处相望",
+      "沿河木屋与石埠保留水乡建筑临水的一面"
+    ],
+    "sources": [
+      {
+        "label": "乌镇景区",
+        "url": "https://www.ewuzhen.com/strategy/detail?id=201904158051137"
+      }
+    ],
+    "photo": {
+      "file": "wuzhen.webp",
+      "alt": "浙江乌镇的水巷和临水建筑俯瞰",
+      "author": "Chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:1_wuzhen_aerial_2023.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "suzhou-garden": {
+    "summary": "拙政园坐落在苏州古城东北街，始于明代王献臣营建的私家园林，也是苏州古典园林世界遗产的一部分。园中用大片水面把亭堂、假山与花木错落组织起来。中部的远香堂临荷池而建，隔水看游廊和山石，视野随步行不断变化。",
+    "highlights": [
+      "中部远香堂临池，是体会园林借景的一处厅堂",
+      "曲廊、荷池与山石把同一片水面分出不同视角"
+    ],
+    "sources": [
+      {
+        "label": "苏州市园林局",
+        "url": "https://ylj.suzhou.gov.cn/szsylj/ylwh/201604/0aa1729654784346a463e9e46d2cbcae.shtml"
+      },
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/813/"
+      }
+    ],
+    "photo": {
+      "file": "suzhou-garden.webp",
+      "alt": "苏州拙政园见山楼与水面",
+      "author": "King of Hearts",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_Suzhou_November_2017_008.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "slender-west-lake": {
+    "summary": "瘦西湖位于扬州城区西北，狭长弯曲的湖道把两岸的园林、桥亭和柳堤串在一起。湖上园林在清代逐渐形成今天可辨的格局。莲花埂上的五亭桥最容易认出，桥面上五座黄瓦亭高低相间，桥身下的大小券洞让水面从不同方向穿过。",
+    "highlights": [
+      "五亭桥桥面分布五座黄瓦亭，中亭比四角更高",
+      "大小石券跨接湖水，可从桥侧看石拱的层次"
+    ],
+    "sources": [
+      {
+        "label": "江苏省人大",
+        "url": "https://www.jsrd.gov.cn/qwfb/d_sjfg/202512/t20251229_1191953.shtml"
+      },
+      {
+        "label": "生态中国网",
+        "url": "https://www.eco.gov.cn/news_info/40287.html"
+      }
+    ],
+    "photo": {
+      "file": "slender-west-lake.webp",
+      "alt": "扬州瘦西湖的五亭桥和白塔",
+      "author": "Amarespeco",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Five_Pavilion_Bridge_and_White_Pagoda_2017.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "fenghuang": {
+    "summary": "凤凰古城位于湖南湘西凤凰县，沱江沿老城穿行，石板巷从靠山的街市一路通到水边。沿江房屋以木柱支撑临水一侧，形成错落的吊脚楼。虹桥的石拱上叠着双层廊楼，从河岸望过去，桥、江面和两岸屋檐构成古城有代表性的一段。",
+    "highlights": [
+      "沱江虹桥以石拱承托双层廊楼，横跨古城河段",
+      "临江吊脚楼沿高低不一的石岸排列成片"
+    ],
+    "sources": [
+      {
+        "label": "湖南省人大",
+        "url": "https://www.hnrd.gov.cn/content/2006/07/22/7267206.html"
+      },
+      {
+        "label": "凤凰古城景区虹桥介绍",
+        "url": "https://fhatt.cn/wfez-details.html?channel=1&id=9"
+      }
+    ],
+    "photo": {
+      "file": "fenghuang.webp",
+      "alt": "湘西凤凰古城沱江岸边的民居",
+      "author": "凌晨疯子",
+      "license": "CC BY 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Fenghuang_County,_Hunan,_China,_21_December_2016a.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+    }
+  },
+  "hongcun": {
+    "summary": "宏村在安徽黄山市黟县，和西递共同列入世界遗产。水渠引水穿过徽派民居，经过村心的月沼，再与村南的南湖相连，水系也塑造了街巷和院落的走向。月沼半月形的水面贴近白墙、灰瓦和高低起伏的马头墙，是村里最有辨识度的景观之一。",
+    "highlights": [
+      "月沼、南湖与穿巷水渠构成传统村落水系",
+      "半月形驳岸外，白墙灰瓦和马头墙映入池面"
+    ],
+    "sources": [
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/1002/"
+      },
+      {
+        "label": "世界遗产申报资料",
+        "url": "https://whc.unesco.org/uploads/nominations/1002.pdf"
+      },
+      {
+        "label": "黄山市人民政府水系资料",
+        "url": "https://www.huangshan.gov.cn/zxzx/qxdt/8409035.html"
+      }
+    ],
+    "photo": {
+      "file": "hongcun.webp",
+      "alt": "安徽黟县宏村月沼和沿岸徽派民居",
+      "author": "Zhangzhugang",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Yixian_Hongcun_2016.09.09_18-17-55.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "haikou-arcades": {
+    "summary": "骑楼老街在海口老城，范围包括中山路、得胜沙路和博爱路等街段。近代海南侨民往来东南亚，把商铺与连通的步行廊合在同一栋房子里，沿街建筑也留下了多种南洋和西式装饰。抬头看中山路，窗套、山花和女儿墙在连续柱廊之上各有样式。",
+    "highlights": [
+      "中山路骑楼底层柱廊连通街面，为行人遮阳避雨",
+      "楼上的窗套、山花和女儿墙保留多样的侨乡装饰"
+    ],
+    "sources": [
+      {
+        "label": "国务院侨务办公室",
+        "url": "https://www.gqb.gov.cn/news/2025/0219/59711.shtml"
+      },
+      {
+        "label": "海口历史街区保护规划报道",
+        "url": "https://hnhk.wenming.cn/wmdt/202602/t20260205_9158094.html"
+      }
+    ],
+    "photo": {
+      "file": "haikou-arcades.webp",
+      "alt": "海口中山路骑楼老街的街巷与连续骑楼",
+      "author": "rheins",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E5%8F%A3%E9%AA%91%E6%A5%BC%E8%80%81%E8%A1%97_-_Haikou_Arcaded_Streets_-_2016.01_-_panoramio_(1).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
+  },
+  "kashgar-old-city": {
+    "summary": "喀什古城坐落在新疆塔里木盆地西缘的喀什市，过去是丝绸之路上的商贸往来之地。老城内的街巷顺着地势转折，黄褐色砖墙之间穿插拱道、木门和手工作坊。东门的高拱是进入古城的一处入口，向里步行能看到街道从开阔广场逐渐收窄。",
+    "highlights": [
+      "东门以黄褐砖墙和高拱门洞形成醒目标识",
+      "曲折巷道、木门和手工铺面保存古城的生活尺度"
+    ],
+    "sources": [
+      {
+        "label": "国家民族事务委员会",
+        "url": "https://www.neac.gov.cn/seac/xwzx/202607/1192630.shtml"
+      },
+      {
+        "label": "新疆文化和旅游厅",
+        "url": "https://wlt.xinjiang.gov.cn/wlt/dzdt/201810/6fa0620492694250837a57a7cabaaa40.shtml"
+      }
+    ],
+    "photo": {
+      "file": "kashgar-old-city.webp",
+      "alt": "喀什古城东门及其黄褐色城墙",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:East_gate_of_the_Ancient_City_of_Kashi_(20230923104429).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "tiananmen-square": {
+    "summary": "天安门广场位于北京中轴线的中央地段，北接长安街和天安门，向南连到正阳门一带。广场开敞，两侧排列着人民大会堂和中国国家博物馆。北端的天安门城楼有红色城台、五个券洞和黄瓦重檐，从广场向北看，可以辨认它与故宫所处的同一条轴线。",
+    "highlights": [
+      "五道券门排列在天安门城台上，中央券洞对正中轴",
+      "人民大会堂与中国国家博物馆分列广场东西两侧"
+    ],
+    "sources": [
+      {
+        "label": "北京中轴线保护规划",
+        "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202301/W020230130329977849629.pdf"
+      },
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/1714/"
+      }
+    ],
+    "photo": {
+      "file": "tiananmen-square.webp",
+      "alt": "从天安门广场北端看天安门城楼正面",
+      "author": "Daniel Case",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Front_view_of_Tiananmen_gate_from_north_end_of_Tiananmen_Square.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "victoria-harbour": {
+    "summary": "尖沙咀海滨在香港九龙南端，与港岛隔维多利亚港相望。红砖钟楼原属九广铁路旧总站，站场迁走后保留在海边，附近就是天星码头。沿海滨向东可以走到星光大道，向南看则有渡轮横过港面，背景是港岛北岸连续的城市天际线。",
+    "highlights": [
+      "原九广铁路总站的红砖钟楼保留在尖沙咀岸边",
+      "从天星码头一带可同看渡轮、维港和港岛天际线"
+    ],
+    "sources": [
+      {
+        "label": "香港旅游发展局",
+        "url": "https://www.discoverhongkong.com/tc/attractions/top-things-to-see-and-do-around-tsim-sha-tsui-promenade.html"
+      },
+      {
+        "label": "香港古物古迹办事处",
+        "url": "https://www.amo.gov.hk/en/historic-buildings/monuments/kowloon/monuments_43/index.html"
+      }
+    ],
+    "photo": {
+      "file": "victoria-harbour.webp",
+      "alt": "香港维多利亚港的尖沙咀轮渡码头",
+      "author": "Baycrest",
+      "license": "CC BY-SA 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_Ferry_Pier.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    }
+  },
+  "sanxingdui": {
+    "summary": "三星堆博物馆位于四川德阳广汉，集中展示附近遗址出土的古蜀文物。宽眼青铜面具、青铜神树和金器让人认识三千多年前的造型与工艺。地图所示的新馆于2023年开放，几座倾斜体块与覆土坡面相接，建筑轮廓呼应遗址地表起伏的土堆。",
+    "highlights": [
+      "青铜纵目面具与神树体现古蜀独特的造型想象",
+      "新馆用层叠斜坡和倾斜体量呼应三星堆的地貌"
+    ],
+    "sources": [
+      {
+        "label": "文化和旅游部",
+        "url": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/sc/202308/t20230801_946332.html"
+      }
+    ],
+    "photo": {
+      "file": "sanxingdui.webp",
+      "alt": "广汉三星堆博物馆2023年启用的新馆外观",
+      "author": "STW932",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:New_Sandingdui_Museum_02.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "taipei-palace": {
+    "summary": "台北故宫博物院的北部院区在台北士林，正馆由宽台阶、浅色平台和绿色琉璃瓦重檐构成。馆藏包括书画、青铜器、瓷器、玉器和古籍，观众可以通过器物和展览了解历代工艺。地图标出的是北部院区的台北正馆，嘉义另设南部院区。",
+    "highlights": [
+      "北部院区正馆的绿色重檐与白色中轴台阶鲜明",
+      "书画、青铜器和玉器等馆藏可见多种传统技艺"
+    ],
+    "sources": [
+      {
+        "label": "台北故宫博物院",
+        "url": "https://www.npm.gov.tw/"
+      },
+      {
+        "label": "馆方院区指南",
+        "url": "https://south.npm.gov.tw/Uploads/files/%E6%95%85%E5%AE%AE%E5%A5%BD%E5%AE%A2%20%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8A0113.pdf"
+      }
+    ],
+    "photo": {
+      "file": "taipei-palace.webp",
+      "alt": "台北士林故宫博物院北部院区正馆外观",
+      "author": "Jason Zhang",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:National_Palace_Museum,_Taipei.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  "yalu-broken-bridge": {
+    "summary": "鸭绿江断桥从辽宁丹东城区的江岸伸入水面，原是1911年竣工的铁路桥。1950年11月，老桥在战争中被炸断，丹东一侧留存四孔。步行临近断端，可以看见成排钢桁架在江中突然止住，桥外仍有桁架缺失后单独留在水中的桥墩。",
+    "highlights": [
+      "丹东一侧留存的钢桁架桥段向鸭绿江延伸",
+      "在桥梁断端可见露出的墩台及钢结构截面"
+    ],
+    "sources": [
+      {
+        "label": "国防部",
+        "url": "https://www.mod.gov.cn/gfbw/gfjy_index/js_214151/4884066.html"
+      },
+      {
+        "label": "福建省台港澳办",
+        "url": "https://www.fjtb.gov.cn/focus/201804hxlw/201808/t20180813_12046534.html"
+      },
+      {
+        "label": "辽宁省文化和旅游厅",
+        "url": "https://whly.ln.gov.cn/whly/gsxw/2026060113523992522/index.shtml"
+      }
+    ],
+    "photo": {
+      "file": "yalu-broken-bridge.webp",
+      "alt": "从丹东岸边看鸭绿江断桥",
+      "author": "The original uploader was Ragnar19 at German Wikipedia .",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Dandong_Bruecke.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  "harbin-ice-world": {
+    "summary": "哈尔滨冰雪大世界位于松北区，是以大型冰建筑为主的冬季园区。冰块切割后逐层砌成塔楼、城门和其他造型，光线能透过冰层并映出砌筑的纹理。园区主题和主塔随届次变化，沙盘取2025至2026年冬季的第二十七届主塔及周围低塔。",
+    "highlights": [
+      "主塔与周围冰楼由冰块组合出清晰的高低层次",
+      "冰材可透光，灯光下能辨认冰砖和墙面的纹理"
+    ],
+    "sources": [
+      {
+        "label": "黑龙江省文化和旅游厅",
+        "url": "https://wlt.hlj.gov.cn/wlt/c114165/202512/c00_31896256.shtml"
+      },
+      {
+        "label": "黑龙江省人民政府",
+        "url": "https://www.hlj.gov.cn/hlj/c115993uu/202512/c00_31893244.shtml"
+      }
+    ],
+    "photo": {
+      "file": "harbin-ice-world.webp",
+      "alt": "哈尔滨冰雪大世界的冰建筑",
+      "author": "Photo by Lin Yang",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Ice_Snow_World.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  "qingming-park": {
+    "summary": "清明上河园在河南开封龙亭区，是参考北宋张择端《清明上河图》兴建的主题园区。园内用河道、船只、店铺和城门安排出画卷里的市井空间。木构虹桥以单个高拱跨水，从桥上能同时看到两岸的宋式街屋、码头和河面的游船。",
+    "highlights": [
+      "以画中虹桥为原型的木拱桥跨过园内河道",
+      "河岸的码头、店铺与宋式街屋再现画卷的空间"
+    ],
+    "sources": [
+      {
+        "label": "河南省政府专题",
+        "url": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/twmtkhn/articled96405ad49b64c69a90ed5ce60191a0d.html"
+      },
+      {
+        "label": "故宫博物院藏品资料",
+        "url": "https://www.dpm.org.cn/collection/paint/228226.html"
+      },
+      {
+        "label": "开封顺河回族区人民政府",
+        "url": "https://www.shunhequ.gov.cn/kfsshhzqwz/c00314/pc/content/content_1909548820819951616.html"
+      }
+    ],
+    "photo": {
+      "file": "qingming-park.webp",
+      "alt": "河南开封清明上河园实景",
+      "author": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Millennium_City_Park_02.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "chimelong-safari": {
+    "summary": "广州长隆野生动物世界在广州番禺，是长隆旅游度假区内的动物园。园区有车行观赏和步行展区，不同动物按栖息环境分布，可以从开阔草地看到长颈鹿，也能在林间展区观察其他动物。沙盘以南入口定位，旁边的长颈鹿场概括的是园内展区。",
+    "highlights": [
+      "车行区可以从道路一侧观察草地上的动物",
+      "步行展区有长颈鹿等动物及相应的栖息环境"
+    ],
+    "sources": [
+      {
+        "label": "广州长隆度假区",
+        "url": "https://www.chimelong.com/gz/safaripark/exhibition/"
+      }
+    ],
+    "photo": {
+      "file": "chimelong-safari.webp",
+      "alt": "广州番禺长隆野生动物世界入口",
+      "author": "Dltl2010",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Chimelong_Safari_Park.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "wulingyuan": {
+    "summary": "武陵源位于湖南张家界，以石英砂岩峰林闻名，张家界国家森林公园是风景区的一部分。岩层沿裂隙经长期风化和流水侵蚀，形成高窄的峰柱，柱间分布峡谷和溪流。袁家界的乾坤柱又称南天一柱，直立岩壁与顶部的一丛绿树对比鲜明。",
+    "highlights": [
+      "袁家界乾坤柱独立挺立，岩壁之上仍长着树木",
+      "石英砂岩峰林与深切谷地在远近视角交替出现"
+    ],
+    "sources": [
+      {
+        "label": "湖南省文化和旅游厅",
+        "url": "https://whhlyt.hunan.gov.cn/whhlyt/zxta/202511/t20251113_33847812.html"
+      },
+      {
+        "label": "张家界世界地质公园",
+        "url": "https://www.zhangjiajieuggp.org.cn/info_show.php?nt_id=14"
+      }
+    ],
+    "photo": {
+      "file": "wulingyuan.webp",
+      "alt": "从天子山眺望武陵源砂岩峰林",
+      "author": "chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "yangshuo": {
+    "summary": "黄布倒影在广西桂林阳朔县兴坪镇附近，是漓江上一段水面较为开阔的河湾。石灰岩长期受水溶蚀，留下两岸连绵的喀斯特山峰。风浪较小的时候，峰形、岸线和竹丛会映在水面；当竹筏经过，倒影又随涟漪散开。",
+    "highlights": [
+      "兴坪一段平缓江面映出两岸喀斯特山峰",
+      "从江面望去，水岸竹丛与远近峰丛层次分明"
+    ],
+    "sources": [
+      {
+        "label": "桂林漓江景区",
+        "url": "https://www.lijiangriver.com.cn/page/article/ylxl.ljpfy"
+      },
+      {
+        "label": "文化和旅游部专题",
+        "url": "https://zhuanti.mct.gov.cn/xcss2024_shjlzzxc/guangxi/detail/6871.html"
+      }
+    ],
+    "photo": {
+      "file": "yangshuo.webp",
+      "alt": "广西阳朔兴坪黄布倒影一带的漓江与喀斯特峰丛",
+      "author": "ChinaTravelSavvy.Com - China Travel Guide",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Li_River_at_Xingping_1.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "tianyahaijiao": {
+    "summary": "天涯海角在海南三亚湾西端，一带浅色沙滩上散布着临海巨石。立在岸边的石头有的带有旧题刻，分别刻着「天涯」与「海角」的两块巨石给景区留下了名字。与单独看题字相比，沿岸远望更能看清巨石、沙滩和海湾的相对位置。",
+    "highlights": [
+      "题有「天涯」和「海角」的巨石分处岸线",
+      "近岸沙滩、临海岩块与开阔的三亚湾相接"
+    ],
+    "sources": [
+      {
+        "label": "文化和旅游部",
+        "url": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=35033"
+      },
+      {
+        "label": "三亚市旅游发展局",
+        "url": "https://www.visitsanya.com/zh/destination/%E5%A4%A9%E6%B6%AF%E6%B5%B7%E8%A7%92"
+      }
+    ],
+    "photo": {
+      "file": "tianyahaijiao.webp",
+      "alt": "海南三亚天涯海角海边的天涯石题刻",
+      "author": "Wangguoqin1001（来源页推定）",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tianya.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  "huangguoshu": {
+    "summary": "黄果树瀑布位于贵州安顺，白水河流过喀斯特地貌，在阶梯状河床上形成一组瀑布。人们常说的黄果树大瀑布是其中宽阔的一道，水从崖顶垂落到犀牛潭。主瀑后方有水帘洞，崖顶、潭边与瀑后分别提供不同的观察角度。",
+    "highlights": [
+      "白水河主瀑跨过宽阔石崖落向下方犀牛潭",
+      "主瀑后的水帘洞让人从崖后观察落水"
+    ],
+    "sources": [
+      {
+        "label": "生态中国网",
+        "url": "https://www.eco.gov.cn/news_info/40420.html"
+      }
+    ],
+    "photo": {
+      "file": "huangguoshu.webp",
+      "alt": "贵州安顺黄果树主瀑及崖下水面",
+      "author": "Kcx36",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E9%BB%84%E6%9E%9C%E6%A0%91%E7%80%91%E5%B8%83_2026-07-31_01.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "huashan": {
+    "summary": "华山在陕西渭南华阴市，主体为花岗岩，垂直岩壁之间常只剩狭窄山脊可通行。西峰又名莲花峰，崖壁陡而峰端显得尖削，步道沿岩脊绕到翠云宫附近。西峰还与沉香劈山救母的传说相联系，是理解华山山势与地方故事的一处节点。",
+    "highlights": [
+      "莲花峰以陡直的花岗岩岩壁和窄脊见长",
+      "西峰的翠云宫与沉香救母传说相联系"
+    ],
+    "sources": [
+      {
+        "label": "文化和旅游部",
+        "url": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=35093"
+      },
+      {
+        "label": "渭南地方资料",
+        "url": "https://weinan.qinfeng.gov.cn/info/1095/36343.htm"
+      }
+    ],
+    "photo": {
+      "file": "huashan.webp",
+      "alt": "陕西华山的山峰与岩壁全景",
+      "author": "chensiyuan",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:1_mount_hua_shan_china_2011.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "qinghai-lake": {
+    "summary": "青海湖位于青藏高原东北部，是内陆咸水湖。共和县一侧的二郎剑是深入湖水的狭长半岛，岸边分布沙滩、湿地和草地。沿半岛望向湖心，一段清楚的浅色岸线把两侧湖水分开，晴天还能看到近岸与远处水色的变化。",
+    "highlights": [
+      "二郎剑半岛形如窄长沙嘴，从湖岸伸向水面",
+      "沙滩和湿地相邻，可看近岸与远湖的色彩层次"
+    ],
+    "sources": [
+      {
+        "label": "青海共和县人民政府",
+        "url": "https://www.gonghe.gov.cn/lnb/zjgh1/stgh1__zjgh/stgh/content_1013640474"
+      }
+    ],
+    "photo": {
+      "file": "qinghai-lake.webp",
+      "alt": "青海湖湖景",
+      "author": "Henry",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Qinghai_Lake.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "kanas": {
+    "summary": "月亮湾在新疆阿勒泰布尔津的喀纳斯景区，是喀纳斯湖下游河谷中的一个回弯。河道在两侧林坡之间绕出月牙形，与上游开阔湖面是不同的景观。从山坡向下望，可以看到弯内较浅的水色、外侧陡坡和沿河展开的针叶林。",
+    "highlights": [
+      "喀纳斯河在林坡之间形成明显的月牙形弯道",
+      "俯看可辨浅水边缘、河心与两岸森林的色差"
+    ],
+    "sources": [
+      {
+        "label": "新疆自然资源厅",
+        "url": "https://zrzyt.xinjiang.gov.cn/xjgtzy/kpjd/202010/22b9bef9e4fc47638e7eac92c2936e47.shtml"
+      },
+      {
+        "label": "新疆地质遗迹介绍",
+        "url": "https://zrzyt.xinjiang.gov.cn/xjgtzy/dzyjxq1/202307/5f963ed047e64c56ac30b27e923629e4.shtml"
+      }
+    ],
+    "photo": {
+      "file": "kanas.webp",
+      "alt": "新疆喀纳斯湖与周边山林",
+      "author": "Wang Xiaozhe and Meng Jie Taken in Jul. 2005",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Lake_Kanas.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  "sun-moon-lake": {
+    "summary": "日月潭在台湾南投县鱼池乡，湖岸被山林围绕。人们以拉鲁岛一带区分形状较圆的日潭和弯如月牙的月潭，湖名由此而来。从向山一侧可望到水面中央的小岛，沿岸的步道、码头和坡地林带让湖湾有近景可参照。",
+    "highlights": [
+      "拉鲁岛一带可同时观察日潭和月潭的湖湾轮廓",
+      "向山一侧的观景平台可以远望小岛和林岸"
+    ],
+    "sources": [
+      {
+        "label": "日月潭风景区管理处",
+        "url": "https://www.sunmoonlake.gov.tw/zh-TW/Attractions/Attractions?A=20&Id=54&P=7"
+      }
+    ],
+    "photo": {
+      "file": "sun-moon-lake.webp",
+      "alt": "从伊达邵码头望向日月潭水面和远山",
+      "author": "Primonemo",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E6%97%A5%E6%9C%88%E6%BD%AD%E6%B9%96%E6%99%AF.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "wulong": {
+    "summary": "天生三桥位于重庆武隆，是石灰岩受溶蚀、地下洞道顶板局部坍落后留下的天然岩桥群，包括天龙桥、青龙桥和黑龙桥。人在峡谷底部仰视，光线从岩孔另一侧穿过，能辨认桥体上方连成一片的岩壁。天龙桥下还有天福官驿院落，与高大的岩桥形成尺度对照。",
+    "highlights": [
+      "天龙桥的天然岩孔贯通峡谷，抬头可见桥腹",
+      "桥下的天福官驿院落坐落在高耸岩壁之间"
+    ],
+    "sources": [
+      {
+        "label": "重庆市武隆区人民政府",
+        "url": "https://cqwl.gov.cn/bmjz_sites/bm/wlw/zwxx_98939/jqjd/jdjd_1/202007/t20200702_7634529.html"
+      },
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/1248/"
+      }
+    ],
+    "photo": {
+      "file": "wulong.webp",
+      "alt": "重庆武隆天生三桥的天然岩拱",
+      "author": "Brookqi",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Wulongtianshengsanqiao.JPG"
+    }
+  },
+  "detian": {
+    "summary": "德天跨国瀑布位于广西崇左大新县，归春河在这里经过中越边境。河水沿石灰岩台阶分层下落，几道水帘宽窄不一，在崖下汇成碧绿的水面。从中国一侧可同时看到近处的德天瀑布和位于越南一侧的板约瀑布，两组水流共享同一段河谷。",
+    "highlights": [
+      "归春河沿石灰岩台地形成层层相接的水帘",
+      "从中国一侧可同看中越两片相邻的瀑布"
+    ],
+    "sources": [
+      {
+        "label": "生态中国网",
+        "url": "https://eco.gov.cn/news_info/40720.html"
+      },
+      {
+        "label": "中国社会科学院",
+        "url": "https://www.cass.cn/xueshuchengguo/xscg_lsyjy/202305/t20230512_5637620.shtml"
+      }
+    ],
+    "photo": {
+      "file": "detian.webp",
+      "alt": "从广西一侧看到的德天跨国瀑布",
+      "author": "黃雲紫水",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E5%BE%9E%E4%B8%AD%E5%9C%8B%E5%A2%83%E5%85%A7%E8%A7%80%E7%9C%8B%E7%9A%84%E5%BE%B7%E5%A4%A9%E7%80%91%E5%B8%83.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "alishan": {
+    "summary": "沼平车站坐落在台湾嘉义县阿里山森林游乐区，是阿里山林业铁路的车站之一。铁路早期服务山林运输，车站周围如今仍能看到窄轨、红色列车和成片高山林木。从站边的沼平公园和步道向外望，树冠之间偶尔露出远处的山脊。",
+    "highlights": [
+      "沼平车站旁保留林业铁路窄轨和山林站房",
+      "沼平公园与周围步道把车站接进高山林地"
+    ],
+    "sources": [
+      {
+        "label": "阿里山风景区管理处",
+        "url": "https://www.ali-nsa.net/zh-tw/attractions/detail/176"
+      },
+      {
+        "label": "林业铁路官方导览",
+        "url": "https://recreation.forest.gov.tw/Forestry/FR?typ_id=0900041"
+      }
+    ],
+    "photo": {
+      "file": "alishan.webp",
+      "alt": "阿里山森林铁路神木站的列车",
+      "author": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Alishan_Taiwan_Alishan-Forest-Railway-01.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "national-museum-china": {
+    "summary": "中国国家博物馆位于北京天安门广场东侧，馆舍以浅色的对称两翼和面向广场的高柱廊形成鲜明轮廓。场馆由原中国历史博物馆和中国革命博物馆合并发展而来，随后经过扩建。「古代中国」陈列利用青铜器、陶瓷等文物串起不同时期的历史。",
+    "highlights": [
+      "从广场可清楚看到西立面的方柱廊与对称两翼",
+      "「古代中国」按时代展开，用实物呈现历史脉络"
+    ],
+    "sources": [
+      {
+        "label": "中国国家博物馆历史沿革",
+        "url": "https://www.chnmuseum.cn/gbgk/lsyg/"
+      },
+      {
+        "label": "中国国家博物馆基本陈列",
+        "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html"
+      }
+    ],
+    "photo": {
+      "file": "national-museum-china.webp",
+      "alt": "从天安门广场看中国国家博物馆西立面",
+      "author": "Daniel Case",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:National_Museum_of_China_west_facade,_straight_view.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "prince-kung": {
+    "summary": "恭王府博物馆位于北京西城区什刹海南岸，是由清代府邸与府园组成的建筑群。这里曾是和珅的宅邸，后来由恭亲王奕訢居住，恭王府一名由此沿用。中路的银安殿用于举行重要仪式，前方月台、石阶和两侧配殿共同围成一座院落。",
+    "highlights": [
+      "中路银安殿有绿琉璃瓦屋顶和前方对称石阶",
+      "从府邸院落走向花园，可比较两种空间布局"
+    ],
+    "sources": [
+      {
+        "label": "恭王府博物馆历史展",
+        "url": "https://www.pgm.org.cn/pgm/lsygz/zl_bf.shtml"
+      },
+      {
+        "label": "恭王府博物馆银安殿介绍",
+        "url": "https://www.pgm.org.cn/pgm/wfjd/201402/4bd8662d01834dc4888ffd229d2e0dff.shtml"
+      }
+    ],
+    "photo": {
+      "file": "prince-kung.webp",
+      "alt": "北京恭王府博物馆入口",
+      "author": "Hermann Luyken",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:2014.08.17.154948_Entrance_Prince_Gong%27s_Mansion_Beijing.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  "shaanxi-history-museum": {
+    "summary": "陕西历史博物馆本馆坐落在西安雁塔区小寨东路，唐风建筑沿中轴铺开，高处楼阁与两边廊屋将庭院围起。馆内以陕西出土文物梳理地方历史，商周青铜器、秦汉陶俑和唐代金银器各有代表。这里是小寨本馆，秦汉馆位于另一个馆区。",
+    "highlights": [
+      "小寨本馆的中轴殿堂、深色瓦顶和四隅楼阁构成唐风院落",
+      "出土青铜器、陶俑与唐代金银器展示不同时代的工艺"
+    ],
+    "sources": [
+      {
+        "label": "陕西历史博物馆",
+        "url": "https://www.sxhm.com/history.html?_isa=1"
+      },
+      {
+        "label": "本馆地点说明",
+        "url": "https://www.sxhm.com/info/announcement/detail/15861.html"
+      }
+    ],
+    "photo": {
+      "file": "shaanxi-history-museum.webp",
+      "alt": "西安小寨东路陕西历史博物馆本馆的仿唐建筑与屋顶",
+      "author": "Danielinblue(张之诚)",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Shaanxi_History_Museum_architecture.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "xian-city-wall": {
+    "summary": "永宁门是陕西西安城墙的南门，位于老城南北轴线上。灰砖城楼、箭楼和闸楼分段布置，瓮城把几道门之间的空间围起来，外侧还留有护城河。穿过券洞进入城门，可以观察行进路线如何经过桥面、门楼与内外城墙。",
+    "highlights": [
+      "城楼、箭楼与闸楼组成南门的层层防线",
+      "跨护城河后穿过砖券门，可看到瓮城的围合"
+    ],
+    "sources": [
+      {
+        "label": "西安曲江新区管委会",
+        "url": "https://qjxq.xa.gov.cn/zjqj/gyqj/tsqj/5df21c5565cbd81235fc1efa.html"
+      }
+    ],
+    "photo": {
+      "file": "xian-city-wall.webp",
+      "alt": "西安城墙南门永宁门",
+      "author": "YikyuenG",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Yongningmen,_Xi%27an_City_Wall,_Xi%27an.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "yinxu": {
+    "summary": "殷墟位于河南安阳洹河两岸，是商代晚期都城遗址。考古发掘发现了宫殿宗庙的夯土基址、王陵以及刻字甲骨，为理解商代城市与文字提供了证据。地图取宫殿宗庙区一角，现场可见保存的基址与后建的仿殷建筑，妇好墓也位于这一遗址区。",
+    "highlights": [
+      "宫殿宗庙区保留夯土基址和后建仿殷建筑",
+      "甲骨刻辞与妇好墓出土器物共同见证晚商文明"
+    ],
+    "sources": [
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/1114/"
+      },
+      {
+        "label": "世界遗产申报资料",
+        "url": "https://whc.unesco.org/uploads/nominations/1114.pdf"
+      }
+    ],
+    "photo": {
+      "file": "yinxu.webp",
+      "alt": "河南安阳殷墟宫殿宗庙区的宫殿基址",
+      "author": "Gary Todd from Xinzheng, China",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Yinxu_Palace_Foundation_(45144971564).jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  "huangling": {
+    "summary": "篁岭在江西上饶婺源县，是一座沿山坡层叠的徽派村落。坡上平地有限，村民在屋檐与窗前支出木架，用竹匾晾晒辣椒、玉米等收获，逐渐形成「晒秋」景观。沿石阶走向高处，可以从灰瓦屋顶间看到彩色竹匾，以及村外沿坡展开的梯田。",
+    "highlights": [
+      "坡地民居借木架和竹匾扩展晾晒空间",
+      "顺石阶抬高视线，马头墙、屋顶和梯田分出层次"
+    ],
+    "sources": [
+      {
+        "label": "文化和旅游部",
+        "url": "https://zhuanti.mct.gov.cn/jx_detail/459.html"
+      },
+      {
+        "label": "国家发展改革委",
+        "url": "https://www.ndrc.gov.cn/xwdt/ztzl/qgxclydxal/lyfpczx/202004/t20200423_1226439.html"
+      }
+    ],
+    "photo": {
+      "file": "huangling.webp",
+      "alt": "江西婺源篁岭的晒秋景观",
+      "author": "Leungcwd",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Autumn_sun_drying_at_Huangling.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "china-science-museum": {
+    "summary": "中国科学技术馆现馆位于北京朝阳区北辰东路，西侧邻奥林匹克公园。建筑以相互咬合的块体拼成一个大方盒，设计借用了鲁班锁的构造意象。馆内设置面向不同年龄的常设展厅，观众能用互动装置观察现象，也能在特效影院体验不同的科学主题。",
+    "highlights": [
+      "现馆以咬合方盒和玻璃凹槽组成鲁班锁式轮廓",
+      "互动展项让观众通过操作和观察认识科学现象"
+    ],
+    "sources": [
+      {
+        "label": "中国科学技术馆",
+        "url": "https://www.cstm.org.cn/gy/bggk/index.html"
+      }
+    ],
+    "photo": {
+      "file": "china-science-museum.webp",
+      "alt": "北京奥林匹克公园旁的中国科学技术馆现馆外观",
+      "author": "Jason Quinn",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Beijing_science_and_technology_museum_14_Aug_2010.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "hubei-museum": {
+    "summary": "湖北省博物馆位于武汉武昌东湖边，收藏和展示楚文化及湖北各地的考古发现。南馆以青铜鼎为设计意象，浅色斜墙夹着玻璃中庭，后方露出北馆深色楚式屋檐。曾侯乙编钟和越王勾践剑是南馆展陈中有代表性的文物。",
+    "highlights": [
+      "南馆外挑的浅色馆体取意于鼎，与北馆楚檐相邻",
+      "曾侯乙编钟和越王勾践剑可见先秦器物工艺"
+    ],
+    "sources": [
+      {
+        "label": "湖北省文化和旅游厅建筑介绍",
+        "url": "https://wlt.hubei.gov.cn/bmdt/xydt/202111/t20211112_3859467.shtml"
+      },
+      {
+        "label": "湖北省文化和旅游厅展览介绍",
+        "url": "https://wlt.hubei.gov.cn/bmdt/xydt/202605/t20260519_5939132.shtml"
+      }
+    ],
+    "photo": {
+      "file": "hubei-museum.webp",
+      "alt": "湖北省博物馆南馆的室内大厅",
+      "author": "Liuxingy",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E6%B9%96%E5%8C%97%E7%9C%81%E5%8D%9A%E7%89%A9%E9%A6%86%E7%9A%84%E5%8D%97%E9%A6%86%E5%A4%A7%E5%8E%85.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "hunan-museum": {
+    "summary": "湖南省博物馆主馆位于长沙开福区东风路，2025年由湖南博物院更名，馆址沿用。中央挑檐下是通透的玻璃门厅，旁边两翼以浅色石材围合。长沙马王堆汉墓陈列以出土的漆器、帛画和丝织品等，呈现西汉时期的生活和工艺。",
+    "highlights": [
+      "东风路主馆的中央悬挑屋面覆在玻璃门厅上",
+      "马王堆汉墓陈列集中呈现西汉漆器与丝织品"
+    ],
+    "sources": [
+      {
+        "label": "湖南省人民政府",
+        "url": "https://www.hunan.gov.cn/hnszf/jxxx/hslv/c101474/202108/t20210827_20401957.html"
+      },
+      {
+        "label": "湖南省文化和旅游厅更名公告",
+        "url": "https://whhlyt.hunan.gov.cn/whhlyt/news/gzdt/202510/t20251013_33823787.html"
+      }
+    ],
+    "photo": {
+      "file": "hunan-museum.webp",
+      "alt": "长沙东风路湖南省博物馆长沙主馆的新馆建筑",
+      "author": "Huangdan2060",
+      "license": "CC BY 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:New_building_of_Hunan_Museum_2023030102.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    }
+  },
+  "shanghai-museum-east": {
+    "summary": "上海博物馆东馆位于浦东世纪大道，2024年分阶段开放，和黄浦区的人民广场馆各有独立馆址。馆外大理石幕墙像波浪一样包裹着矩形建筑，中部开出成带的玻璃面。东馆以中国古代艺术通史为主线，展陈涵盖青铜、陶瓷、玉器和书画等门类。",
+    "highlights": [
+      "世纪大道一侧的浅色波浪石材切开方整馆体",
+      "东馆的通史陈列汇集青铜、陶瓷、玉器和书画"
+    ],
+    "sources": [
+      {
+        "label": "上海博物馆东馆开馆资料",
+        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/I00004702"
+      },
+      {
+        "label": "上海博物馆馆区资料",
+        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/infomation/about"
+      }
+    ],
+    "photo": {
+      "file": "shanghai-museum-east.webp",
+      "alt": "上海博物馆浦东东馆的浅色幕墙与起伏立面",
+      "author": "向史公哲曰",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E6%B5%B7%E5%8D%9A%E7%89%A9%E9%A6%86%E4%B8%9C%E9%A6%86%E9%A6%86%E8%88%8D.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "nanjing-massacre-memorial": {
+    "summary": "纪念馆位于南京建邺区水西门大街江东门，在南京大屠杀遇难同胞丛葬地一带建成，1985年开放。灰石题名墙、石阶与开敞的悼念广场为公众提供纪念空间。馆内用文物、档案和幸存者证言记录历史，馆区也是国家公祭仪式的举行地点。",
+    "highlights": [
+      "江东门入口的灰色题名石壁与石阶共同围合悼念广场",
+      "史实展用文物、档案和亲历者证言记录历史"
+    ],
+    "sources": [
+      {
+        "label": "纪念馆题名墙资料",
+        "url": "https://www.19371213.com.cn/information/news/201807/t20180712_2232683.html"
+      },
+      {
+        "label": "纪念馆沿革",
+        "url": "https://www.19371213.com.cn/information/news/202509/t20250905_5643460.html"
+      }
+    ],
+    "photo": {
+      "file": "nanjing-massacre-memorial.webp",
+      "alt": "侵华日军南京大屠杀遇难同胞纪念馆江东门馆区的室外纪念空间",
+      "author": "Samudes",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Nanjing_Memorial_Hall_-_empty_space.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "birds-nest": {
+    "summary": "北京国家体育场坐落在奥林匹克公园南部，因银灰色钢构件交错围合的外形而被称作鸟巢。这里举办过二〇〇八年夏季奥运会和二〇二二年冬季奥运会的开闭幕式。沿场馆外缘走一段，钢桁架随视角不断改变疏密，中央敞口下是大面积的红色看台。",
+    "highlights": [
+      "椭圆场馆外部由交错的银灰钢桁架围成",
+      "中央敞口、红色看台和开阔赛场构成内景"
+    ],
+    "sources": [
+      {
+        "label": "北京市政府",
+        "url": "https://www.beijing.gov.cn/renwen/rwzyd/qxdw/shaozhcqychy/gjtyc/202309/t20230921_3263702.html"
+      }
+    ],
+    "photo": {
+      "file": "birds-nest.webp",
+      "alt": "北京国家体育场的钢结构外立面",
+      "author": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Beijing_China_Beijing-National-Stadium-01.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "hukou-falls": {
+    "summary": "壶口瀑布位于陕西宜川和山西吉县之间的黄河河段。上游河面宽阔，来到砂岩台沿时突然收窄，含沙量较高的河水层层跌进深切的石槽。瀑脚常见翻腾的白沫，沿下游可以看见深槽继续延伸，两岸露出层层叠叠的岩面。河水涨落还会改变水帘的宽度。",
+    "highlights": [
+      "宽阔黄河急流在石槽前收束成黄褐色瀑帘",
+      "下游细长的河槽和两侧岩石层理相互衬托"
+    ],
+    "sources": [
+      {
+        "label": "文化和旅游部",
+        "url": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/sx/202208/t20220809_935221.html"
+      },
+      {
+        "label": "陕西省风景园林协会",
+        "url": "https://m.sxfjyl.org/sys-nd/51.html"
+      }
+    ],
+    "photo": {
+      "file": "hukou-falls.webp",
+      "alt": "黄河壶口瀑布的急流",
+      "author": "Leruswing",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Hukou_Waterfall.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "qutang-kuimen": {
+    "summary": "夔门在重庆奉节，是长江穿入瞿塘峡的西口。北岸赤甲山和南岸白盐山隔江相对，近乎直立的岩壁夹出一道狭窄水路。从白帝城一带向下游望，开阔的江面渐渐收进峡门，行船从山脚经过，很容易看出两岸石壁的高度。第五套人民币十元券背面的山水画面取景于此。",
+    "highlights": [
+      "赤甲山与白盐山沿长江对峙形成狭窄峡口",
+      "从白帝城方向观察可看清江面进入峡谷的变化"
+    ],
+    "sources": [
+      {
+        "label": "重庆市政府",
+        "url": "https://www.cq.gov.cn/zjcq/cycq/zmjd/zqaaaaajjq/202606/t20260604_15729050.html"
+      },
+      {
+        "label": "重庆市档案馆",
+        "url": "https://jda.cq.gov.cn/web/article/1464346337456713728/web/content_1464346337456713728.html"
+      }
+    ],
+    "photo": {
+      "file": "qutang-kuimen.webp",
+      "alt": "从长江水面望瞿塘峡夔门",
+      "author": "于/Yu 回/Hui from Chengdu, China",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Kuimen_gate.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "erhai": {
+    "summary": "洱海位于云南大理，湖面西侧是苍山，东岸沿湾分布着村落。挖色镇海印村附近，一块露出水面的岩屿托着两层观音阁，这就是小普陀，阁身上下各有一层外挑灰瓦檐。沿东岸看过去，近处阁檐和岸石轮廓清晰，远处山脊横展，能体会洱海开阔的尺度。",
+    "highlights": [
+      "两层观音阁立在东岸外侧独立的小普陀岩屿上",
+      "海印村岸边可以同时看到湖心小岛与远处苍山"
+    ],
+    "sources": [
+      {
+        "label": "大理市政府·挖色镇规划",
+        "url": "https://www.yndali.gov.cn/dlsrmzf/c106753/2018963738441322496/wUplLX2u.pdf"
+      },
+      {
+        "label": "云南省林业和草原局·苍山洱海",
+        "url": "https://lcj.yn.gov.cn/special/2025/0313/6396.html"
+      }
+    ],
+    "photo": {
+      "file": "erhai.webp",
+      "alt": "云南大理洱海远眺",
+      "author": "David Petit",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Erhai_(Lake)_%E6%B4%B1%E6%B5%B7,_Yunnan,_China.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "fast-observatory": {
+    "summary": "中国天眼位于贵州黔南州平塘县，正式名称是五百米口径球面射电望远镜。巨大的反射面安放在群山围绕的大窝凼洼地中，用来汇聚来自遥远天体的无线电波。从公开科普视角俯看，盘面由许多三角面板拼合，周围塔架牵引的馈源舱悬在上方。",
+    "highlights": [
+      "反射盘嵌在喀斯特洼地，大尺度圆形清晰可见",
+      "六座塔架和牵索托起盘面上方小小的馈源舱"
+    ],
+    "sources": [
+      {
+        "label": "中国科学院",
+        "url": "https://www.cas.cn/zjs/202111/t20211124_4815660.shtml"
+      },
+      {
+        "label": "文化和旅游部",
+        "url": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/gz/202205/t20220509_932857.html"
+      }
+    ],
+    "photo": {
+      "file": "fast-observatory.webp",
+      "alt": "贵州山谷中的中国天眼球面反射面",
+      "author": "SCJiang",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:202508_FAST_(Five-hundred-meter_Aperture_Spherical_radio_Telescope).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "chimelong-ocean-kingdom": {
+    "summary": "珠海长隆海洋王国在横琴岛南部，园区以海洋动物展馆和游乐设施为主。鲸鲨馆前一条带浅色斑点的蓝色鲸鲨昂首而起，胸鳍张开，雕塑底部连着青蓝的卷浪门廊。走进展馆，弧形水下长廊和宽大的玻璃观赏窗可以从不同角度看到鱼群。",
+    "highlights": [
+      "入口上方的蓝色鲸鲨昂首伸鳍，身上布满浅色斑点",
+      "馆内水下长廊与大幅观赏窗呈现不同的水中视角"
+    ],
+    "sources": [
+      {
+        "label": "长隆海洋王国·鲸鲨馆",
+        "url": "https://www.chimelong.com/zh/oceankingdom/exhibition/2324.html"
+      }
+    ],
+    "photo": {
+      "file": "chimelong-ocean-kingdom.webp",
+      "alt": "珠海长隆海洋王国鲸鲨馆外观",
+      "author": "Ngchikit",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Whale_Shark_Aquarium.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "a-ma": {
+    "summary": "妈阁庙在澳门半岛西南端，面对内港，供奉与航海信仰关系密切的妈祖。庙宇依妈阁山的地势逐层向上，花岗石牌坊、露天石阶和殿宇间穿插着大片天然岩石。神山第一殿、弘仁殿和观音阁各占一段坡地，展现了这处老庙随山就势的布局。",
+    "highlights": [
+      "花岗石牌坊面对内港，石阶顺山坡串联多座殿阁",
+      "殿宇与天然岩石交错，能看到澳门早期的妈祖信仰"
+    ],
+    "sources": [
+      {
+        "label": "澳门文化局",
+        "url": "https://www.wh.gov.mo/cn/site/detail/1"
+      },
+      {
+        "label": "澳门旅游局",
+        "url": "https://www.macaotourism.gov.mo/zh-hans/sightseeing/macao-world-heritage"
+      }
+    ],
+    "photo": {
+      "file": "a-ma.webp",
+      "alt": "澳门妈阁庙庙前和石阶",
+      "author": "WiNG",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:A_Ma_Temple_200907.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
+  },
+  "changbai": {
+    "summary": "长白山天池坐落在中朝边界附近的高海拔山地，是长白山火山口积水形成的湖泊。北坡天文峰一带的视线从高处落向深蓝湖面，四周可见缺口与高低不一的陡壁。天池北侧的出水口连着乘槎河，溪水下切后形成长白瀑布，是理解这片火山地貌的一条线索。",
+    "highlights": [
+      "从天文峰一带俯看火山口湖和四周陡峭山脊",
+      "湖水从北侧出口下泄，沿乘槎河汇成了长白瀑布"
+    ],
+    "sources": [
+      {
+        "label": "吉林省地震局",
+        "url": "https://dzj.jl.gov.cn/ztzl/cbshsztbd/zbstchsdl/"
+      },
+      {
+        "label": "长白山管委会",
+        "url": "https://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html"
+      }
+    ],
+    "photo": {
+      "file": "changbai.webp",
+      "alt": "从长白山西坡俯瞰天池",
+      "author": "Antigng",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E4%BB%8E%E9%95%BF%E7%99%BD%E5%B1%B1%E8%A5%BF%E5%9D%A1%E7%9C%8B%E5%A4%A9%E6%B1%A0-2017-08-24_1.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "chengde-resort": {
+    "summary": "避暑山庄在河北承德，是清代皇帝夏季驻跸和处理政务的离宫。整个园林把宫殿、湖泊、林地和山岭组织在一起，由平缓的水岸逐渐过渡到北侧山地。湖区的水心榭将三座亭子安在一线水上长桥上，从岸边望去，灰瓦屋面与桥墩倒映在水中。",
+    "highlights": [
+      "水心榭的三座灰瓦水亭沿桥依次排开",
+      "从宫殿区走到湖区和山地，园林地形层次分明"
+    ],
+    "sources": [
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/703/"
+      },
+      {
+        "label": "景区官网·水心榭",
+        "url": "https://www.bishushanzhuang.com.cn/index.php/scenic/pic_list/id/193.html"
+      }
+    ],
+    "photo": {
+      "file": "chengde-resort.webp",
+      "alt": "承德避暑山庄湖区与远处山林",
+      "author": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Chengde_Mountain_Resort_22630-Chengde_(42954495010).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "crescent-lake": {
+    "summary": "鸣沙山和月牙泉位于甘肃敦煌城南，连绵沙丘在低洼处围出一块绿洲。泉水边缘沿沙地弯成月牙，近岸有芦苇和楼阁。站在沙脊上，可以看到坡面的风纹伸向泉边，也能看清沙山、泉水和植被如何在相距很近的地方形成鲜明的地貌变化。",
+    "highlights": [
+      "从沙脊俯瞰月牙形水面、芦苇与泉边楼阁",
+      "连绵鸣沙山包围低洼泉盆，坡面可见细密风纹"
+    ],
+    "sources": [
+      {
+        "label": "国家林业和草原局",
+        "url": "https://www.forestry.gov.cn/c/www/lcdt/516966.jhtml"
+      }
+    ],
+    "photo": {
+      "file": "crescent-lake.webp",
+      "alt": "敦煌鸣沙山脚下的月牙泉",
+      "author": "N509FZ",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Crescent_Lake_from_the_Singing_Sand_Dunes_(20230918101214).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "dujiangyan": {
+    "summary": "都江堰位于四川成都平原西缘，由秦代蜀郡太守李冰主持兴建，至今仍参与当地的灌溉和水量调节。岷江来到鱼嘴分为内江、外江，飞沙堰和宝瓶口分别承担排沙泄洪、控制引水的任务。从高处望去，分水堤与两道水流的关系一目了然。",
+    "highlights": [
+      "鱼嘴伸入岷江江心，将水分成内江与外江",
+      "沿内江依次认识飞沙堰排沙和宝瓶口引水的作用"
+    ],
+    "sources": [
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/1001/"
+      },
+      {
+        "label": "国家民族事务委员会·都江堰水利",
+        "url": "https://www.neac.gov.cn/seac/c103391/202308/1166522.shtml"
+      }
+    ],
+    "photo": {
+      "file": "dujiangyan.webp",
+      "alt": "都江堰岷江水道及岸上建筑",
+      "author": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:36661-Dujiangyan_(44634340644).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "emei": {
+    "summary": "峨眉山金顶位于四川乐山峨眉山市的高山区，一些寺院与白石台基紧贴着清晰可见的山崖。金色的华藏寺殿顶和十方普贤像是这一带的主要标志。视野开阔时，可以沿峰顶往外看山岭层层下降，云海有时会盖住谷地，只露出远近几道山脊。",
+    "highlights": [
+      "华藏寺的金色殿宇和十方普贤像同在金顶",
+      "沿峰顶望向山外，可见陡崖、远山与云海"
+    ],
+    "sources": [
+      {
+        "label": "峨眉山市政府",
+        "url": "https://www.emeishan.gov.cn/emss/efbf/2023022214035442128800000.html"
+      },
+      {
+        "label": "中央驻港联络办·峨眉云海",
+        "url": "https://www.locpg.gov.cn/tp/2014-01/04/c_125957068.htm"
+      }
+    ],
+    "photo": {
+      "file": "emei.webp",
+      "alt": "峨眉山金顶殿宇",
+      "author": "AlexHe34",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:GoldenSummit.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "everest": {
+    "summary": "珠峰景区位于西藏日喀则定日县一带，沿喜马拉雅山脉的中国一侧展开。绒布寺附近的山谷通向珠峰北坡，从这一带望去，山峰的三角形轮廓与深色裸岩十分醒目。冰雪从高处沿岩脊和沟槽展开，近处干燥的高原谷地让雪峰显得更加高耸。",
+    "highlights": [
+      "从中国一侧望见珠峰北壁及陡直雪峰轮廓",
+      "绒布河谷、裸岩和高处冰雪呈现显著的海拔变化"
+    ],
+    "sources": [
+      {
+        "label": "西藏自治区文化和旅游厅",
+        "url": "https://wlt.xizang.gov.cn/xccx/lytg/202507/t20250728_492064.html"
+      }
+    ],
+    "photo": {
+      "file": "everest.webp",
+      "alt": "从西藏绒布河谷眺望珠穆朗玛峰北坡",
+      "author": "Luca Galuzzi",
+      "license": "CC BY-SA 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    }
+  },
+  "fanjingshan": {
+    "summary": "梵净山位于贵州铜仁，是武陵山脉的重要高峰。红云金顶的岩柱中间有一道深而窄的裂缝，叫金刀峡，裂缝两边的峰顶各建了一座小殿，中间用石桥相连。沿岩壁向上看，狭长石阶、深色山岩和两座小殿形成了这处山顶最容易辨认的轮廓。",
+    "highlights": [
+      "金刀峡把陡峭岩柱分为两峰，石桥跨过深缝",
+      "两座山顶小殿的屋檐立在窄岩脊与群山之间"
+    ],
+    "sources": [
+      {
+        "label": "铜仁市政府·梵净山",
+        "url": "https://www.tongren.gov.cn/2024/0801/322161.shtml"
+      },
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/1559/"
+      }
+    ],
+    "photo": {
+      "file": "fanjingshan.webp",
+      "alt": "贵州梵净山的山顶石峰",
+      "author": "sizzhot0",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Fanjingshan-new.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  "fujian-tulou": {
+    "summary": "田螺坑土楼群在福建漳州市南靖县书洋镇，五座土楼沿山坡高低排开。方形的步云楼居中，外侧分布三座圆楼和一座椭圆楼，从高处能看清楼群的整体形状。走近后，围合的夯土外墙和中央天井可帮助理解同族居民在一座围楼里共同生活的方式。",
+    "highlights": [
+      "一方、三圆和一椭圆沿坡排成五座土楼",
+      "夯土围墙之内各有天井，围楼展现聚居空间"
+    ],
+    "sources": [
+      {
+        "label": "福建省民政厅",
+        "url": "https://mzt.fujian.gov.cn/gk/wpldq/202511/t20251110_7031782.htm"
+      },
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/1113/"
+      }
+    ],
+    "photo": {
+      "file": "fujian-tulou.webp",
+      "alt": "福建南靖田螺坑土楼群俯瞰",
+      "author": "颐园新居",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tianluokeng_Tulou_cluster_20140829.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "gulangyu": {
+    "summary": "鼓浪屿是厦门近岸的一座小岛，近代的海上往来给岛上留下了多种建筑样式。坡道和小街把闽南民居、近代别墅与公共建筑连在一起。八卦楼的红色穹顶在绿树和坡屋顶间很容易辨认，内部的风琴展陈也给海岛的建筑游览添了一条音乐线索。",
+    "highlights": [
+      "八卦楼的红穹顶、浅色柱廊与风琴展陈",
+      "顺着海岛坡道辨认各式近代建筑与闽南民居"
+    ],
+    "sources": [
+      {
+        "label": "福建省政府",
+        "url": "https://www.fj.gov.cn/xwdt/mszx/202608/t20260806_7196669.htm"
+      },
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/1541/"
+      }
+    ],
+    "photo": {
+      "file": "gulangyu.webp",
+      "alt": "厦门鼓浪屿的坡地、街区和海岸",
+      "author": "gdczjkk",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E9%BC%93%E6%B5%AA%E5%B1%BF_-_panoramio.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
+  },
+  "hulunbuir": {
+    "summary": "莫尔格勒河流经内蒙古呼伦贝尔市陈巴尔虎旗一带的草甸草原。河流在起伏不大的地面上反复转弯，紧邻的几道河湾常可在同一个视野里看见。从较高的草坡向下望，草色、水面和弯曲岸线构成开阔层次，沿河分布的牧场也呈现当地的草原生活。",
+    "highlights": [
+      "阿吉奈观景台一带可以俯瞰相连的多道河湾",
+      "平缓草甸、水岸和沿河牧场一起铺展在视野里"
+    ],
+    "sources": [
+      {
+        "label": "文化和旅游部·景区资料",
+        "url": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=34822"
+      }
+    ],
+    "photo": {
+      "file": "hulunbuir.webp",
+      "alt": "呼伦贝尔草原上蜿蜒的河道",
+      "author": "Liuxingy",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E9%99%88%E5%B7%B4%E5%B0%94%E8%99%8E%E6%97%97_%E6%91%A9%E5%B0%94%E6%A0%B9%E9%A9%BF%E7%AB%99%E9%99%84%E8%BF%91%E7%9A%84%E8%8E%AB%E5%B0%94%E6%A0%BC%E5%8B%92%E6%B2%B3_02.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "jingdezhen-kiln-museum": {
+    "summary": "景德镇御窑博物馆位于江西景德镇御窑遗址一带。馆舍借用传统瓷窑的轮廓，几组砖拱沿着下沉庭院、水面和街巷错落展开。馆里可见从御窑遗址出土的陶瓷与修复器物，建筑所用的旧窑砖也与这些曾在高温窑炉里烧成的展品形成联系。",
+    "highlights": [
+      "窑炉形砖拱沿下沉庭院错落，部分使用了旧窑砖",
+      "展品包含从御窑遗址出土并整理修复的瓷器"
+    ],
+    "sources": [
+      {
+        "label": "景德镇市政府外事办",
+        "url": "https://wb.jdz.gov.cn/zwzx/dwcgd/t39368.shtml"
+      },
+      {
+        "label": "中央纪委国家监委·御窑文化",
+        "url": "https://www.ccdi.gov.cn/toutiaon/202608/t20260802_504695.html"
+      }
+    ],
+    "photo": {
+      "file": "jingdezhen-kiln-museum.webp",
+      "alt": "景德镇御窑博物馆建筑实景",
+      "author": "Zhu Pei",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:01-Jingdezhen_Imperial_Kiln_Museum.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "kaiping-diaolou": {
+    "summary": "开平碉楼分布在广东江门开平的乡村，许多是侨乡居民在近代为居住、防洪或防卫修建的楼房。自力村一带，碉楼从旧村和稻田之间拔起。铭石楼的窄高楼身上设有拱廊和角塔，既能看见多层碉楼的防护结构，也能辨认海外建筑样式的影响。",
+    "highlights": [
+      "自力村铭石楼顶层的拱廊和角塔轮廓鲜明",
+      "碉楼分布在稻田与村居之间，保留侨乡聚落形态"
+    ],
+    "sources": [
+      {
+        "label": "江门市文化广电旅游体育局",
+        "url": "https://www.jiangmen.gov.cn/bmpd/jmswhgdlytyj/zwgk/gzdt/content/post_3258271.html"
+      },
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/1112/"
+      }
+    ],
+    "photo": {
+      "file": "kaiping-diaolou.webp",
+      "alt": "广东开平村落稻田中的碉楼",
+      "author": "Stefan Fussan",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Zili_Village_Yunhuan_Lou_0005.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "leshan-buddha": {
+    "summary": "乐山大佛雕在四川乐山凌云山临江的红砂岩壁上，附近三江汇流，能从江面看到整尊佛像。开凿工程始于唐代，佛像双手扶膝，头顶与山崖上缘相接。沿崖壁从高处往下看，首先遇到佛头和肩部，走到低处才显出坐像与临江岩面的完整关系。",
+    "highlights": [
+      "红砂岩崖壁雕出的弥勒坐像双手扶膝面对江面",
+      "视线从崖顶佛头像移至近水佛脚，能感受雕像尺度"
+    ],
+    "sources": [
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/779/"
+      }
+    ],
+    "photo": {
+      "file": "leshan-buddha.webp",
+      "alt": "从江面方向眺望临江的乐山大佛",
+      "author": "Ariel Steiner",
+      "license": "CC BY-SA 2.5",
+      "url": "https://commons.wikimedia.org/wiki/File:Leshan_Buddha_Statue_View.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    }
+  },
+  "lushan": {
+    "summary": "三叠泉位于江西九江庐山的东南侧，山水汇入五老峰一带的狭谷，连续越过三层高低不同的岩坎。上段水流较细，中段冲上凸出的石面，到了下段则展开后落进潭中。沿峡谷抬头看，三道水帘和几处岩台一层层往上错开，瀑布的名字就来自这种形态。",
+    "highlights": [
+      "同一道溪水连续经过三层岩台形成三段水帘",
+      "瀑脚深潭与两侧谷壁让人看清水流下切的高度"
+    ],
+    "sources": [
+      {
+        "label": "庐山市政府·三叠泉",
+        "url": "https://www.lushan.gov.cn/bmxzxxgk/bumeng/whgdxwcbj/fdzdgknr_195359/lvyou/202512/t20251231_7134056.html"
+      }
+    ],
+    "photo": {
+      "file": "lushan.webp",
+      "alt": "从对岸眺望庐山三叠泉瀑布",
+      "author": "ZSong",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E5%BA%90%E5%B1%B1%E4%B8%89%E5%8F%A0%E6%B3%89.JPG",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "nanjing-museum": {
+    "summary": "南京博物院位于南京中山东路，前身是民国时期筹建的国立中央博物院。历史馆的建筑沿用仿辽代大殿的风格，入口宽阶之上是一排朱柱和开阔的琉璃瓦屋面。院内的历史展陈沿时间展开，还可以在专题展厅查看陶瓷、书画等器物，对照它们各自的时代与用途。",
+    "highlights": [
+      "历史馆前的宽台阶、朱柱与仿辽式大屋檐",
+      "从历史展进入专题馆，可将陶瓷书画置于年代中看"
+    ],
+    "sources": [
+      {
+        "label": "南京博物院",
+        "url": "https://www.njmuseum.org.cn/"
+      },
+      {
+        "label": "南京市委党史工作办公室·中央博物院旧址",
+        "url": "https://dsb.nanjing.gov.cn/yzyj/201311/t20131106_2083918.html"
+      }
+    ],
+    "photo": {
+      "file": "nanjing-museum.webp",
+      "alt": "南京博物院历史馆门额与屋檐",
+      "author": "Siyuwj",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Banner_of_Nanjing_Museum,_2015-06-20.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "orange-isle": {
+    "summary": "橘子洲是湖南长沙市区湘江中一条细长的江洲，西侧望见岳麓山，东侧隔江是长沙城。洲头的青年毛泽东艺术雕塑用花岗岩塑成，侧面能辨认向后伸展的长发。沿岸行走时，两道江水与两岸天际线交替进入视野，可以看出橘子洲在长沙城中的位置。",
+    "highlights": [
+      "洲头花岗岩雕塑保留青年毛泽东侧面的长发轮廓",
+      "隔着两道江水，可分别望向岳麓山和长沙城"
+    ],
+    "sources": [
+      {
+        "label": "湖南省政府·橘子洲",
+        "url": "https://hunan.gov.cn/hnszf/c101474/202108/t20210827_20403826.html"
+      },
+      {
+        "label": "湖南省工信厅·雕塑资料",
+        "url": "https://gxt.hunan.gov.cn/xxgk_71033/gzdt/gzdt_3/200912/t20091225_2842495.html"
+      }
+    ],
+    "photo": {
+      "file": "orange-isle.webp",
+      "alt": "长沙橘子洲头的青年毛泽东艺术雕塑",
+      "author": "Li Ming (sculptor)",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Young_Mao_Zedong_statue,_2010110303.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
+  },
+  "oriental-pearl": {
+    "summary": "东方明珠广播电视塔位于上海浦东陆家嘴，与外滩隔黄浦江相望。塔身立柱和斜撑托起大小不同的球体，细长天线从上方继续升高。常见的滨江视角能看清上下主球体的间距，登到观景层则可以俯看河道转弯和两岸各自的建筑群。",
+    "highlights": [
+      "塔身立柱与斜撑托起辨识度很高的球体",
+      "从观景层俯瞰黄浦江弯道和陆家嘴、外滩两岸建筑"
+    ],
+    "sources": [
+      {
+        "label": "上海市政府",
+        "url": "https://english.shanghai.gov.cn/en-ScenicSpots/20231205/19a5f5184eca45728fd57a4d4c8efc61.html"
+      }
+    ],
+    "photo": {
+      "file": "oriental-pearl.webp",
+      "alt": "从上海外滩隔黄浦江望向东方明珠和浦东楼群",
+      "author": "Gary Todd",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:2015_Oriental_Pearl_Tower,_Pudong,_Shanghai.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  "qingdao-zhanqiao": {
+    "summary": "青岛栈桥从老城区海岸伸入青岛湾，最早修建于清末，曾用于船只靠泊。桥身走到尽头，八角重檐的回澜阁立在伸出海面的平台上。从岸边沿桥向外望，可以看清笔直桥身与海面相接的轮廓，回身则能看到老城依海湾展开的岸线。",
+    "highlights": [
+      "笔直桥体向青岛湾心延伸，远端接海上平台",
+      "桥端回澜阁为八角重檐亭阁，可以回看老城岸线"
+    ],
+    "sources": [
+      {
+        "label": "青岛市政府·栈桥",
+        "url": "https://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml"
+      }
+    ],
+    "photo": {
+      "file": "qingdao-zhanqiao.webp",
+      "alt": "伸入青岛湾的栈桥与桥端回澜阁",
+      "author": "StefanTsingtauer",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B2%9B%E6%A0%88%E6%A1%A5_Ehemalige_Landungsbr%C3%BCcke_Qingdao.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "qufu": {
+    "summary": "曲阜孔庙位于山东济宁曲阜，源于孔子故居，历代扩建后形成沿中轴展开的祭孔建筑群。沿多层石阶可以登上主殿大成殿，黄色重檐之下是雕有游龙的石柱。与庙相邻的孔府以及城北的孔林和孔庙合称三孔，分别保留祭祀、居住与墓葬空间。",
+    "highlights": [
+      "大成殿以黄瓦重檐和前廊十根蟠龙石柱为标志",
+      "沿孔庙中轴穿过多座院门，可读出祭孔建筑的层次"
+    ],
+    "sources": [
+      {
+        "label": "曲阜文化建设示范区·大成殿",
+        "url": "https://qfwhjssfq.jining.gov.cn/art/2016/4/21/art_31772_1469949.html"
+      },
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/704/"
+      }
+    ],
+    "photo": {
+      "file": "qufu.webp",
+      "alt": "曲阜孔庙大成殿的黄瓦屋檐与殿前石阶",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:20230612_Dacheng_Dian,_Qufu_Kongmiao.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "shanhaiguan": {
+    "summary": "山海关位于河北秦皇岛，明代关城修在燕山和渤海之间的狭长地带，用来控制沿海与山间的往来。古城东门的城楼挂有天下第一关匾额，楼下石砌券门穿过高大的城台。沿城墙向外看，能体会这座关城怎样借助相邻的山势和海岸构成防线。",
+    "highlights": [
+      "城东的天下第一关门楼与灰砖城台连成一体",
+      "走上城墙可观察燕山山势与渤海岸线之间的通道"
+    ],
+    "sources": [
+      {
+        "label": "文化和旅游部·山海关",
+        "url": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=34799"
+      }
+    ],
+    "photo": {
+      "file": "shanhaiguan.webp",
+      "alt": "山海关城墙、城台和天下第一关门楼",
+      "author": "Caitriana Nicholson from 北京 ~ Beijing, 中国 ~ China",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:First_Pass_Under_Heaven_%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E5%85%B3_(6234530972).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "shapotou": {
+    "summary": "沙坡头在宁夏中卫的黄河岸边，腾格里沙漠的沙丘来到这里，和河道、沿岸植被排在同一个视野里。从较高的沙坡看过去，黄河绕出一道弯，近岸绿带顺着河道向远处延伸。黄河上的羊皮筏用充气皮囊托起木架，也是理解这处沙漠河岸生活的一种线索。",
+    "highlights": [
+      "从黄河边的陡沙坡俯看弯道和沿岸绿带",
+      "羊皮筏的充气皮囊与木架保留了旧时渡河形制"
+    ],
+    "sources": [
+      {
+        "label": "国家林业和草原局",
+        "url": "https://www.forestry.gov.cn/c/www/hmgzdt/524437.jhtml"
+      }
+    ],
+    "photo": {
+      "file": "shapotou.webp",
+      "alt": "中卫沙坡头景区的沙丘与黄河",
+      "author": "Fred Feng at English Wikipedia",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Shapotou.jpg"
+    }
+  },
+  "shennongjia": {
+    "summary": "神农顶位于湖北神农架高山区，起伏的高山草甸与低处的大片森林连在一起。沿山地升高，能看到不同海拔上树木种类、树形和草甸范围的变化。神农架保留着丰富的山地森林，也是川金丝猴等野生动物的重要栖息地，高处山脊可远望重叠山岭。",
+    "highlights": [
+      "神农顶一带可观察高山草甸与针叶林带的过渡",
+      "神农架山地森林是川金丝猴的重要栖息地"
+    ],
+    "sources": [
+      {
+        "label": "湖北省外事办·神农架",
+        "url": "https://www.fohb.gov.cn/info/2022-08/20220810160800_196.html"
+      },
+      {
+        "label": "国家林业和草原局",
+        "url": "https://www.forestry.gov.cn/c/www/sl/583672.jhtml"
+      }
+    ],
+    "photo": {
+      "file": "shennongjia.webp",
+      "alt": "湖北神农架神农顶的山地景观",
+      "author": "Brookqi",
+      "license": "Public domain",
+      "url": "https://commons.wikimedia.org/wiki/File:Shennongding.jpg"
+    }
+  },
+  "stone-forest": {
+    "summary": "石林位于云南昆明市石林彝族自治县，石灰岩经长期溶蚀，在地表形成一片高低错落的石峰。小石林中一尊像背着背篓的岩柱被称作阿诗玛，取名自当地彝族撒尼人的传说。沿小径在石峰间穿行，可以辨认岩柱侧面、裂隙和一组组尖削灰岩的不同轮廓。",
+    "highlights": [
+      "小石林里有以撒尼传说人物阿诗玛命名的岩峰",
+      "灰岩沿裂隙形成成片的尖峰，近看可见凹槽与石脊"
+    ],
+    "sources": [
+      {
+        "label": "文化和旅游部·石林奇观",
+        "url": "https://zhuanti.mct.gov.cn/xcszbwg2022/yunnan/detail/1993.html"
+      },
+      {
+        "label": "云南省民族宗教事务委员会",
+        "url": "https://mzzj.yn.gov.cn/html/2023/difangdongtai_0426/47825.html"
+      }
+    ],
+    "photo": {
+      "file": "stone-forest.webp",
+      "alt": "云南石林景区的阿诗玛岩峰",
+      "author": "LHOON",
+      "license": "CC BY-SA 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Ashima_rock_2.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  "summer-palace": {
+    "summary": "颐和园位于北京西北，以昆明湖和万寿山为骨架，前身是清代园林清漪园。万寿山前坡的佛香阁位于石台高处，下方是排云殿一带的殿廊，隔着昆明湖仍能认出阁顶。湖边的长廊随岸线伸展，把山坡建筑的层次和水面开阔的视角连在一起。",
+    "highlights": [
+      "佛香阁、排云殿与山前石台沿万寿山坡层层抬升",
+      "沿昆明湖岸的长廊行走，可以从水边回望万寿山"
+    ],
+    "sources": [
+      {
+        "label": "北京市政府·颐和园",
+        "url": "https://www.beijing.gov.cn/renwen/rwzyd/qxdw/myhdlzqzh/yhy/202309/t20230921_3263787.html"
+      },
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/880/"
+      }
+    ],
+    "photo": {
+      "file": "summer-palace.webp",
+      "alt": "北京颐和园万寿山上的佛香阁",
+      "author": "xiquinhosilva",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Summer_Palace_-_Tower_of_Buddhist_Incense.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "three-gorges-dam": {
+    "summary": "三峡大坝在湖北宜昌三斗坪，横跨长江干流，是三峡水利枢纽的主体。远看能认出混凝土坝面和中间一排泄洪闸孔，电站等设施分布在两侧。枢纽还配有船闸和升船机，船只通过这些设施跨过大坝上下游水位差，延续长江干线航行。",
+    "highlights": [
+      "从坝区看主坝中部排列整齐的闸墩和泄洪孔",
+      "观察船闸和升船机，理解船只怎样跨过水位差"
+    ],
+    "sources": [
+      {
+        "label": "中国三峡集团·工程建筑",
+        "url": "https://www.ctg.com.cn/sxjt/sxgc4/bwsx/2024081104052424463/index.html"
+      }
+    ],
+    "photo": {
+      "file": "three-gorges-dam.webp",
+      "alt": "湖北宜昌三峡大坝的坝体和长江水面",
+      "author": "維基小霸王",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%A1%E5%A4%A7%E5%9D%9D.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "tianjin-eye": {
+    "summary": "天津之眼在天津市区的永乐桥上，摩天轮和跨越海河的桥体连在一起。白色轮圈内是一组向中心汇聚的辐条，轿厢沿外缘排开。从岸上走到桥边，可以看到巨轮立于桥面和河道之上，沿河两侧的建筑也为观察它的尺度提供了参照。",
+    "highlights": [
+      "白色轮圈与辐条架在横跨海河的永乐桥上",
+      "沿轮缘排列的小轿厢使整座巨轮的尺度直观可辨"
+    ],
+    "sources": [
+      {
+        "label": "天津市政府·天津之眼",
+        "url": "https://www.tj.gov.cn/sq/yztj/jgtp/202005/t20200520_2468039.html"
+      }
+    ],
+    "photo": {
+      "file": "tianjin-eye.webp",
+      "alt": "天津海河永乐桥上的天津之眼摩天轮",
+      "author": "Erick Pessoa",
+      "license": "CC BY 2.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Tianjin_Eye_3.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  "wudang": {
+    "summary": "武当山位于湖北十堰，是道教宫观集中分布的山地。山上的古建筑群在明代经历大规模营建，宫殿、道观和山道顺着山形排布。天柱峰顶的金殿以铜铸成并施以鎏金，建在石城与岩峰的最高处，从山腰向上看，攀登石阶把周围地势和峰顶殿宇连了起来。",
+    "highlights": [
+      "天柱峰顶的鎏金铜殿立在岩峰与石城之上",
+      "宫观和攀登石阶顺山势延伸，体现山地建筑布局"
+    ],
+    "sources": [
+      {
+        "label": "联合国教科文组织",
+        "url": "https://whc.unesco.org/en/list/705/"
+      },
+      {
+        "label": "应急管理部·武当金殿",
+        "url": "https://www.mem.gov.cn/xw/gdyj/202511/t20251113_585466.shtml"
+      }
+    ],
+    "photo": {
+      "file": "wudang.webp",
+      "alt": "湖北武当天柱峰金殿建筑",
+      "author": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "url": "https://commons.wikimedia.org/wiki/File:20250526_Wudangshan_Jindian_(155228).jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  "wuyishan": {
+    "summary": "福建南平武夷山的九曲溪在红色砂岩山峰之间反复转弯，溪边分布着陡壁、林地和旧题刻。二曲附近的玉女峰从水边拔起，山体线条收窄，顶部留着一簇绿树。沿溪乘竹筏，转过一处河曲就会换一个角度，比较容易看清丹霞岩壁和水道之间的关系。",
+    "highlights": [
+      "玉女峰立在九曲溪旁，红砂岩与顶部树林轮廓鲜明",
+      "沿竹筏的视角看不断转弯的溪水和两岸丹霞峰壁"
+    ],
+    "sources": [
+      {
+        "label": "武夷山国家公园·玉女峰",
+        "url": "https://wysgjgy.fujian.gov.cn/yxgy/gyjg/201710/t20171025_5511573.htm"
+      },
+      {
+        "label": "武夷山国家公园·九曲溪",
+        "url": "https://wysgjgy.fujian.gov.cn/gygk/gygl/bsds/201711/t20171114_5511814.htm"
+      }
+    ],
+    "photo": {
+      "file": "wuyishan.webp",
+      "alt": "福建武夷山九曲溪与溪边玉女峰",
+      "author": "Rolf Müller ( User:Rolfmueller )",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Wuyishan_9bendriver.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  "xiangshawan": {
+    "summary": "响沙湾位于内蒙古鄂尔多斯市达拉特旗，处在库布其沙漠的东缘，罕台川从沙山前方经过。高沙坡弯成月牙形，坡顶和陡坡上可见风吹塑成的沙纹。名称来自沙粒沿坡滑动时发出的声响，远处的驼队或坡脚的河谷也能帮助看清这道沙山的大小。",
+    "highlights": [
+      "月牙形沙山的陡坡上可见不同方向的风成沙纹",
+      "从沙脊俯看罕台川河谷和库布其沙丘的交接地带"
+    ],
+    "sources": [
+      {
+        "label": "响沙湾景区官网",
+        "url": "https://www.xiangsw.com/xsw/about/about-2.html"
+      }
+    ],
+    "photo": {
+      "file": "xiangshawan.webp",
+      "alt": "内蒙古响沙湾景区内的沙丘",
+      "author": "Nyx Ning",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:%E5%86%85%E8%92%99%E5%8F%A4-%E5%93%8D%E6%B2%99%E6%B9%BE%E6%99%AF%E5%8C%BA_%E5%9C%9F%E8%91%97%E6%99%AF%E7%82%B9_-_panoramio.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "yueyang-tower": {
+    "summary": "岳阳楼立在湖南岳阳的洞庭湖岸边，楼下城台曾是岳州古城通向湖面的要地。因范仲淹《岳阳楼记》流传，这座临湖木楼也成为许多人熟悉的文学地标。走近看，三层楼身顶部收成金瓦盔顶，重叠屋檐和朱色回廊随着楼层逐步收窄。",
+    "highlights": [
+      "城台上的三层木楼以金瓦盔顶和朱红回廊为标志",
+      "临湖一侧能同时看到古城城台和铺展开的洞庭湖"
+    ],
+    "sources": [
+      {
+        "label": "湖南省政府·岳阳楼",
+        "url": "https://www.hunan.gov.cn/hnszf/c101480/202108/t20210830_20411802.html"
+      }
+    ],
+    "photo": {
+      "file": "yueyang-tower.webp",
+      "alt": "湖南岳阳楼正面",
+      "author": "Huangdan2060",
+      "license": "CC0",
+      "url": "https://commons.wikimedia.org/wiki/File:Frontal_view_of_Yueyang_Tower,_Hunan,_China1.jpg",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  "yulong": {
+    "summary": "玉龙雪山位于云南丽江北部，由一系列南北延展的高峰组成，扇子陡是主峰。远望时可辨认深灰色峭壁和高处成带分布的白雪，较低的冰川沿山沟伸展。由山脚向上观察，林地、裸岩与冰雪接连出现，展示了高差给这片山地带来的变化。",
+    "highlights": [
+      "扇子陡主峰的黑灰岩壁和成带白雪在远处便可辨认",
+      "冰川沿山沟延伸，山脚植被与高处裸岩层次鲜明"
+    ],
+    "sources": [
+      {
+        "label": "云南省林业和草原局",
+        "url": "https://lcj.yn.gov.cn/special/2025/0507/6576.html"
+      }
+    ],
+    "photo": {
+      "file": "yulong.webp",
+      "alt": "云南丽江玉龙雪山与山麓",
+      "author": "Photo by CEphoto, Uwe Aranas or alternatively © CEphoto, Uwe Aranas",
+      "license": "CC BY-SA 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Lijiang_Yunnan_China_Jade-Dragon-Snow-Mountain-01.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  "zhangye-danxia": {
+    "summary": "张掖七彩丹霞位于甘肃张掖的祁连山北麓，红褐、黄白等不同色泽的沉积岩层露在地表。地壳抬升和后来的侵蚀把岩层切成高低不平的坡面，色带也随山脊和沟谷斜向延伸。从七彩虹霞台一带远望，一道色带经常能从一处坡面追到相邻的山丘。",
+    "highlights": [
+      "红褐、黄白等色岩层斜穿相邻山岭和沟谷",
+      "七彩虹霞台一带适合辨认连续的坡面色带"
+    ],
+    "sources": [
+      {
+        "label": "张掖市政府·七彩丹霞",
+        "url": "https://www.zhangye.gov.cn/chzy/zyly/ajjq/202303/t20230318_1007476_ghb.html"
+      }
+    ],
+    "photo": {
+      "file": "zhangye-danxia.webp",
+      "alt": "张掖七彩丹霞的彩色岩层",
+      "author": "Raul-David Serban ( https://imaggeo.egu.eu/user/Raul/ )",
+      "license": "CC BY 3.0",
+      "url": "https://commons.wikimedia.org/wiki/File:Rainbow_Mountain_in_Zhangye_National_Geopark_in_Gansu_Province_in_China.jpg",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
+  }
+}

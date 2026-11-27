@@ -1,0 +1,3280 @@
+{
+  "models": [
+    {
+      "id": "a-ma",
+      "name": "妈阁庙",
+      "file": "a-ma.glb",
+      "version": "national-v1",
+      "source": "https://www.wh.gov.mo/cn/site/detail/1",
+      "sourceCopy": "data/landmarks/a-ma/source.blend",
+      "sourceSha256": "fc2570d93ed205dd0aa49a1c75e71e4f01de8b10811ca5778a51f3a87a860e8e",
+      "triangles": 3864,
+      "bytes": 620812,
+      "sha256": "987fb185d74a5d0c016b2f9c967881b8d7f7c6d4c9ca34eee62030c05f34ad55",
+      "materials": 13,
+      "embeddedImages": 13,
+      "bounds": {
+        "min": [
+          -5.050000190734863,
+          0,
+          -4.090000152587891
+        ],
+        "max": [
+          5.050000190734863,
+          4.281960964202881,
+          4.010000228881836
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 3864
+    },
+    {
+      "id": "alishan",
+      "name": "阿里山·沼平车站",
+      "file": "alishan.glb",
+      "version": "national-v1",
+      "source": "https://www.ali-nsa.net/zh-tw/attractions/detail/176",
+      "sourceCopy": "data/landmarks/alishan/source.blend",
+      "sourceSha256": "3acc2c8a7a5a7e3a5f40f46d1f3f5aa2a6b1c75048019d52a9964aeedb37a492",
+      "triangles": 7688,
+      "bytes": 806020,
+      "sha256": "862120313c4cf9c638f82942a9005de50a2920528300c466b988b04924731d6c",
+      "materials": 16,
+      "embeddedImages": 6,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          2.5942530632019043,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 8292
+    },
+    {
+      "id": "badaling",
+      "name": "八达岭长城",
+      "file": "badaling.glb",
+      "version": "national-v1",
+      "source": "https://www.visitbeijing.com.cn/article/47QqxoCnUj8",
+      "sourceCopy": "data/landmarks/badaling/source.blend",
+      "sourceTriangles": 7333,
+      "sourceSha256": "44fb1f51754c0e39bfb859ab38360559bde9dbcdb00207bfb53444ccbc7964ad",
+      "triangles": 7333,
+      "bytes": 575376,
+      "sha256": "5bfc445128716f887fd4d6835d0df71d7eda69851832a5cdbae53850053c30bc",
+      "materials": 7,
+      "embeddedImages": 5,
+      "bounds": {
+        "min": [
+          -11,
+          0,
+          -3.7748444080352783
+        ],
+        "max": [
+          11,
+          5.300000190734863,
+          3.700000047683716
+        ]
+      },
+      "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+    },
+    {
+      "id": "beijing-universal",
+      "name": "北京环球度假区",
+      "file": "beijing-universal.glb",
+      "version": "national-v1",
+      "source": "https://www.universalbeijingresort.com/zh_CN",
+      "sourceCopy": "data/landmarks/beijing-universal/source.blend",
+      "sourceTriangles": 7268,
+      "sourceSha256": "b6a9d8f997f6f95c40e0ca39a78a5c3f2635a73894380e61e356cd97125fbe2f",
+      "triangles": 7268,
+      "bytes": 624132,
+      "sha256": "84bd193103e4c6dfc1f5ca39f27f83c0eb1f8134e74c11c6bfafad7898f28b4c",
+      "materials": 8,
+      "embeddedImages": 3,
+      "bounds": {
+        "min": [
+          -5.28000020980835,
+          0,
+          -5.28000020980835
+        ],
+        "max": [
+          5.28000020980835,
+          6.380000114440918,
+          5.28000020980835
+        ]
+      },
+      "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+    },
+    {
+      "id": "birds-nest",
+      "name": "鸟巢",
+      "file": "birds-nest.glb",
+      "version": "national-v1",
+      "source": "https://www.n-s.cn/visitindex.html",
+      "sourceCopy": "data/landmarks/birds-nest/source.blend",
+      "sourceSha256": "03f79e861fabdc93389efecceb49e38d54ba225c273a649fca7e5c052b885d38",
+      "triangles": 7746,
+      "bytes": 602436,
+      "sha256": "a4dbdc776c260352861d0e0d81d05a09233d357b89d151e70086809a72101158",
+      "materials": 16,
+      "embeddedImages": 10,
+      "sourceTriangles": 7746,
+      "bounds": {
+        "min": [
+          -5.849999904632568,
+          0,
+          -6.074999809265137
+        ],
+        "max": [
+          5.849999904632568,
+          3.290731906890869,
+          6.074999809265137
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "bund",
+      "name": "上海外滩",
+      "file": "bund.glb",
+      "version": "national-v1",
+      "source": "https://whlyj.sh.gov.cn/zxta/20230721/42925f1923764d98bfa7198785e56512.html",
+      "sourceCopy": "data/landmarks/bund/source.blend",
+      "sourceTriangles": 3560,
+      "sourceSha256": "cdc12687cbe8f1577c2bd781c7c543ec48613cd87e0f5135d3a98a2893b2346a",
+      "triangles": 3560,
+      "bytes": 310860,
+      "sha256": "2c28093204f5b1f07f5fb33d92d7d52c45686960836b506107505a977f7d28f1",
+      "materials": 9,
+      "embeddedImages": 6,
+      "bounds": {
+        "min": [
+          -9.5,
+          0,
+          -3.2249999046325684
+        ],
+        "max": [
+          7.199999809265137,
+          11.039999961853027,
+          4.170000076293945
+        ]
+      },
+      "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+    },
+    {
+      "id": "canton-tower",
+      "name": "广州塔",
+      "version": "national-v1",
+      "file": "canton-tower.glb",
+      "source": "https://www.haizhu.gov.cn/hzdt/ztlm/tzhz/rjhj/lyjd/csmp/content/mpost_9190964.html",
+      "sourceCopy": "data/landmarks/canton-tower/source.blend",
+      "sourceTriangles": 9520,
+      "sourceSha256": "45be120fcac480723a5160c24fb6b74dfeca1630f2c0aaa93d99f7b70f4a3bc0",
+      "triangles": 7530,
+      "bytes": 417972,
+      "sha256": "846b4ca1e8fa7ee9f5a2ec0c89e96de4314554bbdd1d8155358b8caa35e00b0d",
+      "materials": 4,
+      "embeddedImages": 4,
+      "bounds": {
+        "min": [
+          -0.8700000047683716,
+          0,
+          -0.7099999785423279
+        ],
+        "max": [
+          0.8700000047683716,
+          6.5401082038879395,
+          0.7099999785423279
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+    },
+    {
+      "id": "changbai",
+      "name": "长白山天池",
+      "file": "changbai.glb",
+      "version": "national-v1",
+      "source": "https://www.changbaishan.gov.cn/zbsly/lyzn/bpgl/202108/t20210816_210159.html",
+      "sourceCopy": "data/landmarks/changbai/source.blend",
+      "sourceSha256": "f4ee476c42af89642e97f24c08443fb7851f64811fb80d4e21345e0cbef3a746",
+      "triangles": 3236,
+      "bytes": 395240,
+      "sha256": "1090b65a9ce371d01ecb7481fd5d19713718ed1972f2f5ce38dca4423cb647ab",
+      "materials": 11,
+      "embeddedImages": 6,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          2.832361936569214,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 3236
+    },
+    {
+      "id": "chengde-resort",
+      "name": "承德避暑山庄",
+      "file": "chengde-resort.glb",
+      "version": "national-v1",
+      "source": "https://www.bishushanzhuang.com.cn/index.php/scenic/pic_list/id/193.html",
+      "sourceCopy": "data/landmarks/chengde-resort/source.blend",
+      "sourceSha256": "240d60033cf513dc683e12c757c20d57ed300d6b15af1c65aab49c80d72e4afb",
+      "triangles": 4744,
+      "bytes": 621252,
+      "sha256": "4604cad582afc1d8d4aa59b3ef1a6bdcbfdadd0fef9314fe20279a862f017895",
+      "materials": 11,
+      "embeddedImages": 11,
+      "bounds": {
+        "min": [
+          -6.420000076293945,
+          0,
+          -3.950000047683716
+        ],
+        "max": [
+          6.340000152587891,
+          2.9419620037078857,
+          3.950000047683716
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 4744
+    },
+    {
+      "id": "chimelong-ocean-kingdom",
+      "name": "珠海长隆海洋王国",
+      "file": "chimelong-ocean-kingdom.glb",
+      "version": "national-v1",
+      "source": "https://www.chimelong.com/zh/oceankingdom/exhibition/2324.html",
+      "sourceCopy": "data/landmarks/chimelong-ocean-kingdom/source.blend",
+      "sourceSha256": "f8b4b1196e2549a42c5bdb46b7efcddf5f29a71cfe8d84ef821601e2da8da4b5",
+      "triangles": 7690,
+      "bytes": 823760,
+      "sha256": "b75edb133318fd63f87afed48dc5b66db05b3adda7ff2fa316e5f34c8a4756c1",
+      "materials": 21,
+      "embeddedImages": 3,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          3.3424932956695557,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 10726
+    },
+    {
+      "id": "chimelong-safari",
+      "name": "广州长隆野生动物世界",
+      "file": "chimelong-safari.glb",
+      "version": "national-v1",
+      "source": "https://www.chimelong.com/gz/safaripark/exhibition/",
+      "sourceCopy": "data/landmarks/chimelong-safari/source.blend",
+      "sourceSha256": "31703b0a1670a5483554aed94f199fade2e8cffeb245ec5351122c80828e4109",
+      "triangles": 5044,
+      "bytes": 467064,
+      "sha256": "f663843de0ec15eaf04519a4213f0d7f761b6ab240b633839947463ec029c3ef",
+      "materials": 15,
+      "embeddedImages": 14,
+      "sourceTriangles": 5044,
+      "bounds": {
+        "min": [
+          -5.400000095367432,
+          0,
+          -4.050000190734863
+        ],
+        "max": [
+          5.400000095367432,
+          2.9495420455932617,
+          4.050000190734863
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "china-science-museum",
+      "name": "中国科学技术馆",
+      "file": "china-science-museum.glb",
+      "version": "national-v1",
+      "source": "https://www.cstm.org.cn/gy/bggk/index.html",
+      "sourceCopy": "data/landmarks/china-science-museum/source.blend",
+      "sourceSha256": "93170983225c3168bad27844aa8e759f9397ac0a5723762de273f69b417b906d",
+      "triangles": 3854,
+      "bytes": 357096,
+      "sha256": "f1d378f962243f57a1ef72d6b890f5a662305ffb59d1925a77dbf19a178497d8",
+      "materials": 17,
+      "embeddedImages": 12,
+      "sourceTriangles": 3854,
+      "bounds": {
+        "min": [
+          -5.449999809265137,
+          0,
+          -4.650000095367432
+        ],
+        "max": [
+          5.449999809265137,
+          4.03000020980835,
+          4.650000095367432
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "crescent-lake",
+      "name": "鸣沙山月牙泉",
+      "file": "crescent-lake.glb",
+      "version": "national-v1",
+      "source": "https://www.forestry.gov.cn/c/www/lcdt/516966.jhtml",
+      "sourceCopy": "data/landmarks/crescent-lake/source.blend",
+      "sourceSha256": "2ac01ceb958d476792b6a6f926ce96f1754a770d9bc05ddfa68518aea0f86764",
+      "triangles": 7180,
+      "bytes": 765092,
+      "sha256": "9aee756d9195ed8a4c8514de972ae1c313d984563b4d56bf8f162e575b51d276",
+      "materials": 15,
+      "embeddedImages": 5,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          1.8815330266952515,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 7180
+    },
+    {
+      "id": "dali",
+      "name": "大理古城",
+      "version": "national-v1",
+      "file": "dali.glb",
+      "source": "https://ynmz.yn.gov.cn/index.php/cms/dimingfengcai/10523.html",
+      "sourceCopy": "data/landmarks/dali/source.blend",
+      "sourceTriangles": 3842,
+      "sourceSha256": "25c2e6b128b1d24ad470d8f24574d6dd0fe655e76bdb280925aa4edad918cb2a",
+      "triangles": 3842,
+      "bytes": 305632,
+      "sha256": "e60cbe6b99a18cb7b3bcd12b694f49e0f7908854778d4b0fc25965368210d335",
+      "materials": 8,
+      "embeddedImages": 8,
+      "bounds": {
+        "min": [
+          -3.125,
+          0,
+          -1.028923749923706
+        ],
+        "max": [
+          3.125,
+          3.8501999378204346,
+          1.028923749923706
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+    },
+    {
+      "id": "dazu",
+      "name": "大足石刻",
+      "file": "dazu.glb",
+      "version": "national-v1",
+      "source": "https://ps.whrsm.cas.cn/kpjt/kpwz/201410/t20141014_572106.html",
+      "sourceCopy": "data/landmarks/dazu/source.blend",
+      "sourceSha256": "8866f43485725bb8d3fe6da2dbce75cb8e3ad4262a32f13b253f7880aaafd607",
+      "triangles": 5524,
+      "bytes": 584524,
+      "sha256": "900ae0d85dfbb05420271b5f24b6576b886c5d7586482117392e04dcd841f556",
+      "materials": 6,
+      "embeddedImages": 6,
+      "bounds": {
+        "min": [
+          -6.400000095367432,
+          0,
+          -2.7750000953674316
+        ],
+        "max": [
+          6.400000095367432,
+          5.140328884124756,
+          2.7750000953674316
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 5524
+    },
+    {
+      "id": "detian",
+      "name": "德天跨国瀑布",
+      "file": "detian.glb",
+      "version": "national-v1",
+      "source": "https://eco.gov.cn/news_info/40720.html",
+      "sourceCopy": "data/landmarks/detian/source.blend",
+      "sourceSha256": "4fbffd18b1df3ce2f3a7b8f2ac567fb873526212acdad6dbb42a17fd0bc894db",
+      "triangles": 6046,
+      "bytes": 668852,
+      "sha256": "24e649d3937b9704c5318f5ce1340b956ab442acadb15cf7c9e0e9d41534a620",
+      "materials": 17,
+      "embeddedImages": 6,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          2.2552390098571777,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 6046
+    },
+    {
+      "id": "dujiangyan",
+      "name": "都江堰",
+      "file": "dujiangyan.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/1001/",
+      "sourceCopy": "data/landmarks/dujiangyan/source.blend",
+      "sourceSha256": "15f891bdbef864f5ec311baad7b3c4413f7e67c38787cdf31496467c48efa888",
+      "triangles": 4068,
+      "bytes": 363276,
+      "sha256": "7d41647eb622231cc9a023e781bfb35c843b06e58a63792ecec682093b9cfda0",
+      "materials": 12,
+      "embeddedImages": 11,
+      "sourceTriangles": 4068,
+      "bounds": {
+        "min": [
+          -5.449999809265137,
+          0,
+          -4.099999904632568
+        ],
+        "max": [
+          5.449999809265137,
+          1.669600009918213,
+          4.099999904632568
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "elephant-hill",
+      "name": "桂林象鼻山",
+      "version": "national-v1",
+      "file": "elephant-hill.glb",
+      "source": "https://m.glljsh.com/",
+      "sourceCopy": "data/landmarks/elephant-hill/source.blend",
+      "sourceTriangles": 10598,
+      "sourceSha256": "0ee8ecf7d980a70ad153b8263ea0691ff0544f2bdca86afb3b518754e732b2d4",
+      "triangles": 7530,
+      "bytes": 747204,
+      "sha256": "2c95d3b89858ded5b15f3897be27eb430113be712550e73d60c805cfcb694f94",
+      "materials": 7,
+      "embeddedImages": 7,
+      "bounds": {
+        "min": [
+          -2.7112927436828613,
+          -0.0008387545240111649,
+          -1.4143260717391968
+        ],
+        "max": [
+          3.972435474395752,
+          3.5404233932495117,
+          1.5394948720932007
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+    },
+    {
+      "id": "emei",
+      "name": "峨眉山·金顶",
+      "file": "emei.glb",
+      "version": "national-v1",
+      "source": "https://www.emeishan.gov.cn/emss/efbf/2023022214035442128800000.html",
+      "sourceCopy": "data/landmarks/emei/source.blend",
+      "sourceSha256": "31b21df5524b4bc664ea5d3b744d585336a74a4752b95ee62d41ea331a8f91d3",
+      "triangles": 6212,
+      "bytes": 767128,
+      "sha256": "484f74770dccbe2bafa79a34c62753dfd4cfb12f7233c299a1ec460c339a657a",
+      "materials": 15,
+      "embeddedImages": 8,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          3.1799609661102295,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 6212
+    },
+    {
+      "id": "erhai",
+      "name": "大理洱海·小普陀",
+      "file": "erhai.glb",
+      "version": "national-v1",
+      "source": "https://www.yndali.gov.cn/dlsrmzf/c106753/2018963738441322496/wUplLX2u.pdf",
+      "sourceCopy": "data/landmarks/erhai/source.blend",
+      "sourceSha256": "ede9010cce8c6d2ae67a314b3ea112a4b8136a56021d2d8a86a4332663efd4d2",
+      "triangles": 7690,
+      "bytes": 834680,
+      "sha256": "8632cef7d810821849f67a84511cfdb442a36a101882250d51b2c454b0a22690",
+      "materials": 24,
+      "embeddedImages": 6,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          1.6609619855880737,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 9604
+    },
+    {
+      "id": "everest",
+      "name": "珠峰景区",
+      "file": "everest.glb",
+      "version": "national-v1",
+      "source": "https://wlt.xizang.gov.cn/xwzx_69/jdxw/201812/t20181219_119925.html",
+      "sourceCopy": "data/landmarks/everest/source.blend",
+      "sourceSha256": "390190305751bf4c93c5015024cfef5108700327b4828d86f7b39615441a9c41",
+      "triangles": 7778,
+      "bytes": 803564,
+      "sha256": "14952aa52af0aaa982c8dba8e077b5c44076008b32e2d43680eb1503f44b6eae",
+      "materials": 9,
+      "embeddedImages": 4,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          4.40228796005249,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 7778
+    },
+    {
+      "id": "fanjingshan",
+      "name": "梵净山·红云金顶",
+      "file": "fanjingshan.glb",
+      "version": "national-v1",
+      "source": "https://www.tongren.gov.cn/2025/0709/336936.shtml",
+      "sourceCopy": "data/landmarks/fanjingshan/source.blend",
+      "sourceSha256": "89f5b7bc6c85bc72adc1785e3896dcd4975f55951ed84c331d26fc3418ed9083",
+      "triangles": 6681,
+      "bytes": 786336,
+      "sha256": "e75265b681514c263c3ceb1814394842b91aeceaa9c56609748ed28af4f738d4",
+      "materials": 16,
+      "embeddedImages": 8,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          3.9059619903564453,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 6681
+    },
+    {
+      "id": "fast-observatory",
+      "name": "中国天眼",
+      "file": "fast-observatory.glb",
+      "version": "national-v1",
+      "source": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/gz/202205/t20220509_932857.html",
+      "sourceCopy": "data/landmarks/fast-observatory/source.blend",
+      "sourceSha256": "c79bf646e9097a39862fd576a965a8f0a75a1bb201877be8e0760d1831289f68",
+      "triangles": 7690,
+      "bytes": 773492,
+      "sha256": "b6d851fe4184c114b6412e1c3e5b9d970b3ee48aa1b20174d97b317c4cc3b12e",
+      "materials": 16,
+      "embeddedImages": 3,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          3.111772298812866,
+          2.1918320655822754
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 10732
+    },
+    {
+      "id": "fenghuang",
+      "name": "凤凰古城",
+      "file": "fenghuang.glb",
+      "version": "national-v1",
+      "source": "https://www.hnrd.gov.cn/content/2006/07/22/7267206.html",
+      "sourceCopy": "data/landmarks/fenghuang/source.blend",
+      "sourceSha256": "f6727c80e0525f0a15e7e5f60ece683a2abb9a9e4ae7d72ea1dcb717d58edd8e",
+      "triangles": 2876,
+      "bytes": 262164,
+      "sha256": "6a6eb51cb8bf55f43fe394865cf706d87af8f9f71a3cbb7c6187b5840e73c361",
+      "materials": 13,
+      "embeddedImages": 11,
+      "sourceTriangles": 2876,
+      "bounds": {
+        "min": [
+          -5.400000095367432,
+          0,
+          -3.5999999046325684
+        ],
+        "max": [
+          5.400000095367432,
+          3.271960973739624,
+          3.5999999046325684
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "fujian-tulou",
+      "name": "福建土楼·田螺坑",
+      "file": "fujian-tulou.glb",
+      "version": "national-v1",
+      "source": "https://mzt.fujian.gov.cn/gk/wpldq/202511/t20251110_7031782.htm",
+      "sourceCopy": "data/landmarks/fujian-tulou/source.blend",
+      "sourceSha256": "ac9a4162001e8ac3e156590d0e104cd252221dc87c096077288f74350dc06dc4",
+      "triangles": 7450,
+      "bytes": 787860,
+      "sha256": "5b197356070f0a43efb0174ca580859015e18a490cfc55f0c805763c0f049c70",
+      "materials": 7,
+      "embeddedImages": 7,
+      "bounds": {
+        "min": [
+          -6.074999809265137,
+          0,
+          -4.880000114440918
+        ],
+        "max": [
+          6.074999809265137,
+          2.7527999877929688,
+          4.880000114440918
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 9008
+    },
+    {
+      "id": "gugong",
+      "name": "北京故宫·太和殿",
+      "file": "gugong.glb",
+      "version": "national-v1",
+      "source": "https://www.dpm.org.cn/explore/building/236465.html",
+      "sourceCopy": "data/landmarks/gugong/source.blend",
+      "triangles": 7098,
+      "bytes": 547604,
+      "sha256": "a6a7b266772492814cb156af3555660e2e9d8500d644a80e21f35421339c5c5f",
+      "materials": 14,
+      "embeddedImages": 7,
+      "bounds": {
+        "min": [
+          -43.31999969482422,
+          0,
+          -24.31999969482422
+        ],
+        "max": [
+          43.31999969482422,
+          33.97999954223633,
+          30.77396011352539
+        ]
+      },
+      "coordinateConvention": "glTF Y-up, +Z south-facing facade; origin directly below hall ridge midpoint"
+    },
+    {
+      "id": "gulangyu",
+      "name": "鼓浪屿",
+      "file": "gulangyu.glb",
+      "version": "national-v1",
+      "source": "https://www.fj.gov.cn/xwdt/mszx/202608/t20260806_7196669.htm",
+      "sourceCopy": "data/landmarks/gulangyu/source.blend",
+      "sourceSha256": "510ee05fec611b99d3565f07b2dc97cd8846d609d141df740def48ea6157245a",
+      "triangles": 3636,
+      "bytes": 497400,
+      "sha256": "57aeca694fd056f737a9ad417427708ecc675f32c6db09e4bc7aace1208714a1",
+      "materials": 10,
+      "embeddedImages": 10,
+      "bounds": {
+        "min": [
+          -5.400000095367432,
+          0,
+          -4.099999904632568
+        ],
+        "max": [
+          5.400000095367432,
+          6.929999828338623,
+          4.099999904632568
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 3636
+    },
+    {
+      "id": "haikou-arcades",
+      "name": "海口骑楼老街",
+      "file": "haikou-arcades.glb",
+      "version": "national-v1",
+      "source": "https://ggzy.haikou.gov.cn/gonggao/89849",
+      "sourceCopy": "data/landmarks/haikou-arcades/source.blend",
+      "sourceSha256": "69586fed3aeb6c0918c6a1fe322f590a2f35c4eb01ab3f57a3c5a256f75f0a4b",
+      "triangles": 2752,
+      "bytes": 257244,
+      "sha256": "b69a2cbc3e4dd117497b5066cc43e6ce5b54783c0e7268abd85cda90b1d7c4b9",
+      "materials": 11,
+      "embeddedImages": 10,
+      "sourceTriangles": 2752,
+      "bounds": {
+        "min": [
+          -5.5,
+          0,
+          -3.3499999046325684
+        ],
+        "max": [
+          5.5,
+          3.1176199913024902,
+          3.3499999046325684
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "harbin-ice-world",
+      "name": "哈尔滨冰雪大世界",
+      "file": "harbin-ice-world.glb",
+      "version": "national-v1",
+      "source": "https://wlt.hlj.gov.cn/wlt/c114165/202512/c00_31896256.shtml",
+      "sourceCopy": "data/landmarks/harbin-ice-world/source.blend",
+      "sourceSha256": "886abca6cbec206c5df243be1a192e07863ca1d1da62d0f68f75db08cfff16de",
+      "triangles": 3988,
+      "bytes": 278088,
+      "sha256": "d2a9d2721bd9dbb25773bfd9512726dc7bfa31bd985d9875a32729ca9e1bd3f0",
+      "materials": 3,
+      "embeddedImages": 3,
+      "sourceTriangles": 3988,
+      "bounds": {
+        "min": [
+          -5.300000190734863,
+          0,
+          -4.5
+        ],
+        "max": [
+          5.300000190734863,
+          6.380000114440918,
+          4.5
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "hengdian",
+      "name": "横店影视城·秦王宫",
+      "file": "hengdian.glb",
+      "version": "national-v1",
+      "source": "https://www.hengdianworld.com/Tourist/15/",
+      "sourceCopy": "data/landmarks/hengdian/source.blend",
+      "sourceTriangles": 4618,
+      "sourceSha256": "af81e70ef3e0c9e00c1b73f1be59bfc83fde565e05fd9fc3f5c0367c76a88a66",
+      "triangles": 4618,
+      "bytes": 375292,
+      "sha256": "cc796f18ab92d24ee9027a5c680b6a28f01d5b82012c7285208490e865b6a0aa",
+      "materials": 10,
+      "embeddedImages": 6,
+      "bounds": {
+        "min": [
+          -8.600000381469727,
+          0,
+          -5.300000190734863
+        ],
+        "max": [
+          8.600000381469727,
+          8.260000228881836,
+          7.800000190734863
+        ]
+      },
+      "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+    },
+    {
+      "id": "hk-disney",
+      "name": "香港迪士尼乐园",
+      "file": "hk-disney.glb",
+      "version": "national-v1",
+      "source": "https://www.hongkongdisneyland.com/zh-hk/attractions/castle-magical-dreams/",
+      "sourceCopy": "data/landmarks/hk-disney/source.blend",
+      "sourceSha256": "e6fd588d5998130c1176c0a8072ab826e2c3e51e212c5822726feb8da702bf84",
+      "triangles": 5158,
+      "bytes": 568768,
+      "sha256": "b6e29887fe29dcc2499b4f20b3750523f9a9d88bb96b0bc0fcc32e04f4b5ac3c",
+      "materials": 9,
+      "embeddedImages": 9,
+      "bounds": {
+        "min": [
+          -4.349999904632568,
+          0,
+          -2.559999942779541
+        ],
+        "max": [
+          4.349999904632568,
+          6.642499923706055,
+          2.559999942779541
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 5158
+    },
+    {
+      "id": "hongcun",
+      "name": "宏村",
+      "file": "hongcun.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/1002/",
+      "sourceCopy": "data/landmarks/hongcun/source.blend",
+      "sourceSha256": "431e47f236157fc07deca3e75f16fcd3049177eb232160100ca740616f79e57f",
+      "triangles": 3278,
+      "bytes": 294880,
+      "sha256": "eba31d00a19d0fa39cfd285ac79658c25507c5fe0ee4961ae0e6ff6610c96fba",
+      "materials": 12,
+      "embeddedImages": 10,
+      "sourceTriangles": 3278,
+      "bounds": {
+        "min": [
+          -4.800000190734863,
+          0,
+          -3.8499999046325684
+        ],
+        "max": [
+          4.800000190734863,
+          2.3776309490203857,
+          3.8499999046325684
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "hongyadong",
+      "name": "重庆洪崖洞",
+      "version": "national-v1",
+      "file": "hongyadong.glb",
+      "source": "https://whlyw.cq.gov.cn/zjwl/yzq/jqjd_1/202203/t20220304_10463056.html",
+      "sourceCopy": "data/landmarks/hongyadong/source.blend",
+      "sourceTriangles": 10372,
+      "sourceSha256": "f0423842ba6f0e6132339cf89dbf08d9dba4eb4df6e1945a11b1c7f93e55bc8a",
+      "triangles": 7530,
+      "bytes": 618472,
+      "sha256": "cb8962c96c254ed8a03129e69863c5c2856e49358615e5cc0a170b59d393d4f3",
+      "materials": 8,
+      "embeddedImages": 8,
+      "bounds": {
+        "min": [
+          -3.299999952316284,
+          0,
+          -1.2166084051132202
+        ],
+        "max": [
+          3.299999952316284,
+          4.070340633392334,
+          1.781999945640564
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+    },
+    {
+      "id": "huangguoshu",
+      "name": "黄果树瀑布",
+      "file": "huangguoshu.glb",
+      "version": "national-v1",
+      "source": "https://www.eco.gov.cn/news_info/40420.html",
+      "sourceCopy": "data/landmarks/huangguoshu/source.blend",
+      "sourceSha256": "71c9d80e6b545257b06883c37bee6d99bac1e4fbce22147db7284cef29426ebe",
+      "triangles": 5834,
+      "bytes": 667372,
+      "sha256": "96af552a823e5f13bce385e8ad7274a7ca96ed2ebecf3c4105c3b09feadfba6b",
+      "materials": 15,
+      "embeddedImages": 5,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          2.48028302192688,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 5834
+    },
+    {
+      "id": "huangling",
+      "name": "婺源篁岭",
+      "file": "huangling.glb",
+      "version": "national-v1",
+      "source": "https://new.wyhl.cc/site/wyhl/lyzx/rmhd/detail2024-10-28-312.html",
+      "sourceCopy": "data/landmarks/huangling/source.blend",
+      "sourceSha256": "7072bdd15521c6f12c259fe1c5bee8643ba24c3742e111fa5c20995cfc1bc466",
+      "triangles": 7450,
+      "bytes": 934684,
+      "sha256": "bba43eea7a86542f2761ee57d44758391150c8f706441e948ad4d2dc1e1f60f9",
+      "materials": 13,
+      "embeddedImages": 13,
+      "bounds": {
+        "min": [
+          -6.730000019073486,
+          0,
+          -4.900000095367432
+        ],
+        "max": [
+          6.730000019073486,
+          5.34696102142334,
+          4.900000095367432
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 9830
+    },
+    {
+      "id": "huangshan",
+      "name": "黄山迎客松",
+      "file": "huangshan.glb",
+      "version": "national-v1",
+      "source": "黄山市政府迎客松资料与玉屏实景，原创 Blender 程序建模",
+      "sourceCopy": "data/landmarks/huangshan/source.blend",
+      "sourceTriangles": 12612,
+      "sourceSha256": "c4de898c7a3576bb5197f19b12969d0379366e2f60e066cf0e957a5bdbd8b10c",
+      "triangles": 7675,
+      "bytes": 1137740,
+      "sha256": "5eed78c4d6467f35d92380bd67ad7294d7968f4931145d0c1aefb9c068fc0efe",
+      "materials": 5,
+      "embeddedImages": 4,
+      "bounds": {
+        "min": [
+          -2.1821205615997314,
+          0,
+          -2.036151170730591
+        ],
+        "max": [
+          4.276865482330322,
+          5.583150386810303,
+          2.0176119804382324
+        ]
+      },
+      "coordinateConvention": "glTF Y-up, +Z front, trunk-ground projection at X=Z=0, stone base Y=0, primary bough points mainly +X"
+    },
+    {
+      "id": "huashan",
+      "name": "华山·西峰",
+      "file": "huashan.glb",
+      "version": "national-v1",
+      "source": "https://weinan.qinfeng.gov.cn/info/1095/36343.htm",
+      "sourceCopy": "data/landmarks/huashan/source.blend",
+      "sourceSha256": "636c3d18332806e380826048980b65e38c779f21f3b6b89ec099a09d7f9d7ff4",
+      "triangles": 6018,
+      "bytes": 747208,
+      "sha256": "58f0ee7c4fe2d4cc02f46e22384111d921b00a364ad6adb91f29dbb55ba75aa7",
+      "materials": 15,
+      "embeddedImages": 8,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          3.4040470123291016,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 6018
+    },
+    {
+      "id": "hubei-museum",
+      "name": "湖北省博物馆",
+      "file": "hubei-museum.glb",
+      "version": "national-v1",
+      "source": "https://wlt.hubei.gov.cn/bmdt/xydt/202111/t20211112_3859467.shtml",
+      "sourceCopy": "data/landmarks/hubei-museum/source.blend",
+      "sourceSha256": "b557826a6691c03bbe1b899dc6c5781f33e80f699c008968ffb4a33e3c692be6",
+      "triangles": 4898,
+      "bytes": 440996,
+      "sha256": "30d15857a51066de1bad5d590df40a0a286110368b92d1bb2e432d255beaa6ed",
+      "materials": 19,
+      "embeddedImages": 15,
+      "sourceTriangles": 4898,
+      "bounds": {
+        "min": [
+          -5.650000095367432,
+          0,
+          -4.630000114440918
+        ],
+        "max": [
+          5.650000095367432,
+          3.4219610691070557,
+          4.630000114440918
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "hukou-falls",
+      "name": "黄河壶口瀑布",
+      "file": "hukou-falls.glb",
+      "version": "national-v1",
+      "source": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/sx/202208/t20220809_935221.html",
+      "sourceCopy": "data/landmarks/hukou-falls/source.blend",
+      "sourceSha256": "349ecf2950c66b2ee5c4a42fd86134b028705c89a6d38ef18cf2a235be194a27",
+      "triangles": 7690,
+      "bytes": 752844,
+      "sha256": "be1dddde6817c72fd8db8e6d35180023d19851acdc2297b62db57f84ebc6a981",
+      "materials": 13,
+      "embeddedImages": 0,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          1.7459720373153687,
+          2.159903049468994
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 10582
+    },
+    {
+      "id": "hulunbuir",
+      "name": "呼伦贝尔草原·莫尔格勒河",
+      "file": "hulunbuir.glb",
+      "version": "national-v1",
+      "source": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=34822",
+      "sourceCopy": "data/landmarks/hulunbuir/source.blend",
+      "sourceSha256": "5d0d7df8e3987a298f6b0dd2be6e130efa05dd2657653923bf7bc250df4291c3",
+      "triangles": 4458,
+      "bytes": 418108,
+      "sha256": "786bfcb6af367c0069d9ade833c1c9eaa8402c0ede2a94325dfe95293ff8c585",
+      "materials": 11,
+      "embeddedImages": 2,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          0.8572310209274292,
+          2.17543888092041
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 4458
+    },
+    {
+      "id": "hunan-museum",
+      "name": "湖南省博物馆",
+      "file": "hunan-museum.glb",
+      "version": "national-v1",
+      "source": "https://www.hunan.gov.cn/hnszf/jxxx/hslv/c101474/202108/t20210827_20401957.html",
+      "sourceCopy": "data/landmarks/hunan-museum/source.blend",
+      "sourceSha256": "34bf58d388157c9d658861220e5a9f690058a3d1d12ab0105aab9c8e97961650",
+      "triangles": 3622,
+      "bytes": 374216,
+      "sha256": "e8c79c98dfd6c0259cf493000665c015be01fc896669de52800ed1ceee0818fb",
+      "materials": 22,
+      "embeddedImages": 17,
+      "sourceTriangles": 3622,
+      "bounds": {
+        "min": [
+          -5.699999809265137,
+          0,
+          -4.300000190734863
+        ],
+        "max": [
+          5.699999809265137,
+          3.3399999141693115,
+          4.300000190734863
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "jiayuguan",
+      "name": "嘉峪关关城",
+      "file": "jiayuguan.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/438/",
+      "sourceCopy": "data/landmarks/jiayuguan/source.blend",
+      "sourceSha256": "f58793218e073fd8f8f3500dd8704b17d3bdb937385d7e7c9d9fac65b3bd249c",
+      "triangles": 7684,
+      "bytes": 752488,
+      "sha256": "28f9ca46500451c104445f1a58d0f45e51177014e6480fddfb013c2e8847a478",
+      "materials": 9,
+      "embeddedImages": 9,
+      "bounds": {
+        "min": [
+          -6.775000095367432,
+          0,
+          -4.179999828338623
+        ],
+        "max": [
+          6.775000095367432,
+          5.351962089538574,
+          4.179999828338623
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 7684
+    },
+    {
+      "id": "jingdezhen-kiln-museum",
+      "name": "景德镇御窑博物馆",
+      "file": "jingdezhen-kiln-museum.glb",
+      "version": "national-v1",
+      "source": "https://www.archdaily.com/zh/948088/jing-de-zhen-yu-yao-bo-wu-guan-zhu-pou-jian-zhu-shi-wu-suo",
+      "sourceCopy": "data/landmarks/jingdezhen-kiln-museum/source.blend",
+      "sourceSha256": "177fe08a36dc6ef38bb1057d202c828b487e91e8241735a5f6b4e796ad469f2e",
+      "triangles": 3148,
+      "bytes": 240268,
+      "sha256": "7ee894bf50b8964d51be165efa5256345241cdd36458c6650692151e7c49c1c5",
+      "materials": 9,
+      "embeddedImages": 9,
+      "sourceTriangles": 3148,
+      "bounds": {
+        "min": [
+          -5.550000190734863,
+          0,
+          -4.199999809265137
+        ],
+        "max": [
+          5.550000190734863,
+          2.24399995803833,
+          4.199999809265137
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "jiuzhaigou",
+      "name": "九寨沟",
+      "version": "national-v1",
+      "file": "jiuzhaigou.glb",
+      "source": "https://www.jiuzhai.com/about/scenic-spot/eature-spot/6117-2017-11-28-02",
+      "sourceCopy": "data/landmarks/jiuzhaigou/source.blend",
+      "sourceTriangles": 9904,
+      "sourceSha256": "fffdc04784e2f6d5b32fd40ef73d2a9cfaac053a513835167feb9264134430b2",
+      "triangles": 7530,
+      "bytes": 670924,
+      "sha256": "83c109e7675487d3586f4eb6b9410f883cc93d6197ef51fdf2d701b7c7f85918",
+      "materials": 9,
+      "embeddedImages": 9,
+      "bounds": {
+        "min": [
+          -3.950350046157837,
+          -0.0007542734383605421,
+          -1.8706505298614502
+        ],
+        "max": [
+          4.02299165725708,
+          2.597609281539917,
+          2.131718635559082
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+    },
+    {
+      "id": "kaiping-diaolou",
+      "name": "开平碉楼",
+      "file": "kaiping-diaolou.glb",
+      "version": "national-v1",
+      "source": "https://www.jiangmen.gov.cn/bmpd/jmswhgdlytyj/zwgk/gzdt/content/post_3258271.html",
+      "sourceCopy": "data/landmarks/kaiping-diaolou/source.blend",
+      "sourceSha256": "38fb6da8b6ddb71902ac24b6fea7199f676cdc40be4f17902eadc3d95a5c2551",
+      "triangles": 2392,
+      "bytes": 234400,
+      "sha256": "466fd80885b03193f9dcf60385d37bf54c6fbf0553fd34ece7a5ab1aa5eff246",
+      "materials": 11,
+      "embeddedImages": 10,
+      "sourceTriangles": 2392,
+      "bounds": {
+        "min": [
+          -4.25,
+          0,
+          -3.5999999046325684
+        ],
+        "max": [
+          4.25,
+          4.880000114440918,
+          3.5999999046325684
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "kanas",
+      "name": "喀纳斯·月亮湾",
+      "file": "kanas.glb",
+      "version": "national-v1",
+      "source": "https://zrzyt.xinjiang.gov.cn/xjgtzy/kpjd/202010/22b9bef9e4fc47638e7eac92c2936e47.shtml",
+      "sourceCopy": "data/landmarks/kanas/source.blend",
+      "sourceSha256": "3d246c42a87443081afe9b3148ede534a61cc18f00599e52b646225b2272ca3d",
+      "triangles": 7238,
+      "bytes": 660876,
+      "sha256": "99c285e732e6d4af4d66ec1dbe263b9d2717050e5d8da6773616daa31cb584d5",
+      "materials": 12,
+      "embeddedImages": 3,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          2.322948932647705,
+          2.144598960876465
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 7238
+    },
+    {
+      "id": "kashgar-old-city",
+      "name": "喀什古城",
+      "file": "kashgar-old-city.glb",
+      "version": "national-v1",
+      "source": "https://www.neac.gov.cn/seac/xwzx/202607/1192630.shtml",
+      "sourceCopy": "data/landmarks/kashgar-old-city/source.blend",
+      "sourceSha256": "beb0eb8958c04536d28dc9c594ae8a940fd6ab7127e3b000e123d2145f58c398",
+      "triangles": 1382,
+      "bytes": 127420,
+      "sha256": "4673344363a219ba2f6dc5c7b0df526ae779d976ca5a99cb5caf7dda36b42c8f",
+      "materials": 6,
+      "embeddedImages": 6,
+      "sourceTriangles": 1382,
+      "bounds": {
+        "min": [
+          -5.199999809265137,
+          0,
+          -3.799999952316284
+        ],
+        "max": [
+          5.199999809265137,
+          4.369999885559082,
+          3.799999952316284
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "leshan-buddha",
+      "name": "乐山大佛",
+      "file": "leshan-buddha.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/779/",
+      "sourceCopy": "data/landmarks/leshan-buddha/source.blend",
+      "sourceSha256": "1d86394c0339a90cf17f941bf84264cdad07be0959fd8a0cca351659c173543f",
+      "triangles": 6446,
+      "bytes": 760940,
+      "sha256": "f72ea57bdba680dbb9a5bd4c1cbb5cb3a7951c2bc2feb49f4252f29da1ed77d6",
+      "materials": 10,
+      "embeddedImages": 10,
+      "bounds": {
+        "min": [
+          -5.425000190734863,
+          0,
+          -2.5
+        ],
+        "max": [
+          5.425000190734863,
+          5.988080978393555,
+          2.5
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 6446
+    },
+    {
+      "id": "lijiang",
+      "name": "丽江古城",
+      "file": "lijiang.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/811/",
+      "sourceCopy": "data/landmarks/lijiang/source.blend",
+      "sourceSha256": "f4d7c1053eae2f39db0c19b172af3be44055e07107d73c17cba3b4f2e44ed439",
+      "triangles": 5692,
+      "bytes": 601680,
+      "sha256": "39d28b98265a4a6a035334829fda3cb32e90db8ffffa18c06289966487f72148",
+      "materials": 8,
+      "embeddedImages": 8,
+      "bounds": {
+        "min": [
+          -5.216728210449219,
+          0,
+          -3.4000000953674316
+        ],
+        "max": [
+          5.300000190734863,
+          4.493000030517578,
+          3.0999999046325684
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 5692
+    },
+    {
+      "id": "longmen",
+      "name": "龙门石窟",
+      "version": "national-v1",
+      "file": "longmen.glb",
+      "source": "https://ytsc.rootinhenan.gov.cn/sitesources/ytsc/page_pc/hnly/fjms/articlec716b8d99f6b4aa3ad4309161ed024db.html",
+      "sourceCopy": "data/landmarks/longmen/source.blend",
+      "sourceTriangles": 18476,
+      "sourceSha256": "655a6e1099c13ac26dfb79f1c18b938ac2d9955f65349db04da577857612ed86",
+      "triangles": 7529,
+      "bytes": 361848,
+      "sha256": "dbc5d6694a2f06b89bee0d3b2a5144384f85580d80d9b3e0837b8cb636ed6935",
+      "materials": 4,
+      "embeddedImages": 4,
+      "bounds": {
+        "min": [
+          -3.724236249923706,
+          0,
+          -2.035433769226074
+        ],
+        "max": [
+          3.704874038696289,
+          3.7211554050445557,
+          1.6435993909835815
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+    },
+    {
+      "id": "lushan",
+      "name": "庐山·三叠泉",
+      "file": "lushan.glb",
+      "version": "national-v1",
+      "source": "https://www.lushan.gov.cn/bmxzxxgk/bumeng/whgdxwcbj/fdzdgknr_195359/lvyou/202512/t20251231_7134056.html",
+      "sourceCopy": "data/landmarks/lushan/source.blend",
+      "sourceSha256": "64ab36d665ff62c9c052661b154bd0bfcf8dec77526d8f945124de429933949c",
+      "triangles": 6978,
+      "bytes": 805304,
+      "sha256": "3bbe72dd53538dbd602d2dfebabe6dff7318335dcf6ded5097fa314d54f0a32a",
+      "materials": 16,
+      "embeddedImages": 6,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.1807830333709717
+        ],
+        "max": [
+          3.075000047683716,
+          3.054054021835327,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 6978
+    },
+    {
+      "id": "mogao",
+      "name": "敦煌莫高窟",
+      "file": "mogao.glb",
+      "version": "national-v1",
+      "source": "https://www.dha.ac.cn/info/1425/3648.htm",
+      "sourceCopy": "data/landmarks/mogao/source.blend",
+      "sourceSha256": "82f3ef4a92b9bfb5429897a704f00a00dbd8fdde82785d65bfa1084b0e5c10b5",
+      "triangles": 4948,
+      "bytes": 608352,
+      "sha256": "5f175bf1f959bbffcea1f322505fa5a062414a2153b4508f00b213a618f6d5f3",
+      "materials": 10,
+      "embeddedImages": 10,
+      "bounds": {
+        "min": [
+          -5.300000190734863,
+          0,
+          -1.6699999570846558
+        ],
+        "max": [
+          5.300000190734863,
+          5.911962032318115,
+          1.6399999856948853
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 4948
+    },
+    {
+      "id": "nanjing-massacre-memorial",
+      "name": "侵华日军南京大屠杀遇难同胞纪念馆",
+      "file": "nanjing-massacre-memorial.glb",
+      "version": "national-v1",
+      "source": "https://www.19371213.com.cn/information/news/201807/t20180712_2232683.html",
+      "sourceCopy": "data/landmarks/nanjing-massacre-memorial/source.blend",
+      "sourceSha256": "56f74a86ae978b4a3e03e11d668a0cb1f610523f67731471a9857a8ef26187e1",
+      "triangles": 1948,
+      "bytes": 263728,
+      "sha256": "3ab40be6c044fc355f718c47f4ff8e95255fff5724ce89349d16a17d7fc7140a",
+      "materials": 17,
+      "embeddedImages": 13,
+      "sourceTriangles": 1948,
+      "bounds": {
+        "min": [
+          -5.5,
+          0,
+          -4.300000190734863
+        ],
+        "max": [
+          5.5,
+          2.3499999046325684,
+          4.300000190734863
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "nanjing-museum",
+      "name": "南京博物院",
+      "file": "nanjing-museum.glb",
+      "version": "national-v1",
+      "source": "https://www.njmuseum.org.cn/",
+      "sourceCopy": "data/landmarks/nanjing-museum/source.blend",
+      "sourceSha256": "57ed628a80916a7099e76cf024fddafe44a277853e11d5090dd9d6df4c7c2799",
+      "triangles": 1486,
+      "bytes": 173844,
+      "sha256": "562ec8f8636e89023fd62a032fc9b5b91765683174bb4d67ffe3876fb5e6258c",
+      "materials": 13,
+      "embeddedImages": 12,
+      "sourceTriangles": 1486,
+      "bounds": {
+        "min": [
+          -5.050000190734863,
+          0,
+          -3.9000000953674316
+        ],
+        "max": [
+          5.050000190734863,
+          3.3619608879089355,
+          3.9000000953674316
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "national-museum-china",
+      "name": "中国国家博物馆",
+      "file": "national-museum-china.glb",
+      "version": "national-v1",
+      "source": "https://www.gmp.de/cn/projects/471/national-museum-of-china",
+      "sourceCopy": "data/landmarks/national-museum-china/source.blend",
+      "sourceSha256": "1b068740b7a7ae4c2889ab2e15de00b6575eb3f1e3c3900caa18c51aef61e08c",
+      "triangles": 4484,
+      "bytes": 492068,
+      "sha256": "d364a6b5dbbb9bf997a438f9c1ff17edf59f119e7c06766237dd3a6869e90423",
+      "materials": 7,
+      "embeddedImages": 7,
+      "bounds": {
+        "min": [
+          -8.220000267028809,
+          0,
+          -5.324999809265137
+        ],
+        "max": [
+          8.220000267028809,
+          4.499000072479248,
+          5.324999809265137
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 4484
+    },
+    {
+      "id": "orange-isle",
+      "name": "长沙橘子洲",
+      "file": "orange-isle.glb",
+      "version": "national-v1",
+      "source": "https://www.hunan.gov.cn/hnszf/jxxx/hslv/c101474/202108/t20210827_20403826.html",
+      "sourceCopy": "data/landmarks/orange-isle/source.blend",
+      "sourceSha256": "2aab45e4c7743aa1d80772fd85c7041febd9280ac993a347a5f45e3ac801185f",
+      "triangles": 3446,
+      "bytes": 325492,
+      "sha256": "95fb17712c16d2379797fc06993a721fb17815a5d154c1221ed68ca0a1348443",
+      "materials": 13,
+      "embeddedImages": 12,
+      "sourceTriangles": 3446,
+      "bounds": {
+        "min": [
+          -4.099999904632568,
+          0,
+          -4.449999809265137
+        ],
+        "max": [
+          4.099999904632568,
+          3.859999895095825,
+          4.449999809265137
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "oriental-pearl",
+      "name": "东方明珠",
+      "file": "oriental-pearl.glb",
+      "version": "national-v1",
+      "source": "https://www.otis.com/zh/cn/our-company/global-projects/project-showcase/oriental-pearl-tower",
+      "sourceCopy": "data/landmarks/oriental-pearl/source.blend",
+      "sourceSha256": "1a541310127197d1c82397bf22a214eb6e0c88a93456427acbfd27dd4e098042",
+      "triangles": 5850,
+      "bytes": 464548,
+      "sha256": "d3ef5055db998b12053bfd200821e204bc8fabb68e8bbf50a822b25a9a95f905",
+      "materials": 9,
+      "embeddedImages": 7,
+      "sourceTriangles": 5850,
+      "bounds": {
+        "min": [
+          -2.6500000953674316,
+          0,
+          -2.6500000953674316
+        ],
+        "max": [
+          2.6500000953674316,
+          9.050000190734863,
+          2.6500000953674316
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "panda-base",
+      "name": "成都大熊猫繁育研究基地",
+      "version": "national-v1",
+      "file": "panda-base.glb",
+      "source": "https://m.panda.org.cn/cn/service/sightseeingbus/",
+      "sourceCopy": "data/landmarks/panda-base/source.blend",
+      "sourceTriangles": 7710,
+      "sourceSha256": "89aaba3647ee86fbc881f326ba10716b48cff74ba5193d171c8f9a7574749f08",
+      "triangles": 7710,
+      "bytes": 367584,
+      "sha256": "fdede4acbf84727aff3f5e56157bb9cd573e71bfd09329eebb4f94282bbab005",
+      "materials": 9,
+      "embeddedImages": 9,
+      "bounds": {
+        "min": [
+          -3.112945556640625,
+          0,
+          -2.0626766681671143
+        ],
+        "max": [
+          3.1459686756134033,
+          2.4171085357666016,
+          2.032496452331543
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+    },
+    {
+      "id": "pingyao",
+      "name": "平遥古城",
+      "file": "pingyao.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/812/",
+      "sourceCopy": "data/landmarks/pingyao/source.blend",
+      "sourceSha256": "fefee5038de3d7dcf3ede294003176ffe562a48fcaea41e411a6592c671fbfae",
+      "triangles": 6506,
+      "bytes": 720180,
+      "sha256": "ebf1a3a559b555f621207b69b5f933dd4a56bac75727148c69b05d303d8a5a65",
+      "materials": 11,
+      "embeddedImages": 11,
+      "bounds": {
+        "min": [
+          -5.474999904632568,
+          0,
+          -4.925000190734863
+        ],
+        "max": [
+          5.474999904632568,
+          7.031960964202881,
+          4.925000190734863
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 6506
+    },
+    {
+      "id": "potala",
+      "name": "布达拉宫",
+      "file": "potala.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/707/",
+      "sourceCopy": "data/landmarks/potala/source.blend",
+      "sourceSha256": "730fe1a354d900a83b35713ef50a93d0a5cc0aab0b188de9e47cae02879a46ef",
+      "triangles": 7520,
+      "bytes": 711876,
+      "sha256": "b176dfe7fe5051d3134e259c806e2b967c00e4286e3408e5a08516d8fda09a72",
+      "materials": 7,
+      "embeddedImages": 7,
+      "bounds": {
+        "min": [
+          -6.2399139404296875,
+          0,
+          -2.5784099102020264
+        ],
+        "max": [
+          6.537255764007568,
+          6.110000133514404,
+          2.7400929927825928
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 7520
+    },
+    {
+      "id": "prince-kung",
+      "name": "恭王府博物馆",
+      "file": "prince-kung.glb",
+      "version": "national-v1",
+      "source": "https://www.pgm.org.cn/pgm/wfjd/201402/4bd8662d01834dc4888ffd229d2e0dff.shtml",
+      "sourceCopy": "data/landmarks/prince-kung/source.blend",
+      "sourceSha256": "9752b924a2ccf9be829b08453dc64e681bfa2765c7b2a5d3ff3300b0584bdf4d",
+      "triangles": 6212,
+      "bytes": 816824,
+      "sha256": "a88cb92e52965112e9147c501d3e5c9785501ee0b42ee01f53459f8021fe4cd9",
+      "materials": 15,
+      "embeddedImages": 15,
+      "bounds": {
+        "min": [
+          -6.275000095367432,
+          0,
+          -5.150000095367432
+        ],
+        "max": [
+          6.275000095367432,
+          3.4670000076293945,
+          5.150000095367432
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 6212
+    },
+    {
+      "id": "putuo",
+      "name": "普陀山·普济禅寺",
+      "file": "putuo.glb",
+      "version": "national-v1",
+      "source": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2476/site/attach/0/3zyz-1-1/%E8%88%9F%E5%B1%B1%E5%B8%82%E4%BA%A4%E9%80%9A%E5%BF%97.pdf",
+      "sourceCopy": "data/landmarks/putuo/source.blend",
+      "sourceSha256": "8b52438a860c986d39ed8f83cf9dcf627e77ba5d3c2a88d141bf7771d68f71e8",
+      "triangles": 3376,
+      "bytes": 664676,
+      "sha256": "f298ab490f8f1d95abc9e758d62402b023b1c4bfead4cc122a8f70da351e6d68",
+      "materials": 16,
+      "embeddedImages": 16,
+      "bounds": {
+        "min": [
+          -5.425000190734863,
+          0,
+          -4.375
+        ],
+        "max": [
+          5.425000190734863,
+          3.1115620136260986,
+          4.375
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 3376
+    },
+    {
+      "id": "qingdao-zhanqiao",
+      "name": "青岛栈桥",
+      "file": "qingdao-zhanqiao.glb",
+      "version": "national-v1",
+      "source": "https://www.qingdao.gov.cn/yfqd/qdwl/cjfw/wyqhb/202009/t20200902_518755.shtml",
+      "sourceCopy": "data/landmarks/qingdao-zhanqiao/source.blend",
+      "sourceSha256": "51817e12ac6bfdedcde19d13568ef5bb423a044dfa1fc42b2d2d687e01e6038b",
+      "triangles": 2098,
+      "bytes": 211004,
+      "sha256": "21f0c55768481c1d37807584806a7ad17bd5065d25976c3c2b019adf01cde152",
+      "materials": 12,
+      "embeddedImages": 10,
+      "sourceTriangles": 2098,
+      "bounds": {
+        "min": [
+          -3.700000047683716,
+          0,
+          -5.5
+        ],
+        "max": [
+          3.700000047683716,
+          2.6919000148773193,
+          5.5
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "qinghai-lake",
+      "name": "青海湖·二郎剑",
+      "file": "qinghai-lake.glb",
+      "version": "national-v1",
+      "source": "https://www.gonghe.gov.cn/lnb/zjgh1/stgh1__zjgh/stgh/content_1013640474",
+      "sourceCopy": "data/landmarks/qinghai-lake/source.blend",
+      "sourceSha256": "dd0630c90413280da9bcc065334f45af6ab83ddd320c1e5f6c406b15b34d8d70",
+      "triangles": 4450,
+      "bytes": 331300,
+      "sha256": "ccec1721e7ffb55379b5f61397d1a602ac1af66a2331fb2446c0cb6c0b0c9204",
+      "materials": 11,
+      "embeddedImages": 3,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          1.004876971244812,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 4450
+    },
+    {
+      "id": "qingming-park",
+      "name": "开封清明上河园",
+      "file": "qingming-park.glb",
+      "version": "national-v1",
+      "source": "https://www.shunhequ.gov.cn/kfsshhzqwz/c00314/pc/content/content_1909548820819951616.html",
+      "sourceCopy": "data/landmarks/qingming-park/source.blend",
+      "sourceSha256": "4de6e4b077b254d6105ec38a49f5ad3965c5fba9d1b5746f01882cb45d7e81d3",
+      "triangles": 3690,
+      "bytes": 315140,
+      "sha256": "185a3a94b168c0a7d3a7dad40e73740d3f92d9c5e2593cffd615869b08254a79",
+      "materials": 13,
+      "embeddedImages": 11,
+      "sourceTriangles": 3690,
+      "bounds": {
+        "min": [
+          -5.5,
+          0,
+          -3.625
+        ],
+        "max": [
+          5.5,
+          2.2799999713897705,
+          3.625
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "qinhuai",
+      "name": "夫子庙秦淮风光带",
+      "file": "qinhuai.glb",
+      "version": "national-v1",
+      "source": "https://www.kmbhxh.cn/txwm/zg/2017-03-06/147.html",
+      "sourceCopy": "data/landmarks/qinhuai/source.blend",
+      "sourceTriangles": 6274,
+      "sourceSha256": "f03e0e97eddf75b05cffc3899c433ecc51464ca8d188a8aa48deb795267f5fad",
+      "triangles": 6274,
+      "bytes": 481180,
+      "sha256": "ce859173fcfd4b24e1ad6e8f84e7207c3f1f77bf1cdb63637811e436d7dc11dc",
+      "materials": 11,
+      "embeddedImages": 6,
+      "bounds": {
+        "min": [
+          -8.138486862182617,
+          0,
+          -0.8500000238418579
+        ],
+        "max": [
+          8.11387825012207,
+          3.7799999713897705,
+          5.949999809265137
+        ]
+      },
+      "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+    },
+    {
+      "id": "qufu",
+      "name": "曲阜孔庙",
+      "file": "qufu.glb",
+      "version": "national-v1",
+      "source": "https://qfwhjssfq.jining.gov.cn/art/2016/4/21/art_31772_1469949.html",
+      "sourceCopy": "data/landmarks/qufu/source.blend",
+      "sourceSha256": "e2cb43013e8d6233bf0c8c8b22a361e061508730018935fa06f5957b985b6ec7",
+      "triangles": 4068,
+      "bytes": 621872,
+      "sha256": "447926038951ae44e85fbb2a4cee53432cda237e7174a3c395bec53d2b8d1eff",
+      "materials": 13,
+      "embeddedImages": 13,
+      "bounds": {
+        "min": [
+          -6.175000190734863,
+          0,
+          -4.324999809265137
+        ],
+        "max": [
+          6.175000190734863,
+          4.387960910797119,
+          4.324999809265137
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 4068
+    },
+    {
+      "id": "qutang-kuimen",
+      "name": "长江三峡·瞿塘峡夔门",
+      "file": "qutang-kuimen.glb",
+      "version": "national-v1",
+      "source": "https://www.cq.gov.cn/zjcq/cycq/zmjd/zqaaaaajjq/202606/t20260604_15729050.html",
+      "sourceCopy": "data/landmarks/qutang-kuimen/source.blend",
+      "sourceSha256": "9f5fbd41a54d439a65749f1b4562404e37ebb24367fd834b00177b78ff4d55db",
+      "triangles": 7690,
+      "bytes": 752528,
+      "sha256": "464bab36f62f860a54627e7a331d3d36837246e9728fae80a1687a831326e288",
+      "materials": 17,
+      "embeddedImages": 3,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          4.414467811584473,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 8406
+    },
+    {
+      "id": "saint-sophia",
+      "name": "圣索菲亚教堂",
+      "file": "saint-sophia.glb",
+      "version": "national-v1",
+      "source": "https://fao.hlj.gov.cn/fao/c111834/202206/30672974/files/206c9110bd75c8a2e771b5434ffd70e9.pdf",
+      "sourceCopy": "data/landmarks/saint-sophia/source.blend",
+      "sourceTriangles": 6144,
+      "sourceSha256": "811dc88b92f715f3133cc7162be0577f762c296bceecef3ba19157975823959c",
+      "triangles": 6144,
+      "bytes": 459240,
+      "sha256": "86a7938f3d93c006637137a1966129570c1c33dd96d79958a607f73901077f30",
+      "materials": 8,
+      "embeddedImages": 4,
+      "bounds": {
+        "min": [
+          -6.400000095367432,
+          0,
+          -7.449999809265137
+        ],
+        "max": [
+          6.400000095367432,
+          11.170000076293945,
+          7.449999809265137
+        ]
+      },
+      "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+    },
+    {
+      "id": "sanxingdui",
+      "name": "三星堆博物馆",
+      "file": "sanxingdui.glb",
+      "version": "national-v1",
+      "source": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/sc/202308/t20230801_946332.html",
+      "sourceCopy": "data/landmarks/sanxingdui/source.blend",
+      "sourceSha256": "f7d0727f75d2a45f7076701b44865d02e2b321a6b6ffcf36456318dccc87447e",
+      "triangles": 1892,
+      "bytes": 198340,
+      "sha256": "7472bed6c238a5e5b6f3b7f248037078f70bc135b1942f6998305fc027fa6c44",
+      "materials": 10,
+      "embeddedImages": 9,
+      "sourceTriangles": 1892,
+      "bounds": {
+        "min": [
+          -5.449999809265137,
+          0,
+          -4.199999809265137
+        ],
+        "max": [
+          5.449999809265137,
+          2.940000057220459,
+          4.199999809265137
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "sayram",
+      "name": "赛里木湖",
+      "file": "sayram.glb",
+      "version": "national-v1",
+      "source": "https://www.xjboz.gov.cn/xjboz/c126221/202202/6c11b0230bb14c3aa22e87110b9ce152.shtml",
+      "sourceCopy": "data/landmarks/sayram/source.blend",
+      "sourceSha256": "1fee4a2f3e8e9ce170bffe08dbd8b6803139c47a0fd9f0f878fb06219a748e6c",
+      "triangles": 7449,
+      "bytes": 850780,
+      "sha256": "a98454cdd86a5bc36bc27a8b83f3aa01df08336c8f1d766f2a9c113deb103fbd",
+      "materials": 9,
+      "embeddedImages": 9,
+      "bounds": {
+        "min": [
+          -5.300000190734863,
+          0,
+          -3.3528990745544434
+        ],
+        "max": [
+          5.300000190734863,
+          3.2887940406799316,
+          3.299999952316284
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 7769
+    },
+    {
+      "id": "shaanxi-history-museum",
+      "name": "陕西历史博物馆本馆",
+      "file": "shaanxi-history-museum.glb",
+      "version": "national-v1",
+      "source": "https://www.sxhm.com/history.html?_isa=1",
+      "sourceCopy": "data/landmarks/shaanxi-history-museum/source.blend",
+      "sourceSha256": "f5412b5d35e5e79d36f721f5a99b54cdc19d70d674bf9d917a0c6f989fa5358e",
+      "triangles": 7260,
+      "bytes": 856720,
+      "sha256": "2e780f214ee06373a0debfa74128ff8f190407d9531f36d6aa767064029d2ac8",
+      "materials": 14,
+      "embeddedImages": 14,
+      "bounds": {
+        "min": [
+          -7.489999771118164,
+          0,
+          -5.980000019073486
+        ],
+        "max": [
+          7.489999771118164,
+          4.086360931396484,
+          5.980000019073486
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 7260
+    },
+    {
+      "id": "shanghai-disney",
+      "name": "上海迪士尼度假区",
+      "file": "shanghai-disney.glb",
+      "version": "national-v1",
+      "source": "https://www.shanghaidisneyresort.com/zh-cn/experience/attraction/enchanted-storybook-castle",
+      "sourceCopy": "data/landmarks/shanghai-disney/source.blend",
+      "sourceTriangles": 4870,
+      "sourceSha256": "3871c49c8bba9ad7b71f96d7714ebb4a0a6c23f3d70e66cd9e5d970e5d47ed41",
+      "triangles": 4870,
+      "bytes": 340700,
+      "sha256": "da1e156cf1af81b508362e76309415548336a9578854e9a59b11974ca389dcfc",
+      "materials": 6,
+      "embeddedImages": 2,
+      "bounds": {
+        "min": [
+          -5.418843746185303,
+          0,
+          -4.268321514129639
+        ],
+        "max": [
+          5.418843746185303,
+          11.34000015258789,
+          3.9683213233947754
+        ]
+      },
+      "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+    },
+    {
+      "id": "shanghai-museum-east",
+      "name": "上海博物馆东馆",
+      "file": "shanghai-museum-east.glb",
+      "version": "national-v1",
+      "source": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/I00004702",
+      "sourceCopy": "data/landmarks/shanghai-museum-east/source.blend",
+      "sourceSha256": "ac1c330c13a95a683b46bfc4a50e49e56f71bd6b10e2829e68ff7106cf87829d",
+      "triangles": 5910,
+      "bytes": 491684,
+      "sha256": "55d375279baa50959c0f36e77a47ddfb586057b7a270be414f16951d366fb381",
+      "materials": 17,
+      "embeddedImages": 13,
+      "sourceTriangles": 5910,
+      "bounds": {
+        "min": [
+          -5.949999809265137,
+          0,
+          -4.5
+        ],
+        "max": [
+          5.949999809265137,
+          4.21999979019165,
+          4.5
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "shanhaiguan",
+      "name": "山海关",
+      "file": "shanhaiguan.glb",
+      "version": "national-v1",
+      "source": "https://sjfw.mct.gov.cn/site/dataservice/culdetails?curId=10&id=34799",
+      "sourceCopy": "data/landmarks/shanhaiguan/source.blend",
+      "sourceSha256": "fddb175923fa1cbd0e3ee5073a4fd62630f8f3ad7f4e16fa3fdbed7aed3fa565",
+      "triangles": 2152,
+      "bytes": 379992,
+      "sha256": "631184128c8cd190bac86cd567cb79dbe48cb6329a2bc85a31817b4a44fecdd7",
+      "materials": 9,
+      "embeddedImages": 9,
+      "bounds": {
+        "min": [
+          -5.900000095367432,
+          0,
+          -3.450000047683716
+        ],
+        "max": [
+          5.900000095367432,
+          5.046761989593506,
+          3.450000047683716
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 2152
+    },
+    {
+      "id": "shaolin",
+      "name": "少林寺",
+      "file": "shaolin.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/1305/",
+      "sourceCopy": "data/landmarks/shaolin/source.blend",
+      "sourceSha256": "3ccd2644812fbb059742719671073d40c7665f4242caf54db831cdb5f2afaa89",
+      "triangles": 1790,
+      "bytes": 472112,
+      "sha256": "e3bd0efe529dc3aabbf8f2d865e9ad383fc50523b85b0014d78d305e02dc94b7",
+      "materials": 13,
+      "embeddedImages": 13,
+      "bounds": {
+        "min": [
+          -5.369999885559082,
+          0,
+          -3.2249999046325684
+        ],
+        "max": [
+          5.369999885559082,
+          4.381960868835449,
+          3.2249999046325684
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 1790
+    },
+    {
+      "id": "shapotou",
+      "name": "沙坡头",
+      "file": "shapotou.glb",
+      "version": "national-v1",
+      "source": "https://www.forestry.gov.cn/c/www/hmgzdt/524437.jhtml",
+      "sourceCopy": "data/landmarks/shapotou/source.blend",
+      "sourceSha256": "a4ddbeff285ceabe188b378cb79def1e007cfc44c32d05e94eba0029c1cd80ee",
+      "triangles": 7192,
+      "bytes": 769804,
+      "sha256": "d8ae611a5f647951897db2bc0f3ad48e5b5c92fd050fdd9de2ff56b3e3a49aaf",
+      "materials": 13,
+      "embeddedImages": 3,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          2.87723708152771,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 7192
+    },
+    {
+      "id": "shennongjia",
+      "name": "神农架·神农顶",
+      "file": "shennongjia.glb",
+      "version": "national-v1",
+      "source": "https://www.fohb.gov.cn/info/2022-08/20220810160800_196.html",
+      "sourceCopy": "data/landmarks/shennongjia/source.blend",
+      "sourceSha256": "48ae96801186b0554a1f40d6974d1fbaef5546ddad1c30191303cbec0e37ad51",
+      "triangles": 6518,
+      "bytes": 716964,
+      "sha256": "6976105678ab4b08797ba88833526e11956d1830977457d9f4f0a25f542f3309",
+      "materials": 14,
+      "embeddedImages": 5,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          2.9576730728149414,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 6518
+    },
+    {
+      "id": "shenyang-palace",
+      "name": "沈阳故宫",
+      "file": "shenyang-palace.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/439/",
+      "sourceCopy": "data/landmarks/shenyang-palace/source.blend",
+      "sourceSha256": "e39ddc60925c7b25e547882b1ae669f206cf4b606164986218abd2ebbf93d9e7",
+      "triangles": 4288,
+      "bytes": 548728,
+      "sha256": "514795a0d2a6a3c7dfb2350fc887e02cff125f7092791fb981f031aee86c5982",
+      "materials": 10,
+      "embeddedImages": 10,
+      "bounds": {
+        "min": [
+          -5.449999809265137,
+          0,
+          -3.75
+        ],
+        "max": [
+          5.449999809265137,
+          4.432000160217285,
+          3.75
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 4288
+    },
+    {
+      "id": "slender-west-lake",
+      "name": "扬州瘦西湖",
+      "file": "slender-west-lake.glb",
+      "version": "national-v1",
+      "source": "https://www.jsrd.gov.cn/qwfb/d_sjfg/202512/t20251229_1191953.shtml",
+      "sourceCopy": "data/landmarks/slender-west-lake/source.blend",
+      "sourceSha256": "a27d76d256c7d021815f30cdb4508c9168c784acb14102378753caa16312c39e",
+      "triangles": 4866,
+      "bytes": 394228,
+      "sha256": "57934c8e877d7685f65e369e5615ce5a6d7af9733857c7858896af7b0e20043b",
+      "materials": 13,
+      "embeddedImages": 11,
+      "sourceTriangles": 4866,
+      "bounds": {
+        "min": [
+          -5.400000095367432,
+          0,
+          -3.4000000953674316
+        ],
+        "max": [
+          5.400000095367432,
+          3.653820037841797,
+          3.4000000953674316
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "st-pauls",
+      "name": "澳门大三巴牌坊",
+      "file": "st-pauls.glb",
+      "version": "national-v1",
+      "source": "https://www.wh.mo/gb/site/detail/18",
+      "sourceCopy": "data/landmarks/st-pauls/source.blend",
+      "sourceSha256": "0a177d5b913c52ae76b2f0c6d1ec5a2ba0c08a45828c461eb90a28f80721b504",
+      "triangles": 4490,
+      "bytes": 446084,
+      "sha256": "19da1e446f341ce7df728997c7a731f8a9729ec6d1e87cd9eb541fe7ab89d8eb",
+      "materials": 5,
+      "embeddedImages": 5,
+      "bounds": {
+        "min": [
+          -3.430000066757202,
+          0,
+          -1.309999942779541
+        ],
+        "max": [
+          3.430000066757202,
+          6.96999979019165,
+          3.440500020980835
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 4490
+    },
+    {
+      "id": "stone-forest",
+      "name": "昆明石林·阿诗玛",
+      "file": "stone-forest.glb",
+      "version": "national-v1",
+      "source": "https://zhuanti.mct.gov.cn/xcszbwg2022/yunnan/detail/1993.html",
+      "sourceCopy": "data/landmarks/stone-forest/source.blend",
+      "sourceSha256": "38c90b8ae1e9937457dcbb4dda31d32bc6acfe1b42a59d0779f8a133e8b32399",
+      "triangles": 6144,
+      "bytes": 778324,
+      "sha256": "893c443d9f97ec9144135c2229ee2d754e552f2e48752f6c295a504878601c11",
+      "materials": 15,
+      "embeddedImages": 7,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          3.597079038619995,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 6144
+    },
+    {
+      "id": "summer-palace",
+      "name": "颐和园",
+      "file": "summer-palace.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/880/",
+      "sourceCopy": "data/landmarks/summer-palace/source.blend",
+      "sourceSha256": "3e7f87ae6a04c8669b60c4e99745f3cf2877fbbb32d33ea4e08ce1ddba5ff445",
+      "triangles": 6586,
+      "bytes": 913416,
+      "sha256": "04d2a3ec7ffa08ac277e3a455770ea80bcd7d01d0717f0131995898bcef96932",
+      "materials": 17,
+      "embeddedImages": 17,
+      "bounds": {
+        "min": [
+          -5.875,
+          0,
+          -4.599999904632568
+        ],
+        "max": [
+          5.875,
+          7.993000030517578,
+          4.599999904632568
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 6586
+    },
+    {
+      "id": "sun-moon-lake",
+      "name": "日月潭",
+      "file": "sun-moon-lake.glb",
+      "version": "national-v1",
+      "source": "https://www.sunmoonlake.gov.tw/zh-TW/",
+      "sourceCopy": "data/landmarks/sun-moon-lake/source.blend",
+      "sourceSha256": "b6e7c3f563b737f03bb66d4851b87d985d87288c377ee9982d0bccf9e7cc4da6",
+      "triangles": 6816,
+      "bytes": 797228,
+      "sha256": "0f9a9fd449ae40ae3bd2d7211319cbf4ff280ab80aaefd1aa8180bfd679d989b",
+      "materials": 15,
+      "embeddedImages": 6,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          1.9857569932937622,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 6816
+    },
+    {
+      "id": "suzhou-garden",
+      "name": "苏州拙政园",
+      "file": "suzhou-garden.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/813/",
+      "sourceCopy": "data/landmarks/suzhou-garden/source.blend",
+      "sourceSha256": "c119a70ee5459d3307584a3461b903aa9d2307ee7a2601ff9598caa532e9d1d9",
+      "triangles": 5422,
+      "bytes": 735872,
+      "sha256": "bc47bff3e6ac9a6aaeedd308f294c89d3c61fe3eb8dd001b828abf5605bdb637",
+      "materials": 13,
+      "embeddedImages": 13,
+      "bounds": {
+        "min": [
+          -6.224999904632568,
+          0,
+          -4.420000076293945
+        ],
+        "max": [
+          6.224999904632568,
+          2.8719611167907715,
+          4.420000076293945
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 5422
+    },
+    {
+      "id": "taipei-101",
+      "name": "台北101",
+      "file": "taipei-101.glb",
+      "version": "national-v1",
+      "source": "https://www.taipei-101.com.tw/en/corporate/story/content/b5eb46ce-8f1b-4f65-a0f4-11c3a54bb1ae",
+      "sourceCopy": "data/landmarks/taipei-101/source.blend",
+      "sourceSha256": "a7a99ec26160bd0aaf5f1c01efb2a95292709d7edd26e44483db946ff6a79140",
+      "triangles": 3716,
+      "bytes": 402424,
+      "sha256": "e1e8487114019b19ec5dc2c67b71bd10799a3c80cdde6674764ecc9d07830014",
+      "materials": 6,
+      "embeddedImages": 6,
+      "bounds": {
+        "min": [
+          -1.5499999523162842,
+          0,
+          -1.6699999570846558
+        ],
+        "max": [
+          1.5499999523162842,
+          10.5,
+          1.409999966621399
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 3716
+    },
+    {
+      "id": "taipei-palace",
+      "name": "台北故宫博物院",
+      "file": "taipei-palace.glb",
+      "version": "national-v1",
+      "source": "https://south.npm.gov.tw/Uploads/files/%E6%95%85%E5%AE%AE%E5%A5%BD%E5%AE%A2%20%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8A0113.pdf",
+      "sourceCopy": "data/landmarks/taipei-palace/source.blend",
+      "sourceSha256": "9f7893354b0dc7270442205530cfb2e79f7aae3ff794d9ada62611b8cfbbcc08",
+      "triangles": 2478,
+      "bytes": 233224,
+      "sha256": "74c919192cd46f9721e30f2b36bb4d7c24c9ac023e4ba37704e5a252f74415ea",
+      "materials": 10,
+      "embeddedImages": 9,
+      "sourceTriangles": 2478,
+      "bounds": {
+        "min": [
+          -5.349999904632568,
+          0,
+          -4.349999904632568
+        ],
+        "max": [
+          5.349999904632568,
+          3.931962013244629,
+          4.349999904632568
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "taishan",
+      "name": "泰山南天门",
+      "file": "taishan.glb",
+      "version": "national-v1",
+      "source": "https://tsgw.taian.gov.cn/art/2026/3/23/art_363608_10320983.html",
+      "sourceCopy": "data/landmarks/taishan/source.blend",
+      "sourceTriangles": 7678,
+      "sourceSha256": "fe37c058760d5998f089c17e9ade7fbea16e05b0d800bab43d0b18270cc6d0c0",
+      "triangles": 7678,
+      "bytes": 633436,
+      "sha256": "dc5690d41ca4e849e3dbe499c6cf70766ee886043225c51b07be178d238271c3",
+      "materials": 12,
+      "embeddedImages": 8,
+      "bounds": {
+        "min": [
+          -6.251349449157715,
+          0,
+          -7.599999904632568
+        ],
+        "max": [
+          6.176503658294678,
+          8.780000686645508,
+          7.632500171661377
+        ]
+      },
+      "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+    },
+    {
+      "id": "tang-paradise",
+      "name": "大唐芙蓉园",
+      "file": "tang-paradise.glb",
+      "version": "national-v1",
+      "source": "https://nwin.cscec.com/xwzx/qydt/202305/3671538.html",
+      "sourceCopy": "data/landmarks/tang-paradise/source.blend",
+      "sourceSha256": "32ae7df666a2503b4f9da52a3dcfde247dc43fd359dedce622048da865320b6b",
+      "triangles": 7450,
+      "bytes": 802480,
+      "sha256": "991191987ba18e8024a1d96843eaa8cad9b12599f43788160649564ace7c816e",
+      "materials": 10,
+      "embeddedImages": 10,
+      "bounds": {
+        "min": [
+          -4.699999809265137,
+          0,
+          -2.5870769023895264
+        ],
+        "max": [
+          4.699999809265137,
+          6.931962013244629,
+          3.7300000190734863
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 8200
+    },
+    {
+      "id": "temple-of-heaven",
+      "name": "天坛",
+      "file": "temple-of-heaven.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/881/",
+      "sourceCopy": "data/landmarks/temple-of-heaven/source.blend",
+      "sourceSha256": "851682772b88025534c99952aabe1b2ddd69e4c07742f59faf9ae2ba38655858",
+      "triangles": 7448,
+      "bytes": 893032,
+      "sha256": "6524ea9fee036433894939ced73bde39ad46fe23f8647825b06f839c806fb9d6",
+      "materials": 10,
+      "embeddedImages": 10,
+      "bounds": {
+        "min": [
+          -4.581850051879883,
+          0,
+          -4.581850051879883
+        ],
+        "max": [
+          4.581850051879883,
+          6.525243282318115,
+          4.730000019073486
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 11252
+    },
+    {
+      "id": "tengwang",
+      "name": "滕王阁",
+      "file": "tengwang.glb",
+      "version": "national-v1",
+      "source": "https://dhq.nc.gov.cn/dhqrmzf/dhfctpk/202010/5de41659934e42f6842c956dfabdbb0c.shtml",
+      "sourceCopy": "data/landmarks/tengwang/source.blend",
+      "sourceSha256": "ea81eafef4ab4717ab2ef0f9caf540d415206f4bf2498eb5919b2f24b2b14a3f",
+      "triangles": 6880,
+      "bytes": 775864,
+      "sha256": "1651ebda1d93fa91f81cb83b2cb96507efa31ca5b36af3c17c9977dffa6e3b1d",
+      "materials": 12,
+      "embeddedImages": 12,
+      "bounds": {
+        "min": [
+          -6.449999809265137,
+          0,
+          -4
+        ],
+        "max": [
+          6.449999809265137,
+          7.351962089538574,
+          4
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 6880
+    },
+    {
+      "id": "terracotta",
+      "name": "秦始皇兵马俑",
+      "file": "terracotta.glb",
+      "version": "national-v1",
+      "source": "https://www.bmy.com.cn/pitone.html",
+      "sourceCopy": "data/landmarks/terracotta/source.blend",
+      "sourceSha256": "fbf028372028d7246453928fe24babd670864c949e605d0f05b3c1e080a0bd3a",
+      "triangles": 7442,
+      "bytes": 725816,
+      "sha256": "6528792dcde6a135fcddec35f5467491066d742d6333a87d521cc4d4b26682bd",
+      "materials": 5,
+      "embeddedImages": 5,
+      "bounds": {
+        "min": [
+          -4.900000095367432,
+          0,
+          -3.950000047683716
+        ],
+        "max": [
+          4.900000095367432,
+          1.7599999904632568,
+          3.950000047683716
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 9120
+    },
+    {
+      "id": "three-gorges-dam",
+      "name": "三峡大坝",
+      "file": "three-gorges-dam.glb",
+      "version": "national-v1",
+      "source": "https://www.cypc.com.cn/sxjt/sxgc4/gcgk7/index.html",
+      "sourceCopy": "data/landmarks/three-gorges-dam/source.blend",
+      "sourceSha256": "2da1b5c778f2363a4344bf91ad6332803f9112393f41de008ca68e6a4db623c1",
+      "triangles": 1510,
+      "bytes": 155672,
+      "sha256": "b285f63ac3b581cf6b812217a4253aa694cd65ebd42333f72a70f23fdb662455",
+      "materials": 9,
+      "embeddedImages": 7,
+      "sourceTriangles": 1510,
+      "bounds": {
+        "min": [
+          -6.25,
+          0,
+          -4.199999809265137
+        ],
+        "max": [
+          6.25,
+          1.850000023841858,
+          4.199999809265137
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "tiananmen-square",
+      "name": "天安门广场",
+      "file": "tiananmen-square.glb",
+      "version": "national-v1",
+      "source": "https://www.beijing.gov.cn/zhengce/zhengcefagui/202301/W020230130329977849629.pdf",
+      "sourceCopy": "data/landmarks/tiananmen-square/source.blend",
+      "sourceSha256": "f99a03de5a5c7ffc990f6794e215ef0187e91e28f6310f2e2fc1311fe0f6d034",
+      "triangles": 3580,
+      "bytes": 344492,
+      "sha256": "cbda2f1cad83dbb7a22620cf1e7c2d456a1920b012d0433394dda5787b3ff63f",
+      "materials": 18,
+      "embeddedImages": 15,
+      "sourceTriangles": 3580,
+      "bounds": {
+        "min": [
+          -5.599999904632568,
+          0,
+          -4.449999809265137
+        ],
+        "max": [
+          5.599999904632568,
+          4.391962051391602,
+          4.449999809265137
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "tianjin-eye",
+      "name": "天津之眼",
+      "file": "tianjin-eye.glb",
+      "version": "national-v1",
+      "source": "https://www.tj.gov.cn/sq/yztj/jgtp/202005/t20200520_2468039.html",
+      "sourceCopy": "data/landmarks/tianjin-eye/source.blend",
+      "sourceSha256": "6ff7294c226f68caa8d3a17a68918b23404c58c303d1016a06a1b6d0a0ca16d6",
+      "triangles": 4094,
+      "bytes": 318464,
+      "sha256": "ca2b75743738be35d1b97ff19bf945946ba33e7719e1d96e6545873f58cba727",
+      "materials": 9,
+      "embeddedImages": 5,
+      "sourceTriangles": 4094,
+      "bounds": {
+        "min": [
+          -5.400000095367432,
+          0,
+          -3.625
+        ],
+        "max": [
+          5.400000095367432,
+          6.929999828338623,
+          3.625
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "tianmen",
+      "name": "张家界天门山",
+      "version": "national-v1",
+      "file": "tianmen.glb",
+      "source": "https://www.cn-zhangjiajie.cn/action/model/name/jingqu/itemid/12.html",
+      "sourceCopy": "data/landmarks/tianmen/source.blend",
+      "sourceTriangles": 17904,
+      "sourceSha256": "778d2d1730e77d8b62ba8c1ee1cae30bd16affb5ef7da3d55fbfa3102c7d0db6",
+      "triangles": 7528,
+      "bytes": 765572,
+      "sha256": "efa08a54f8e4298c3ba1e6d996722dd2b36b19a03b1a911e928091ebadf24e0d",
+      "materials": 7,
+      "embeddedImages": 7,
+      "bounds": {
+        "min": [
+          -3.674380302429199,
+          -0.00012170230911578983,
+          -1.3087915182113647
+        ],
+        "max": [
+          3.773623466491699,
+          4.813465595245361,
+          3.2868685722351074
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+    },
+    {
+      "id": "tianyahaijiao",
+      "name": "天涯海角",
+      "file": "tianyahaijiao.glb",
+      "version": "national-v1",
+      "source": "https://ty.sanya.gov.cn/tyqsite/jrty/202509/dd81add782f34a9d90524794f94f543e.shtml",
+      "sourceCopy": "data/landmarks/tianyahaijiao/source.blend",
+      "sourceSha256": "15304ba43225fbe4b36dc2218f9ec19879f99f2f1e873b686c19342f06041a70",
+      "triangles": 6106,
+      "bytes": 744568,
+      "sha256": "03e23c969a960618a3ca64ff9f715c1750324954777bb84e531160a688bdac0a",
+      "materials": 16,
+      "embeddedImages": 7,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.2874739170074463
+        ],
+        "max": [
+          3.075000047683716,
+          2.2501909732818604,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 6106
+    },
+    {
+      "id": "victoria-harbour",
+      "name": "维多利亚港·尖沙咀海滨",
+      "file": "victoria-harbour.glb",
+      "version": "national-v1",
+      "source": "https://www.discoverhongkong.com/tc/attractions/top-things-to-see-and-do-around-tsim-sha-tsui-promenade.html",
+      "sourceCopy": "data/landmarks/victoria-harbour/source.blend",
+      "sourceSha256": "5ea6e2c7d16957db3f6ffbfc73329247d85823a51f0b2bb6900532d85eb5b249",
+      "triangles": 1546,
+      "bytes": 173516,
+      "sha256": "7dae7065fa3b299a3f4d8893864451624a0962d14ba6e7b07b5bed047eea947a",
+      "materials": 14,
+      "embeddedImages": 10,
+      "sourceTriangles": 1546,
+      "bounds": {
+        "min": [
+          -5.349999904632568,
+          0,
+          -3.9000000953674316
+        ],
+        "max": [
+          5.349999904632568,
+          4.570000171661377,
+          3.9000000953674316
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "west-lake",
+      "name": "杭州西湖·三潭印月",
+      "file": "west-lake.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/1334/",
+      "sourceCopy": "data/landmarks/west-lake/source.blend",
+      "sourceTriangles": 6296,
+      "sourceSha256": "c37cd43a66252516c0529d6795215bbd020e09bc6781dfd846b85472469c43be",
+      "triangles": 6296,
+      "bytes": 457468,
+      "sha256": "7870d4a935562b257255abbe8608b366c039305c9e873b9a00a27fbd176c6bee",
+      "materials": 4,
+      "embeddedImages": 3,
+      "bounds": {
+        "min": [
+          -8,
+          0,
+          -6
+        ],
+        "max": [
+          8,
+          3.190000057220459,
+          6
+        ]
+      },
+      "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+    },
+    {
+      "id": "western-xia",
+      "name": "西夏陵",
+      "file": "western-xia.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/zh/list/1736",
+      "sourceCopy": "data/landmarks/western-xia/source.blend",
+      "sourceSha256": "092ff32b8fa0dc864da6bfdfd8946f552a15a18d088f94e828d3371f6b5d4ba6",
+      "triangles": 1960,
+      "bytes": 220536,
+      "sha256": "828f314df920d2258317ed61a3911b2fa6272a779fd63ed089bdabf45df6139f",
+      "materials": 3,
+      "embeddedImages": 3,
+      "bounds": {
+        "min": [
+          -5.175000190734863,
+          0,
+          -4.519999980926514
+        ],
+        "max": [
+          5.175000190734863,
+          4.549112796783447,
+          4.519999980926514
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 1960
+    },
+    {
+      "id": "wudang",
+      "name": "武当山",
+      "file": "wudang.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/705/",
+      "sourceCopy": "data/landmarks/wudang/source.blend",
+      "sourceSha256": "4e68d8e4d6be8074ec2aea03aec3ccfa7fffbae7d4456e11378eb2788c341140",
+      "triangles": 3202,
+      "bytes": 561620,
+      "sha256": "354f0920dcc7d8a95215906e43bff789f2157a8ed7a1b01f35b21e15d7546577",
+      "materials": 12,
+      "embeddedImages": 12,
+      "bounds": {
+        "min": [
+          -5.262156963348389,
+          0,
+          -4.172101974487305
+        ],
+        "max": [
+          5.025000095367432,
+          7.326362133026123,
+          4.03000020980835
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 3202
+    },
+    {
+      "id": "wulingyuan",
+      "name": "武陵源·张家界国家森林公园",
+      "file": "wulingyuan.glb",
+      "version": "national-v1",
+      "source": "https://whhlyt.hunan.gov.cn/whhlyt/zxta/202511/t20251113_33847812.html",
+      "sourceCopy": "data/landmarks/wulingyuan/source.blend",
+      "sourceSha256": "7521951aca5e88e1ab3409be8f495184d95ddce4bbd31a4117aa8fdc784c51fe",
+      "triangles": 7526,
+      "bytes": 817340,
+      "sha256": "fe1064acc8e8a08d9b92573e47824b25e7982b9a4324ef6a04f7c0e30caf4eed",
+      "materials": 11,
+      "embeddedImages": 5,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          3.3834071159362793,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 7526
+    },
+    {
+      "id": "wulong",
+      "name": "武隆天生三桥",
+      "file": "wulong.glb",
+      "version": "national-v1",
+      "source": "https://cqwl.gov.cn/bmjz_sites/bm/wlw/zwxx_98939/jqjd/jdjd_1/202007/t20200702_7634529.html",
+      "sourceCopy": "data/landmarks/wulong/source.blend",
+      "sourceSha256": "af6241462d8871f3f6e332c0ac7101144a87264eacf7f044a29efb4f7002be64",
+      "triangles": 7452,
+      "bytes": 723572,
+      "sha256": "b14dfbfa93dbd68a910e3368425207aa002279b80318d17a1a1134a42fff6e17",
+      "materials": 13,
+      "embeddedImages": 5,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          3.4131669998168945,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 7452
+    },
+    {
+      "id": "wutai",
+      "name": "五台山",
+      "file": "wutai.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/1279/",
+      "sourceCopy": "data/landmarks/wutai/source.blend",
+      "sourceSha256": "303f88366c75cc52e15081d41865a25c802667056658f254c27dfc3197c66dab",
+      "triangles": 5688,
+      "bytes": 703756,
+      "sha256": "340a3c057e06e174df2d358284c3d39ebc4e40497562a7af09914946dfa1d886",
+      "materials": 12,
+      "embeddedImages": 12,
+      "bounds": {
+        "min": [
+          -4.550000190734863,
+          0,
+          -3.75
+        ],
+        "max": [
+          4.550000190734863,
+          5.400000095367432,
+          3.75
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 5688
+    },
+    {
+      "id": "wuyishan",
+      "name": "武夷山·九曲溪",
+      "file": "wuyishan.glb",
+      "version": "national-v1",
+      "source": "https://wysgjgy.fujian.gov.cn/yxgy/gyjg/201710/t20171025_5511573.htm",
+      "sourceCopy": "data/landmarks/wuyishan/source.blend",
+      "sourceSha256": "a20891a3279dee2807ce005ba00ae0a9fe63aaa8e739e3fa05bfb825a8a81f03",
+      "triangles": 5432,
+      "bytes": 545520,
+      "sha256": "e9683c171f7a121527c399af4bf4dfbfb85067d1819a54b7907568973ba40f66",
+      "materials": 14,
+      "embeddedImages": 3,
+      "bounds": {
+        "min": [
+          -3.233994960784912,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          2.5761189460754395,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 5432
+    },
+    {
+      "id": "wuzhen",
+      "name": "乌镇",
+      "file": "wuzhen.glb",
+      "version": "national-v1",
+      "source": "https://www.cac.gov.cn/2014-11/18/c_1113942742.htm",
+      "sourceCopy": "data/landmarks/wuzhen/source.blend",
+      "sourceSha256": "29ffa31bb7b41d907293f57d48743e8ca9c3c10ca64fe0569f968eb44d772243",
+      "triangles": 4956,
+      "bytes": 542116,
+      "sha256": "d31d617fdda8cec9562544f220839adf5b336708123e7263a1b58a77a1efc134",
+      "materials": 8,
+      "embeddedImages": 8,
+      "bounds": {
+        "min": [
+          -6.550000190734863,
+          0,
+          -3.825000047683716
+        ],
+        "max": [
+          6.550000190734863,
+          2.679861068725586,
+          3.825000047683716
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 4956
+    },
+    {
+      "id": "xian-city-wall",
+      "name": "西安城墙·永宁门",
+      "file": "xian-city-wall.glb",
+      "version": "national-v1",
+      "source": "https://qjxq.xa.gov.cn/zjqj/gyqj/tsqj/5df21c5565cbd81235fc1efa.html",
+      "sourceCopy": "data/landmarks/xian-city-wall/source.blend",
+      "sourceSha256": "c9d827b256a72dc6a0349489c29dae13e46d8f8c1f63637681cbf49b763b5ffa",
+      "triangles": 5588,
+      "bytes": 705248,
+      "sha256": "8753c6051a7e510a3354ca28c89284bda806ae88187ae129898382692a288199",
+      "materials": 13,
+      "embeddedImages": 13,
+      "bounds": {
+        "min": [
+          -7.5,
+          0,
+          -6.239999771118164
+        ],
+        "max": [
+          7.5,
+          5.5335612297058105,
+          6.239999771118164
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 5588
+    },
+    {
+      "id": "xiangshawan",
+      "name": "响沙湾",
+      "file": "xiangshawan.glb",
+      "version": "national-v1",
+      "source": "https://www.xiangsw.com/xsw/about/about-2.html",
+      "sourceCopy": "data/landmarks/xiangshawan/source.blend",
+      "sourceSha256": "cb35632a0de839f7334a4dfe99e1ea776bb0d08110c2d6e82bc7473df385757c",
+      "triangles": 7468,
+      "bytes": 733368,
+      "sha256": "5ef02b6d32803506148a0157e23e80744c565ff3e29c32bd767a5a4d882af3ff",
+      "materials": 7,
+      "embeddedImages": 1,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          2.5614049434661865,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 7468
+    },
+    {
+      "id": "yalu-broken-bridge",
+      "name": "鸭绿江断桥",
+      "file": "yalu-broken-bridge.glb",
+      "version": "national-v1",
+      "source": "https://files.dandong.gov.cn/files/ueditor/DDSZF/jsp/upload/file/20230318/1679113984062057190.pdf",
+      "sourceCopy": "data/landmarks/yalu-broken-bridge/source.blend",
+      "sourceSha256": "b76f18c10c9ce04da81c5e3b7e0d39bbe52ddded70381d1a29ad654674d95e46",
+      "triangles": 2914,
+      "bytes": 236248,
+      "sha256": "539c1e74edd624563f809459170846d175940c5cc9fe50185d410b003ad907b7",
+      "materials": 8,
+      "embeddedImages": 6,
+      "sourceTriangles": 2914,
+      "bounds": {
+        "min": [
+          -5.699999809265137,
+          0,
+          -3.549999952316284
+        ],
+        "max": [
+          5.699999809265137,
+          2.1296470165252686,
+          3.549999952316284
+        ]
+      },
+      "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+    },
+    {
+      "id": "yangshuo",
+      "name": "阳朔漓江·黄布倒影",
+      "file": "yangshuo.glb",
+      "version": "national-v1",
+      "source": "https://zhuanti.mct.gov.cn/xcss2024_shjlzzxc/guangxi/detail/6871.html",
+      "sourceCopy": "data/landmarks/yangshuo/source.blend",
+      "sourceSha256": "36e15a03268a7acd671a31684404d9967c82e82cdaa189380415b6f118627e5d",
+      "triangles": 7690,
+      "bytes": 832848,
+      "sha256": "3bca54f29dd2beba34a384a6cb2ebbe9041e4aad0a0037afc1cf89cdfdb2d48a",
+      "materials": 14,
+      "embeddedImages": 5,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          2.5029780864715576,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 8282
+    },
+    {
+      "id": "yellow-crane",
+      "name": "黄鹤楼",
+      "version": "national-v1",
+      "file": "yellow-crane.glb",
+      "source": "https://english.wuhan.gov.cn/travel/tourist4attractions4an4incomplete4list/202110/t20211026_1819226.shtml",
+      "sourceCopy": "data/landmarks/yellow-crane/source.blend",
+      "sourceTriangles": 5462,
+      "sourceSha256": "ed0fa815b69d625a0fae617b75223f7ae0a2eb58625d880ee7cf704f07625495",
+      "triangles": 5462,
+      "bytes": 382404,
+      "sha256": "52d3f64b46143ab35410678b08d631e8dec7ed82ebe8a391f1aa3b0b08d1c2cd",
+      "materials": 8,
+      "embeddedImages": 8,
+      "bounds": {
+        "min": [
+          -2.430000066757202,
+          0,
+          -2.119999885559082
+        ],
+        "max": [
+          2.430000066757202,
+          5.590000152587891,
+          2.7850000858306885
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+    },
+    {
+      "id": "yinxu",
+      "name": "安阳殷墟",
+      "file": "yinxu.glb",
+      "version": "national-v1",
+      "source": "https://cpc.people.com.cn/GB/64176/64180/2527073.html",
+      "sourceCopy": "data/landmarks/yinxu/source.blend",
+      "sourceSha256": "30b95efea86533dc373c2c8efbe03480e5556090c38c7db684f772bc200491f8",
+      "triangles": 2456,
+      "bytes": 455052,
+      "sha256": "6b111dc91f8ee963a0e972d9ffff916f75a94dcc9a68107cfdaf9c37f6e63531",
+      "materials": 11,
+      "embeddedImages": 11,
+      "bounds": {
+        "min": [
+          -6.224999904632568,
+          0,
+          -4.574999809265137
+        ],
+        "max": [
+          6.224999904632568,
+          3.50763201713562,
+          4.574999809265137
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 2456
+    },
+    {
+      "id": "yueyang-tower",
+      "name": "岳阳楼",
+      "file": "yueyang-tower.glb",
+      "version": "national-v1",
+      "source": "https://www.hunan.gov.cn/hnszf/c101480/202108/t20210830_20411802.html",
+      "sourceCopy": "data/landmarks/yueyang-tower/source.blend",
+      "sourceSha256": "c71d737034c21f2c9fafe3d5306aa55933e2002ef5b41009f656cbfc6d9fcfd5",
+      "triangles": 4976,
+      "bytes": 622248,
+      "sha256": "77d0d26829e093a583052f32bbaa52905df4eec5c6af53953face7ab5f02c2d1",
+      "materials": 11,
+      "embeddedImages": 11,
+      "bounds": {
+        "min": [
+          -4.625,
+          0,
+          -3.6500000953674316
+        ],
+        "max": [
+          4.625,
+          5.96999979019165,
+          3.6500000953674316
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 4976
+    },
+    {
+      "id": "yulong",
+      "name": "玉龙雪山",
+      "file": "yulong.glb",
+      "version": "national-v1",
+      "source": "https://lcj.yn.gov.cn/special/2025/0507/6576.html",
+      "sourceCopy": "data/landmarks/yulong/source.blend",
+      "sourceSha256": "eb4d956b31fc7a07fcbc497ad368f91a2bb9611d2ad97bafd35cc5cd319362cb",
+      "triangles": 7368,
+      "bytes": 861224,
+      "sha256": "94cc1917b29efa815b44a04f77535ed11482cf6ca0c3e2fbeee0d75272dc2cc7",
+      "materials": 13,
+      "embeddedImages": 6,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          3.9105279445648193,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 7368
+    },
+    {
+      "id": "yungang",
+      "name": "云冈石窟",
+      "file": "yungang.glb",
+      "version": "national-v1",
+      "source": "https://whc.unesco.org/en/list/1039/",
+      "sourceCopy": "data/landmarks/yungang/source.blend",
+      "sourceSha256": "6d908c70d02ab1ac45038a7c05b6701e34302eded1a453518158ed231fa6f02e",
+      "triangles": 5162,
+      "bytes": 535132,
+      "sha256": "b8495e242094327fcc07f666b31c6745b20d39481c836d134055b3c23f19f899",
+      "materials": 5,
+      "embeddedImages": 5,
+      "bounds": {
+        "min": [
+          -5.300000190734863,
+          0,
+          -2.2249999046325684
+        ],
+        "max": [
+          5.300000190734863,
+          5.640328884124756,
+          2.2249999046325684
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+      "sourceTriangles": 5162
+    },
+    {
+      "id": "zhangye-danxia",
+      "name": "张掖七彩丹霞",
+      "file": "zhangye-danxia.glb",
+      "version": "national-v1",
+      "source": "https://www.zhangye.gov.cn/chzy/zyly/ajjq/202303/t20230318_1007476_ghb.html",
+      "sourceCopy": "data/landmarks/zhangye-danxia/source.blend",
+      "sourceSha256": "822a128e33d95117c27e8fa39eadcb65fa7ba6a161cf5855cc718635b1b4c743",
+      "triangles": 7090,
+      "bytes": 756472,
+      "sha256": "af7384affaf86aee6ed4d6fc3f6a0767b3148c53c0d672fc3e44bd37d9db121b",
+      "materials": 10,
+      "embeddedImages": 2,
+      "bounds": {
+        "min": [
+          -3.075000047683716,
+          0,
+          -2.125
+        ],
+        "max": [
+          3.075000047683716,
+          2.597933053970337,
+          2.125
+        ]
+      },
+      "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+      "sourceTriangles": 7090
+    },
+    {
+      "id": "zhongshan",
+      "name": "中山陵",
+      "file": "zhongshan.glb",
+      "version": "national-v1",
+      "source": "南京城市沙盘/中山陵模型/web/中山陵_网页版.blend",
+      "sourceCopy": "data/landmarks/zhongshan/source.blend",
+      "sourceSha256": "4d0f8af10a1a5b9a07cd041cb83897f3938931373a628c407bfec48d0a6a5ba8",
+      "sourceTriangles": 36774,
+      "sourceGlbBytes": 4261256,
+      "triangles": 7220,
+      "bytes": 1138564,
+      "sha256": "8c037fbfa7efd3a83b3270de74b5d41393f1d6534586b5c4e9071fb360b99fea",
+      "materials": 10,
+      "embeddedImages": 2,
+      "vertexAO": true,
+      "bounds": {
+        "min": [
+          -10.990385055541992,
+          0,
+          -16.990385055541992
+        ],
+        "max": [
+          10.990385055541992,
+          15.259729385375977,
+          16.990385055541992
+        ]
+      },
+      "coordinateConvention": "glTF Y-up, +Z front, bottom-center origin"
+    }
+  ]
+}

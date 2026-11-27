@@ -1,0 +1,28 @@
+{
+  "id": "yalu-broken-bridge",
+  "name": "鸭绿江断桥",
+  "file": "yalu-broken-bridge.glb",
+  "version": "national-v1",
+  "source": "https://files.dandong.gov.cn/files/ueditor/DDSZF/jsp/upload/file/20230318/1679113984062057190.pdf",
+  "sourceCopy": "data/landmarks/yalu-broken-bridge/source.blend",
+  "sourceSha256": "b76f18c10c9ce04da81c5e3b7e0d39bbe52ddded70381d1a29ad654674d95e46",
+  "triangles": 2914,
+  "bytes": 236248,
+  "sha256": "539c1e74edd624563f809459170846d175940c5cc9fe50185d410b003ad907b7",
+  "materials": 8,
+  "embeddedImages": 6,
+  "sourceTriangles": 2914,
+  "bounds": {
+    "min": [
+      -5.699999809265137,
+      0,
+      -3.549999952316284
+    ],
+    "max": [
+      5.699999809265137,
+      2.1296470165252686,
+      3.549999952316284
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

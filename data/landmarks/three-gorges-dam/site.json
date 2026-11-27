@@ -1,0 +1,19 @@
+{
+  "id": "three-gorges-dam",
+  "name": "三峡大坝",
+  "province": "湖北省",
+  "city": "宜昌市",
+  "anchor": [
+    111.0036111,
+    30.8238889
+  ],
+  "anchorSource": "https://www.wikidata.org/wiki/Q12514",
+  "anchorCrs": "WGS84",
+  "frontBearing": 124,
+  "groundSpanMeters": 2309,
+  "description": "长江三峡主坝中段以连续闸墩和泄洪孔组织坝面，两侧接出混凝土坝体。",
+  "type": "urban",
+  "tier": "national",
+  "visualSource": "https://www.cypc.com.cn/sxjt/sxgc4/gcgk7/index.html",
+  "siteNotes": "以坝体条目坐标作为主坝构图中心。表现已建成主坝的局部，下游为正面；水面的高度差为缩尺示意。"
+}

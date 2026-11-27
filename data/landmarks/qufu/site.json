@@ -1,0 +1,23 @@
+{
+  "id": "qufu",
+  "name": "曲阜孔庙",
+  "province": "山东省",
+  "city": "济宁市",
+  "anchor": [
+    116.9844849,
+    35.5968982
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/way/343721328",
+  "anchorMethod": "按 OpenStreetMap 所标地物中心取 WGS84 锚点。",
+  "frontBearing": 180,
+  "groundSpanMeters": 54,
+  "description": "黄色重檐大殿立在白色石阶上，正面十根浅灰色蟠龙檐柱托住屋檐。",
+  "visualSource": "https://qfwhjssfq.jining.gov.cn/art/2016/4/21/art_31772_1469949.html",
+  "reference": "https://qfwhjssfq.jining.gov.cn/art/2016/4/21/art_31772_1469949.html",
+  "period": "取清雍正年间重建后现存大成殿和殿南龙阶。",
+  "subject": "大成殿",
+  "frontNote": "取南侧杏坛至大成殿的建筑轴线。",
+  "type": "heritage",
+  "tier": "regional"
+}

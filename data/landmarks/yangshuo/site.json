@@ -1,0 +1,22 @@
+{
+  "id": "yangshuo",
+  "name": "阳朔漓江·黄布倒影",
+  "province": "广西壮族自治区",
+  "city": "桂林市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    110.5166399,
+    24.9251035
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/4376696293",
+  "anchorFeature": "果农道黄布倒影观景点",
+  "anchorMethod": "OpenStreetMap “果农道黄布倒影观景点”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 140,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 600,
+  "description": "取兴坪黄布倒影一段开阔静水面和连续的两岸锥状峰丛。",
+  "visualSource": "https://zhuanti.mct.gov.cn/xcss2024_shjlzzxc/guangxi/detail/6871.html",
+  "period": "现状景观局部的微缩示意"
+}

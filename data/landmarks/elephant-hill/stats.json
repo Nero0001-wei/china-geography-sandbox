@@ -1,0 +1,28 @@
+{
+  "id": "elephant-hill",
+  "name": "桂林象鼻山",
+  "version": "national-v1",
+  "file": "elephant-hill.glb",
+  "source": "https://m.glljsh.com/",
+  "sourceCopy": "data/landmarks/elephant-hill/source.blend",
+  "sourceTriangles": 10598,
+  "sourceSha256": "0ee8ecf7d980a70ad153b8263ea0691ff0544f2bdca86afb3b518754e732b2d4",
+  "triangles": 7530,
+  "bytes": 747204,
+  "sha256": "2c95d3b89858ded5b15f3897be27eb430113be712550e73d60c805cfcb694f94",
+  "materials": 7,
+  "embeddedImages": 7,
+  "bounds": {
+    "min": [
+      -2.7112927436828613,
+      -0.0008387545240111649,
+      -1.4143260717391968
+    ],
+    "max": [
+      3.972435474395752,
+      3.5404233932495117,
+      1.5394948720932007
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; local +Z is the declared display front; local Y=0 is the base."
+}

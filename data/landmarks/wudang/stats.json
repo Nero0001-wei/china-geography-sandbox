@@ -1,0 +1,28 @@
+{
+  "id": "wudang",
+  "name": "武当山",
+  "file": "wudang.glb",
+  "version": "national-v1",
+  "source": "https://whc.unesco.org/en/list/705/",
+  "sourceCopy": "data/landmarks/wudang/source.blend",
+  "sourceSha256": "4e68d8e4d6be8074ec2aea03aec3ccfa7fffbae7d4456e11378eb2788c341140",
+  "triangles": 3202,
+  "bytes": 561620,
+  "sha256": "354f0920dcc7d8a95215906e43bff789f2157a8ed7a1b01f35b21e15d7546577",
+  "materials": 12,
+  "embeddedImages": 12,
+  "bounds": {
+    "min": [
+      -5.262156963348389,
+      0,
+      -4.172101974487305
+    ],
+    "max": [
+      5.025000095367432,
+      7.326362133026123,
+      4.03000020980835
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 3202
+}

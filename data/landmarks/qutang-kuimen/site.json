@@ -1,0 +1,27 @@
+{
+  "id": "qutang-kuimen",
+  "name": "长江三峡·瞿塘峡夔门",
+  "province": "重庆市",
+  "city": "重庆市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    109.5768917,
+    31.0414631
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/9531506505",
+  "anchorFeature": "奉节瞿塘关北岸观景点",
+  "anchorMethod": "取 OpenStreetMap 瞿塘关东侧标注的岸边观景点，模型代表附近水道阔窄变化及两岸山壁。",
+  "featureAnchor": [
+    109.5792208,
+    31.0388181
+  ],
+  "featureSource": "https://www.openstreetmap.org/node/347498410",
+  "frontBearing": 302,
+  "frontNote": "模型正面约朝西北 302°，对应夔门向白帝城所在上游的方向。",
+  "groundSpanMeters": 1400,
+  "description": "奉节瞿塘峡西口的赤甲山和白盐山夹峙江面，取白帝城一侧望入夔门的视角。",
+  "visualSource": "https://www.cq.gov.cn/zjcq/cycq/zmjd/zqaaaaajjq/202606/t20260604_15729050.html",
+  "period": "现状峡口山体、水道与游船的微缩示意"
+}

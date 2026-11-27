@@ -1,0 +1,22 @@
+{
+  "id": "zhangye-danxia",
+  "name": "张掖七彩丹霞",
+  "province": "甘肃省",
+  "city": "张掖市",
+  "type": "nature",
+  "tier": "regional",
+  "anchor": [
+    100.0597949,
+    38.9596594
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.amap.com/place/B0FFL1PFKE",
+  "anchorFeature": "七彩虹霞台一带",
+  "anchorMethod": "高德“七彩虹霞台一带”POI，GCJ-02（100.06149，38.960327）按项目函数反算 WGS84，作为展示锚点。",
+  "frontBearing": 207,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 400,
+  "description": "从七彩虹霞台一带截取起伏山岭和横切坡面的斜向彩色沉积岩带。",
+  "visualSource": "https://www.zhangye.gov.cn/chzy/zyly/ajjq/202303/t20230318_1007476_ghb.html",
+  "period": "现状景观局部的微缩示意"
+}

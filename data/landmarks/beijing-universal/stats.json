@@ -1,0 +1,28 @@
+{
+  "id": "beijing-universal",
+  "name": "北京环球度假区",
+  "file": "beijing-universal.glb",
+  "version": "national-v1",
+  "source": "https://www.universalbeijingresort.com/zh_CN",
+  "sourceCopy": "data/landmarks/beijing-universal/source.blend",
+  "sourceTriangles": 7268,
+  "sourceSha256": "b6a9d8f997f6f95c40e0ca39a78a5c3f2635a73894380e61e356cd97125fbe2f",
+  "triangles": 7268,
+  "bytes": 624132,
+  "sha256": "84bd193103e4c6dfc1f5ca39f27f83c0eb1f8134e74c11c6bfafad7898f28b4c",
+  "materials": 8,
+  "embeddedImages": 3,
+  "bounds": {
+    "min": [
+      -5.28000020980835,
+      0,
+      -5.28000020980835
+    ],
+    "max": [
+      5.28000020980835,
+      6.380000114440918,
+      5.28000020980835
+    ]
+  },
+  "coordinateConvention": "glTF Y-up, +Z front; ground anchor at local X=Z=0"
+}

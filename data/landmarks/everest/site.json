@@ -1,0 +1,22 @@
+{
+  "id": "everest",
+  "name": "珠峰景区",
+  "province": "西藏自治区",
+  "city": "日喀则市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    86.8281779,
+    28.1951821
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/13840969183",
+  "anchorFeature": "绒布寺附近观景段",
+  "anchorMethod": "OpenStreetMap “绒布寺附近观景段”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 351,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 1400,
+  "description": "取中国侧绒布寺一带所见的珠峰北壁和金字塔状雪峰轮廓。",
+  "visualSource": "https://wlt.xizang.gov.cn/xwzx_69/jdxw/201812/t20181219_119925.html",
+  "period": "现状景观局部的微缩示意"
+}

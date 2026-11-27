@@ -1,0 +1,22 @@
+{
+  "id": "huangguoshu",
+  "name": "黄果树瀑布",
+  "province": "贵州省",
+  "city": "安顺市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    105.6661996,
+    25.9924212
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/2932278086",
+  "anchorFeature": "黄果树主瀑",
+  "anchorMethod": "OpenStreetMap “黄果树主瀑”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 133,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 240,
+  "description": "截取弧面的宽主瀑、崖下犀牛潭与台地上的林缘。",
+  "visualSource": "https://www.eco.gov.cn/news_info/40420.html",
+  "period": "现状景观局部的微缩示意"
+}

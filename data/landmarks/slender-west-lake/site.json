@@ -1,0 +1,19 @@
+{
+  "id": "slender-west-lake",
+  "name": "扬州瘦西湖",
+  "province": "江苏省",
+  "city": "扬州市",
+  "anchor": [
+    119.4161478,
+    32.4097487
+  ],
+  "anchorSource": "https://www.openstreetmap.org/way/1058957656",
+  "anchorCrs": "WGS84",
+  "frontBearing": 258.5,
+  "groundSpanMeters": 70,
+  "description": "瘦西湖莲花埂上的五亭桥，五座黄琉璃瓦亭分列桥身，桥券跨水相连。",
+  "type": "town-garden",
+  "tier": "regional",
+  "visualSource": "https://www.jsrd.gov.cn/qwfb/d_sjfg/202512/t20251229_1191953.shtml",
+  "siteNotes": "取 OpenStreetMap 五亭桥主体中心，方位按湖中步桥南北两端校正。表现清乾隆年间所建五亭桥的现状。正面取湖上观赏侧，保留主跨和侧跨的镂空。"
+}

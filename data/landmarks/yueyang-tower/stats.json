@@ -1,0 +1,28 @@
+{
+  "id": "yueyang-tower",
+  "name": "岳阳楼",
+  "file": "yueyang-tower.glb",
+  "version": "national-v1",
+  "source": "https://www.hunan.gov.cn/hnszf/c101480/202108/t20210830_20411802.html",
+  "sourceCopy": "data/landmarks/yueyang-tower/source.blend",
+  "sourceSha256": "c71d737034c21f2c9fafe3d5306aa55933e2002ef5b41009f656cbfc6d9fcfd5",
+  "triangles": 4976,
+  "bytes": 622248,
+  "sha256": "77d0d26829e093a583052f32bbaa52905df4eec5c6af53953face7ab5f02c2d1",
+  "materials": 11,
+  "embeddedImages": 11,
+  "bounds": {
+    "min": [
+      -4.625,
+      0,
+      -3.6500000953674316
+    ],
+    "max": [
+      4.625,
+      5.96999979019165,
+      3.6500000953674316
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Z-up editable master; local XY origin over geographic anchor",
+  "sourceTriangles": 4976
+}

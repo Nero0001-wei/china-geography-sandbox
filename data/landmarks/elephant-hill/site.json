@@ -1,0 +1,29 @@
+{
+  "id": "elephant-hill",
+  "name": "桂林象鼻山",
+  "province": "广西壮族自治区",
+  "city": "桂林市",
+  "anchor": [
+    110.292042,
+    25.2703267
+  ],
+  "anchorSource": "https://www.openstreetmap.org/node/9482724876",
+  "frontBearing": 20,
+  "groundSpanMeters": 70,
+  "description": "象鼻与山体围合出透空的水月洞，山顶有小砖塔。",
+  "driveQuery": "象山景区1号门停车场",
+  "transitQuery": "象山公园公交站",
+  "anchorCrs": "WGS84",
+  "reference": "https://m.glljsh.com/",
+  "versionNotes": "取现状石灰岩山体、水月洞与山顶普贤塔；选择江北侧观景方向。",
+  "osmFeature": "水月洞",
+  "amapPoi": "B0FFG2AQ25",
+  "gcj02Feature": [
+    110.296678,
+    25.267519
+  ],
+  "crossCheck": "https://ditu.amap.com/place/B0FFG2AQ25",
+  "crossCheckMeters": 5.5,
+  "type": "nature",
+  "tier": "national"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hunan-museum",
+  "name": "湖南省博物馆",
+  "file": "hunan-museum.glb",
+  "version": "national-v1",
+  "source": "https://www.hunan.gov.cn/hnszf/jxxx/hslv/c101474/202108/t20210827_20401957.html",
+  "sourceCopy": "data/landmarks/hunan-museum/source.blend",
+  "sourceSha256": "34bf58d388157c9d658861220e5a9f690058a3d1d12ab0105aab9c8e97961650",
+  "triangles": 3622,
+  "bytes": 374216,
+  "sha256": "e8c79c98dfd6c0259cf493000665c015be01fc896669de52800ed1ceee0818fb",
+  "materials": 22,
+  "embeddedImages": 17,
+  "sourceTriangles": 3622,
+  "bounds": {
+    "min": [
+      -5.699999809265137,
+      0,
+      -4.300000190734863
+    ],
+    "max": [
+      5.699999809265137,
+      3.3399999141693115,
+      4.300000190734863
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "erhai",
+  "name": "大理洱海·小普陀",
+  "file": "erhai.glb",
+  "version": "national-v1",
+  "source": "https://www.yndali.gov.cn/dlsrmzf/c106753/2018963738441322496/wUplLX2u.pdf",
+  "sourceCopy": "data/landmarks/erhai/source.blend",
+  "sourceSha256": "ede9010cce8c6d2ae67a314b3ea112a4b8136a56021d2d8a86a4332663efd4d2",
+  "triangles": 7690,
+  "bytes": 834680,
+  "sha256": "8632cef7d810821849f67a84511cfdb442a36a101882250d51b2c454b0a22690",
+  "materials": 24,
+  "embeddedImages": 6,
+  "bounds": {
+    "min": [
+      -3.075000047683716,
+      0,
+      -2.125
+    ],
+    "max": [
+      3.075000047683716,
+      1.6609619855880737,
+      2.125
+    ]
+  },
+  "coordinateConvention": "glTF Y-up; +Z front; Blender Z-up; underside at zero",
+  "sourceTriangles": 9604
+}

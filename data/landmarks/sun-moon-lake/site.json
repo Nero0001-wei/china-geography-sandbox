@@ -1,0 +1,22 @@
+{
+  "id": "sun-moon-lake",
+  "name": "日月潭",
+  "province": "台湾",
+  "city": "南投县",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    120.9021197,
+    23.8520452
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/2341498877",
+  "anchorFeature": "向山游客中心陆侧",
+  "anchorMethod": "OpenStreetMap “向山游客中心陆侧”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 238,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 600,
+  "description": "从向山一带看环绕拉鲁岛的湖湾、林岸和近岸码头。",
+  "visualSource": "https://www.sunmoonlake.gov.tw/zh-TW/",
+  "period": "现状景观局部的微缩示意"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "nanjing-massacre-memorial",
+  "name": "侵华日军南京大屠杀遇难同胞纪念馆",
+  "file": "nanjing-massacre-memorial.glb",
+  "version": "national-v1",
+  "source": "https://www.19371213.com.cn/information/news/201807/t20180712_2232683.html",
+  "sourceCopy": "data/landmarks/nanjing-massacre-memorial/source.blend",
+  "sourceSha256": "56f74a86ae978b4a3e03e11d668a0cb1f610523f67731471a9857a8ef26187e1",
+  "triangles": 1948,
+  "bytes": 263728,
+  "sha256": "3ab40be6c044fc355f718c47f4ff8e95255fff5724ce89349d16a17d7fc7140a",
+  "materials": 17,
+  "embeddedImages": 13,
+  "sourceTriangles": 1948,
+  "bounds": {
+    "min": [
+      -5.5,
+      0,
+      -4.300000190734863
+    ],
+    "max": [
+      5.5,
+      2.3499999046325684,
+      4.300000190734863
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

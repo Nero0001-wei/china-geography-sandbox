@@ -1,0 +1,22 @@
+{
+  "id": "tianyahaijiao",
+  "name": "天涯海角",
+  "province": "海南省",
+  "city": "三亚市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    109.3450447,
+    18.2926242
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/2272220538",
+  "anchorFeature": "天涯海角岸边题刻石组",
+  "anchorMethod": "OpenStreetMap “天涯海角岸边题刻石组”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 161,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 130,
+  "description": "南海岸线上的花岗岩题刻石组和浅色沙滩。",
+  "visualSource": "https://ty.sanya.gov.cn/tyqsite/jrty/202509/dd81add782f34a9d90524794f94f543e.shtml",
+  "period": "现状景观局部的微缩示意"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "hubei-museum",
+  "name": "湖北省博物馆",
+  "file": "hubei-museum.glb",
+  "version": "national-v1",
+  "source": "https://wlt.hubei.gov.cn/bmdt/xydt/202111/t20211112_3859467.shtml",
+  "sourceCopy": "data/landmarks/hubei-museum/source.blend",
+  "sourceSha256": "b557826a6691c03bbe1b899dc6c5781f33e80f699c008968ffb4a33e3c692be6",
+  "triangles": 4898,
+  "bytes": 440996,
+  "sha256": "30d15857a51066de1bad5d590df40a0a286110368b92d1bb2e432d255beaa6ed",
+  "materials": 19,
+  "embeddedImages": 15,
+  "sourceTriangles": 4898,
+  "bounds": {
+    "min": [
+      -5.650000095367432,
+      0,
+      -4.630000114440918
+    ],
+    "max": [
+      5.650000095367432,
+      3.4219610691070557,
+      4.630000114440918
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "oriental-pearl",
+  "name": "东方明珠",
+  "file": "oriental-pearl.glb",
+  "version": "national-v1",
+  "source": "https://www.otis.com/zh/cn/our-company/global-projects/project-showcase/oriental-pearl-tower",
+  "sourceCopy": "data/landmarks/oriental-pearl/source.blend",
+  "sourceSha256": "1a541310127197d1c82397bf22a214eb6e0c88a93456427acbfd27dd4e098042",
+  "triangles": 5850,
+  "bytes": 464548,
+  "sha256": "d3ef5055db998b12053bfd200821e204bc8fabb68e8bbf50a822b25a9a95f905",
+  "materials": 9,
+  "embeddedImages": 7,
+  "sourceTriangles": 5850,
+  "bounds": {
+    "min": [
+      -2.6500000953674316,
+      0,
+      -2.6500000953674316
+    ],
+    "max": [
+      2.6500000953674316,
+      9.050000190734863,
+      2.6500000953674316
+    ]
+  },
+  "coordinateConvention": "glTF Y-up and +Z front; Blender Z-up and -Y front; ground at Y=0"
+}

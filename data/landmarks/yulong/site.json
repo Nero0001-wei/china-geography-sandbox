@@ -1,0 +1,22 @@
+{
+  "id": "yulong",
+  "name": "玉龙雪山",
+  "province": "云南省",
+  "city": "丽江市",
+  "type": "nature",
+  "tier": "national",
+  "anchor": [
+    100.1767026,
+    27.0984141
+  ],
+  "anchorCrs": "WGS84",
+  "anchorSource": "https://www.openstreetmap.org/node/298460509",
+  "anchorFeature": "主峰扇子陡",
+  "anchorMethod": "OpenStreetMap “主峰扇子陡”地物，采用 WGS84 标注点；面要素采用检索API返回的代表点。",
+  "frontBearing": 132,
+  "frontNote": "取观景面或河流下游一侧的大致地理方位，以正北为 0° 顺时针计。",
+  "groundSpanMeters": 850,
+  "description": "保留扇子陡黑灰峭壁、浅蓝冰川和成带的白雪。",
+  "visualSource": "https://lcj.yn.gov.cn/special/2025/0507/6576.html",
+  "period": "现状景观局部的微缩示意"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "mogao",
+  "name": "敦煌莫高窟",
+  "province": "甘肃省",
+  "city": "酒泉市",
+  "anchorSource": "https://www.openstreetmap.org/way/1308425685",
+  "frontBearing": 86,
+  "groundSpanMeters": 38,
+  "description": "九层楼贴在砾岩崖壁上，层层挑檐与两侧较小洞窟表现崖面尺度。",
+  "driveQuery": "莫高窟数字展示中心停车场",
+  "transitQuery": "莫高窟数字展示中心",
+  "visualSource": "https://www.dha.ac.cn/info/1425/3648.htm",
+  "anchorMethod": "OpenStreetMap 九层楼主体建筑轮廓的面积质心。",
+  "frontNote": "朝九层楼广场（约94.8044774,40.0373285），取向东略偏北。",
+  "period": "第96窟外现状九层木构窟檐",
+  "anchor": [
+    94.8037828,
+    40.0372951
+  ],
+  "anchorCrs": "WGS84",
+  "type": "heritage",
+  "tier": "national"
+}

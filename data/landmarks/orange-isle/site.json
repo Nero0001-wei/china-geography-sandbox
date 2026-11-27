@@ -1,0 +1,19 @@
+{
+  "id": "orange-isle",
+  "name": "长沙橘子洲",
+  "province": "湖南省",
+  "city": "长沙市",
+  "anchor": [
+    112.9548386,
+    28.1710769
+  ],
+  "anchorSource": "https://ditu.amap.com/place/B02DB0W8QW",
+  "anchorCrs": "WGS84",
+  "frontBearing": 140,
+  "groundSpanMeters": 130,
+  "description": "橘子洲南端的青年毛泽东艺术雕塑由花岗岩砌筑，长发轮廓远看仍可辨识。",
+  "type": "urban",
+  "tier": "regional",
+  "visualSource": "https://www.hunan.gov.cn/hnszf/jxxx/hslv/c101474/202108/t20210827_20403826.html",
+  "siteNotes": "主体附近的高德 POI（GCJ-02 112.960324, 28.167602）通过项目迭代转换为 WGS84。表现 2009 年建成的洲头雕塑与湘江水岸，近似一段洲尖地形。"
+}
